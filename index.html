@@ -9,7 +9,7 @@
 </header>
 
 <main>
-  <img src="sn.jpg">
+  <img class="hero" src="sn.jpg">
 </main>
 
 <footer>
@@ -39,7 +39,7 @@
     overflow: hidden;
     color: #d1d1d1;
     height: 30px;
-    padding: 30px;
+    padding: 10px;
   }
     
   header ul {
@@ -53,12 +53,23 @@
   main {
     justify-content: center;  
     align-items: flex-start;
-    height: calc(100vh - 60px);
+    height: calc(100vh - 100px);
     padding: 20px;
+  }
+
+  .hero {
+    border: 10px solid black;
+  }
+
+  @media (max-width: 1000px) {
+    .hero {
+      width: 98%;
+    }
   }
 
   footer { 
     height: 30px; 
+    margin-top: 30px;
   }
   
   footer ul {
