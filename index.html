@@ -17,7 +17,7 @@
 
 <main>
   <img class="hero" src="sn.jpg">
-  <h2>What is Sarvodaya?</h2>
+  <h1>What is Sarvodaya?</h1>
   <p>Sarvodaya means the "Welfare of All", the "Good of All" and describes the vision of a non-violent social order, based on spiritual principles, as proposed and strived for by Gandhi, Vinoba, Lanza Del Vasto and other non-violent revolutionaries of the last century. While it has originated in India, the philosophy of Sarvodaya has been heavily influenced by other streams of thought as well, such as by Ruskin, Thoreau and Tolstoj. As such it also has much in commom with non-violent anarchist ideas as proposed by Pjotr Kropotkin and Gustav Landauer. The means by which Sarvodaya is meant to be achieved is via "Satyagraha", the non-violent fight, concretely expressed in form of the "Constructive Programme". Essential parts of the Constructive Programme (in so far as they are relevant to the whole world and not just in regard to the more country-specific areas it contains, are:
   <ul>
     <li>Basic Non-Violent Education focused on craft, practice and the development of independence in regard to self-rule, self-sufficiency and self-thinking.</li>  
@@ -80,13 +80,18 @@
     justify-content: center;  
     align-items: flex-start;
     flex-direction: column;
-    height: calc(100vh - 100px);
+    min-height: calc(100vh - 100px);
     padding: 20px;
   }
   @media (min-width: 1000px) {
     main {
       max-width: 900px;
     }
+  }
+
+  main h1 {
+    padding-top: 1em;
+    padding-bottom: 0.5em;
   }
 
   .hero {
