@@ -115,8 +115,8 @@
   header {
     position: fixed;
     top: 0;
-
-    background: var(--bg-lightest);
+    background: var(--bg-dark);
+    color: var(--bg-lightest);
     overflow: hidden;
     /*height: 30px; */
     width: 100%;
@@ -124,6 +124,12 @@
     border: 1px solid black;
     z-index: 10;
   }
+    @media (min-width: 1000px) {
+      header {
+        background: var(--bg-lightest);
+        color: black;
+      }
+    }  
 
   nav {
     display: flex;
