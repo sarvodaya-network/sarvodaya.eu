@@ -54,6 +54,10 @@
     <p>More coming soon.</p> 
   </section>
       <!--We try to facilitate non-violent organisation in the regional level, international exchange of ideas and mutual aid. Our focus lies on serving the "last" first, but in the globalised society of today, our responsibility can no longer be limited to a specific country, because our style of living, our everyday decisions are affecting people on the other side of the earth too. We must not only focus on the help of those at the bottom of society, we must also focus on climate justice, we must promote self--->
+  <section class="gallery">
+    <img src="assets/vinoba/vinoba-dharma.jpg">
+    <img src="assets/vinoba/vinoba-portrait.jpg">
+  </section>
   
 </main>
 
@@ -142,7 +146,7 @@
     header ul:nth-of-type(1) li p {
     /* background: #151515;
       color: #ada491; */
-      margin-top: -4px;
+      margin-top: -3px;
       padding: 10px 20px;
     }
 
@@ -175,7 +179,6 @@
       }
     }
 
-
   .intro {
     display: flex;
     flex-direction: column;
@@ -186,7 +189,6 @@
         flex-direction: row;
       }
     }
-
 
   .intro p {
     line-height: 1.6;
@@ -219,9 +221,19 @@
         padding-right: 20px;
         padding-bottom: 50px;
       }
-
     }
 
+  .gallery {
+    display: flex;
+    flex-wrap: nowrap;
+    height: 500px;
+    overflow-x: scroll;
+    gap: 10px;
+  }
+    .gallery img {
+      height: 100%;
+    }
+  
   .about {
     border-top: 1px solid black;
     margin-top: -1px;
