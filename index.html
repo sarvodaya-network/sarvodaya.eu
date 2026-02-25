@@ -224,6 +224,7 @@
     }
 
   .gallery {
+    width: 100%;
     display: flex;
     flex-wrap: nowrap;
     height: 500px;
@@ -233,6 +234,11 @@
     .gallery img {
       height: 100%;
     }
+  @media (min-width: 1000px) {
+      .gallery {
+        flex-wrap: wrap;
+      }
+  }
   
   .about {
     border-top: 1px solid black;
