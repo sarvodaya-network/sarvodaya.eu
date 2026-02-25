@@ -271,8 +271,9 @@
   max-width: 100%;
   gap: 25px;
   margin-top: 30px;
-  background: var(--bg-light);
+  background: var(--bg-lightest);
   padding: 30px 15px;
+  border-bottom: 1px solid black;
 }
   .gallery figure {
     height: 520px;
@@ -282,6 +283,7 @@
   }
     .gallery img {
       height: 100%;
+      border: 1px solid black;
       /*object-fit: contain;*/
     }
     .gallery figcaption {
@@ -290,15 +292,16 @@
       border: 1px solid black;
       font-size: 12px;
       padding: 10px;
-      margin-top: -5px;
       position: absolute;
       bottom: 0;
+      background: var(--bg-lightest);
     } 
   @media (min-width: 1000px) {
     .gallery {
       flex-wrap: wrap;
       background: none;
       padding: 0;
+      border-bottom: none;
     }
   }
   
