@@ -10,7 +10,8 @@
     <ul>
       <li>
         <a href="/">
-          <p>s·η·</p>
+          <!--<p>s·η·</p>-->
+          <p>sη</p>
         </a>
       </li>
     </ul>
@@ -23,10 +24,10 @@
 
 <main>
  
-  <section class="gallery">
+  <section class="intro">
     <img class="hero" src="assets/sn.jpg">
     
-    <section class="intro">
+    <section class="intro-text">
       <h1>Sarvodaya</h1>
 
       <p>Sarvodaya is the vision of a non-violent social order, based on spiritual principles, in which social liberation is strived for by spiritual training and spiritual liberation is strived for by social service. The non-violent revolution starts with yourself. Freedom requires self-responsibility. Everything depends on <em>you</em>.</p>
@@ -168,44 +169,44 @@
     }
 
 
-  .gallery {
+  .intro {
     display: flex;
     flex-direction: column;
     width: 100%;
   }
     @media (min-width: 1200px) {
-      .gallery {
+      .intro {
         flex-direction: row;
       }
     }
 
 
-  .gallery p {
+  .intro p {
     line-height: 1.6;
     font-size: 24px;
   }
       @media (min-width: 1000px) {
-      .gallery p {
+      .intro p {
         font-size: 20px;
       }
     }
 
-  .intro h1 {
+  .intro-text h1 {
     font-size: 50px;
     margin-bottom: 20px;
     font-weight: normal;
     letter-spacing: 1px;
   }
 
-  main .gallery img {
+  main .intro img {
     width: 100%;
   }
 
-  .intro {
+  .intro-text {
     padding: 20px 20px 100px;
   }
     @media (min-width: 1000px) {
-      .intro {
+      .intro-text {
         padding-top: 50px;
         padding-left: 50px;
         padding-right: 20px;
