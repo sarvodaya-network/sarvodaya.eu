@@ -93,9 +93,9 @@
   }
 
   :root {
-    --bg-lightest: #c9c2af; /* ahimsa */
+    --bg-lightest: #c9c2af; /* ahimsa/header */
     --bg-lighter: #c5baa5; /* main bg */
-    --bg-light: #ada491; /* header/footer */
+    --bg-light: #ada491; /* footer/gallery */
     --bg-dark: #151515; /* ahimsa dark */
   }
 
@@ -116,7 +116,7 @@
     position: fixed;
     top: 0;
 
-    background: var(--bg-light);
+    background: var(--bg-lightest);
     overflow: hidden;
     /*height: 30px; */
     width: 100%;
@@ -250,10 +250,10 @@
     overflow-x: auto;
     /*white-space: nowrap;*/
     max-width: 100%;
-    gap: 30px;
+    gap: 20px;
     margin-top: 50px;
     background: var(--bg-light);
-    padding: 30px;
+    padding: 20px;
   }
     .gallery img {
       height: 100%;
