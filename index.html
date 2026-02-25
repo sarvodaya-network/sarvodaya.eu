@@ -86,7 +86,7 @@
     <!-- <p>non-violence is the key opening the door to lasting change.</p> --> 
   </section>
   <section class="right">
-    <p>Man die, but ideas don't. Memory may fade, but the truth of an idea prevails.</p>
+    <p>Man die, ideas survive. The truth of an idea will inevitably transform everyone who understands it. We try to understand what's true.</p>
     <ul>
       <li>© 2026 Sarvodaya Network</li>
       <ul>
@@ -142,6 +142,7 @@
     font-size: 29px;
     border: 1px solid black;
     z-index: 10;
+    height: 55px;
   }
 
   nav {
@@ -209,7 +210,7 @@
     align-items: center;
     min-height: calc(100vh - 100px);
     line-height: 1.6;
-    margin-top: 56px;
+    margin-top: 55px;
     padding: 0;
   }
 
@@ -224,6 +225,7 @@
   .intro {
     display: flex;
     flex-direction: column;
+    align-items: center;
     width: 100%;
   }
     @media (min-width: 1200px) {
@@ -236,11 +238,6 @@
     line-height: 1.6;
     font-size: 24px;
   }
-      @media (min-width: 1000px) {
-      .intro p {
-        font-size: 20px;
-      }
-    }
 
   .intro-text h1 {
     font-size: 50px;
@@ -257,10 +254,8 @@
   }
     @media (min-width: 1000px) {
       .intro-text {
-        padding-top: 50px;
-        padding-left: 50px;
-        padding-right: 20px;
-        padding-bottom: 50px;
+        padding: 50px;
+        max-width: 750px;
       }
       .intro-text h1 {
         margin-bottom: 20px;
@@ -277,7 +272,6 @@
   margin-top: 30px;
   background: var(--bg-light);
   padding: 50px 20px;
-  border-bottom: 1px solid black;
 }
   .gallery figure {
     height: 520px;
@@ -287,26 +281,28 @@
   }
     .gallery img {
       height: 100%;
-      border: 1px solid black;
+      /* border: 1px solid black; */
       /*object-fit: contain;*/
     }
     .gallery figcaption {
       width: 100%;
      /* height: min-content; */
-      border: 1px solid black;
-      font-size: 12px;
+      /*border: 1px solid black; */
+      font-size: 13px;
       padding: 10px;
       position: absolute;
+      color: white;
       bottom: 0;
-      background: var(--bg-light);
-      filter: opacity(0.9);
+      background: var(--bg-dark);
+      filter: opacity(0.8);
     } 
   @media (min-width: 1000px) {
     .gallery {
       flex-wrap: wrap;
       background: none;
       padding: 0;
-      border-bottom: none;
+      justify-content: center;
+      overflow: hidden;
     }
   }
   
@@ -378,7 +374,7 @@
     padding: 50px 20px;
   }
     @media (min-width: 1000px) {
-      footer {
+      footer .right {
         padding: 50px;
       }
     }
@@ -445,7 +441,7 @@
 
   footer .left img {
     width: 80%;
-    margin: 50px 0;
+    /*margin: 50px 0;*/
   } 
   
 </style>
