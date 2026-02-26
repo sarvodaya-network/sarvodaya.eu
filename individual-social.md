@@ -13,6 +13,13 @@ It is an evidental truth, that only individuals have power. And individual decis
 Some say that by focusing on the individual, one puts the responsibility on the wrong people, distracting from the broader issues and systems, even putting pressure on the victims, instead of focusing on those who are actually responsible for the problem. 
 But the opposite is true. By focusing on the individual, by showing how and in which way everyone is responsible and what *everyone* can do about it, we *empower* the individual.
 
+Seeing the cause of social issues in systems is wrong in the same way as seeing the problem of craving in the objects of desire. The objects of desire are not the problem, the craving towards them is, the giving-in to the pressure of desire put onto us through our mind, our body, our senses, is at the root of the problem. Just as individual unwholesome intentions, decisions and acts are at the root of the problem of individuals, individual intentions, decisions and acts are at the root of all social problems. 
+
+Here too there are pressures. Governments, corporations, the advertisement industry, manipulative algorithms and all of these other demonic aspects of the "machine" are pressuring us to follow their lead, to act as they wish, to serve their unwholesome goals like servants in an unholy ritual. And yet, they are not the root of the problem. 
+
+The problem is that we do not recognise this, that we are not aware of it, that we give in to it, that we do not have the strength and do not help each other to overcome these things that are hindering us. And if we depend on things provided by those, so that we are forced to support their violent practices, the solution consists in building structures on our own so to overcome this dependence, so that we do not have to support them any longer. 
+
+
 ---
 
 For instance: Imagine there is a company who sells water and all kinds of food and it commits crimes and is driven by terrible practices, harming people, harming the environment for profit. Now, are they responsible for that? The individuals in power at this company? Of course they are. But everyone working for them, everyone following their orders and everyone buying their products are responsible just as well. 
