@@ -25,6 +25,11 @@ Gandhi summarised all of this in a simple sentence:
 
 This maxime is as simple as it is binding and true. It is not as much of a moral statement but a factual statement. It is not "you should do that", but the thing is that if you want to change the world it is the *only* possible way. 
 
+Just as you ought to *be* the change if outside change is supposed to occur, so you *are* the reason for the world to be as it is. This is not shifting responsibility away or distracting in any way, but is truly an empowering insight.  
+
+And it is not less true or less powerful, if it is devastating. I am responsible for all the violence in the world. I am not responsible for all of it alone, but I am responsible to a degree. I have to become aware of this resonsibility, have to accept and take upon me that responsibility like Jesus carrying the cross. Everyone has to do so. But I am responsible for *me* first and foremost. 
+
+
 
 ---
 
