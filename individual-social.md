@@ -1,4 +1,4 @@
-# Relation between the individual training and social service
+# Individual Responsibility
 
 Why has everything to start with ourselves? We do not deny that there are systematic problems. There are problems with bureaucracy, with economical decisions on the political level, with the distribution of wealth, with systematic abuse of power, short, with the system. 
 
