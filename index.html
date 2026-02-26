@@ -152,15 +152,17 @@
     position: fixed;
     top: 0;
     background: var(--bg-lighter);
-    
-    /*height: 30px; */
     width: 100%;
-    font-size: 29px;
+    font-size: 27px;
     border: 1px solid black;
     z-index: 10;
     height: 55px;
-    /*box-shadow: 1px 1px 20px 1px;*/
   }
+    @media (min-width: 1000px) {
+      header {
+        font-size: 29px;
+      }
+    }
 
   nav {
     display: flex;
