@@ -19,6 +19,12 @@ Here too there are pressures. Governments, corporations, the advertisement indus
 
 The problem is that we do not recognise this, that we are not aware of it, that we give in to it, that we do not have the strength and do not help each other to overcome these things that are hindering us. And if we depend on things provided by those, so that we are forced to support their violent practices, the solution consists in building structures on our own so to overcome this dependence, so that we do not have to support them any longer. 
 
+Gandhi summarised all of this in a simple sentence:
+
+> "Be yourself the change you want to see in the world." 
+
+This maxime is as simple as it is binding and true. It is not as much of a moral statement but a factual statement. It is not "you should do that", but the thing is that if you want to change the world it is the *only* possible way. 
+
 
 ---
 
