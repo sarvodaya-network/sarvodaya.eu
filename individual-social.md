@@ -1,5 +1,7 @@
 # Individual Responsibility
 
+> "Everyone thinks of changing the world, but no one thinks of changing himself."
+
 Why has everything to start with ourselves? We do not deny that there are systematic problems. There are problems with bureaucracy, with economical decisions on the political level, with the distribution of wealth, with systematic abuse of power, short, with the system. 
 
 We recognise the faults in the system and we want to overcome this system, but all of this only matters on a relative level of understanding. Systems are not real, systems do nothing. They do not act nor prevent any act, they are not in themselves injust nor just. Individuals are. And only individuals act.
