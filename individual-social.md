@@ -1,5 +1,16 @@
 # Relation between the individual training and social service
 
+Why has everything to start with ourselves? We do not deny that there are problems with bureaucracy, with economical decisions on the political level, with the distribution of wealth, with systematic abuse of power, short, with the system. We recognise the fault in the system and we want to overcome this system, but all of this only matters on a relative level of understanding. Systems are not real, systems do nothing. They do not act nor prevent any act, they are not in themselves injust nor just. Individuals are. And only individuals act.
+
+Individuals have invented the existing systems, are running these systems, accepting the systems, maintaining the systems, perpetuating the systems, but the systems in themselves are absolutely powerless.
+
+It is an evidental truth, that only individuals have power. Individual decisions are at the basis of every system. 
+
+
+
+
+---
+
 There are two fundamental aspects to the work towards non-violent revolution or social liberation on the basis of the inner, individual preparation and training to liberation; aspects that find expression and have to be put into practice both in the individual and the social domain:  
 
 (1) Constructive Work / Non-Violent Assistance  
