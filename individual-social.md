@@ -12,3 +12,9 @@ The constructive work is essential, but doing the right thing and building up wh
 The same applies to the inner work. We endure the craving in peace, we do not support the craving, the greed, the aversion and delusion, make ourselves aware of it and become responsible to the extent of our understanding. Doing the right things starts with stopping to do the wrong things. On the basis of us making ourselves free from these hindrances and dissolving these issues that are at the root of our wrongdoings that perpetuate violence in the world (we are responsible for it), we can develop wholesome qualities and practices. In fact they don't have to be developed, but arise on their own in absence of the hindrances, just as the sun will immediately shed light on something when we just take away what is covering it. 
 
 There is a reason why all of the precepts of the Buddha are formulated in the negative way, not what ought to be done, but what ought not to be done. It is because avoiding the unwholesome gives rise to the wholesome, it is because giving up what is bad is the pre-requisite for the establishment of the good. 
+
+
+| Individual | Social |
+|------------|--------|
+| Making yourself aware of your intentions, recognising the very roots of your acts and stop doing the unwholesome by not giving in to the pressure to act out of them. Stop doing the wrong thing, uproot the hindrances, to give rise to the right. | Make yourself and others aware of the fundamental reasons of the social problems based on what you recognised in the individual training, since the same principles apply: All social problems are rooted in and perpetuated by individuals. Uproot social hindrances that are just as well grounded in individual decisions to not support anti-destructive practices, giving rise to the constructive work. |
+
