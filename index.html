@@ -14,8 +14,8 @@
     <ul>
       <li>
         <a href="/">
-          <!--<p>s·η·</p>-->
-          <p>sη</p> <!-- later Menu button -->
+          <!-- s·η· -->
+          <img src="assets/sn-black.png"> <!-- later Menu button? -->
         </a>
       </li>
     </ul>
@@ -152,19 +152,21 @@
     position: fixed;
     top: 0;
     background: var(--bg-lighter);
-    overflow: hidden;
+    
     /*height: 30px; */
     width: 100%;
     font-size: 29px;
     border: 1px solid black;
     z-index: 10;
     height: 55px;
+    /*box-shadow: 1px 1px 20px 1px;*/
   }
 
   nav {
     display: flex;
     justify-content: space-between;
     flex-wrap: nowrap;
+    align-items: flex-start;
   }
 
   header h1 {
@@ -178,21 +180,37 @@
   }
 
   header ul:nth-of-type(1) li {
-    height: 100%;
+    height: 55px;
    /* background: #151515;
     color: #ada491; */
   }
     @media (min-width: 1000px) {
       header ul:nth-of-type(1) li {
-        border-right: 1px solid black;
+       /* border-right: 1px solid black; */
       }   
     }  
   
+    /*
     header ul:nth-of-type(1) li p {
-    /* background: #151515;
-      color: #ada491; */
       margin-top: -3px;
       padding: 10px 20px;
+    }
+    */
+
+    header ul:nth-of-type(1) li img {
+      max-height: 77px;
+      padding: 9px 20px;
+      background: var(--bg-lighter);
+      border: 1px solid black;
+      margin-left: -1px;
+      margin-top: -1px;
+    }
+
+    header ul:nth-of-type(1) li span {
+      height: 55px;
+      background: black;
+      min-width: 2px;
+      margin-left: -1px;
     }
 
   header ul:nth-of-type(2) li {
@@ -457,11 +475,16 @@
 
   footer .left img {
     width: 80%;
-    padding: padding: 50px 0;
+    padding: 50px 0;
   } 
 
   .desaturate {
     filter: saturate(0);
+  }
+
+  ::selection {
+    background: var(--bg-dark);
+    color: var(--bg-light);
   }
 
   /* Todo: Add bg colors as extra classes */ 
