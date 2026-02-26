@@ -8,6 +8,17 @@ Individuals have invented the existing systems, are running these systems, accep
 
 It is an evidental truth, that only individuals have power. Individual decisions are at the basis of every system. 
 
+Some say that by focusing on the individual, one puts the responsibility on the wrong people, distracting from the broader issues and systems, even putting pressure on the victims, instead of focusing on those who are actually responsible for the problem. 
+But the opposite is true. By focusing on the individual, by showing how and in which way everyone is responsible and what can be done, we *empower* the individual.
+
+For instance: Imagine there is a company who sells water and all kinds of food and it commits crimes and is driven by terrible practices, harming people, harming the environment for profit. Now, are they responsible for that? The individuals in power at this company? Of course they are. But everyone working for them, everyone following their orders and everyone buying their products are responsible just as well. 
+
+It is a simple fact that large scale harm can only be done collectively and so there is always a collective responsibility, and collective responsibility means that there are many individuals involved that are all responsible for the total outcome. Can they change the problem all on their own? No. But they can do the most important thing: Removing their own contribution from it, taking responsibility for their own small part in it. If everyone would do that or even just a substantial amount of individuals, the whole system collapses.  
+And those who are considered to be the most powerful individuals in that process and to be the most responsible, will then in fact be revealed to be the most helpless and powerless ones, unable to do their harm and make any profit on their own. For all of their abuse, all of their crime all of their greed-driven striving for profit without conscience, they depend on the support of inmumerable other individuals putting into practice what they wish. Denying them this wish, refusing to follow their orders and not caring about the measures they take to force you doing so indirectly (through your material needs) or directly (e.g. through open violence), enduring the pressure of doing so, enduring the consequences by following what one considers to be right no matter what, this is all it takes.
+
+It is not easy, but it is pretty evidently the necessary and right thing to do. Who would deny that?
+
+
 ---
 
 Let us consider a very small system to get that point. There might be some form of "systematical" abuse within a family. Someone may even have written rules about it and managed to convince the majority of the family to accept these rules. They managed to normalise the abuse and made it very hard to get out of this system, through punishment, through psychological and material pressure (no "love", no attention, no food etc.)
