@@ -6,7 +6,11 @@ Individuals have invented the existing systems, are running these systems, accep
 
 It is an evidental truth, that only individuals have power. Individual decisions are at the basis of every system. 
 
+---
 
+Let us consider a very small system to get that point. There might be some form of "systematical" abuse within a family. Someone may even have written rules about it and managed to convince the majority of the family to accept these rules. They managed to normalise the abuse and made it very hard to get out of this system, through punishment, through psychological and material pressure (no "love", no attention, no food etc.)
+
+All of that is part of the system. But is the system doing anything? No. Individuals apply these rules, accept these rules, ...
 
 
 ---
