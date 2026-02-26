@@ -1,0 +1,14 @@
+# Relation between the individual training and social service
+
+There are two fundamental aspects to the work towards non-violent revolution or social liberation on the basis of the inner, individual preparation and training to liberation; aspects that find expression and have to be put into practice both in the individual and the social domain:  
+
+(1) Constructive Work / Non-Violent Assistance  
+(2) Anti-Destructive Work / Non-Violent Resistence  
+
+While with the constructive work we attempt to build up new structures, new orders, establish and develop new practices of non-violent life, the anti-destructive work consists in standing against and not to support whatever is in conflict with non-violence, enduring injustice in peace, making others and ourselves aware of how unwholesome things are and why they are how they are and taking the necessary measures by being responsible to the extent of our understanding. 
+
+The constructive work is essential, but doing the right thing and building up what is good starts with avoiding the bad. Boycott and refusal to support whatever is understood to be wrong are at the root of the practice, are in fact the beginning of the practice. 
+
+The same applies to the inner work. We endure the craving in peace, we do not support the craving, the greed, the aversion and delusion, make ourselves aware of it and become responsible to the extent of our understanding. Doing the right things starts with stopping to do the wrong things. On the basis of us making ourselves free from these hindrances and dissolving these issues that are at the root of our wrongdoings that perpetuate violence in the world (we are responsible for it), we can develop wholesome qualities and practices. In fact they don't have to be developed, but arise on their own in absence of the hindrances, just as the sun will immediately shed light on something when we just take away what is covering it. 
+
+There is a reason why all of the precepts of the Buddha are formulated in the negative way, not what ought to be done, but what ought not to be done. It is because avoiding the unwholesome gives rise to the wholesome, it is because giving up what is bad is the pre-requisite for the establishment of the good. 
