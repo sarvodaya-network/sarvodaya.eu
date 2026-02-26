@@ -1,17 +1,19 @@
 # Individual Responsibility
 
-> "Everyone thinks of changing the world, but no one thinks of changing himself."
+> "Everyone thinks of changing the world, but no one thinks of changing himself." - Leo Tolstoi
 
-Why has everything to start with ourselves? We do not deny that there are systematic problems. There are problems with bureaucracy, with economical decisions on the political level, with the distribution of wealth, with systematic abuse of power, short, with the system. 
+Why has everything to start with ourselves? We do not deny that there are systematic problems. There are problems with bureaucracy, with economical decisions on the political level, with the distribution of wealth, with systematic abuse of power; the system *is* problematic.
 
 We recognise the faults in the system and we want to overcome this system, but all of this only matters on a relative level of understanding. Systems are not real, systems do nothing. They do not act nor prevent any act, they are not in themselves injust nor just. Individuals are. And only individuals act.
 
-Individuals have invented the existing systems, are running these systems, accepting the systems, maintaining the systems, perpetuating the systems, but the systems in themselves are absolutely powerless.
+Individuals have invented the existing systems, are running these systems, accepting the systems, maintaining the systems, perpetuating the systems. The systems are expressions of individual conditions, individual confusion and individual mechanical behaviour reproduced collectively. The systems in themselves are absolutely powerless. 
 
-It is an evidental truth, that only individuals have power. Individual decisions are at the basis of every system. 
+It is an evidental truth, that only individuals have power. And individual decisions are at the basis of every system. 
 
 Some say that by focusing on the individual, one puts the responsibility on the wrong people, distracting from the broader issues and systems, even putting pressure on the victims, instead of focusing on those who are actually responsible for the problem. 
-But the opposite is true. By focusing on the individual, by showing how and in which way everyone is responsible and what can be done, we *empower* the individual.
+But the opposite is true. By focusing on the individual, by showing how and in which way everyone is responsible and what *everyone* can do about it, we *empower* the individual.
+
+---
 
 For instance: Imagine there is a company who sells water and all kinds of food and it commits crimes and is driven by terrible practices, harming people, harming the environment for profit. Now, are they responsible for that? The individuals in power at this company? Of course they are. But everyone working for them, everyone following their orders and everyone buying their products are responsible just as well. 
 
