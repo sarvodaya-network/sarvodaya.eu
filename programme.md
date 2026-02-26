@@ -9,21 +9,6 @@ The programme is put into practice by a free association consisting of independe
 
 ---
 
-There are two fundamental aspects to the outer work towards non-violent revolution (on the basis of the inner, individual preparation and training):  
-(1) Constructive Work / Non-Violent Assistance  
-(2) Anti-Destructive Work / Non-Violent Resistence  
-
-While with the constructive work we attempt to build up new structures, new orders, establish and develop new practices of non-violent life, the anti-destructive work consists in standing against and non supporting whatever is in conflict with non-violence, enduring injustice in peace, making others and ourselves aware of how unwholesome things are and why and taking the necessary measures by being responsible to the extent of our understanding. The constructive work is essential, but doing the right thing and building up what is good, starts with avoiding the bad. Boycott and refusal to support whatever is understood to be wrong are at the root of the practice, are in fact the beginning of the practice. 
-
-The same applies to the inner work. We endure the craving in peace, we do not support the craving, the greed, the aversion and delusion, making ourselves aware of it and becoming responsible to the extent of our understanding. Doing the right things starts with stopping to do the wrong things. On the basis of us making ourselves free from these hindrances and dissolving these issues that are at the root of our wrongdoings that perpetuate violence in the world (we are responsible for it), we can develop wholesome qualities and practices. In fact they don't have to be developed, but arise on their own in absence of the hindrances, just as the sun will immediately shed light on something when we just take away what is covering it. 
-
-There is a reason why all of the precepts of the Buddha are formulated in the negative way, not what ought to be done, but what ought not to be done. It is because avoiding the unwholesome gives rise to the wholesome, it is because giving up what is bad is the pre-requisite for the establishment of the good. 
-
-
----
-
-## Constructive Programme
-
 1. Spiritual liberation as the necessary basis of everything else, as social equality and peace can only be achieved through individual equanimity of the mind and peace within. Training in virtue, sense restraint, sacrifice, dana, tapas etc. 
 2. Nai Talim / New Education through Craft and Agriculture/Gardening / Liberation of Thinking including digital education. 
 3. Economical Liberation by Self-Sufficiency through local collectives, revival of craftsmenship, collective ownership of the means of production, decentralisation and independence in digital infrastructure and communication (fsocial); decentralisation of wealth through trusteeship (Vishvastavritti), non-possession (deliberate poverty), Swadeshi, Khadi etc., overcoming the ownership of land, approaching the housing problem (including local self-build huts and yurts adjusted to local needs), low tech, small high-tech, shared use and repairr with Kanchan-Mukti (liberation from money) as the final step. 
