@@ -15,7 +15,7 @@
 
 ### Economics / De-Growth / Growth Critique
 * [Nachhaltigkeit Wachstum und die Grenzen der Politik, Niko Paech](https://www.youtube.com/watch?v=aU94v0I7oH0)
-* 
+* [Niko Paech: Blick in ein entrümpeltes Leben](https://www.youtube.com/watch?v=XN78GM-K0y8)
 
 
 ## Art 
