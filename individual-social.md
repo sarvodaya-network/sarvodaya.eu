@@ -67,3 +67,18 @@ There is a reason why all of the precepts of the Buddha are formulated in the ne
 |------------|--------|
 | Making yourself aware of your intentions, recognising the very roots of your acts and stop doing the unwholesome by not giving in to the pressure to act out of them. Stop doing the wrong thing, uproot the hindrances, to give rise to the right. | Make yourself and others aware of the fundamental reasons of the social problems based on what you recognised in the individual training, since the same principles apply: All social problems are rooted in and perpetuated by individuals. Uproot social hindrances that are just as well grounded in individual decisions and can be started to be overcome by not supporting destructive practices, not being defined and driven by hindrances, that hinder the arising of actual solutions founded in non-violence; by thereby getting rid of the wrong stuff or also by becoming aware of the current inability to get rid of the wrong stuff due to dependencies, it will give rise to the constructive work required to overcome the dependencies and make liberation possible. |
 
+
+## Of Enduring Inner and Outer Force
+
+A lot of abuse in this world is possible by people getting forced by others to do something that they would prefer not to do or that they wouldn't do if they would be fully aware of how wrong it is. Or they are forced by circumstances, laws, ... But what is the root of the problem?
+
+At the root of the problem for why people are subject of being forced, is that others can pressure them enough. And how can they pressure them? They pressure them by...
+* threatening of revealing anything about them
+* threatening og lying about them
+* threatening or actually committng violence against them
+* etc.
+
+It comes down to this: We are able to be forced because of fear and identification with our body. We want to avoid pain, fear, death. Regimes and individuals abuse these weaknesses to enforce their will. 
+
+In the very same way, we are forced and pressured on an individual basis first and foremost. But people do not regnise it as much, because it happens internally through our senses and our mind. 
+
