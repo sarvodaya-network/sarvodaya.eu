@@ -82,3 +82,7 @@ It comes down to this: We are able to be forced because of fear and identificati
 
 In the very same way, we are forced and pressured on an individual basis first and foremost. But people do not regnise it as much, because it happens internally through our senses and our mind. 
 
+---
+
+> The most efficient action, the most significant testimony to non-violence, is living a life in which there is no violence - showing that such a life is possible, and even not more difficult than a life of gain, nor more unpleasant than a life of pleasure, nor less natural than an 'ordinary' life. - Lanza del Vasto
+
