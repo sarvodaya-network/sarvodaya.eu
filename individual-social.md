@@ -86,3 +86,23 @@ In the very same way, we are forced and pressured on an individual basis first a
 
 > The most efficient action, the most significant testimony to non-violence, is living a life in which there is no violence - showing that such a life is possible, and even not more difficult than a life of gain, nor more unpleasant than a life of pleasure, nor less natural than an 'ordinary' life. - Lanza del Vasto
 
+> You want a better, more fraternal, more just world? Well then, start building it: Who is stopping you? Build it inside yourself and around you, build it with those who want it. Build it small, and it will grow.
+
+---
+
+Within modern, spiritually oriented circles, there is a lack of discipline. They want peace and happiness, but any kind of discipline they see as something negative. Upon this discipline, upon following of rules, the community of the Ark, founded by Lanza, the equivalent of Gandhian Ashrams in the West, has been broken apart.
+
+Why is discipline so important? Violence is committed by often highly disciplined people. Those abusing others economically are highly disciplined too. We stand no chance against those if we haven't any discipline comparable to their degree. 
+
+The proponents of violence in economical affairs are highly trained too; where is the training of the proponents of non-violence today? It is a training that is always necessary, always valuable and that never ends. 
+
+And there is another reason.
+It requires consequence, discipline, strict adherence to principles, to overcome violence. If you want a non-violent order, then you cannot support the violent structures, you have to say "no" first to what is wrong (many things today) before you can say "yes" to what is right.
+
+
+
+
+
+
+
+
