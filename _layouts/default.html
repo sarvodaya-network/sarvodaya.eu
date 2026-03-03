@@ -1,0 +1,87 @@
+{% capture page_content %}
+  {{ content }}
+{% endcapture %}
+
+<!--
+{% capture toc_content %}
+  {% include toc-mobile.html %}
+{% endcapture %}
+-->
+
+<!--
+{% assign toc_placeholder = '--> <!-- TOC_PLACEHOLDER --><!--' %}-->
+
+<!--
+{% capture toc_desktop %}
+  {% if page_content contains toc_placeholder %}
+    <nav class="toc toc-desktop">
+      {% include toc.html html=page_content sanitize=true ordered=true h_min=2 %}
+    </nav>
+  {% endif %}
+{% endcapture %}
+-->
+
+<!-- Replace the placeholder with the TOC include -->
+<!--
+{% assign page_content = page_content | replace: toc_placeholder, toc_content %}
+-->
+
+{% include content-without-style-tag.liquid pageContent=page_content %}
+
+
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width,initial-scale=1">
+        <title>{{site.title}} | {{page.title}}</title>
+        <link rel="stylesheet" href="/styles.css">
+        <link rel="icon" type="image/x-icon" href="/sn.ico" />
+        {% include page-style-tag.liquid pageContent=page_content %}
+    </head>
+    
+    <body>
+
+      <!--
+      <nav class="main-nav">
+        <div class="menu-bar">
+            <input type="checkbox" id="menu-toggle">
+            <label for="menu-toggle">
+                <span class="menu-icon">&#8801;</span>
+                <p class="menu-title">Phoenix Concept</p>
+            </label>
+    
+            <section class="header">
+              <span><a href="https://phoenixthegame.com">/</a>Phoenix.doc</span>
+              <ul>
+                <li><a href="https://github.com/PhoenixTales" target="_blank">Git</a></li>
+                <li><a href="https://phoenixthegame.com/contrib" target="_blank">Contrib</a></li>
+                <li><a href="https://phoenixthegame.com" target="_blank">Main</a></li>
+              </ul>
+            </section>
+        </div>
+    
+        <section class="index">
+          {% include nav.html %}
+        </section>
+      </nav>
+      -->
+
+      {% include header.html %}
+      
+      <main>
+        <section class="article">
+          {{ contentWithoutStyleTag }}
+        </section>
+      </main>
+
+      <!--
+      <div class="dir">
+        <a href="{{page.dir}}">{{page.dir}}</a><span>{{page.name}}</span>
+      </div>
+      -->
+      {% include footer.html %}
+
+     <!-- {{ toc_desktop }} --> 
+    </body>
+</html>
