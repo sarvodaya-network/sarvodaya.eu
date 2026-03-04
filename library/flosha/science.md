@@ -13,11 +13,20 @@ But that does not mean that the means must stay exactly like this for all eterni
 
 What must stay is that the tools are owned by the workers, are as far as possible produced in the village, are owned and driven by the hands of the people as well as the fruit of their labour is owned by them. What must stay is that they do not get dependent and thereby enslaved. But if this can be achieved with modern technology and the help of science also, then this is in accordance with the philosophy.
 
+This means, what we are doing is going back to the medieval ways of production and its tools as the *sound baseline*. Then, by sticking to the underlying principles of independence, guaranteeing the freedom and self-mastery of the craftsmen and the peasant, we can use science to improve our means of production. 
+
+The only problem is that science and technology are now servants of money. Scientists and technologists, because they are paid by the technofeudal lords, are serving these lords and their interests and *not* the interest of the people the slightest. We have to stop this. And the only way to stop this is by radically stopping to cooperate with these lords that are abusing science and technology for their violent purposes.
+
+This means:
+* We must not use social media owned and controlled by them. If for whichever reason we are forced to use it now, then we must use it to turn against itself (e.g. by spreading awareness and information against the platforms on these very platforms).
+* We must not use products owned and controlled by them. If we are forced to use them due to some kind of dependence, we can whenever possible buy *used* products in order to not support them directly. We must always buy these products which guarantee us that we can use them as long as possible and will be able to repair them. The technofeudal lords and barons do not want this, they are both against longevity of their products, which means they are against quality of their products, as well as against the possibility to repair them. This is in itself a crime against common sense morality.
 
 
 
+---
 
-He rightly so asked the questions: What is non-violent education? What is non-violent economy? But he did not seem to ask: What is non-violent science? What is non-violent technology? 
+
+Lanza rightly so asked the questions: What is non-violent education? What is non-violent economy? But he did not seem to ask: What is non-violent science? What is non-violent technology? 
 
 In my view Lanza wasn't wrong with anything he said about science and technology. He only missed one perspective and one thought: What science can do and how science could be if guided by non-violence.
 
