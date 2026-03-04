@@ -102,6 +102,10 @@ In the very same way we are forced and pressured on an individual basis first an
 
 ---
 
+They say all individual action is in vain, if it does not strike at the top. They say: What we must do is influence the "Decision Makers". As if only those in power make decisions. They may say: "They make the important decisions. Decisions that influence our lives". If that is so, then why don't you realise this as a problem? Why can others make decisions that influence your life? Are you a child? They want you to be. Instead of pleading them to make better decisions, you can decide to make decisions for yourself. *We* are the decision makers and what is truly in vain is any attempt to change anything from top down instead of from the bottom up. 
+
+
+
 
 
 
