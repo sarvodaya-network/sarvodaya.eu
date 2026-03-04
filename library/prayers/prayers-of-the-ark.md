@@ -15,7 +15,7 @@ To those who have more than enough.
 Herr, segne dieses Mahl
 aus dem wir die Kraft ziehen, dir zu dienen.
 Gib jenen Brot, die keines haben,
-Und gib jenen, die mehr als genug haben
-Hunger und Durst nach Gerechtigkeit.
+Und denjenigen, die mehr als genug haben
+gib Hunger und Durst nach Gerechtigkeit.
 
 
