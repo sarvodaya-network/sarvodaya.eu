@@ -9,6 +9,10 @@ Last update: 04.03.2026
 
 ## **I.** On Individual Responsibility
 
+End: Thus it is clear that everything has to start with yourself, as that is the only thing you may ne able to gaim control over and the only thing through which you can change the world.
+But in order to go anywhere, one needs a direction. You know now *that* and *why* you have to take responsibility, that you have to free yourself, but not how.
+Everything starts with a vision. Raising your head and setting your sight to what you want to reach and then taking the first step into that direction. 
+
 (II. On the Vision (of Life) or the Svadharma as the Basis of Action, following the sheep example, add vinobas polarstern and euklids gerade, two points; but in order to connect the dots, to set the path and start the journey, both of them have to be clear; the goal in form of the vision, but also you yourself and where you are. 
 
 Because the major hindrances are within yourself, and all outer hindrances only affect you because of internal conditions (you can, for instance, only be enslaved or forced or threatened out of fear for your body, life, prestige etc.), the work on yourself follows as the most fundamental starting point. Only through work on and with yourself will you find the necessary courage to act, will you create the necessary energy needed to act, will you overcome thr fear preventing you from acting (following the path), will you find that center which sets you straight and gives you the necessary balance enabling you to stay on the path; only when you have this internal balance, the equilibrium, the inner equanimity, can you bring balance and equality into outer affairs; fixing the world starts with fixing yourself. 
