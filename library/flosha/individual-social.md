@@ -9,8 +9,13 @@ Last update: 04.03.2026
 
 ## **I.** On Individual Responsibility
 
-(II. )
-(III. On the Vision as the Basis of Revolutionary Acts)
+(II. On the Vision (of Life) or the Svadharma as the Basis of Action, following the sheep example, add vinobas polarstern and euklids gerade, two points; but in order to connect the dots, to set the path and start the journey, both of them have to be clear; the goal in form of the vision, but also you yourself and where you are. 
+
+Because the major hindrances are within yourself, and all outer hindrances only affect you because of internal conditions (you can, for instance, only be enslaved or forced or threatened out of fear for your body, life, prestige etc.), the work on yourself follows as the most fundamental starting point. Only through work on and with yourself will you find the necessary courage to act, will you create the necessary energy needed to act, will you overcome thr fear preventing you from acting (following the path), will you find that center which sets you straight and gives you the necessary balance enabling you to stay on the path; only when you have this internal balance, the equilibrium, the inner equanimity, can you bring balance and equality into outer affairs; fixing the world starts with fixing yourself. 
+
+There is a time for helping each other, but when you yourself are drowning or sinking down into the swamp, then all and yourself are better of if you learn to swim first, get out of your desperate off-balanced situation first, in order to even be able to help others; otherwise you may just unwantingly pull others down with you or keep alive by sacrificing them. 
+
+(III. On Yoga or the Art of Life, the spiritual practice as the necessary foundation, due to not having the centre in oneself. 
 (--> How to start? On ideas/truth/precepts etc. )
 
 > "Everyone thinks of changing the world, but no one thinks of changing himself." - Leo Tolstoi
