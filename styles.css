@@ -78,6 +78,8 @@ body {
 
     header nav li:nth-of-type(1) {
       display: flex;
+      flex-wrap: nowrap;
+      align-items: center;
     }
 
 /* HEADER - SN LOGO ON LEFT SIDE 
@@ -159,6 +161,20 @@ body {
     padding-top: 1em;
     padding-bottom: 0.5em;
   }
+
+main h2 {
+  padding: 1.5em 0 1em;
+}
+
+main h3 {
+  padding: 1em 0 0.5em;
+  font-size: inherit;
+  font-style: italic;
+}
+
+main p {
+  padding: 0.3em 0;
+}
 
   main ul {
     padding: 1em 1.5em;
