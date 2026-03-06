@@ -74,19 +74,21 @@ body {
 
     header nav li {
       height: 80px;
+    }
+
+    header nav li a {
       display: flex;
       flex-wrap: nowrap;
       align-items: center;
     }
+      header nav li:nth-of-type(1) a {
+        gap: 15px;
+      }
 
     header nav li a:hover {
       background: var(--bg-darker);
       color: var(--red);
-    }
-
-    header nav li:nth-of-type(1) a {
-      gap: 15px;
-    }
+    }  
 
     
 
@@ -100,7 +102,7 @@ body {
 */
 
     header img {
-      max-height: 100%/*55px*/; /* 80 minus 20 of padding */
+      max-height: 80%/*55px*/; /* 80 minus 20 of padding */
       filter: grayscale(1) brightness(2) invert(1);
     }
 
