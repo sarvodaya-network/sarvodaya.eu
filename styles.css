@@ -50,6 +50,7 @@ body {
     header nav {
       white-space: nowrap;
       border-bottom: 1px solid black;
+      height: 100%;
     }
 
     header nav>ul {
