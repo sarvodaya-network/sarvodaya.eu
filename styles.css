@@ -72,6 +72,10 @@ body {
       border-left: 1px solid black;
     }
 
+    header nav li {
+      height: 100%;
+    }
+
     header nav li a:hover {
       background: var(--bg-darker);
       color: var(--red);
