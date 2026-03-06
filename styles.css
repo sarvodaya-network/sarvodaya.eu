@@ -76,6 +76,9 @@ body {
       color: var(--red);
     }
 
+    header nav li:nth-of-type(1) {
+      display: flex;
+    }
 
 /* HEADER - SN LOGO ON LEFT SIDE 
     header>section a {
@@ -87,9 +90,8 @@ body {
 */
 
     header img {
-      float: left;
       max-height: 55px;
-      padding: 9px 20px;
+      padding: 5px 20px;
       filter: grayscale(1) brightness(2) invert(1);
     }
 
