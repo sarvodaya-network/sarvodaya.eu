@@ -2,7 +2,7 @@ title: Sarvodaya Network
 description: Thoughts and Acts towards a non-violent social order.
 author: Sarvodaya Samaj
 include:
-  - "_assets"
+  - "assets" # Rename into _assets
 theme: null
 
 livereload: true # Rebuilds the site and reloads the page.
