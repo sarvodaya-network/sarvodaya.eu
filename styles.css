@@ -74,21 +74,21 @@ body {
 
     header nav li {
       height: 80px;
+      display: flex;
+      flex-wrap: nowrap;
       align-items: center;
     }
 
     header nav li a:hover {
       background: var(--bg-darker);
       color: var(--red);
-      filter: none; /* for sn img */
     }
 
     header nav li:nth-of-type(1) a {
-      display: flex;
-      flex-wrap: nowrap;
-      align-items: center;
       gap: 15px;
     }
+
+    
 
 /* HEADER - SN LOGO ON LEFT SIDE 
     header>section a {
