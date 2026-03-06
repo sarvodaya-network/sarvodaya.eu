@@ -144,6 +144,8 @@ body {
     min-height: calc(100vh - 100px);
     line-height: 1.6;
     padding: 1em;
+
+    font-family: initial;
   }
 
     @media (min-width: 1000px) {
@@ -161,10 +163,12 @@ body {
   main h1 {
     padding-top: 1em;
     padding-bottom: 0.5em;
+    font-size: 20px;
   }
 
 main h2 {
   padding: 1.5em 0 1em;
+  font-size: 18px;
 }
 
 main h3 {
