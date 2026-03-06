@@ -2,9 +2,9 @@
 
 On Individual Power, Responsibility and Freedom
 
-Author: Flosha
-Written: 01.03.2026
-Last update: 04.03.2026
+Author: Flosha  
+Written: 01.03.2026  
+Last update: 04.03.2026  
 
 
 ## **I.** On Individual Responsibility
@@ -24,38 +24,38 @@ There is a time for helping each other, but when you yourself are drowning or si
 
 > "Everyone thinks of changing the world, but no one thinks of changing himself." - Leo Tolstoi
 
-(1) *Systems do not act, only individuals do.*
+### (1) *Systems do not act, only individuals do.*
 Why has everything to start with ourselves? We do not deny that there are systematic problems. There are systematic problems of various kinds. <!--There are problems with beauracracy, with the distribution of wealth, there is systematic abuse of power and so forth.--> But every system is dependent on the acceptance of those living under it, is heavily influenced by and reflecting public opinion (whenever it stops doing so, it is bound to change as it will crush down under the pressure of the public sooner or later) and it depends on voluntary or involuntary co-operation.  
 We recognise the faults in the system and we want to overcome it, but all of this only matters on a relative level of understanding. Systems are not real, systems do nothing. They do not act nor prevent any act, they are not in themselves injust nor just. Individuals are. And only individuals act.
 
-(2) *Systems are powerless, only individuals have power.*
+### (2) *Systems are powerless, only individuals have power.*
 Individuals have invented the existing systems, are running these systems, accepting the systems, maintaining the systems, perpetuating the systems. The systems are expressions of individual conditions, individual confusion and individual mechanical behaviour reproduced collectively. The systems in themselves are absolutely powerless.  
 It is an evidental truth that only individuals have power. And individual decisions are at the basis of every system. 
 
-(3) *Responsibility is the pre-requisite of freedom.*
+### (3) *Responsibility is the pre-requisite of freedom.*
 Some say that by focusing on the individual one puts the responsibility on the wrong people, distracting from the broader issues and systems, even putting pressure on the victims, instead of focusing on those who are actually and primarily responsible for the problem. 
 But the opposite is true. By focusing on the individual, by showing how and in which way everyone is responsible and what *everyone* can do about it, we *empower* the individual.  
 There is no doubt that others have more responsibility for specific kinds of things than others, but firstly they aren't capable of doing what they do without the consent and the co-operation of various individuals and secondly that they are (or may be) responsible more than me, doesn't change the fact that I am responsible too. Great collective harm is always done collectively - you are part of this collective and so *you* are capable of taking responsibility for it. In this responsibility lies your freedom; it is the pre-requisite of freedom. 
 
-(4) *Individual irresponsibility is at the root of all social problems.*
+### (4) *Individual irresponsibility is at the root of all social problems.*
 Seeing the cause of social issues in systems is wrong in the same way as seeing the problem of craving in the objects of desire. The objects of desire are not the problem, the craving towards them is, the giving-in to the pressure of desire put onto us through our mind, our body, our senses, is at the root of the problem. Just as individual unwholesome intentions, decisions and acts are at the root of the problem of individuals, individual intentions, decisions and acts are at the root of all social problems.  
 By not taking responsibility we allow practices to continue, that we claim to reject, we allow businesses to make profit, that we know to be abusive, we allow exploitation to occur that we know to be exploitative. Some choose to ignore it, denying any responsibility on their part. Some speak against it, seeking responsibility at the top. But the most important thing, since it is the one thing that everyone of us can influence and act upon right now, is the responsibility of our own. 
 
-(5) *Exploitation depends on our collective co-operation.*
+### (5) *Exploitation depends on our collective co-operation.*
 There are collective pressures preventing us from taking responsibility. Public opinion, Governments, corporations, the advertisement industry, manipulative algorithms and various other demonic aspects of the *M*achine are pressuring us to follow their lead, to act as they wish, to serve their unwholesome goals like servants in an unholy ritual. And yet, they are not the root of the problem.  
 The problem is that we do not recognise it, that we are not aware of it, that we give in to it, that we do not have the strength and do not help each other to overcome these things that are hindering us and that we are responsible for by supporting and partaking in it.  
 If we depend on things provided by them, so that we are forced to support their violent practices, the solution cannot consist in changing them, the solution has to consist in building structures on our own so to overcome this dependence, so that we do not have to support them any longer. In this way we do not just remove the momentarily symptom of abuse; through establishing independence we remove the very possibility of abuse through dependence.  
 In other words: Socio-Economical exploitation always depends on our collective co-operation. We can choose not to co-operate. If, on the other hand, we have no choice, since we are dependent on the exploitative Machinery, it is our collective responsibility to make us independent.
 
-(6) *Why we must fulfill individually the change we want to see collectively.*
+### (6) *Why we must fulfill individually the change we want to see collectively.*
 Gandhi, in his famous sentence, said: *"Be yourself the change you want to see in the world."* This maxime is as simple as it is binding and true. It is not as much of a moral statement but a factual statement. It is not "you should do that", but the thing is that if you want to change the world it is actually the *only* possible way.   
 And just as you ought to *be* the change if outside change is supposed to occur, so you *are* the reason for the world to be as it is. This is not shifting responsibility away or distracting in any way, but is truly an empowering insight, revealing the responsibility where you can take it.
 
-(7) *I am responsible for all violence in the world, if I partake in it.*
+### (7) *I am responsible for all violence in the world, if I partake in it.*
 That I am the reason for the conditions to be as they are, is not less true or less powerful, if it is devastating. Our own responsibility can be shocking. But that is just all the more reason to do something about it. I am responsible for the violence in the world. I am not responsible for all of it *alone*, but I am responsible to a degree, as I partake in it. I have to become aware of this resonsibility, have to accept it and take it upon me. <!-- like Jesus carrying the cross. Everyone ought to do so, as he said. "I tell you, whoever believes in me will do the works I have been doing" and "take up your cross and follow me."-->  
 I am responsible for *my* part in the ongoing violence first and foremost, and to remove this part of mine from the sustenance of what I want to overcome is the minimum I have to do. The denial of having any responsibility is a denial not only of ones fault, but also of ones freedom and power; by claiming that they cannot do anything about it, seeing others being responsible, they justify to continue as they wish. They claim to be powerless in the face of wrongdoing, while they could choose to not give in under the pressure and to not co-operate at any time. 
 
-(8) *Do what you consider right no matter what.*
+### (8) *Do what you consider right no matter what.*
 Large scale harm can only be done collectively and so there is always a collective responsibility. Collective responsibility means that there are many individuals involved that are all responsible for the total outcome. Can they change the problem all on their own? No. But they can do the most important thing: Removing their own contribution from it, taking responsibility for their own small part in it. If everyone would do that or even just a small, substantial amount of individuals, the whole system collapses.  
 Those who are considered to be the most powerful individuals in that process and to be the most responsible, will then in fact be revealed to be the most helpless and powerless ones, unable to do their harm and make any profit on their own. For all of their abuse, all of their crime, all of their greed-driven striving for profit without conscience, they depend on the support of inmumerable other individuals putting into practice what they wish. Denying them this wish, refusing to follow their orders and not caring about the measures they take to force you doing so indirectly (through your material needs) or directly (e.g. through open violence), enduring the pressure of doing so, enduring the consequences by following what one considers to be right no matter what, this is all it takes.
 
