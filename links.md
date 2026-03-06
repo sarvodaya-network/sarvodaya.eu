@@ -9,6 +9,14 @@
 * The Nonviolence Report with Michael Nagler: https://www.youtube.com/watch?v=NyAiwFux5S0
 
 
+## Vinoba
+* [Vinoba the Man, Documentary](https://www.youtube.com/watch?v=4ZdD9y-NyXg)
+* [The Miracle of Non-Violence; when bandits in Chambal surrendered to Vinoba](https://www.youtube.com/watch?v=deA1yvSw-P0)
+* [Ishavasya vruuti, sung by Gautam Bajaj](https://www.youtube.com/watch?v=IxuIbe0E148) / [Part 2](https://www.youtube.com/watch?v=56fGlIqVRpU)
+* [Brahmavidya Mandir, Paunar](https://www.youtube.com/watch?v=dlSE9KLsgz0)
+* [Vinoba Bhave A Short Film by films division](https://www.youtube.com/watch?v=zEo8P9bNqh8)
+* [Dr. Abhay Bang speaking on Vinoba at Launch Event of www.vinoba.in](https://www.youtube.com/watch?v=KMXCDEUKSys)
+
 
 ## Interviews
 

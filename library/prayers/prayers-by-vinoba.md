@@ -44,3 +44,43 @@ Chidananda Hari Tu
 
 Advitiya Tu Akala Nirbhaya
 Atmalinga Shiva Tu
+
+
+
+## 
+
+Thou art the only Truth, Narayana, 
+The Supreme Self, the Divine Master, 
+
+Siddha, Buddha, Skanda, Vinayaka, 
+The Sun, the Holy Fire, 
+
+Brahman, Ahura Mazda, Yahweh, Shakti, 
+Jesus, Father, Lord, 
+
+Rudra, Vishnu, Rama, Krishna, 
+Raheem, the Tao, 
+
+Vasudeva, the Universe, Vishvarupa, 
+Chidananda, Hari, 
+
+The Non-Dual, the Timeless One, the Fearless One, 
+The Self-manifested, Shiva.
+
+
+---
+
+Om, Thou art that, You are Narayana, God in the form of man;
+You are the embodiment of perfection and the perfect teacher.
+You are the enlightened Buddha; You are Subrahmanya and Ganesha, the remover of obstacles;
+You are the Sun-fire that destroys the darkness of ignorance.
+
+You are Brahma, the Creator; Mazda, the Great One. You are Jehovah, and Divine Mother, the creative Energy.
+You are Jesus, our Lord, Holy Father.
+You are Rudra, the Transformer, and Vishnu, the Preserver; You are Rama and Krishna;
+You are Rahim, all kindness, always giving and expanding; You are the Tao.
+
+You are Vasudeva, the Sustenance of all, omnipotent and omnipresent;
+You are Hari, destroyer of illusion, the blissful Spirit.
+You are unparallelled and one without a second, beyond time and fearless of adversities;
+You are Shiva, the atma lingam, symbol of the formless Absolute.
