@@ -2,29 +2,9 @@
   {{ content }}
 {% endcapture %}
 
-<!--
 {% capture toc_content %}
   {% include toc-mobile.html %}
 {% endcapture %}
--->
-
-<!--
-{% assign toc_placeholder = '--> <!-- TOC_PLACEHOLDER --><!--' %}-->
-
-<!--
-{% capture toc_desktop %}
-  {% if page_content contains toc_placeholder %}
-    <nav class="toc toc-desktop">
-      {% include toc.html html=page_content sanitize=true ordered=true h_min=2 %}
-    </nav>
-  {% endif %}
-{% endcapture %}
--->
-
-<!-- Replace the placeholder with the TOC include -->
-<!--
-{% assign page_content = page_content | replace: toc_placeholder, toc_content %}
--->
 
 {% include content-without-style-tag.liquid pageContent=page_content %}
 
@@ -41,32 +21,6 @@
     </head>
     
     <body>
-
-      <!--
-      <nav class="main-nav">
-        <div class="menu-bar">
-            <input type="checkbox" id="menu-toggle">
-            <label for="menu-toggle">
-                <span class="menu-icon">&#8801;</span>
-                <p class="menu-title">Phoenix Concept</p>
-            </label>
-    
-            <section class="header">
-              <span><a href="https://phoenixthegame.com">/</a>Phoenix.doc</span>
-              <ul>
-                <li><a href="https://github.com/PhoenixTales" target="_blank">Git</a></li>
-                <li><a href="https://phoenixthegame.com/contrib" target="_blank">Contrib</a></li>
-                <li><a href="https://phoenixthegame.com" target="_blank">Main</a></li>
-              </ul>
-            </section>
-        </div>
-    
-        <section class="index">
-          {% include nav.html %}
-        </section>
-      </nav>
-      -->
-
       {% include header.html %}
       
       <main>
@@ -75,13 +29,6 @@
         </section>
       </main>
 
-      <!--
-      <div class="dir">
-        <a href="{{page.dir}}">{{page.dir}}</a><span>{{page.name}}</span>
-      </div>
-      -->
       {% include footer.html %}
-
-     <!-- {{ toc_desktop }} --> 
     </body>
 </html>
