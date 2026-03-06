@@ -43,7 +43,7 @@ body {
     background: var(--bg-lighter);
     width: 100%;
    /* font-size: 27px; */
-    font-size: 24px;
+    font-size: 20px;
   }
 
     header nav {
@@ -73,7 +73,7 @@ body {
     }
 
     header nav li {
-      height: 80px;
+      height: 55px;
     }
 
     header nav li a {
@@ -102,7 +102,7 @@ body {
 */
 
     header img {
-      max-height: 80%/*55px*/; /* 80 minus 20 of padding */
+      max-height: 70%/*55px*/; /* 80 minus 20 of padding */
       filter: grayscale(1) brightness(2) invert(1);
     }
 
@@ -156,6 +156,7 @@ body {
     padding: 1em 1em 100px;
 
     font-family: initial;
+    font-size: 18px;
   }
 
     @media (min-width: 1000px) {
@@ -173,12 +174,12 @@ body {
   main h1 {
     padding-top: 1em;
     padding-bottom: 0.5em;
-    font-size: 20px;
+    font-size: 24px;
   }
 
 main h2 {
   padding: 1.5em 0 1em;
-  font-size: 18px;
+  font-size: 20px;
 }
 
 main h3 {
