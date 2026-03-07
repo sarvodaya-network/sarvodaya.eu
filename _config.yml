@@ -3,6 +3,7 @@ description: Thoughts and Acts towards a non-violent social order.
 author: Sarvodaya Samaj
 include:
   - "assets" # Rename into _assets
+  - "_covers" 
 theme: null
 
 livereload: true # Rebuilds the site and reloads the page.
