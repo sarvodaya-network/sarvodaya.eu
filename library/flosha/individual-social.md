@@ -19,6 +19,10 @@ Because the major hindrances are within yourself, and all outer hindrances only 
 
 There is a time for helping each other, but when you yourself are drowning or sinking down into the swamp, then all and yourself are better of if you learn to swim first, get out of your desperate off-balanced situation first, in order to even be able to help others; otherwise you may just unwantingly pull others down with you or keep alive by sacrificing them. 
 
+After this or as a part of this visiom section - dealing with "ideology".
+
+Thus, when you have become aware of your ideas. What now? How to start? 
+
 (III. On Yoga or the Art of Life, the spiritual practice as the necessary foundation, due to not having the centre in oneself. 
 (--> How to start? On ideas/truth/precepts etc. )
 
