@@ -280,5 +280,26 @@ Success is not the point.
 Who decides to go a specific path doesn't care about whether or not going that path will be successful. What he cares about is whether or not he manages to stay on that very path. Because any kind of success that is not gained by staying on that path of righteousness, but by diverting from it, wouldn't be any righteous success anyway, it would be worthless success. Success that no righteous man would ever want.
 
 
+---
+
+"Who has visions should go to see a doctor."
+implying illusory visions as a sort of a mental impediment on behalf of which one should seek help, essentially claiming that being a "visionary" is being unrealistic.
+
+From experience we know that the opposite is true. 
+Firstly: Whoever does *not* have a vision should seek help, because not having a vision implies not seeing where you go, unless he goes nowhere anyway. 
+Isn't it obvious that we go nowhere, that we stand still, on an individual level as well as on a social level, when we have no direction? And suddenly, when we get an idea: Oh, here I could go, this I could try, this direction seems right, we start moving and things start changing?
+
+Nothing changes if you don't move. And whenever you move you need a direction. You move in some direction anyway, but if you don't want to move blindlessly, you must have a vision that defines your path.
+Whoever has no vision has no path and whoever has no path is not helping anyone nor himself going anywhere.
+Secondly: It is an obvious truth that is confirmed by innumerable historical examples that all kinds of changes in this world have been initiated by visions of individuals and the more surely so the more individuals adopted that vision, both "positive" changes (leading to a more peaceful, just, loving social order) as well as "negative" ones (leading to a more brutal, unjust, hateful social order), and the same applies to the individual level. 
+You have a vision, you set a goal, you start going there. And if that vision, if that goal is right, if you agree that it is worth striving for and if the means towards this end are in accordance with the end, which is not a moral imperative, but a simple factual one, because peace can only grow from a seed of peace, just as a rose can only grow from the seed of a rose and not any other one, then this is the right direction and doesn't matter at all whether the lofty vision that is seen at the end of the path is achievable or not, since every step into this right direction is better than any step into a wrong direction or standing still.
+
+This is the actual imperative, for every individual and every society: Choose a direction consciously and strive into this direction. Not doing that makes no sense.
+
+
+
+
+
+
 
 
