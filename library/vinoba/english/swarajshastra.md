@@ -1,10 +1,12 @@
 
 # Swarāj Śāstra
 
+## Precepts of Self-Rule
+
 [ THE PRINCIPLES OF A NON-VIOLENT POLITICAL ORDER ]
 {: .center }
 
-by VINOBA
+**VINOBA**
 {: .center }
 
 •
