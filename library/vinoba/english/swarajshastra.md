@@ -25,14 +25,11 @@ Revised by Parag Cholkar
 
 ## OUTLINE OF CONTENTS
  
-1. How many and of what kinds are the political theories and forms of political
-organisation prevailing in the world today?
-2. Examining the prevailing political systems from the practical point of view, which one of these is the better one?
-3. If the prevailing political systems are considered defective, what should be the
-characteristics of an ideal polity?
-4. Can a polity based on nonviolence endure?
-5. When other nations are protagonists of violence, how can a single nation remain
-wedded to nonviolence?
+1. [How many and of what kinds are the political theories and forms of political organisation prevailing in the world today?](#i-how-many-and-of-what-kinds-are-the-theories-and-forms-of-political-organisation-prevailing-in-the-world-today)
+2. [Examining the prevailing political systems from the practical point of view, which one of these is the better one?](#i-you-have-explained-all-this-theoretically-but-it-is-necessary-to-examine-nazism-fascism-and-communism-from-the-practical-point-of-view-which-one-of-these-is-the-better-one)
+3. [If the prevailing political systems are considered defective, what should be the characteristics of an ideal polity?](#i-if-the-prevailing-political-systems-are-considered-defective-what-should-be-the-characteristics-of-an-ideal-polity)
+4. [Can a polity based on nonviolence endure?](#iv-can-a-polity-based-on-nonviolence-endure)
+5. [When other nations are protagonists of violence, how can a single nation remain wedded to nonviolence?](#-v-when-other-nations-are-protagonists-of-violence-how-can-a-single-nation-remain-wedded-to-nonviolence)
 {: .roman }
 
 
