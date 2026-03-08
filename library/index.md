@@ -1,16 +1,15 @@
 # Library
 
+The library is a constant work in progress. We will constantly keep adding new books and articles and develop it further both in regard to its content as well as in regard to its presentation. 
+
 
 ## Vinoba
 
-(List is work in progress; not at all complete)
-
-### Probably the best introduction to his thought:
-* Moved by Love (a sort of Autobiography in form of a collection of his personal anecdotes by one of Vinobas closest associates)
-* Vichar Photi / Random Reflections
+* [Moved by Love](/library/vinoba/english/movedbylove.pdf) (a carefully selected and well ordered anthology of autobiographic anecdotes by Kalindi, one of Vinobas closest associates)
+* Vichar Photi / EN: Random Reflections / DE: [Gedanken](/library/vinoba/deutsch/Vichar-pothi_German.pdf)
 
 ### Philosophical & Spiritual Thought
-* Talks on the Gita (his spiritual program)
+* Gita Pravachan / EN: [Talks on the Gita](/library/vinoba/english/Talks-on-the-Gita.pdf) / DE: [Gespräche über die Gita](/library/vinoba/deutsch/Gita-Pravachan_German.pdf) (his spiritual program)
 * Steadfast Wisdom / Stithaprajna Darshan (more elaborate writing about how to achieve the steadfast wisdom described in the Gita)
 * Ishavasya Upanishad
 * Language Problem 
@@ -21,6 +20,7 @@
 * Spirituality
 * Vinoba on Gandhi
 
+<!-- 
 ### "Essences" of Religion
 * Essence of the Christian Teachings / Christ-dharma-saar
 * Essence of the Qur'an / Kuran Saar
@@ -34,6 +34,7 @@
 * Japuji
 * Manu-Shasanam
 * Vedamrut
+-->
 
 ### Revolutionary Thought
 * [Swaraj Shastra: The Principles of a Non-Violent Political Order](/library/vinoba/swarajsastra.pdf) (later described by Vinoba as "the grammar of Lokniti")
