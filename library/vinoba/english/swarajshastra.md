@@ -1,30 +1,39 @@
 
 # Swarāj Śāstra
 
-[ THE PRINCIPLES OF A NON-VIOLENT POLITICAL ORDER ]  
+[ THE PRINCIPLES OF A NON-VIOLENT POLITICAL ORDER ]
+{: .center }
 
-VINOBA
+by VINOBA
+{: .center }
 
 •
+{: .center }
 
-Translator: Bharatan Kumarappa 
-SIXTH edition 1973  
+
+Translator: Bharatan Kumarappa
+SIXTH edition 1973
+{: .center }
+
 
 Revised by Parag Cholkar
+{: .center }
+
  
 ---
 
 
 ## OUTLINE OF CONTENTS
  
-1. [How many and of what kinds are the political theories and forms of political
-organisation prevailing in the world today?]()
-2. [Examining the prevailing political systems from the practical point of view, which one of these is the better one?]
-3. [If the prevailing political systems are considered defective, what should be the
-characteristics of an ideal polity?]
-4. [Can a polity based on nonviolence endure?]
-5. [When other nations are protagonists of violence, how can a single nation remain
-wedded to nonviolence?]
+1. How many and of what kinds are the political theories and forms of political
+organisation prevailing in the world today?
+2. Examining the prevailing political systems from the practical point of view, which one of these is the better one?
+3. If the prevailing political systems are considered defective, what should be the
+characteristics of an ideal polity?
+4. Can a polity based on nonviolence endure?
+5. When other nations are protagonists of violence, how can a single nation remain
+wedded to nonviolence?
+{: .roman }
 
 
 <!-- >
@@ -112,15 +121,15 @@ The science of self-rule is ever-growing. While its actual form may vary accordi
 
 
 
-# Swarāj Śāstra
-
-The Principles of a Non-violent Political Order.
+**Swarāj Śāstra**  
+*The Principles of a Non-violent Political Order*
 
 
 ## I. How many and of what kinds are the theories and forms of political organisation prevailing in the world today?
 
 
 (A)
+{: .center }
 
 ### 1. *Nature of the political problem*.
 
@@ -181,6 +190,7 @@ More than these 18 forms of political organization are not theoretically possibl
 
 
 (B)
+{: .center }
 
 ### 7. *Sarvayatan* (Rule of all)
 
@@ -215,6 +225,7 @@ This, in short, is a review of the political organisations and thoughts currentl
 ## II. You have explained all this theoretically; but it is necessary to examine Nazism, Fascism and Communism from the practical point of view. Which one of these is the better one?
 
 (A)
+{: .center }
 
 ### 11. *People are wedded to life, not to any particular system*
 
@@ -266,6 +277,7 @@ To sum up, we may enumerate some criteria to judge a polity:
 
 
 (B)
+{: .center }
 
 ### 16. *Nature of Nazism, Fascism and Russian Communism*
 
@@ -317,6 +329,7 @@ Let us discuss these points briefly.
 
 
 (A)
+{: .center }
 
 ### 21. *Public opinion should make capable persons serve society*
 
@@ -362,6 +375,7 @@ We regard capable individuals as capable, but they too cannot accomplish anythin
 
 
 (B)
+{: .center }
 
 ### 29. *Village industries for village self-sufficiency*
 
@@ -388,6 +402,7 @@ These autonomous villages would be brought together by the nominal provincial po
 
 
 (C)
+{: .center }
 
 ### 33. *Polity dependent on the human element*
 
@@ -446,6 +461,7 @@ Evil elements within society can be effectively held in leash permanently only i
 
 
 (D)
+{: .center }
 
 ### 42. *Estimating value of work*
 
@@ -491,7 +507,7 @@ It is assumed today that difference in remuneration is the only way to encourage
 In this respect, Hinduism carried out a great experiment in form of the *varna* system. But the notion of superiority and inferiority crept into it and vitiated it and economic competition eventually ruined it completely. An individual should do the work allotted to him by society, society should allot him work on the basis of his fitness for it, inherited dispositions should be taken advantage of for developing skills; he should consider it his duty to undertake the particular work after acquiring necessary fitness and others should not compete with him; all should get equal security and commensurate remuneration; individuals carrying out their tasks with responsibility, being devoted to their duty, should be considered to be on equal footing, and their worship in the form of work should please God — that is how the *varna* system can be briefly described.  
 An ideal polity will need to devise some such arrangement. The *varna* system, in essence, includes commensurate remuneration, lack of competition and a scheme of education and training that takes advantage of inherited dispositions. The first two are principles of great importance in economics and the third one belongs to the realm of sociology. Some find this third principle controversial. Even if it is so, the first two would remain unaffected, and they would have to be made foundations of the social order. And if the third one also proves to be true, as is very likely, on the basis of reflection and experience, the *varna* system would have to be revived, without any idea of superiority and inferiority and without any rigid framework.
 
-² The four *varnas* as originally conceived, are not the same as the four "Castes" which Gandhi and Vinoba wanted to overcome, especially Vinoba, being born a Brahmin, has consciously done all kinds of stuff forbidden for his caste, both of them did the labour of a Shudra and so forth. In difference to the understanding of castes into which one is born, the original idea behind the *varnas* are ideal human "callings" with none of them being considered higher than another. One is not a Brahmin, a Kshatriya etc. by blood, but by calling and in some people more than one calling may combine. Inherited dispositions can for sure play a role in the formation of ones calling, but it always remains an individual calling and thus it can never be justified to force one into e.g. the callings of their parents by law. While they opposed the rigid and violent caste system giving rise to conflict and unjustified pride, they valued the ancient idea of the four *varnas* as interpreted by them. - Flosha
+² The four *varnas* as originally conceived, are not the same as the four "Castes" which Gandhi and Vinoba wanted to overcome, especially Vinoba, being born a Brahmin, has consciously done all kinds of stuff forbidden for his caste, both of them did the labour of a Shudra and so forth. In difference to the understanding of castes into which one is born, the original idea behind the *varnas* are ideal human "callings" with none of them being considered higher than another. One is not a Brahmin, a Kshatriya etc. by blood, but by calling and in some people more than one calling may combine. Inherited dispositions can for sure play a role in the formation of ones calling, but it always remains an individual calling and thus it can never be justified to force one into e.g. the callings of their parents by law. While they opposed the rigid and violent caste system giving rise to conflict and unjustified pride, they valued the ancient idea of the four *varnas* as interpreted by them. – Flosha
 
 
 ### 49. *Essence important; not the form*
