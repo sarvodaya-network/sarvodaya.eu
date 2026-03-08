@@ -84,11 +84,14 @@ body {
       align-items: center;
     }
       header nav li:nth-of-type(1) a {
-        gap: 10px;
-        padding-left: 0;
+        gap: 15px;
       }
-
-      
+        @media (min-width: 1000px) {
+          header nav li:nth-of-type(1) a {
+            padding-left: 0;
+            gap: 0;
+          }
+        }
 
     header nav li a:hover {
       background: var(--bg-darker);
