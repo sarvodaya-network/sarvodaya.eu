@@ -34,6 +34,9 @@ Revised by Parag Cholkar
 
 
 <!-- >
+
+---
+
 ## *WHO IS VINOBA BHAVE?*
 
 [M. K. Gandhi]
@@ -48,8 +51,8 @@ He believes in the necessity of the political independence of India. He is an ac
 
 [ *The above was published in the ‘Harijan’ of October 20, 1940. It was written by Gandhiji to introduce to the public Sri Vinoba Bhave, whom he had chosen, as the best representative on non-violent civil resistance to war. Sri Vinoba was to start the campaign of individual civil disobedience, and in the first instance it was to be confined to him only.* — TRANSLATOR. ]
 
----
 -->
+---
 
 
 ## TRANSLATOR’S PREFACE TO THE FIRST EDITION
@@ -95,9 +98,10 @@ Seva Sangh Prakashan. While full use of that translation has been made, it has b
 ## On ‘Swarajya-Shastra’
 
 This book deserves a place next only to ‘Hind-Swaraj’, Mahatma Gandhi’s pioneering work, in the Gandhian literature. Gandhiji wrote his book during a samudra-yatra (sea voyage); Vinoba wrote his during a jail-yatra (incarceration). Gandhiji wrote his book using both of his hands; Vinoba dictated his book. ‘Hind-Swaraj’ is in the form of questions and answers; Vinoba has finished what he had to say in answers to five questions. Gandhiji’s consecrating work is imbued with faith characteristic of a sage; Vinoba’s tract is in the category of Upanishads; its reasoning is akin to that of the great masters. The experience of life seems to corroborate Gandhiji’s statements; Vinoba’s statements are backed by sound logic. Gandhiji’s writing style is lucid; Vinoba’s style is marked with scientific precision and brevity. Vinoba himself will have to write a commentary on his work. Gandhiji’s life of experiments with Truth spread all over India is itself a great commentary on ‘Hind-Swaraj’.  
-The first question in this book (‘Swarajya-Shastra’) is of primary nature. The ‘important’ point in the second question (14), appears to have been dealt with inadequately. The discussion brightens up from the third question. The points regarding the *varna* system have however been put up too briefly. That grand concept of social order in India deserved to be discussed more neatly. In the replies to the fourth and the fifth question, futility of the path of violence has been convincingly impressed upon the readers, but the efficacy of the path of nonviolence has not been similarly driven home. But it is not a shortcoming in the discourse; for all nations in the world are exerting themselves in an extra-ordinary way to demonstrate the self-destroying might of violence, whereas the efficacy of nonviolence to bring about deliverance of the Self and the world is yet to be proved. India’s quest in this regard should contribute in this respect — this is an expectation as well as a
-prayer.
+The first question in this book (‘Swarajya-Shastra’) is of primary nature. The ‘important’ point in the second question (14), appears to have been dealt with inadequately. The discussion brightens up from the third question. The points regarding the *varna* system have however been put up too briefly. That grand concept of social order in India deserved to be discussed more neatly. In the replies to the fourth and the fifth question, futility of the path of violence has been convincingly impressed upon the readers, but the efficacy of the path of nonviolence has not been similarly driven home. But it is not a shortcoming in the discourse; for all nations in the world are exerting themselves in an extra-ordinary way to demonstrate the self-destroying might of violence, whereas the efficacy of nonviolence to bring about deliverance of the Self and the world is yet to be proved. India’s quest in this regard should contribute in this respect — this is an expectation as well as a prayer.  
 – Kaka Kalelkar
+
+---
 
 
 ## Preface of the Author to the first Marathi edition
@@ -110,8 +114,8 @@ Rule (*Rājya*) is one thing; Self-rule (*Swarājya*) is another. Rule can be ha
 
 The science of self-rule is ever-growing. While its actual form may vary according to time and place, its fundamental principles are eternal. It is on the basis of those eternal principles that an outline of that science has been drawn here. It can be elaborated as much as we want. Entrusting that task to the future, <!--to be done according to the capacity and the needs of that time, --> let us stop here for the present.
 
-*2nd February*, 1942.
-*Nalvadi.*
+*2nd February*, 1942.  
+*Nalvadi.*  
 – Vinoba
 
 ---
@@ -120,7 +124,7 @@ The science of self-rule is ever-growing. While its actual form may vary accordi
 
 **Swarāj Śāstra**  
 *The Principles of a Non-violent Political Order*
-
+{: .center }
 
 ## I. How many and of what kinds are the theories and forms of political organisation prevailing in the world today?
 
@@ -594,6 +598,15 @@ It is asked, “Your polity will have no army; will it not have even a police fo
 
 h1, h2, h3, h4 {
     text-align: center;
+}
+
+h3 {
+    margin-top: 20px;
+}
+
+.center {
+    margin-top: 30px;
+    margin-bottom: -20px;
 }
 
 </style>

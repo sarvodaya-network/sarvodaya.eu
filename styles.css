@@ -332,3 +332,7 @@ main p {
   .center {
     text-align: center;
   }
+
+  hr {
+    margin: 50px 0;
+  }
