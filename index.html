@@ -21,7 +21,7 @@
       <li class="title"><h1>sarvodaya ηetwork</h1></li>
       <ul class="subpages">
         <li><a href="program.html">program</a></li>
-        <li><a href="archive.html">archive</a></li>
+        <li><a href="archive.html">library</a></li>
       </ul>
     </ul>
   </nav>
@@ -148,19 +148,21 @@
   }
 
   :root {
-    --bg-lightest: #c9c2af; /* ahimsa/header */
+    --bg-lightest: #c9c2af; /* ahimsa/header */ 
     --bg-lighter: #c5baa5; /* main bg */
     --bg-light: #ada491; /* footer/gallery */
     --bg-dark: #38322c; /* ahimsa dark */
     --bg-darker: #2c2c2a; /* ahimsa dark */
     --bg-darkest: #151515; /* ahimsa dark */
+
+    --bg-white: white;
     
     --red: #cd6458; /* red for hovered buttons */
   }
 
   body {
     font-family: Helvetica;
-    background: var(--bg-lighter); /* original: #f7f5ef;*/ /* darker: #c5baa5 */
+    background: var(--bg-white); /* original: #f7f5ef;*/ /* darker: #c5baa5 */
     /* dacfba */
     display: flex;
     flex-direction: column;
@@ -186,7 +188,7 @@
     display: grid;
     grid-template-columns: auto 1fr;
     
-    background: var(--bg-lighter);
+    background: var(--bg-white);
     width: 100%;
     height: 100px;
     font-size: 27px;
@@ -261,16 +263,21 @@
   header .subpages li {
     font-size: 24px;
   }
+  /*
     header .subpages li:nth-of-type(1) {
       background: var(--bg-lightest);
     }
     header .subpages li:nth-of-type(2) {
       background: var(--bg-light);
     }
-
+  */
 
   main {
     margin-top: 100px;    /* Sets Main under Mobile Header */
+  }
+
+  img {
+    filter: saturate(0);
   }
 
 
@@ -437,8 +444,10 @@
 .about {
   border-top: 1px solid black;
   margin-top: -1px;
+  margin-bottom: 60px;
   padding: 30px 1em;
   font-size: 18px;
+  border-bottom: 1px solid black;
 }
     @media (min-width: 1000px) {
       .about {
@@ -476,13 +485,14 @@
   @media (min-width: 1000px) {
     .hero {
       width: auto;
+      max-width: 50%;
     }
   }
 
   footer { 
     width: 100%;
     font-size: 14px;
-    background: var(--bg-light);
+    background: var(--bg-white);
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -492,6 +502,7 @@
         margin-top: 100px;
         width: 70%;
         flex-direction: row;
+        border: 1px solid black;
       }
     }
 
@@ -504,6 +515,7 @@
     @media (min-width: 1000px) {
       footer .right {
         padding: 50px;
+        border-left: 1px solid black;
       }
     }
 

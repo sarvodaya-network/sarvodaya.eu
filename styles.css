@@ -11,13 +11,15 @@
   --bg-dark: #38322c; /* ahimsa dark */
   --bg-darker: #2c2c2a; /* ahimsa dark */
   --bg-darkest: #151515; /* ahimsa dark */
+
+  --bg-white: white; 
     
   --red: #cd6458; /* red for hovered buttons */
 }
 
 body {
   font-family: Helvetica;
-  background: var(--bg-lighter); /* original: #f7f5ef;*/ /* darker: #c5baa5 */
+  background: var(--bg-white); /* original: #f7f5ef;*/ /* darker: #c5baa5 */
   /* dacfba */
   display: flex;
   flex-direction: column;
@@ -40,7 +42,7 @@ body {
     top: 0;
     z-index: 10;
  
-    background: var(--bg-lighter);
+    background: var(--bg-white);
     width: 100%;
    /* font-size: 27px; */
     font-size: 20px;
@@ -57,7 +59,7 @@ body {
       align-items: center;
       width: 100%;
       overflow-x: auto;
-      background: var(--bg-lighter);
+      background: var(--bg-white);
     }
   
     header nav li a {
@@ -203,7 +205,7 @@ main p {
   footer { 
     width: 100%;
     font-size: 14px;
-    background: var(--bg-light);
+    background: var(--bg-white);
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -213,6 +215,7 @@ main p {
         margin-top: 100px;
         width: 70%;
         flex-direction: row;
+        border: 1px solid black;
       }
     }
 
@@ -225,6 +228,7 @@ main p {
     @media (min-width: 1000px) {
       footer .right {
         padding: 50px;
+        border-left: 1px solid black;
       }
     }
 
