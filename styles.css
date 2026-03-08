@@ -151,7 +151,6 @@ body {
     max-width: 100%;
     flex-direction: column;
     justify-content: center;
-    align-items: center;
     min-height: calc(100vh - 100px);
     line-height: 1.6;
     padding: 1em 1em 100px;
@@ -315,6 +314,7 @@ main p {
   code {
     font-size: 16px;
     overflow-x: auto;
+    display: block;
   }
 
 
