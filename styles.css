@@ -95,7 +95,8 @@ body {
 
     header nav li a:hover {
       background: var(--bg-darker);
-      color: var(--red);
+      /* color: var(--red); */
+      color: white;
     }  
 
     
