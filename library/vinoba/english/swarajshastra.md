@@ -11,8 +11,8 @@ by VINOBA
 {: .center }
 
 
-Translator: Bharatan Kumarappa
-SIXTH edition 1973
+Translator: Bharatan Kumarappa  
+SIXTH edition 1973  
 {: .center }
 
 
