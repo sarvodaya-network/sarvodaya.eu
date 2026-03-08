@@ -336,3 +336,7 @@ main p {
   hr {
     margin: 50px 0;
   }
+
+  .subtext {
+    font-size: 14px;
+  }

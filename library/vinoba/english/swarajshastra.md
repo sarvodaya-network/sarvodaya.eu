@@ -26,10 +26,10 @@ Revised by Parag Cholkar
 ## OUTLINE OF CONTENTS
  
 1. [How many and of what kinds are the political theories and forms of political organisation prevailing in the world today?](#i-how-many-and-of-what-kinds-are-the-theories-and-forms-of-political-organisation-prevailing-in-the-world-today)
-2. [Examining the prevailing political systems from the practical point of view, which one of these is the better one?](#i-you-have-explained-all-this-theoretically-but-it-is-necessary-to-examine-nazism-fascism-and-communism-from-the-practical-point-of-view-which-one-of-these-is-the-better-one)
-3. [If the prevailing political systems are considered defective, what should be the characteristics of an ideal polity?](#i-if-the-prevailing-political-systems-are-considered-defective-what-should-be-the-characteristics-of-an-ideal-polity)
+2. [Examining the prevailing political systems from the practical point of view, which one of these is the better one?](#i-you-have-explained-all-this-theoretically--but-it-is-necessary-to-examine-nazism--fascism-and-communism-from-the-practical-point-of-view--which-one-of-these-is-the-better-one)
+3. [If the prevailing political systems are considered defective, what should be the characteristics of an ideal polity?](#i-if-the-prevailing-political-systems-are-considered-defective--what-should-be-the-characteristics-of-an-ideal-polity)
 4. [Can a polity based on nonviolence endure?](#iv-can-a-polity-based-on-nonviolence-endure)
-5. [When other nations are protagonists of violence, how can a single nation remain wedded to nonviolence?](#-v-when-other-nations-are-protagonists-of-violence-how-can-a-single-nation-remain-wedded-to-nonviolence)
+5. [When other nations are protagonists of violence, how can a single nation remain wedded to nonviolence?](#-v-when-other-nations-are-protagonists-of-violence--how-can-a-single-nation-remain-wedded-to-nonviolence)
 {: .roman }
 
 
@@ -189,6 +189,8 @@ A    B    C    AB BC CA BA CB AC   ABC ACB BAC BCA CAB CBA
 
 More than these 18 forms of political organization are not theoretically possible. We do see other forms bearing different names, for example, those based on race (rule of the Whites over the Blacks) or caste (rule of the caste Hindus over the non-caste Hindus), or religion (of the Christians over the Jews), or nationality (of England over India) or citizenship (of ancient Rome over others) etc. But the 18 forms enumerated above cover each one of them.
 
+---
+
 
 (B)
 {: .center }
@@ -276,6 +278,8 @@ To sum up, we may enumerate some criteria to judge a polity:
 9. The minimum possible arrangements for security and defence.
 10. Universal, uninterrupted, unbiased and free dissemination of knowledge.
 
+---
+
 
 (B)
 {: .center }
@@ -308,6 +312,7 @@ It is difficult to decide which one of these ideologies is better and why so. Pe
 People in Italy, Germany or Russia feel that they are happy today. We in India have been under foreign rule for a long time, our poverty is unparalleled and racial pride can be attractive to a tradition-bound society. Hence, in India there has sprung up a group favouring Communism which has sympathy for the poor as well as a group favouring organisation on communal lines. But if we think without any reference to the conditions in India, it must be said that Communism is more attractive to discerning minds and is more amenable to refinement than Nazism and Fascism.
 
 ¹ Peshwas, prime ministers of the Maratha kingdom of Satara (Maharashtra), virtually ruled the kingdom, which for some time extended up to Punjab in North-Western India. Their defeat by the British in 1818 A.D. led to the establishment of British hegemony over India.
+{: .subtext }
 
 ---
 
@@ -347,12 +352,12 @@ If public opinion has been formed in regard to some matter, a suitable law may b
 Today public opinion is against theft. It should also be against the accumulation and hoarding of wealth, and those who accumulate and hoard wealth should be considered fit to be restrained and punished by law. Such should be the public opinion. Good parents always teach their children that taking anything without permission is a grave wrong. Similarly, not giving something to the needy when they ask for it should be considered a moral lapse by the science of education. This is not a new idea, but it has not yet been put into practice. In an Upanishad, King Ashwapati, while describing the glory of his kingdom, says that there are neither thieves nor hoarders in his kingdom. He thus puts both of them in the same category, and suggests that thieves are the progeny of hoarders. It is not at all difficult to incorporate this idea in the legal framework.
 
 
-24. *The uses of wealth*
+### 24. *The uses of wealth*
 
 Expropriation of the rich is needlessly talked about. The rich, in fact, do not accumulate wealth for the sake of hoarding only. They seek it for status, happiness, secure future and well-being of their descendants, and to earn fame as philanthropists — for all or for at least some of these purposes. If they could have all these without any botheration, everyone of them would surely welcome this. Even today, the wealth of the wealthy is invariably shared among their partners, managers and such others. The rich know that their agents dupe them; but they comfort themselves with the idea that the agents must not be duping them too much. The political system should convincingly show the capable persons that their wealth is being used for the good of society, that they have no worries; rather they have an opportunity to think of the welfare of society; and as far as status and other things are concerned, these are not lessened a whit, rather they have more of everything, and that too in a true sense.
 
 
-25. *Example of the teaching community*
+### 25. *Example of the teaching community*
 
 In ancient India, the learned teacher was poor. But that does not mean that his outer life, not to speak of his inner life, was not happy. That he was free from riches meant that he was free from the worries associated with wealth. His pupils used to take adequate care of him. He wielded power even over the emperor, if needed. He did not let anyone control the education system. He enjoyed long life. Whether a class of such teachers actually existed may be disputed. But if it existed, it would not have been deficient in any way as far as status, happiness or glory are concerned. The teacher today teaches books; he does not teach students in the true sense. He has no place in the life of his students, nor have students any place in his life. He gets more money, but at the cost of affection. And that money ultimately reaches the pockets of doctors etc.! He is not better off with that money, and he loses an opportunity to serve the people as his services become expensive for them. The political system — that is, public opinion — should be such that everyone should readily realise that it is not in their interest to accumulate wealth by antagonising the people.
 
@@ -432,7 +437,7 @@ Non-cooperation and resistance are two stages of one and the same thing. The sec
 Although need for non-cooperation and resistance arises in a good State only occasionally and in particular contexts, they have a permanent place in the social life. For they are required not only in politics, but also more or less constantly in social life, family affairs and in dealings between different individuals. Nonviolent non-cooperation and resistance is the most appropriate middle way that avoids both the extremes of bearing injustice passively on one hand and resisting it violently in a fit of passion, indiscreetly or even calculatedly, on the other. The attitude of mind and the strength required for resisting injustice whenever necessary should be kept alive in the ethical code of society, irrespective of the quality of polity.
 
 
-38. *Education in non-cooperation*
+### 38. *Education in non-cooperation*
 
 For this purpose, children should be taught from the earliest years exceptions to general rules. For example, besides teaching their children to obey them humbly, parents should also tell them to disobey politely, if the orders go against the conscience. Public opinion should be in favour of such exceptions. As Manu has said, the wise should invariably follow eternal moral principles like truth and nonviolence, but rules of conduct need not be so followed. Such rules, whether they pertain to family, society or the nation, ought to be followed so long as they do not conflict with the fundamental principles; and should be disregarded politely when they go against the fundamental principles.  
 In a good social order, rules are not normally inconsistent with eternal principles. But when a machine is in operation, possibility of friction is always there. So also it is never the case that once an ideal State has been established, it can be trusted of itself to look after the people and make them happy while the people themselves comfortably fall asleep or go about with their eyes shut. Even if this is assumed to be possible, there can be no uplift of the individual in such a State; and therefore, by the grace of God, this is not possible.  
@@ -453,8 +458,7 @@ If the masses have to take an active part in politics, which has become so exten
 
 ### 41. *Only such unity is a permanent deterrent to evil-doers*
 
-The good individuals should naturally know how to wield this protective weapon of nonviolence, and it is their duty to educate the masses in this regard. The State should give them freedom to do this; if it does not, they should secure that freedom by impressing on the elite the importance of such
-freedom, and resorting to *satyagraha*, if necessary. All this is expected in a good polity.  
+The good individuals should naturally know how to wield this protective weapon of nonviolence, and it is their duty to educate the masses in this regard. The State should give them freedom to do this; if it does not, they should secure that freedom by impressing on the elite the importance of such freedom, and resorting to *satyagraha*, if necessary. All this is expected in a good polity.  
 It is not that the elite cannot have the attitude and power to wield nonviolence as much as violence. But when the masses are weak and the good individuals become indifferent, the elite alone are saddled with the responsibility of reining in the evil elements in society, and they can then see no way of countering violence of those elements other than counter-violence. But when the masses, the good individuals and the elite come together — and they have to come together in an all-embracing politics — it is not impossible to fight the evil elements nonviolently, howsoever organized they may be. And that alone is desirable too, as it leaves scope for destroying the root of the evil, that is, evil tendencies in the minds of those elements.  
 Evil elements within society can be effectively held in leash permanently only if the masses, the good individuals and the elite combine together on the basis of nonviolence; and they can never combine together except on that basis. They should thus combine together and permanently create awe in the minds of those elements. This is the main characteristic of a sound polity. All the other characteristics should, in comparison, be considered secondary. A polity will be like a beautiful but lifeless picture even if it has all the characteristics enumerated above except this main characteristic.
 
@@ -492,7 +496,7 @@ In short, we can enumerate the principles discussed so far as follows:
 7. The aggregate of service rendered by all individuals would be equal to the aggregate of security provided to them.
 
 
-46. *Reconciliation of differences in labour*
+### 46. *Reconciliation of differences in labour*
 
 An organisation based on these seven principles is not entirely unknown today. When groups of labourers in villages undertake a particular task, all of them do not do equal work, but they distribute the contract money more or less equally among themselves. In this arrangement, nobody can shirk work and an honest but weaker individual receives some concession. There is greater enthusiasm in work done collectively and it strengthens the feeling of brotherhood among the workers. It is not impossible to make this mode applicable to the whole of society.  
 Such an arrangement would perhaps pose no problem as far as different types of physical labour are concerned. But difficulty would arise with regard to commensurability of physical and mental work. The educated class is likely to create problems in this regard. But there should not be any difficulty if we take into account the security and satisfaction arising out of the feeling of brotherhood developed by such an arrangement. As regards inequality between wages of male and female workers is concerned, it has absolutely no foundation. Women work with more perseverence, care and creativity. On the other hand, they cannot do some tasks requiring much physical strength. Taking these two facts into account, there is no difficulty in having equality in the wages of men and women. Differences in men and women, in different kinds of physical labour, in physical and mental labour, in different kinds of mental labour — all these are on the same footing from the point of view of the nation. The real difference is between honesty and dishonesty; similarly difference between skilled and unskilled labour is inevitable. There is no question of protecting dishonesty, but the State does have the responsibility of reforming dishonest persons. This responsibility does entail provision of security. The State should also strive to develop the skills of workers. However, some tasks, by their very nature, need less skills, and they too are needed by the nation. They can be assigned to the less skilled labourers.
@@ -509,6 +513,7 @@ In this respect, Hinduism carried out a great experiment in form of the *varna* 
 An ideal polity will need to devise some such arrangement. The *varna* system, in essence, includes commensurate remuneration, lack of competition and a scheme of education and training that takes advantage of inherited dispositions. The first two are principles of great importance in economics and the third one belongs to the realm of sociology. Some find this third principle controversial. Even if it is so, the first two would remain unaffected, and they would have to be made foundations of the social order. And if the third one also proves to be true, as is very likely, on the basis of reflection and experience, the *varna* system would have to be revived, without any idea of superiority and inferiority and without any rigid framework.
 
 ² The four *varnas* as originally conceived, are not the same as the four "Castes" which Gandhi and Vinoba wanted to overcome, especially Vinoba, being born a Brahmin, has consciously done all kinds of stuff forbidden for his caste, both of them did the labour of a Shudra and so forth. In difference to the understanding of castes into which one is born, the original idea behind the *varnas* are ideal human "callings" with none of them being considered higher than another. One is not a Brahmin, a Kshatriya etc. by blood, but by calling and in some people more than one calling may combine. Inherited dispositions can for sure play a role in the formation of ones calling, but it always remains an individual calling and thus it can never be justified to force one into e.g. the callings of their parents by law. While they opposed the rigid and violent caste system giving rise to conflict and unjustified pride, they valued the ancient idea of the four *varnas* as interpreted by them. – Flosha
+{: .subtext }
 
 
 ### 49. *Essence important; not the form*
