@@ -148,6 +148,7 @@ body {
 
   main {
     display: flex;
+    max-width: 100%;
     flex-direction: column;
     justify-content: center;
     align-items: center;
@@ -309,11 +310,11 @@ main p {
 
   pre {
     margin-top: 50px;
-    margin-bottom: ;
   }
 
   code {
     font-size: 16px;
+    overflow-x: auto;
   }
 
 
@@ -340,3 +341,4 @@ main p {
   .subtext {
     font-size: 14px;
   }
+
