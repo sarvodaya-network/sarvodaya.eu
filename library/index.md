@@ -1,6 +1,6 @@
 # Library
 
-The library is a constant work in progress. We will constantly keep adding new books and articles and develop it further both in regard to its content as well as in regard to its presentation. 
+The library is a constant work in progress. We keep adding new books and articles and develop it further both in regard to its content as well as in regard to its presentation. 
 
 
 ## Vinoba
@@ -10,7 +10,7 @@ The library is a constant work in progress. We will constantly keep adding new b
 
 ### Philosophical & Spiritual Thought
 * Gita Pravachan / EN: [Talks on the Gita](/library/vinoba/english/Talks-on-the-Gita.pdf) / DE: [Gespräche über die Gita](/library/vinoba/deutsch/Gita-Pravachan_German.pdf) (Vinoba's Commentary on the Bhagavad-Gita, in many regards a spiritual foundation of Sarvodaya)
-<!--
+<!-- 
 * Steadfast Wisdom / Stithaprajna Darshan (more elaborate writing about how to achieve the steadfast wisdom described in the Gita)
 * Ishavasya Upanishad
 * Language Problem 
@@ -41,10 +41,13 @@ The library is a constant work in progress. We will constantly keep adding new b
 ### Revolutionary Thought
 * [Swaraj Shastra: The Principles of a Non-Violent Political Order](/library/vinoba/english/swarajshastra) (later described by Vinoba as "the grammar of Lokniti")
 * [Third Power](/library/vinoba/third-power.pdf)
-<!--* Democratic Values
-* Shanti Sena-->
+<!--
+* Democratic Values
+* Shanti Sena
+-->
 * [Swaraj & Lokniti](/library/vinoba/english/Swaraj-and-Lokniti.pdf)
-<!--* Gram-Swaraj
+<!--
+* Gram-Swaraj
 * Thoughts on Education
 * Woman's Power
 * Money is a Demon
