@@ -10,6 +10,7 @@ The library is a constant work in progress. We will constantly keep adding new b
 
 ### Philosophical & Spiritual Thought
 * Gita Pravachan / EN: [Talks on the Gita](/library/vinoba/english/Talks-on-the-Gita.pdf) / DE: [Gespräche über die Gita](/library/vinoba/deutsch/Gita-Pravachan_German.pdf) (his spiritual program)
+<!--
 * Steadfast Wisdom / Stithaprajna Darshan (more elaborate writing about how to achieve the steadfast wisdom described in the Gita)
 * Ishavasya Upanishad
 * Language Problem 
@@ -19,6 +20,7 @@ The library is a constant work in progress. We will constantly keep adding new b
 * All Religions Are Mine
 * Spirituality
 * Vinoba on Gandhi
+-->
 
 <!-- 
 ### "Essences" of Religion
@@ -37,26 +39,24 @@ The library is a constant work in progress. We will constantly keep adding new b
 -->
 
 ### Revolutionary Thought
-* [Swaraj Shastra: The Principles of a Non-Violent Political Order](/library/vinoba/swarajsastra.pdf) (later described by Vinoba as "the grammar of Lokniti")
+* [Swaraj Shastra: The Principles of a Non-Violent Political Order](/library/vinoba/english/swarajshastra) (later described by Vinoba as "the grammar of Lokniti")
 * [Third Power](/library/vinoba/third-power.pdf)
-* Democratic Values
-* Shanti Sena
-* [Swaraj & Lokniti](/library/vinoba/Swaraj-and-Lokniti.pdf)
-* Gram-Swaraj
+<!--* Democratic Values
+* Shanti Sena-->
+* [Swaraj & Lokniti](/library/vinoba/english/Swaraj-and-Lokniti.pdf)
+<!--* Gram-Swaraj
 * Thoughts on Education
 * Woman's Power
 * Money is a Demon
 * The Earth is the Lord's
-* Strands of a Vision / Fragments of A Vision
+* Strands of a Vision 
 * Satyagraha-Vichar
 * Sahitya-Vichar
 * Sarvodaya-Vichar
+-->
 
-
+<!--
 ## Lanza del Vasto
-
-
-
 
 ## Other Gandhian Thought
 
@@ -67,3 +67,12 @@ The library is a constant work in progress. We will constantly keep adding new b
 * Community of the Future (by Arthur E. Morgan)
 * Economy of Permanence (J.C. Kumarappa)
 * Capitalism, Socialism, Villagism (Bharatan Kumarappa)
+
+
+## Against Money
+
+* Money & Power, Jacques Ellul
+
+
+
+-->
