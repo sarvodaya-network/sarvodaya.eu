@@ -300,7 +300,7 @@ main p {
   @media (min-width: 1000px) {
     footer .left {
       width: 35%;
-       filter: invert(1) sepia(0.3) opacity(0.5) brightness(0.9);
+      /* filter: invert(1) sepia(0.3) opacity(0.5) brightness(0.9);*/
     }
     footer .right {
       width: 65%;
@@ -309,7 +309,7 @@ main p {
 
   @media (max-width: 1000px) {
     footer .left {
-      filter: invert(1) sepia(0.3) opacity(0.5) brightness(0.9);
+    /*  filter: invert(1) sepia(0.3) opacity(0.5) brightness(0.9);*/
     }
   }
 
