@@ -99,6 +99,15 @@ body {
       color: white;
     }  
 
+    header nav li:nth-of-type(1) a {
+      background: var(--bg-darker);
+      color: white;
+    }
+      header nav li:nth-of-type(1) a:hover {
+        background: white;
+        color: black;
+      }
+
     
 
 /* HEADER - SN LOGO ON LEFT SIDE 
@@ -112,11 +121,12 @@ body {
 
     header img {
       max-height: 70%/*55px*/; /* 80 minus 20 of padding */
-      filter: grayscale(1) brightness(2) invert(1);
+      /*filter: grayscale(1) brightness(2) invert(1);*/
     }
 
     header nav li a:hover img {
-      filter: none;
+      /*filter: none;*/
+      filter: grayscale(1) brightness(2) invert(1);
     }
 
 
