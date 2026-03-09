@@ -207,18 +207,19 @@
       border-left: 1px solid black;
     }
 
-    header nav li a:hover /*, header>section a:hover*/ {
+    header nav li a:hover, header>section a:hover {
       background: var(--bg-darker);
       /*color: var(--red);*/
       color: white;
     }
 
     header>section a {
-      background: var(--bg-darker);
+      /* background: var(--bg-darker); */
     }
   
     header>section a:hover {
-      background: white;
+      /* background: white; */
+
     }
 
 
@@ -402,7 +403,9 @@
 
 /* latest publications */
 h2 {
-  margin: 30px 0;
+  margin: 20px 0 10px;
+  border: 1px solid black;
+  padding: 10px;
 }
   
 .gallery {
