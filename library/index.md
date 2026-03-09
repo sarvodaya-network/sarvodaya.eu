@@ -9,7 +9,7 @@ The library is a constant work in progress. We will constantly keep adding new b
 * Vichar Photi / EN: Random Reflections / DE: [Gedanken](/library/vinoba/deutsch/Vichar-pothi_German.pdf)
 
 ### Philosophical & Spiritual Thought
-* Gita Pravachan / EN: [Talks on the Gita](/library/vinoba/english/Talks-on-the-Gita.pdf) / DE: [Gespräche über die Gita](/library/vinoba/deutsch/Gita-Pravachan_German.pdf) (his spiritual program)
+* Gita Pravachan / EN: [Talks on the Gita](/library/vinoba/english/Talks-on-the-Gita.pdf) / DE: [Gespräche über die Gita](/library/vinoba/deutsch/Gita-Pravachan_German.pdf) (Vinoba's Commentary on the Bhagavad-Gita, in many regards a spiritual foundation of Sarvodaya)
 <!--
 * Steadfast Wisdom / Stithaprajna Darshan (more elaborate writing about how to achieve the steadfast wisdom described in the Gita)
 * Ishavasya Upanishad
