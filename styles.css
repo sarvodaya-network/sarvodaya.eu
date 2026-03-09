@@ -246,7 +246,6 @@ main p {
     @media (min-width: 1000px) {
       footer .right {
         padding: 50px;
-        border-left: 1px solid black;
       }
     }
 

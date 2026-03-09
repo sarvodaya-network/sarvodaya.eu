@@ -60,7 +60,7 @@
       <!--We try to facilitate non-violent organisation in the regional level, international exchange of ideas and mutual aid. Our focus lies on serving the "last" first, but in the globalised society of today, our responsibility can no longer be limited to a specific country, because our style of living, our everyday decisions are affecting people on the other side of the earth too. We must not only focus on the help of those at the bottom of society, we must also focus on climate justice, we must promote self--->  
 </main>
 
-<h2>Latest Publications</h2>
+<h2>latest publications</h2>
 <section class="gallery">
   <figure>
     <a href="/library/vinoba/deutsch/Gita-Pravachan_German.pdf">
@@ -403,10 +403,13 @@
 
 /* latest publications */
 h2 {
-  margin: 20px 0 10px;
-  border: 1px solid black;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
   padding: 10px 20px;
   font-weight: normal;
+  width: 100%;
+ /*  background: #f2efe6;*/
+  text-align: center;
 }
   
 .gallery {
@@ -414,13 +417,17 @@ h2 {
   flex-wrap: nowrap;
   overflow-x: auto;
   /*white-space: nowrap;*/
-  max-width: 100%;
+  width: 100%;
   gap: 25px;
   /* margin-top: 30px; */
   background: #f2efe6;
   padding: 50px 20px;
   border-bottom: 1px solid black;
 }
+  .gallery:nth-of-type(1) {
+    background: rgb(61, 61, 61); /* rgb(99, 95, 93) */
+  }
+
   .gallery figure {
     height: 520px;
     position: relative;
@@ -443,38 +450,37 @@ h2 {
       bottom: 0;
       background: var(--bg-darker);
       filter: opacity(0.8);
-    } 
-  @media (min-width: 1000px) {
-    .gallery {
-      flex-wrap: wrap;
-      background: none;
-      border: none;
-      padding: 0;
-      justify-content: center;
-      overflow: hidden;
     }
+    
     .gallery img {
       transition: 0.3s ease;
     }
     .gallery img:hover {
-      filter: saturate(0) sepia(0.4);  
+      filter: saturate(1);  
+    }
+    
+  @media (min-width: 1000px) {
+    .gallery {
+      flex-wrap: wrap;
+      /*background: none;*/
+      border: none;
+      /*padding: 0;*/
+      justify-content: center;
+      overflow: hidden;
     }
   }
   
 .about {
   border-top: 1px solid black;
   margin-top: -1px;
-  margin-bottom: 60px;
-  padding: 30px 1em;
+  padding: 30px 1em 70px;
   font-size: 18px;
-  border-bottom: 1px solid black;
 }
     @media (min-width: 1000px) {
       .about {
         border-left: 1px solid black;
         padding-left: 50px;
         padding-right: 50px;
-        padding-bottom: 70px;
       }
     }
 
