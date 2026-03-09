@@ -208,10 +208,18 @@
       border-left: 1px solid black;
     }
 
-    header nav li a:hover, header>section a:hover {
+    header nav li a:hover /*, header>section a:hover*/ {
       background: var(--bg-darker);
       /*color: var(--red);*/
       color: white;
+    }
+
+    header>section a {
+      background: var(--bg-darker);
+    }
+  
+    header>section a:hover {
+      background: white;
     }
 
 
