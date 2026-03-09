@@ -10,7 +10,9 @@ The library is a constant work in progress. We keep adding new books and article
 
 ### Philosophical & Spiritual Thought
 * Gita Pravachan / EN: [Talks on the Gita](/library/vinoba/english/Talks-on-the-Gita.pdf) / DE: [Gespräche über die Gita](/library/vinoba/deutsch/Gita-Pravachan_German.pdf) (Vinoba's Commentary on the Bhagavad-Gita, in many regards a spiritual foundation of Sarvodaya)
+
 <!-- 
+
 * Steadfast Wisdom / Stithaprajna Darshan (more elaborate writing about how to achieve the steadfast wisdom described in the Gita)
 * Ishavasya Upanishad
 * Language Problem 
@@ -20,9 +22,12 @@ The library is a constant work in progress. We keep adding new books and article
 * All Religions Are Mine
 * Spirituality
 * Vinoba on Gandhi
+
 -->
 
+
 <!-- 
+
 ### "Essences" of Religion
 * Essence of the Christian Teachings / Christ-dharma-saar
 * Essence of the Qur'an / Kuran Saar
@@ -36,17 +41,19 @@ The library is a constant work in progress. We keep adding new books and article
 * Japuji
 * Manu-Shasanam
 * Vedamrut
+
 -->
 
 ### Revolutionary Thought
 * [Swaraj Shastra: The Principles of a Non-Violent Political Order](/library/vinoba/english/swarajshastra) (later described by Vinoba as "the grammar of Lokniti")
 * [Third Power](/library/vinoba/third-power.pdf)
+* [Swaraj & Lokniti](/library/vinoba/english/Swaraj-and-Lokniti.pdf)
+
+
 <!--
+
 * Democratic Values
 * Shanti Sena
--->
-* [Swaraj & Lokniti](/library/vinoba/english/Swaraj-and-Lokniti.pdf)
-<!--
 * Gram-Swaraj
 * Thoughts on Education
 * Woman's Power
@@ -56,9 +63,11 @@ The library is a constant work in progress. We keep adding new books and article
 * Satyagraha-Vichar
 * Sahitya-Vichar
 * Sarvodaya-Vichar
+
 -->
 
 <!--
+
 ## Lanza del Vasto
 
 ## Other Gandhian Thought
