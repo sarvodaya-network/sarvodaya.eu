@@ -99,6 +99,7 @@ body {
       color: white;
     }  
 
+/*
     header nav li:nth-of-type(1) a {
       background: var(--bg-darker);
       color: white;
@@ -107,7 +108,7 @@ body {
         background: white;
         color: black;
       }
-
+*/
     
 
 /* HEADER - SN LOGO ON LEFT SIDE 
