@@ -3,6 +3,11 @@
 The library is a constant work in progress. We keep adding new books and articles and develop it further both in regard to its content as well as in regard to its presentation. 
 
 
+## Sarvodaya
+
+* <a href="/library/sarvodaya/Integral-Revolution.pdf">Integral Revolution:</a> An Analytical Study of Gandhian Thought - Indu B. Tikekar
+
+
 ## Vinoba
 
 * [Moved by Love](/library/vinoba/english/movedbylove.pdf) (a carefully selected and well ordered anthology of autobiographic anecdotes by Kalindi, one of Vinobas closest associates)
@@ -85,6 +90,5 @@ The library is a constant work in progress. We keep adding new books and article
 
 * Money & Power, Jacques Ellul
 
-
-
 -->
+
