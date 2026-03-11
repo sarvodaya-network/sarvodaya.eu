@@ -8,8 +8,8 @@ The Sarvodaya Library is a constant work in progress. We keep adding new books a
 On the social philosophy and the vision of a non-violent social order, that we call *Sarvodaya* and the non-violent revolution fulfilling it. The books in this category are either directly dealing with *Sarvodaya* or have inspired it. 
 
 * [The Kingdom of God is Within You](https://www.gutenberg.org/files/43302/43302-h/43302-h.htm) (a christian anarchist treatise by Leo Tolstoj and the culmination of his philosophal thought, first published in Germany in 1894 after being banned in Russia; without its influence Gandhi wouldn't have done what he did, as it profoundly deepened his conviction in non-violence; consequentially the second Ashram founded by Gandhi (after the "Phoenix Farm") was called "Tolstoi Farm".)
-* [Unto This Last](https://www.gutenberg.org/files/36541/36541-h/36541-h.htm) (Essays by John Ruskin that deeply influenced Gandhi and inspired his idea of Sarvodaya)
-* [*Sarvodaya*, A Paraphrase of *Unto This Last*](/library/sarvodaya/untothislast-paraphrase.pdf) (by M. K. Gandhi)
+* [Unto This Last](https://www.gutenberg.org/files/36541/36541-h/36541-h.htm) (Essays by John Ruskin that deeply influenced Gandhi and inspired his idea of *Sarvodaya*)
+* [*Sarvodaya*](/library/sarvodaya/untothislast-paraphrase.pdf) ("A Paraphrase of *Unto This Last*" by M. K. Gandhi)
 * [Integral Revolution](/library/sarvodaya/Integral-Revolution.pdf): *An Analytical Study of Gandhian Thought* - Indu B. Tikekar
 * [Swaraj Shastra: The Principles of a Non-Violent Political Order](/library/vinoba/english/swarajshastra) (by Vinoba Bhave, who later described it as "the grammar of Lokniti")
 * [Third Power](/library/vinoba/third-power.pdf) (by Vinoba)
@@ -25,18 +25,18 @@ On the social philosophy and the vision of a non-violent social order, that we c
 * [The Conquest of Violence](https://archive.org/details/de-ligt-bart-the-conquest-of-violence/page/n7/mode/1up) (*An Essay on War and Revolution*, by Bart De Ligt)
 
 
-## samyavada
+## samanvaya
 
-*Samyavada* is a synthetical approach to thought, of seeking the higher truth and the common ground in the unity of life as an equal basis for action. When Satyagraha is overcoming conflict in action, Samyavada is overcoming ideological conflicts in thought. 
+*Samanvaya* is a synthetical approach to thought, of seeking the higher truth and the common ground in the unity of life as an equal basis for action. When *Satyagraha* is overcoming conflict in action, *Samanvaya* is overcoming ideological conflicts in thought. 
 
-* Vichar Photi / EN: Random Reflections / DE: [Gedanken](/library/vinoba/deutsch/Vichar-pothi_German.pdf) (Random short notes by Vinoba on diverse, mostly spiritual themes with an universal outlook, that can give an insight into the application of Samyavada in his thought)
+* Vichar Photi / EN: Random Reflections / DE: [Gedanken](/library/vinoba/deutsch/Vichar-pothi_German.pdf) (Random short notes by Vinoba on diverse, mostly spiritual themes with an universal outlook, that can give an insight into the application of *samanvaya* in his thought)
 
 
 ## samyayoga
 
-The metaphysical basis of Sarvodaya and a philosophy of life that upholds a true essence underlying all religion and any true spirituality. It has also been described by Vinoba as "Vedanta", but not in the common and Indian sense of the term, as the End and Essence of the *Vedas*, but as the Essence of all sacred Scripture, of all true teachings of the "unity of life", be it expressed in the Buddha Dhamma, in Christianity, in Islam or as well in any nominal "atheist" metaphysics, insofar as it is an expression of the same truth, which can just as well be done in non-religious terms. The insistence is on truth alone. <!-- This same basis can be found as well in the Buddhist Teachings, in the Christian Teachings, most profoundly expressed by Master Eckhart, and in the Teachings of Islam, perhaps most profoundly expressed by Ibn Arabi, in more mystical ways by Rumi. -->
+The metaphysical basis of *Sarvodaya* and a philosophy of life that upholds a true essence underlying all religion and any true spirituality. It has also been described by Vinoba as *Vedanta*, but not in the common and Indian sense of the term, as the End and Essence of the *Vedas*, but as the Essence of all sacred Scripture, of all true teachings of the "unity of life", be it expressed in the Buddha Dhamma, in Christianity, in Islam or as well in any nominal "atheist" metaphysics, insofar as it expresses the same truth, which can just as well be done in non-religious terms. The insistence is on truth alone. <!-- This same basis can be found as well in the Buddhist Teachings, in the Christian Teachings, most profoundly expressed by Master Eckhart, and in the Teachings of Islam, perhaps most profoundly expressed by Ibn Arabi, in more mystical ways by Rumi. -->
 
-* Gita Pravachan / EN: [Talks on the Gita](/library/vinoba/english/Talks-on-the-Gita.pdf) / DE: [Gespräche über die Gita](/library/vinoba/deutsch/Gita-Pravachan_German.pdf) (Vinoba's Commentary on the Bhagavad-Gita, in many regards a spiritual foundation of Sarvodaya)
+* Gita Pravachan / EN: [Talks on the Gita](/library/vinoba/english/Talks-on-the-Gita.pdf) / DE: [Gespräche über die Gita](/library/vinoba/deutsch/Gita-Pravachan_German.pdf) (Vinoba's Commentary on the Bhagavad-Gita, in many regards a spiritual foundation of *Sarvodaya*)
 
 
 ## vinoba
