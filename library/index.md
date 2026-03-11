@@ -5,7 +5,9 @@ The library is a constant work in progress. We keep adding new books and article
 
 ## Sarvodaya
 
-* <a href="/library/sarvodaya/Integral-Revolution.pdf">Integral Revolution:</a> An Analytical Study of Gandhian Thought - Indu B. Tikekar
+* [The Kingdom of God is Within You](https://www.gutenberg.org/files/43302/43302-h/43302-h.htm) - Leo Tolstoj
+* [Unto This Last](https://www.gutenberg.org/files/36541/36541-h/36541-h.htm) - John Ruskin
+* [Integral Revolution](/library/sarvodaya/Integral-Revolution.pdf): An Analytical Study of Gandhian Thought - Indu B. Tikekar
 
 
 ## Vinoba
