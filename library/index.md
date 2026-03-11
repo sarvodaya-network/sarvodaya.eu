@@ -20,6 +20,7 @@ On the social philosophy and the vision of a non-violent social order, that we c
 
 *Satyagraha* (insistence on truth) is the means to the end of a non-violent society, the non-resistance against evil and assistance for the Good, the destruction of the logic of violence through love. The books and articles contained here either deal with *Satyagraha* directly or are older writings that have preached the same or have dealt with aspects of it, before the term itself was coined. 
 
+* [Discourse on Voluntary Servitude](https://archive.org/details/0000-00-00-00-etienne-de-la-boetie-00_202201/1548-00-00_Discourse%20on%20Voluntary%20Servitude_1942_org/mode/1up) (from 1548 by Étienne de La Boétie)
 * [On the Duty of Civil Disobedience](https://www.gutenberg.org/files/71/71-h/71-h.htm) (Essay by Henry David Thoreau, originally released in 1849 under the title *Resistance to Civil Government*) 
 
 
