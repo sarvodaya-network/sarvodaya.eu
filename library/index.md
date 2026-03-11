@@ -7,7 +7,16 @@ The library is a constant work in progress. We keep adding new books and article
 
 * [The Kingdom of God is Within You](https://www.gutenberg.org/files/43302/43302-h/43302-h.htm) (Christianity not as a mystic religion but as a new theory of life, by Leo Tolstoj)
 * [Unto This Last](https://www.gutenberg.org/files/36541/36541-h/36541-h.htm) (Essays by John Ruskin)
+* [*Sarvodaya*, A Paraphrase of *Unto This Last*](/library/sarvodaya/untothislast-paraphrase.pdf) (by M. K. Gandhi)
 * [Integral Revolution](/library/sarvodaya/Integral-Revolution.pdf): An Analytical Study of Gandhian Thought - Indu B. Tikekar
+* [Swaraj Shastra: The Principles of a Non-Violent Political Order](/library/vinoba/english/swarajshastra) (by Vinoba Bhave, who later described it as "the grammar of Lokniti")
+* [Third Power](/library/vinoba/third-power.pdf) (by Vinoba)
+* [Swaraj & Lokniti](/library/vinoba/english/Swaraj-and-Lokniti.pdf) (by Vinoba)
+
+
+## Satyagraha
+
+* [On the Duty of Civil Disobedience](https://www.gutenberg.org/files/71/71-h/71-h.htm) (Essay by Henry David Thoreau, originally released in 1849 under the title *Resistance to Civil Government*) 
 
 
 ## Vinoba
@@ -15,7 +24,9 @@ The library is a constant work in progress. We keep adding new books and article
 * [Moved by Love](/library/vinoba/english/movedbylove.pdf) (a carefully selected and well ordered anthology of autobiographic anecdotes by Kalindi, one of Vinobas closest associates)
 * Vichar Photi / EN: Random Reflections / DE: [Gedanken](/library/vinoba/deutsch/Vichar-pothi_German.pdf)
 
-### Philosophical & Spiritual Thought
+
+## Samyayoga
+
 * Gita Pravachan / EN: [Talks on the Gita](/library/vinoba/english/Talks-on-the-Gita.pdf) / DE: [Gespräche über die Gita](/library/vinoba/deutsch/Gita-Pravachan_German.pdf) (Vinoba's Commentary on the Bhagavad-Gita, in many regards a spiritual foundation of Sarvodaya)
 
 <!-- 
@@ -48,16 +59,6 @@ The library is a constant work in progress. We keep adding new books and article
 * Japuji
 * Manu-Shasanam
 * Vedamrut
-
--->
-
-### Revolutionary Thought
-* [Swaraj Shastra: The Principles of a Non-Violent Political Order](/library/vinoba/english/swarajshastra) (later described by Vinoba as "the grammar of Lokniti")
-* [Third Power](/library/vinoba/third-power.pdf)
-* [Swaraj & Lokniti](/library/vinoba/english/Swaraj-and-Lokniti.pdf)
-
-
-<!--
 
 * Democratic Values
 * Shanti Sena
