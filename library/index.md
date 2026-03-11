@@ -5,6 +5,8 @@ The library is a constant work in progress. We keep adding new books and article
 
 ## Sarvodaya
 
+On the social philosophy and the vision of a non-violent society, that we call *Sarvodaya*. The books in this category are either directly dealing with *Sarvodaya* or have inspired it. 
+
 * [The Kingdom of God is Within You](https://www.gutenberg.org/files/43302/43302-h/43302-h.htm) (Christianity not as a mystic religion but as a new theory of life, by Leo Tolstoj)
 * [Unto This Last](https://www.gutenberg.org/files/36541/36541-h/36541-h.htm) (Essays by John Ruskin)
 * [*Sarvodaya*, A Paraphrase of *Unto This Last*](/library/sarvodaya/untothislast-paraphrase.pdf) (by M. K. Gandhi)
@@ -16,18 +18,29 @@ The library is a constant work in progress. We keep adding new books and article
 
 ## Satyagraha
 
+On the method of bringing Sarvodaya about; *Satyagraha* (insistence on truth) is the means to the end of a non-violent society, the non-violent fight, the non-resistance against evil and assistance for the Good, the destruction of the logic of violence through love. The books and articles contained here either deal with *Satyagraha* directly or are older writings that have preached the same or have dealt with aspects of it, before the term itself was coined. 
+
 * [On the Duty of Civil Disobedience](https://www.gutenberg.org/files/71/71-h/71-h.htm) (Essay by Henry David Thoreau, originally released in 1849 under the title *Resistance to Civil Government*) 
+
+
+## Samyavada
+
+*Samyavada* is a synthetical approach to thought, of always seeking the higher truth and the common ground as an equal basis, where Satyagraha is overcoming conflict in action, Samyavada is overcoming ideological conflicts in thought. 
+
+* Vichar Photi / EN: Random Reflections / DE: [Gedanken](/library/vinoba/deutsch/Vichar-pothi_German.pdf) (Random short notes by Vinoba on diverse, mostly spiritual themes with an universal outlook, that can give an insight into the application of Samyavada in his thought)
+
+
+## Samyayoga
+
+The metaphysical basis of Sarvodaya. Just as Sarvodaya and Satyagraha are in no way limited to India and are of international relevance, so Samyayoga is not particularly Indian. Samyayoga is a metaphysical basis and a philosophy of life that upholds a true essence underlying all religion and any true spirituality. It has also been described by Vinoba as "Vedanta", but not in the common sense of the term, as the End and Essence of the Vedas, but as the Essence of all true teachings of the "unity of life". This same basis can be found as well in the Buddhist Teachings, in the Christian Teachings, most profoundly expressed by Master Eckhart, and in the Teachings of Islam, perhaps most profoundly expressed by Ibn Arabi, in more mystical ways by Rumi. 
+
+* Gita Pravachan / EN: [Talks on the Gita](/library/vinoba/english/Talks-on-the-Gita.pdf) / DE: [Gespräche über die Gita](/library/vinoba/deutsch/Gita-Pravachan_German.pdf) (Vinoba's Commentary on the Bhagavad-Gita, in many regards a spiritual foundation of Sarvodaya)
 
 
 ## Vinoba
 
 * [Moved by Love](/library/vinoba/english/movedbylove.pdf) (a carefully selected and well ordered anthology of autobiographic anecdotes by Kalindi, one of Vinobas closest associates)
-* Vichar Photi / EN: Random Reflections / DE: [Gedanken](/library/vinoba/deutsch/Vichar-pothi_German.pdf)
 
-
-## Samyayoga
-
-* Gita Pravachan / EN: [Talks on the Gita](/library/vinoba/english/Talks-on-the-Gita.pdf) / DE: [Gespräche über die Gita](/library/vinoba/deutsch/Gita-Pravachan_German.pdf) (Vinoba's Commentary on the Bhagavad-Gita, in many regards a spiritual foundation of Sarvodaya)
 
 <!-- 
 
