@@ -7,10 +7,10 @@ The Sarvodaya Library is a constant work in progress. We keep adding new books a
 
 On the social philosophy and the vision of a non-violent social order, that we call *Sarvodaya* and the non-violent revolution fulfilling it. The books in this category are either directly dealing with *Sarvodaya* or have inspired it. 
 
-* [The Kingdom of God is Within You](https://www.gutenberg.org/files/43302/43302-h/43302-h.htm) (a christian anarchist treatise by Leo Tolstoj and the culmination of his philosophal thought, first published in Germany in 1894 after being banned in Russia; without its influence Gandhi wouldn't have done what he did, as it profoundly deepened his conviction in non-violence; in fact, as a result the second Ashram founded by Gandhi (after the "Phoenix Farm") was called "Tolstoi Farm"; a must-read.)
+* [The Kingdom of God is Within You](https://www.gutenberg.org/files/43302/43302-h/43302-h.htm) (a christian anarchist treatise by Leo Tolstoj and the culmination of his philosophal thought, first published in Germany in 1894 after being banned in Russia; without its influence Gandhi wouldn't have done what he did, as it profoundly deepened his conviction in non-violence; consequentially the second Ashram founded by Gandhi (after the "Phoenix Farm") was called "Tolstoi Farm".)
 * [Unto This Last](https://www.gutenberg.org/files/36541/36541-h/36541-h.htm) (Essays by John Ruskin that deeply influenced Gandhi and inspired his idea of Sarvodaya)
 * [*Sarvodaya*, A Paraphrase of *Unto This Last*](/library/sarvodaya/untothislast-paraphrase.pdf) (by M. K. Gandhi)
-* [Integral Revolution](/library/sarvodaya/Integral-Revolution.pdf): An Analytical Study of Gandhian Thought - Indu B. Tikekar
+* [Integral Revolution](/library/sarvodaya/Integral-Revolution.pdf): *An Analytical Study of Gandhian Thought* - Indu B. Tikekar
 * [Swaraj Shastra: The Principles of a Non-Violent Political Order](/library/vinoba/english/swarajshastra) (by Vinoba Bhave, who later described it as "the grammar of Lokniti")
 * [Third Power](/library/vinoba/third-power.pdf) (by Vinoba)
 * [Swaraj & Lokniti](/library/vinoba/english/Swaraj-and-Lokniti.pdf) (by Vinoba)
@@ -21,7 +21,8 @@ On the social philosophy and the vision of a non-violent social order, that we c
 *Satyagraha* (insistence on truth) is the means to the end of a non-violent society, the non-resistance against Evil and assistance for the Good, the destruction of the logic of violence through love. The books and articles contained either deal with *Satyagraha* directly or are older sources that have preached the same or aspects of it, before the term itself was coined in the 20th century. 
 
 * [Discourse on Voluntary Servitude](https://archive.org/details/0000-00-00-00-etienne-de-la-boetie-00_202201/1548-00-00_Discourse%20on%20Voluntary%20Servitude_1942_org/mode/1up) (from 1548 by Étienne de La Boétie)
-* [On the Duty of Civil Disobedience](https://www.gutenberg.org/files/71/71-h/71-h.htm) (Essay by Henry David Thoreau, originally released in 1849 under the title *Resistance to Civil Government*) 
+* [On the Duty of Civil Disobedience](https://www.gutenberg.org/files/71/71-h/71-h.htm) (Essay by Henry David Thoreau, originally released in 1849 under the title *Resistance to Civil Government*)
+* [The Conquest of Violence](https://archive.org/details/de-ligt-bart-the-conquest-of-violence/page/n7/mode/1up) (*An Essay on War and Revolution*, by Bart De Ligt)
 
 
 ## samyavada
