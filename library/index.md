@@ -7,7 +7,7 @@ The library is a constant work in progress. We keep adding new books and article
 
 On the social philosophy and the vision of a non-violent social order, that we call *Sarvodaya* and the non-violent revolution fulfilling it. The books in this category are either directly dealing with *Sarvodaya* or have inspired it. 
 
-* [The Kingdom of God is Within You](https://www.gutenberg.org/files/43302/43302-h/43302-h.htm) (Christianity not as a mystic religion but as a new theory of life, by Leo Tolstoj)
+* [The Kingdom of God is Within You](https://www.gutenberg.org/files/43302/43302-h/43302-h.htm) (a christian anarchist treatise by Leo Tolstoj and the culmination of his philosophal thought, first published in Germany in 1894 after being banned in Russia; without its influence Gandhi wouldn't have done what he did, as it profoundly deepened his conviction in non-violence; as a result the first Ashram founded by Gandhi was called "Tolstoj Farm".)
 * [Unto This Last](https://www.gutenberg.org/files/36541/36541-h/36541-h.htm) (Essays by John Ruskin)
 * [*Sarvodaya*, A Paraphrase of *Unto This Last*](/library/sarvodaya/untothislast-paraphrase.pdf) (by M. K. Gandhi)
 * [Integral Revolution](/library/sarvodaya/Integral-Revolution.pdf): An Analytical Study of Gandhian Thought - Indu B. Tikekar
