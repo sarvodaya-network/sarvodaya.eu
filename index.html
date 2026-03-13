@@ -168,7 +168,7 @@
     font-family: Helvetica;
     background: var(--bg-white); /* original: #f7f5ef;*/ /* darker: #c5baa5 */
     /* dacfba */
-      background-image: url(assets/bg-white.jpg);
+    /* background-image: url(assets/bg-white.jpg); */
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -219,15 +219,6 @@
       color: white;
     }
 
-    header>section a {
-      /* background: var(--bg-darker); */
-    }
-  
-    header>section a:hover {
-      /* background: white; */
-
-    }
-
 
   /* HEADER - SN LOGO ON LEFT SIDE */
 
@@ -250,7 +241,6 @@
 
     header>section img:hover {
       filter: none;
-      /* filter: grayscale(1) brightness(2) invert(1); */
     }
 
 
@@ -279,14 +269,6 @@
   header .subpages li {
     font-size: 24px;
   }
-  /*
-    header .subpages li:nth-of-type(1) {
-      background: var(--bg-lightest);
-    }
-    header .subpages li:nth-of-type(2) {
-      background: var(--bg-light);
-    }
-  */
 
   main {
     margin-top: 100px;    /* Sets Main under Mobile Header */
@@ -436,26 +418,19 @@ h2 {
   border-bottom: 1px solid black;
 }
   .gallery:nth-of-type(1) {
-    background: /*rgb(61, 61, 61)*/ /* rgb(99, 95, 93) */;
-    background-image: url(assets/bg-dark.jpg);
+    background: rgb(61, 61, 61) /* rgb(99, 95, 93) */;
   }
 
 
   .gallery figure {
     height: 520px;
     position: relative;
-    /*display: flex;
-    flex-direction: column;*/
   }
     .gallery img {
       height: 100%;
-      /* border: 1px solid black; */
-      /*object-fit: contain;*/
     }
     .gallery figcaption {
       width: 100%;
-     /* height: min-content; */
-      /*border: 1px solid black; */
       font-size: 13px;
       padding: 10px;
       position: absolute;
@@ -475,9 +450,7 @@ h2 {
   @media (min-width: 1000px) {
     .gallery {
       flex-wrap: wrap;
-      /*background: none;*/
       border: none;
-      /*padding: 0;*/
       justify-content: center;
       overflow: hidden;
     }
@@ -560,7 +533,6 @@ h2 {
     @media (min-width: 1000px) {
       footer .right {
         padding: 50px;
-        /*border-left: 1px solid black;*/
       }
     }
 
@@ -615,7 +587,6 @@ h2 {
   @media (min-width: 1000px) {
     footer .left {
       width: 35%;
-       /*filter: invert(1) sepia(0.3) opacity(0.5) brightness(0.9);*/
     }
     footer .right {
       width: 65%;
@@ -624,7 +595,6 @@ h2 {
 
   @media (max-width: 1000px) {
     footer .left {
-      /* filter: invert(1) sepia(0.3) opacity(0.5) brightness(0.9); */
     }
   }
 
@@ -641,7 +611,5 @@ h2 {
     background: var(--bg-darker);
     color: var(--bg-light);
   }
-
-  /* Todo: Add bg colors as extra classes */ 
   
 </style>
