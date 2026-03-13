@@ -6,10 +6,14 @@
 **1962**  
 {: .center }
 
+**Translation**:   
+Flosha, 2026  
+{: .center }
+
 
 ## Table of Content
 
-* [The Clear Eye](the-clear-eye.md)
+* [The Clear Eye](the-clear-eye)
 * On Truth
 * On the Original Error
 * Two Friends on a Bridge

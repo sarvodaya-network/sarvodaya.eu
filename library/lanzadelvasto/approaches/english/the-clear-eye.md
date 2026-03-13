@@ -1,4 +1,4 @@
-Approaches to the Inner Life  
+[Approaches to the Inner Life](index)  
 Lanza del Vasto  
 1962  
 
