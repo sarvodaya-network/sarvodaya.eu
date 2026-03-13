@@ -42,9 +42,6 @@ C'est la reconnaissance du soi en autrui.
 Qu'est-ce que la vérité de la religion?  
 C'est l'union avec l'unique Un, au fond de soi.  
 
-¹ Livre des morts (égyptien).  
-² Plotin.  
-
 Oui, qu'est-ce que la Vérité? C'est la transparence de la forme.  
 Il y a une chose qui, depuis l'aube de la pensée humaine, a toujours frappé les hommes d'étonnement, les a réveillés de leur éveil et de leur croyance en la réalité, c'est que toutes les nuits ils dorment et presque toutes les nuits ils rêvent. Et qu'après avoir rêvé ils se réveillent... Ah! ce n'était qu'un rêve! Et pendant que je rêvais, j'étais sûr d'être là, avec des personnes, avec des choses, avec des objets quelquefois plus réels qu'aucun objet réel, qui avaient un relief plus vif, qui avaient une densité d'existence... comme ces choses qu'on voit luire juste avant l'orage. Et puis, ce n'était rien, c'était tiré du fond de moi-même, ca a été enfoui, c'est parti: il n'en reste rien et bientôt plus même le souvenir. Mais les choses que je vois, cet arbre qui est là, dont je dis qu'il est là, ces personnes qui sont ici, est-il sûr qu'elles existent? A quoi cela se voit-il que ce sont des êtres? Car enfin, rien, ne ressemble plus à une image vraie qu'une image fausse. Mettez-les l'une à côté de l'autre et vous verrez!  
 Tout le problème de la vérité, c'est de connaître la différence entre l'image fausse et l'image vraie. Et si je vous ai défini la vérité en trois mots: "Dehors comme Dedans", disons tout de suite que l'image fausse, c'est celle qui n'a pas de dedans, qui n'a rien dedans ou qui n'a pas le dedans que je lui attribuais. Votre portrait sur un morceau de papier, oh! il est ressemblant, c'est saisissant! on dirait qu'il va parler! Mais je le retourne et je vois que derrière il est papier, tandis que si je vous retourne, je ne vois pas le papier (du moins j'espère).  
@@ -124,4 +121,5 @@ Vous voyez comme, dans le monde intérieur, toutes les parties se compénètrent
 Nous avons posé le Moi comme "faisant partie" (facon humaine et extérieure de parler), faisant partie du monde intérieur. C'est la partie du monde intérieur que nous pouvons saisir. Mais le monde intérieur est tout lié à lui-même. Si donc on en saisit une partie, on le saisit tout entier.  
 Si donc tu entres dans une partie, dans une parcelle, dans une étincelle, dans une goutte, dans un atome du monde intérieur, tu entres dans tout le monde intérieur. Et si tu as le bonheur et la grâce d'entrer dans ton moi qui est une étincelle, une goutte, un atome, une infime parcelle du monde intérieur, tu entres dans tout le monde intérieur. "*Noverim me, noverim Te...*" Ce qu'il fallait démontrer.  
 
-
+¹ Livre des morts (égyptien).  
+² Plotin.  
