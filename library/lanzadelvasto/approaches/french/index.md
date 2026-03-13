@@ -10,7 +10,7 @@
 ## Table
 
 * [L'oeil simple](l-oeil-simple)
-* De la vérité
+* [De la vérité](de-la-verite)
 * De l'erreur originelle
 * Deux amis sur un pont
 * De l'indifférence, de la distraction et du rappel
@@ -19,43 +19,11 @@
 * Du chemin de la conscience 
 * Connaissance, possession et don 
 * Des deux mains et des dix doigts 
-    <!--
-    1. De l'Attention, Index de la main droite.
-    2. De la verticale : Médius Droit.
-    3. De la Respiration: Annulaire.
-    4. De la Détente : Auriculaire.
-    5. De la Mèditation: Pouce droit. 
-    6. Du Respect: Index Gauche.
-    7. De la Dignité: Médius Gauche.
-    8. Du Rythme et de l'Harmonie: Annulaire Gauche.
-    9. Du Détachement: Petit Doigt Gauche.
-    10. De La Prière: Pouce de la Main Gauche.
-    -->
 * Tiens-toi droit 
 * De la détente pacifiante et libératrice 
-    <!--
-    * La détente et l'exercise
-    * Détente et concentration
-    * Détente et sécurité
-    * Détente et non-violence
-    * Détente et pensée
-    * Détente et décharge
-    -->
 * Du souffle dominateur et vivifiant
-    <!--
-    * Lecon du Sommeil 
-    * Des Rythmes Respiratoires
-    -->
 * [De la soumission du corps ou ascèse](de-la-soumission)
 * Des six démons du corps 
-    <!--
-    1. La Gourmandise.
-    2. L'ivrognerie.
-    3. La luxure.
-    4. La Paresse.
-    5. Saleté.
-    6. Couardise ou Lacheté.
-    -->
 * Du péché originel 
 * Des sept mammons
 * De la beauté du compromis 
@@ -72,11 +40,6 @@
 * De la hâte 
 * Des soucis 
 * De la non-violence active 
-    <!--
-    1. La solution des conflits.
-    2. La non-violence: Force de la justice.
-    3. Non-violence: Levier de la conversion. 
-    -->
 * Non-violence et défense légitime 
 * Le jugement de la ruche 
 * Non-violence et charité
