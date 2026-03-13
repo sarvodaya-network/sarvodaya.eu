@@ -1,0 +1,43 @@
+[Approches de la Vie Intérieure](index)  
+Lanza del Vasto  
+1962  
+
+
+# De la soumission du corps ou ascèse
+
+La place du corps dans la nature humaine est marquée dans le corps.  
+Il n'est, en effet, que de considérer le ventre, le ventre de convoitise, de besoin, de terreur, de voluptés basses, d'obscures douleurs et d'ordures: il est placé en dessous du coeur émotif et chaleureux qui est placé en dessous de la tête intelligente et lumineuse.  
+Or, le ventre est la partie la plus corporelle du corps et sa place dans le corps est la place du corps dans le tout: c'est la plus humble et la dernière.  
+Juste et sage donc celui-là seul qui met le corps à sa place qui est dessous, celui-là dont le corps est sous-mis.  
+Mis sous le joug, attelé à la besogne, adonné au service de l'esprit, réduit à l'état d'instrument et de véhicule.  
+Mais rares les justes et les sages. Chez la plupart des hommes normaux et moraux, coeur et tête sont affectés au service du corps. Presque jamais en eux le coeur ne parle, leur sentiment n'est que l'écho de quelque instinct. Leur tête est sans cesse occupée, préoccupée et parfois obsédée, obnubilés, affolée par le souci du corps.  
+Si vous vous trouvez vous-même ainsi la tête en bas, ne vous obstinez pas à faire l'acrobate inconscient, mais vivement redressez-vous!  
+Cette culbute perpétuelle, cette drôlerie sans gaieté, cette absurdité dont nul ne s'étonne, et dont à peine on s'aperçoit, c'est l'*Etat de péché* dans lequel nous naissons et habitons, c'est la persistance du péché originel.  
+La première difficulté, c'est de saisir et surprendre le ridicule et la scandale de notre posture.  
+Le jour de la conversion est le jour où l'on remarque avec stupeur que tout est à renverser, et ce renversement de toutes choses c'est de les remettre à l'endroit.  
+Les perspectives étant ainsi redressées, reste à dresser la bête.  
+C'est alors seulement que la bête montre l'oreille, que notre corps nous apparaît comme une bête à dompter. Car nous commençons à nous dégager d'elle. Dans notre état natif, notre état brut et vulgaire, nous nous confondions avec notre corps, et ses désirs étaient nos désirs, mais à présent nous savons que "la chair a des désirs contraires aux désirs de l'esprit" (saint Paul). Le travail de dégagement, de domination et de connaissance a commençé, qui s'appelle ascèse.  
+Je dis de *connaissance* car tant que je me confonds avec mon corps, je demeure dans l'ignorance et dans l'erreur. La conscience se fait dans la purification; se purifier, c'est sortir du mélange et s'affirmer comme une essence distincte. Je commence alors à me distinguer, c'est-à-dire à me voir.  
+Cependant, distinguer ne signifie pas séparer. Voir et connaître, c'est mettre un lien avec ce qu'on voit et connaît. En distinguant mon corps de moi-même, je ne romps pas avec lui, je ne le rejette pas: le repousser, le perdre, ce serait mourir, or je veux et dois vivre. Mais de lien que je garde entre moi et mon corps n'est pas un lien entre égaux: c'est un lien entre sujet et objet, entre intérieur et extérieur, entre supérieur et inférieur. Entretenir ce lien, retenir et maintenir mon corps dans ce lien, c'est le *dominer*.  
+Ce qu'il faut savoir, c'est que mon corps et moi, aussitôt que distincts, devenons deux êtres capables de s'affronter. Mon corps n'est pas un vase ni une masse de chair, mais c'est un animal et même, dans un certain sens, un homme. Il possède ou plutôt reconstitue une sensibilité, une volonté, une intelligence qui ne sont plus les miennes, et si je ne le domine pas, c'est lui qui me dominera.  
+Il est même fort vigilant et fort rusé. Pour peu que je me relâche il me fait prendre ses volontés pour les miennes. C'est pourquoi il est un motif constant de tentations, un démon gardien qui ne me lâche pas d'une semelle et dont j'oublie la présence jusqu'au moment où je m'aperçois qu'il est assis dans le fauteuil que j'occupe.  
+Il faut savoir, d'autre part, que si je parviens à garder mes distances, à gagner sur lui mon indépendance, je vais, non m'évaporer en abstraction, mais acquérir au contraire une consistance, une densité, un corps de vertus, ce "corps spirituel" dont saint Paul dit qu'il se forme "après le corps naturel" et que, "semé dans la corruption il renaîtra dans la gloire".  
+Il n'y a donc pas simplement en nous un esprit et un corps, mais encore un esprit du corps et un corps de l'esprit.  
+Ce qui nous ramène à l'image du cheval et du cavalier: deux êtres liés pour le temps de la course, mais dont le destin est d'aller en sens inverse.  
+L'âme qui ne s'est pas constitué un véhicule capable de la porter lors de sa séparation d'avec le corps naturel se trouvera en grand péril de naufrage.  
+C'est pourquoi l'ascèse, qui est la construction de l'Arche Intérieure, est l'indispensable préparation à la vie spirituelle.  
+Ainsi, dans une vie d'homme bien conduite, aussitôt sorti de l'enfance et de l'école, qui est préparation aux épreuves de la vie terrestre, on devrait entrer dans quelque discipline ascétique afin de se préparer à l'épreuve de la mort.  
+On appelle parfois l'ascèse *mortification*. Nous voici en état de mieux saisir le sens du terme. L'ascète fait des sondages et des voyages d'essai dans la mort, mais ce n'est pas la mort qu'il cherche, c'est l'entrée dans la vie éternelle.  
+Il ne recherche pas non plus la souffrance encore qu'il s'y enfonce hardiment, il cherche à la vaincre et à passer outre, il est en quête de joie, en bienheureux.  
+On appelle parfois l'ascèse *pénitence*, mais il y a là deux choses qu'il ne faut pas confrondre. On fait pénitence pour se purifier de fautes personnelles et occasionnelles, mais l'ascèse va bien plus loin, elle va toucher la racine du Péché qui subsisterait en nous-même si nous ne commettions aucune faute. Elle vise à la transformation de la nature.  
+L'ascèse va donc toujours contre le courant naturel. Mais elle va aussi contre tout ce qui est contre nature. Elle comprime la vie pour la faire rejaillir.  
+La médecine, de même, va contre nature, qui verse des drogues amères et des poisons, qui pique, brûle, coupe et parfois mutile. A dire vrai, l'ascèse est, même corporellement, la meilleure des médecines. Saint Antoine, le père des Pères du désert, mourut presque centenaire, et combien d'autres comme lui.  
+Eliminer l'alcool et la colère, la viande et l'acharnement, le tabac et la distraction, les coussins et la mollesse, la charcuterie et la politique, le pâté de foie et le souci, les truffes et l'hypocrisie, la voiture et la hâte, le grand train de maison et l'affairement, les succès et la vanité, les spectacles et le mensonge, les sucreries et les rêveries amoureuses, le homard à la mayonnaise et la méchanceté, la débauche et l'avarice, c'est éliminer autant de parasites, de miasmes et de maladies. Jeûner fréquemment, coucher sur la planche, se baigner à l'eau froide en hiver, régler la respiration, occuper les bras à de rudes travaux, nourrir le coeur de pensées généreuses, c'est tremper la fibre vitale, c'est se fortifier, non se détruire. Le goût de la souffrance est une maladie mentale et le suicide un crime: les renoncements furieux et incohérents ne sont que des passions aberrantes. Les épreuves de force et les exhibitions sont de sombres farces.  
+L'ascèse, au contraire, est une discipline: on ne peut sans danger s'y aventurer seul, à tâtons. Le danger vient de ce que la fatigue, la souffrance ou le dégoût ne servent plus d'avertissement, d'alarme ou de cran d'arrêt. Une discipline demande un maître. Il faut suivre un maître vivant ou au moins des règles traditionnelles interprétées avec prudence.  
+En latin, salut signifie aussi santé. Je ne dis pas que santé et sainteté aillent nécessairement de pair et que la maladie n'ait pas joué un rôle important (et parfois bienfaisant) dans la vie des saints. Mais il est dans l'ordre des choses qu'elles s'accordent. Quand la justice du Royaume est cherchée d'abord, la santé est un de ces biens qui, généralement, sont "donnés de surcroît".  
+Mais la fatique et la charge imposées au cheval par le cavalier le plus exigeant sont en même temps un guide, un stimulant et un soutien, tandis que la confusion du cavalier et du cheval est la ruine des deux.  
+C'est alors, en effet, que les puissances et les aspirations infinies de l'âme et de l'esprit deviennent pour le corps un embarras mortel et une calamité.  
+Il y a, dans l'ivrognerie, dans la luxure, dans l'orgueil, des poussées qui dépassent l'ordre animal et naturel. Ce sont les puissances de l'esprit et les fureurs ou les langueurs de l'âme empêtrée dans le corps qui piétinent là, se tordent et se démènent, deviennent corrosives et explosives et finissent par faire éclater l'enveloppe.  
+
+
+

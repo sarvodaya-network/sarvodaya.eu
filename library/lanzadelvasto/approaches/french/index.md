@@ -46,7 +46,7 @@
     * Lecon du Sommeil 
     * Des Rythmes Respiratoires
     -->
-* De la soumission du corps ou ascèse 
+* [De la soumission du corps ou ascèse](de-la-soumission)
 * Des six démons du corps 
     <!--
     1. La Gourmandise.
