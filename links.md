@@ -7,12 +7,21 @@
 * https://www.mettacenter.org/
 * https://www.mkgandhi.org/
 * https://vinoba.in 
+* [L’Association des Amis de Lanza del Vasto](https://www.lanzadelvasto.com/en/)
+* [Communauté de l'Arche](https://www.arche-nonviolence.eu/)
+* [Association Regain - La Borie Noble](https://www.association-regain.info/)
 * [BSV: Bund für Soziale Verteidigung](https://soziale-verteidigung.de/)
 * [Nonviolent Peaceforce](https://nonviolentpeaceforce.org/)
 * [PBI: Peace Brigades International](https://peacebrigades.org/en)
 * [CVG: Cure Violence Global](https://cvg.org/)
 * [graswurzel revolution](https://www.graswurzel.net/gwr/) *für eine gewaltfreie, herrschaftslose gesellschaft*
 * [War Resister's International](https://wri-irg.org/en)
+* [Participatory Methods](https://www.participatorymethods.org/)
+* [institute of development studies](https://www.ids.ac.uk/)
+* [State Free](https://statefree.world)
+
+
+<!--[Fossil Free ECAs](https://www.fossilfreeecas.org/)-->
 
 
 ## Interviews
