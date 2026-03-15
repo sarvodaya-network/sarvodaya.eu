@@ -9,25 +9,24 @@ The programme is put into practice by a free association consisting of independe
 
 ---
 
-1. Spiritual liberation as the necessary basis of everything else, as social equality and peace can only be achieved through individual equanimity of the mind and peace within. Training in virtue, sense restraint, sacrifice, dana, tapas etc. 
+1. Spiritual liberation as the necessary basis of everything else, as social equality and peace can only be achieved through individual equanimity of mind and peace within. Training in virtue, ascesis, sense restraint, sacrifice, dana, tapas etc. 
 2. Nai Talim / New Education through Craft and Agriculture/Gardening / Liberation of Thinking including digital education. 
-3. Economical Liberation by Self-Sufficiency through local collectives, revival of craftsmenship, collective ownership of the means of production, decentralisation and independence in digital infrastructure and communication (fsocial); decentralisation of wealth through trusteeship (Vishvastavritti), non-possession (deliberate poverty), Swadeshi, Khadi etc., overcoming the ownership of land, approaching the housing problem (including local self-build huts and yurts adjusted to local needs), low tech, small high-tech, shared use and repairr with Kanchan-Mukti (liberation from money) as the final step. 
-4. Liberation from Power / Coercive Authority through Self-Rule (Swaraj) in form of Lok-Niti (Peoples Power, instead of a nominal democracy driven by Party Politics) through the establishment of local councils and the Shanti Sena (Peace Army) maintained through the Sarvadaya Patra(?), with the liberation from the state as the final step.  
+3. Economical Liberation by Self-Sufficiency through local collectives, revival of craftsmenship, collective ownership of means of production, decentralisation and independence in digital infrastructure and communication (see [fsocial](https://fsoci.al)); decentralisation of wealth through trusteeship (*Vishvastavritti*), non-possession (deliberate poverty), Swadeshi, Khadi etc., overcoming the ownership of land, approaching the housing problem (including local self-build huts and yurts adjusted to local needs), low tech, small high-tech, shared use and repair, with *Kanchan-Mukti* (liberation from money) as the final step. 
+4. Liberation from Power / Coercive Authority through Self-Rule (*Swaraj*) in form of *Lok-Niti* (Peoples Power, instead of a nominal democracy driven by Party Politics) through the establishment of local councils and the *Shanti Sena* (Peace Army) maintained through the *Sarvadaya Patra*, with the liberation from the state as the final step.  
 
 
 ## Revival of Craft
 
-Focused on the most essential needs first. Clothing (spinning, weaving, knitting, tailoring, shoe-making and the production of the flax, hemp, cotton, wool), Agriculture & Gardening (Permaculture). 
+Focused on the most essential needs first. Clothing (spinning, weaving, knitting, tailoring, shoe-making and the production of the flax, hemp, cotton, wool) necessary for clothing production. Agriculture & Gardening (Permaculture). 
 
 
 ## Housing
 
-The non-violent/Sarvodaya approach to the housing problem.
-
+Non-violent/Sarvodaya approach to the housing problem:  
 * Sharing of space. 
 * Legal occupation of unused buildings; if buildings are let broken down and abused for profit, local Satyagrahas can be initiated.
-* Construction of Yurts adapted to regional needs) as low-impact, low-ressource, cheap and independent options for living.
-* Against Bureaucracy: Trying to simplify the process of yurt construction legally by setting necessary standards of hygiene, compost etc. instead of enforcing a connection to the sewer system. 
+* Construction of Yurts (adapted to regional needs) as low-impact, low-ressource, cheap and independent options for living.
+* Against Bureaucracy: Trying to simplify the process of yurt/kurti/hut construction legally by setting necessary standards of hygiene, compost etc. instead of enforcing a connection to the sewer system. 
 * Tackling the problem of ownership of land.
 
 

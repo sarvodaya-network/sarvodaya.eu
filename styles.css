@@ -343,8 +343,9 @@ main p {
   }
 
   main a:hover {
-    background: var(--bg-dark);
-    color: var(--bg-light);
+    background: var(--bg-darker);
+    color: var(--bg-white);
+    text-decoration: none;
   }
 
   main ul, main ol {
