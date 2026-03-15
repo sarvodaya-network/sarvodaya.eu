@@ -1,0 +1,44 @@
+[Approaches to the Inner Life](index)  
+Lanza del Vasto  
+1962  
+
+
+# On the Submission of the Body or Askesis 
+
+The place of the body in human nature is marked in the body.  
+We only have to consider the belly, the belly of lust, of need, of terror, of low voluptuousness, of obscure pains and garbage: it is placed below the emotional and warm heart which is placed below the intelligent and luminous head.  
+The belly is the most corporeal part of the body and its place in the body is the place *of* the body in the whole: it is the humblest and the last.  
+Just and wise, therefore, is the one alone who puts the body in its place which is underneath, the one whose body is submitted ("put under").  
+Put under the yoke, harnessed to the work, devoted to the service of the spirit, reduced to the state of an instrument and vehicle.  
+
+But few are the righteous and the wise. In most normal and moral men, heart and head are assigned to the service of the body. Almost never the heart speaks in them, their feeling is only the echo of some instinct. Their head is constantly busy, preoccupied and sometimes obsessed, controlled, distraught by concern for the body. If you find yourself upside down like this, don't persist meming the unconscious acrobat, but quickly straighten up! This perpetual tumbling, this fun without merriment, this absurdity of which no one is surprised, and which we hardly notice, is the *state of sin* in which we are born and dwell in, it is the persistence of the original sin.  
+
+The first difficulty is to grasp and surprise the ridicule and the scandal of our posture.  
+The day of conversion is the day when we notice with amazement that everything is to be overthrown, and this overthrow of all things is to put them back in place. With the prospects thus straightened out, it remains to train the beast.  
+It is only then that the beast shows its ear, that our body appears to us as a beast to be tamed. For we are beginning to disengage from it. In our native state, our crude and vulgar state, we confused ourselves with our body, and its desires were our desires, but now we know that "the flesh has desires contrary to the desires of the spirit" (Saint Paul). The work of liberation, domination and knowledge has begun, which is called askesis.  
+I say *knowledge* because as long as I get confused with my body, I remain in ignorance and in error. Consciousness takes place in purification; to purify oneself is to get out of the mix and assert oneself as a distinct essence. I then begin to distinguish myself, that is, to see myself.  
+However, to distinguish does not mean to separate. To see and to know is to put a link with what we see and know. By distinguishing my body from myself, I do not break with it, I do not reject it: to push it away, to lose it, would be to die, but I want and must live. But the link that I keep between me and my body is not a link between equals: it is a link between subject and object, between interior and exterior, between superior and inferior. To maintain this bond, to retain and maintain my body in this bond, is to *dominate* it.  
+
+What you need to know is that my body and I, as soon as we are distinct, become two beings capable of confronting each other. My body is not a vase or a mass of flesh, but it is an animal and even, in a certain sense, a man. He possesses or rather reconstitutes a sensitivity, a will, an intelligence that are no longer mine, and if I do not dominate him, he will dominate me. He is even very vigilant and very cunning. As long as I relax, he makes me take his wishes for mine. That is why he is a constant reason for temptations, a guardian demon who does not let go of me and whose presence I forget until the moment I realize that he is sitting in the armchair I occupy.  
+On the other hand, it must be kept in mind that if I manage to keep my distance, to gain my independence from him, I will not evaporate into abstraction, but on the contrary acquire a consistency, a density, a body of virtues, this "spiritual body" of which Saint Paul says that it is formed "after the natural body" and that, "sown in corruption, it will be reborn in glory". So there is not simply a spirit and a body in us, but also a spirit of the body and a body of the spirit.  
+Which brings us back to the image of the horse and the rider: two beings linked for the duration of the race, but whose destiny is to go in opposite direction.  
+The soul which has not constituted itself a vehicle capable of carrying it during its separation from the natural body, will find itself in great danger of sinking. That is why askesis, which is the construction of the *Inner Ark*, is the indispensable preparation for spiritual life.  
+Thus, in a well-led human life, immediately after leaving childhood and school, which is preparation for the trials of earthly life, one should enter into some ascetic discipline in order to prepare for the test of death.  
+
+Ascesis is sometimes called *mortification*. Here we are in a state of better understanding the meaning of the term. The ascetic makes surveys and trial trips into death, but it is not death that he seeks, it is the entrance into eternal life.  
+Nor does he seek suffering, even though he boldly sinks into it, he seeks to conquer and to overcome it, he is in search of joy, in the blessed.  
+Ascesis is sometimes called *penance*, but there are two things here that should not be confused. We do penance to purify ourselves of personal and occasional faults, but askesis goes much further, it will touch the root of the Sin that would remain in us even if we did not commit any fault. It aims at the transformation of nature.  
+Ascesis therefore always goes against the natural current. But it also goes against everything that is unnatural. It compresses life to renew it.  
+Medicine, likewise, goes against nature, which pours bitter drugs and poisons, which stings, burns, cuts and sometimes mutilates. To tell the truth, askesis is, even physically, the best medicine. Saint Anthony, the father of the Desert Fathers, died almost a hundred years old, and how many others like him...  
+Eliminating alcohol and anger, meat and relentlessness, tobacco and distraction, cushions and slackness, sausages and politics, liver pie and worry, truffles and hypocrisy, cars and the haste, the big house train and busyness, successes and vanity, shows and lies, sweets and romantic daydreams, lobster with mayonnaise and meanness, debauchery and avarice, means eliminating many parasites, miasma and diseases. To fast frequently, to lie down on the plank, to bathe in cold water in winter, to regulate breathing, to occupy the arms with hard work, to nourish the heart with generous thoughts, is to soak the vital fiber, it is to strengthen oneself, not to destroy oneself. The taste for suffering [or inlince towards] is a mental illness and suicide a crime: furious and incoherent renunciations are just aberrant passions. Trials of strength and the exhibitions are dark farces.  
+
+Ascesis, on the contrary, is a discipline: one cannot safely venture into it alone by trial and error. The danger comes from the fact that fatigue, suffering or disgust no longer serve as a warning, alarm or stop sign. A discipline requires a master. It is necessary to follow a living master or at least traditional rules interpreted with caution.  
+In Latin, *salut* (salvation) also means health (*salus*)¹. I am not saying that health and holiness necessarily go hand in hand and that illness did not play an important (and sometimes beneficial) role in the lives of the saints. It is in the *order* of things that they accord. When the justice of the Kingdom is sought first, health is one of those goods that, generally, are "given in addition".  
+But the fatique and the load imposed on the horse by the most demanding rider are at the same time a guide, a stimulus and a support, while the confusion of the rider and the horse is the ruin of both.  
+It is then, in fact, that the infinite powers and aspirations of the soul and the spirit become for the body a mortal embarrassment and a calamity.  
+There are, in drunkenness, in lust, in pride, outbreaks that go beyond the animal and natural order. It is the powers of the spirit and the furies or the languors of the soul entangled in the body that trample there, twist and scramble, become corrosive and explosive and finally burst the envelope. 
+
+¹ **Translator:** What Lanza points out here in the original French may in English be illustrated better by the connection of the "Saint" and "Sanity", of *sane* and *saintly*, just as in *healing* and *holy*. In German as well we have the connection of "Heil" (Salve), "Heilung" (Healing; but in the spiritual sense salvation) and "Heiliger" (the saint, in English one who is *holy*).  
+
+
+
