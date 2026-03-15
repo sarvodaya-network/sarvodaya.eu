@@ -342,6 +342,11 @@ main p {
     color: inherit;
   }
 
+  main a:hover {
+    background: var(--bg-dark);
+    color: var(--bg-light);
+  }
+
   main ul, main ol {
     padding-left: 1.5em;
   }
