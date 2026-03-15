@@ -30,6 +30,8 @@ On the social philosophy and the vision of a non-violent social order, that we c
 *Samanvaya* is a synthetical approach to thought, of seeking the higher truth and the common ground in the unity of life as an equal basis for action. When *Satyagraha* is overcoming conflict in action, *Samanvaya* is overcoming ideological conflicts in thought. 
 
 * Vichar Photi / EN: Random Reflections / DE: [Gedanken](/library/vinoba/deutsch/Vichar-pothi_German.pdf) (Random short notes by Vinoba on diverse, mostly spiritual themes with an universal outlook, that can give an insight into the application of *samanvaya* in his thought)
+* [Moved by Love](/library/vinoba/english/movedbylove.pdf) (a carefully selected and well ordered anthology of autobiographic anecdotes by Kalindi, one of Vinobas closest associates; Gandhi said: "My life is my message". By learning from the life of others, we learn about their ideas, how they put ideas into practice, how their ideas were formed and merged; especially Vinobas life was a constant synthesis in practice.)
+
 
 
 ## samyayoga
@@ -38,11 +40,6 @@ The metaphysical basis of *Sarvodaya* and a philosophy of life that upholds a tr
 
 * Gita Pravachan / EN: [Talks on the Gita](/library/vinoba/english/Talks-on-the-Gita.pdf) / DE: [Gespräche über die Gita](/library/vinoba/deutsch/Gita-Pravachan_German.pdf) (Vinoba's Commentary on the Bhagavad-Gita, in many regards a spiritual foundation of *Sarvodaya* from the Hindu perspective)
 * [Approches de la Vie Intérieure](/library/lanzadelvasto/approaches/french) / EN: [Approaches to the Inner Life](/library/lanzadelvasto/approaches/english) / DE: Annäherungen an das Innere Leben (a selection of speeches and writings by Lanza del Vasto (aka "Shantidas") from 1962, about the basics of internal training)
-
-
-## vinoba
-
-* [Moved by Love](/library/vinoba/english/movedbylove.pdf) (a carefully selected and well ordered anthology of autobiographic anecdotes by Kalindi, one of Vinobas closest associates)
 
 
 <!-- 
@@ -111,3 +108,20 @@ The metaphysical basis of *Sarvodaya* and a philosophy of life that upholds a tr
 
 -->
 
+<style>
+
+main {
+  font-family: helvetica;
+}
+
+main h1 {
+    padding: 1em 0 0;
+    font-size: 50px;
+}
+
+main h2 {
+  padding: 1.5em 0 0;
+  font-size: 40px;
+}
+
+</style>
