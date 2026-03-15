@@ -123,3 +123,4 @@ Si donc tu entres dans une partie, dans une parcelle, dans une étincelle, dans 
 
 ¹ Livre des morts (égyptien).  
 ² Plotin.  
+{: .subtext }

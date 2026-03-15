@@ -363,3 +363,10 @@ main p {
     font-size: 14px;
   }
 
+  blockquote {
+    padding: 20px 30px 20px;
+  }
+
+  .subtext blockquote {
+    padding: 0 20px;
+  }
