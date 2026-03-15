@@ -4,9 +4,9 @@
 
 * [Sarva Seva Sangh](https://sarvasevasangh.in/sarva-seva-sangh/) (since March, 1948)
 * [Sarva Seva Sangh Prakashan](https://www.sssprakashan.com/)
-* https://www.mettacenter.org/
-* https://www.mkgandhi.org/
-* https://vinoba.in 
+* [mkgandhi.org](https://www.mkgandhi.org/)
+* [vinoba.in](https://vinoba.in)
+* [Metta Center *for* Nonviolence](https://www.mettacenter.org/)
 * [L’Association des Amis de Lanza del Vasto](https://www.lanzadelvasto.com/en/)
 * [Communauté de l'Arche](https://www.arche-nonviolence.eu/)
 * [Association Regain - La Borie Noble](https://www.association-regain.info/)
@@ -14,7 +14,7 @@
 * [Nonviolent Peaceforce](https://nonviolentpeaceforce.org/)
 * [PBI: Peace Brigades International](https://peacebrigades.org/en)
 * [CVG: Cure Violence Global](https://cvg.org/)
-* [graswurzel revolution](https://www.graswurzel.net/gwr/) *für eine gewaltfreie, herrschaftslose gesellschaft*
+* [graswurzel revolution](https://www.graswurzel.net/gwr/) <!--*für eine gewaltfreie, herrschaftslose gesellschaft*-->
 * [War Resister's International](https://wri-irg.org/en)
 * [Participatory Methods](https://www.participatorymethods.org/)
 * [institute of development studies](https://www.ids.ac.uk/)
@@ -26,21 +26,21 @@
 
 ## Interviews
 * [Satish Kumar: Like Water](https://monk.gallery/interviews/satish-kumar-like-water/)
-* [#VoicesOfPeace: Interview with Faisal Khan](https://www.youtube.com/watch?v=8M2ttb4UJQU)
+* [Voices Of Peace: Interview with Faisal Khan](https://www.youtube.com/watch?v=8M2ttb4UJQU)
 
 
 ## Speeches
-* Bacha Khan Baba Historical Speech: https://www.youtube.com/watch?v=eFPQS24lhsc
+* [Bacha Khan Baba, Historical Speech](https://www.youtube.com/watch?v=eFPQS24lhsc)
 * [TEDx Shekhaw: Faisal Khan, Khudai Khidmatgar](https://www.youtube.com/watch?v=eLn9lvl7yLI)
 * [Uttar Pradesh's Darkest Days, Faisal Khan](https://www.youtube.com/watch?v=1AIorjyrUQE)
 
 
 ## Media
 
-* Turning Vision into Strategy: https://www.youtube.com/watch?v=Gfy5rXE20r8
-* Following the Footsteps of Gandhi - Geeta Mehta: https://www.youtube.com/watch?v=6k05GqsriKg
-* July 30, 2025 Nonviolence Report: https://www.youtube.com/watch?v=aE3wIJvOGac
-* The Nonviolence Report with Michael Nagler: https://www.youtube.com/watch?v=NyAiwFux5S0
+* [Turning Vision into Strategy](https://www.youtube.com/watch?v=Gfy5rXE20r8)
+* [Following the Footsteps of Gandhi - Geeta Mehta](https://www.youtube.com/watch?v=6k05GqsriKg)
+* [July 30, 2025 Nonviolence Report](https://www.youtube.com/watch?v=aE3wIJvOGac)
+* [The Nonviolence Report with Michael Nagler](https://www.youtube.com/watch?v=NyAiwFux5S0)
 
 
 ### Vinoba
@@ -71,11 +71,9 @@
 * [Lanza del Vasto on Relationships](https://www.youtube.com/watch?v=c9W6f2e4HBw)
 * [Ep 145 Peace Stuff: Architects of Enough - Lanza del Vasto, the Silent Revolution](https://www.youtube.com/watch?v=T0KSB9cj1pU)
 * [Une entrevue de 1957 avec Lanza Del Vasto](https://www.youtube.com/watch?v=NHB0TKUYK_8)
-* https://www.youtube.com/watch?v=lgB7uE_Fdh8
-* Visite #3 - L'Arche de la Fleyssiere: https://www.youtube.com/watch?v=Kf12CQ_x-Us
+* [L'Arche de la Fleyssiere](https://www.youtube.com/watch?v=Kf12CQ_x-Us)
 * [Diaporama "Lanza del asto, poète et artiste" - 2006 - par Louis Campana](https://www.youtube.com/watch?v=0coOL9tcse0)
 * [En 1971, le philosophe Lanza del Vasto discute avec deux jeunes du Québec](https://www.youtube.com/watch?v=G1gr1-5-aNE)
-* https://www.youtube.com/watch?v=DHETpbxo0CQ
 * [Funeral of Italian Pacifist Guiseppe Lanza del Vasto](https://www.youtube.com/watch?v=lgB7uE_Fdh8)
-* [Benoît Huyghe | Qui est Lanza del Vasto, le Ghandi français?](https://www.youtube.com/watch?v=tQy-742ywso)
+* [Benoît Huyghe / Qui est Lanza del Vasto, le Ghandi français?](https://www.youtube.com/watch?v=tQy-742ywso)
 * [Journées Paysannes du 18 février 2018 : Arche de Gwenves](https://www.youtube.com/watch?v=kesnBhpwrrA)
