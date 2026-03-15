@@ -415,7 +415,6 @@ h2 {
   /* margin-top: 30px; */
   background: #f2efe6;
   padding: 50px 20px;
-  border-bottom: 1px solid black;
 }
   .gallery:nth-of-type(1) {
     background: rgb(61, 61, 61) /* rgb(99, 95, 93) */;
@@ -450,13 +449,12 @@ h2 {
   @media (min-width: 1000px) {
     .gallery {
       flex-wrap: wrap;
-      border: none;
       justify-content: center;
       overflow: hidden;
     }
 
     .gallery:nth-of-type(2) {
-      border-bottom: 1px solid black;
+      /*border-bottom: 1px solid black;*/
     }
   }
   
@@ -517,8 +515,10 @@ h2 {
   }
     @media (min-width: 1000px) {
       footer {
+        /* width: 70%; */
         flex-direction: row;
         border-top: 1px solid black;
+        /* border: 1px solid black; */
       }
     }
 
