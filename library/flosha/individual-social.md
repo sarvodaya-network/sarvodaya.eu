@@ -298,8 +298,18 @@ This is the actual imperative, for every individual and every society: Choose a 
 
 
 
+### The Internal Life, the individual Training
+
+"truth is a pathless land".
+there is no outer authority. 
 
 
+The teaching of Krishnamurti is not *really* in conflict with the early teachings of the Buddha. 
 
+> "live "psychologically alone [...] without depending on anything or anyone",
+
+Krishnamurti summarising his teaching:
+> "Attempt without effort to live with death in futureless silence"
+> Explanining this: "death is the end of all you are afraid to lose: Your attachments, your memory, your disappeared friends, your prestige [...] All that is the content of your consciousness. Can you get rid of it right now?
 
 

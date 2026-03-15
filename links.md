@@ -2,6 +2,8 @@
 
 ## Projects, Organisations, Initiatives
 
+* [Sarva Seva Sangh](https://sarvasevasangh.in/sarva-seva-sangh/) (since March, 1948)
+* [Sarva Seva Sangh Prakashan](https://www.sssprakashan.com/)
 * https://www.mettacenter.org/
 * https://www.mkgandhi.org/
 * https://vinoba.in 
@@ -10,6 +12,7 @@
 * [PBI: Peace Brigades International](https://peacebrigades.org/en)
 * [CVG: Cure Violence Global](https://cvg.org/)
 * [graswurzel revolution](https://www.graswurzel.net/gwr/) *für eine gewaltfreie, herrschaftslose gesellschaft*
+* [War Resister's International](https://wri-irg.org/en)
 
 
 ## Interviews
