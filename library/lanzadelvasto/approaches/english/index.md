@@ -14,9 +14,9 @@ Flosha, 2026
 ## Table of Content
 
 * [The Clear Eye](the-clear-eye)
-* On Truth
+* [On Truth](on-truth)
 * On the Original Error
-* Two Friends on a Bridge
+* [Two Friends on a Bridge](two-friends-on-a-bridge)
 * On Indifference, Distraction and on Remembrance <!-- or on the Rappel -->
 * On Personality and Person 
 * On the Four Circles of Knowledge and the Point
