@@ -361,6 +361,7 @@ main p {
 
   .subtext {
     font-size: 14px;
+    padding-top: 50px;
   }
 
   blockquote {
@@ -369,4 +370,8 @@ main p {
 
   .subtext blockquote {
     padding: 0 20px;
+  }
+
+  .subtext p {
+    padding: 0;
   }

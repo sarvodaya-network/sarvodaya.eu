@@ -136,9 +136,13 @@ Car vous êtes déjà tout à fait différents des passants que, passant vous-m�
 Celui qui croit savoir n'est jamais qu'un passant et qui passe à côté du savoir et de la foi.  
 Le point où vous en êtes, celui de la plus totale obscurité, a ceci de [net?], de décisif, de salutaire, qu'on ne peut y demeurer.  
 
-¹ Le Taô-Té-King de Lao-Tse commence par ces vers:  
-> "Le chemin où l'on peut cheminer n'est pas le vrai chemin.    
-> Le nom qu'on pent nommer, ce n'est pas le vrai nom..."  
-{: .subtext }
-
+<section class="subtext">
+    <p>
+        ¹ Le Taô-Té-King de Lao-Tse commence par ces vers:
+    </p>
+    <blockquote>
+        "Le chemin où l'on peut cheminer n'est pas le vrai chemin.<br>    
+        Le nom qu'on pent nommer, ce n'est pas le vrai nom..."
+    </blockquote>
+</section>
 
