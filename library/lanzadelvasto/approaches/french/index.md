@@ -11,8 +11,8 @@
 
 * [L'oeil simple](l-oeil-simple)
 * [De la vérité](de-la-verite)
-* De l'erreur originelle
-* Deux amis sur un pont
+* [De l'erreur originelle](de-l-erreur-originelle)
+* [Deux amis sur un pont](deux-amis-sur-un-pont)
 * De l'indifférence, de la distraction et du rappel
 * Du personnage et de la personne 
 * Des quatre cercles de la connaissance et du point
