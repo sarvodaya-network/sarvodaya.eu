@@ -300,7 +300,13 @@ This is the actual imperative, for every individual and every society: Choose a 
 
 ### The Internal Life, the individual Training
 
-"truth is a pathless land".
+There may be four opposing positions, which we could summarise as follows:
+* There is no truth, nothing to strive for; the nihilist denial. 
+* The Exclusive Idea: There is only one particular path to (the ultimate) truth; all other parts lead to error. This I would describe as a superficial, religious exclusivism. At most they may agree that other paths also lead high, but e.g. to a different height, to different mountains. 
+* The Idea of Many Paths, summarised perfectly by Coomaraswamy: “There are many paths that lead to the summit of one and the same mountain; their differences will be the more apparent the lower down we are, but they vanish at the peak; each will naturally take the one that starts from the point at which he finds himself; he who goes round about the mountain looking for another is not climbing”.
+* And fourth, a position taken by Krishnamurti: "truth is a pathless land".
+
+
 there is no outer authority. 
 
 

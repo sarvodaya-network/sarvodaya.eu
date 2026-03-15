@@ -2,6 +2,8 @@
 
 ## Projects, Organisations, Initiatives
 
+Whatever we list here does not mean that we *endorse* the content and everything to be found on these pages we link to, there may also be stuff that is opposed to our own views; we simply list them here as we find them valuable to engage with and to reflect upon. 
+
 * [Sarva Seva Sangh](https://sarvasevasangh.in/sarva-seva-sangh/) (since March, 1948)
 * [Sarva Seva Sangh Prakashan](https://www.sssprakashan.com/)
 * [mkgandhi.org](https://www.mkgandhi.org/)
@@ -19,7 +21,7 @@
 * [Participatory Methods](https://www.participatorymethods.org/)
 * [institute of development studies](https://www.ids.ac.uk/)
 * [State Free](https://statefree.world)
-
+* [organic radicals: challenging the system to its core](https://orgrad.wordpress.com/our-principles/)
 
 <!--[Fossil Free ECAs](https://www.fossilfreeecas.org/)-->
 
@@ -33,6 +35,10 @@
 * [Bacha Khan Baba, Historical Speech](https://www.youtube.com/watch?v=eFPQS24lhsc)
 * [TEDx Shekhaw: Faisal Khan, Khudai Khidmatgar](https://www.youtube.com/watch?v=eLn9lvl7yLI)
 * [Uttar Pradesh's Darkest Days, Faisal Khan](https://www.youtube.com/watch?v=1AIorjyrUQE)
+
+
+## Articles 
+* [Traditionalism, anarchism and the urgent need for righteous revolt: a dialogue](https://paulcudenec.substack.com/p/traditionalism-anarchism-and-the)
 
 
 ## Media
