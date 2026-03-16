@@ -14,6 +14,9 @@ And in this life you have nothing but this your individuality. This individual e
 The individuality of life is an universal truth. In the entire universe, life expresses solely on an individual basis, on the basis of "one".  
 One is contained in everything and everything is contained in one.  
 
+You partake in the power of all.
+You know, love and act.  
+
 
 
 
