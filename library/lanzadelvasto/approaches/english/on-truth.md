@@ -24,7 +24,7 @@ And Buddha teaches: "The Self (Atma) is the master and the lamp of the Self."
 In a word: the truth is to be one and united as the Heavenly Father is one and the Son united to the Father.  
 
 Again: what is truth?  
-The truth is the Outside as the Inside.  
+The truth is the Outside as the Inside¹.  
 For if we believe that the truth is a sum of notions, the result of a calculation, a verbal or mental combination of some kind, we will not understand anything to words such as "Know the truth and it will deliver you" (John, 8, 32) or such as "truth and non-violence are one" (Gandhi).  
 But the truth is to be, and to be is to be one, united, attuned and that the outside expresses the inside.  
 What is the truth of knowledge?  
@@ -32,7 +32,7 @@ It is the perception, through the external form of what is standing below: of th
 What is the truth of expression?  
 This is sincerity.  
 
-What is the "truth of forms"¹? The splendor of the true²?  
+What is the "truth of forms"²? The splendor of the true³?  
 That is beauty.  
 What is the truth of deeds?  
 This is justice.  
@@ -75,7 +75,7 @@ In yourself alone you can grasp and follow the passage from intention to act, fr
 All the images that unfold to the four horizons, their reverse side, their lining is in me! Otherwise, I would not be able to know them, or even to see them: "My eye would not see the sun, if it were not of the same essence as the sun," proclaims an Egyptian hierogryph.  
 It is by their reverse and their lining that I *comprehend* things: that I com-prehend, prehend them, *cum* (latin "with"), with me; I prehend or take them inside of me and from within; and making them enter into me, I enter into them.  
 
-**Translator**: Lanza explains "comprehension" here in form of a play with french words, which makes it hard to translate: "C'est par leur revers et leur doublure que je comprends les choses: que je les com-prends, les prends, *cum*, avec, avec moi". As an alternative to comprehension of latin origin we could as well provide a similar explanation with the word "understanding". In that we "under-stand" things, we go to stand under them, we make ourselves the basis of them, becoming myself the basis of what I know and know all the more, the more I stand under. 
+Translator: Lanza explains "comprehension" here in form of a play with french words, which makes it hard to translate: "C'est par leur revers et leur doublure que je comprends les choses: que je les com-prends, les prends, *cum*, avec, avec moi". As an alternative to comprehension of latin origin we could as well provide a similar explanation with the word "understanding". In that we "under-stand" things, we go to stand under them, we make ourselves the basis of them, becoming myself the basis of what I know and know all the more, the more I stand under. 
 {: .subtext }
 
 So: all knowledge of something else begins with self-knowledge and never goes deeper than this knowledge.  
@@ -125,6 +125,7 @@ We have posed the Self as "part" (human and external way of speaking), part of t
 So if you enter a part, a piece, a spark, a drop, an atom of the inner world, you enter the whole inner world. And if you have the happiness and the grace to enter into your self which is a spark, a drop, an atom, a tiny piece of the inner world, you enter into the whole inner world. *"Noverim me, noverim Te..."* What had to be demonstrated.
 
 
-¹ Livre des morts (égyptien).  
-² Plotin.  
+¹ Translator: See also this sentence by Ivan Aguéli on the doctrine of Ibn Arabi: *“The ‘Supreme Identity’ (Wahdatul-wujûd = the identity of Existence) is based on the perfect accord between the external and the internal.”*  
+² Livre des morts (égyptien).  
+³ Plotin.  
 {: .subscript }

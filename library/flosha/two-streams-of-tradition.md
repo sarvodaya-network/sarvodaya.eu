@@ -62,6 +62,7 @@ It was in fact, Ivan Aguéli who basically "initiated" René Guénon into Islam 
 
 For more on Aguéli, read: 
 * Anarchist, Artist, Sufi: *The Politics, Painting, and Esotericism of Ivan Aguéli* by Mark Sedgwick, 2021
+* [Akbarian Anarchism](https://www.academia.edu/128007832/Akbarian_Anarchism_Ivan_Agu%C3%A9li_d_1917_on_Islam_Freedom_and_Shari%CA%BFa): *Ivan Aguéli (d. 1917) on Islam, Freedom and Shariʿa* by Gregory Vandamme, 2024
 
 ---
 
