@@ -8,8 +8,8 @@ The Sarvodaya Library is a constant work in progress. We keep adding new books a
 On the social philosophy and the vision of a non-violent social order, that we call *Sarvodaya* and the non-violent revolution that is constantly trying to realise it. The books in this category are either directly dealing with *Sarvodaya* or have inspired it. 
 
 ### Pre-Sarvodaya
+* [Unto This Last](https://www.gutenberg.org/files/36541/36541-h/36541-h.htm) (Essays by John Ruskin from 1860 that deeply influenced Gandhi and inspired his idea of *Sarvodaya*).
 * [The Kingdom of God is Within You](https://www.gutenberg.org/files/43302/43302-h/43302-h.htm) (a christian anarchist treatise by Leo Tolstoj and the culmination of his philosophal thought, first published in Germany in 1894 after being banned in Russia; without its influence Gandhi wouldn't have done what he did, as it profoundly deepened his conviction in non-violence; consequentially the second Ashram founded by Gandhi (after the "Phoenix Farm") was called "Tolstoi Farm".)
-* [Unto This Last](https://www.gutenberg.org/files/36541/36541-h/36541-h.htm) (Essays by John Ruskin that deeply influenced Gandhi and inspired his idea of *Sarvodaya*)
 
 ### Primary Literature 
 * Hind Swaraj. M. K. Gandhi, 1909.
@@ -30,7 +30,7 @@ On the social philosophy and the vision of a non-violent social order, that we c
 * Swaraj for the People. Jayaprakash Narayan.
 * From Socialism to Sarvodaya. Jayaprakash Narayan. 
 * Youth & Revolution. Dada Dharmadhikari.
-* Philosophy of Total Revolution / [Excertps](https://www.mkgandhi.org/dharma/dharmai.php). Dada Dharmadhikari.
+* Philosophy of Total Revolution / [Excerpts](https://www.mkgandhi.org/dharma/dharmai.php). Dada Dharmadhikari.
 * Jeevan-dan. Jayaprakash Narayan.
 * Message of the Kancheepuram Sarvodaya Sammelan.
 * Sampattidan.
@@ -60,10 +60,11 @@ On the social philosophy and the vision of a non-violent social order, that we c
 * Bhoodan & Gramdan In Orissa: *An Analytical Study*. By T. P. Singh
 * Shanti Sena: *A Guide Book*. By Dr. Ramjee Singh
 
-### 21th Century
 
+### Against Modernity and its Violent Industrial Civilisation
+* [The Reign of Quantity and the Signs of the Times](https://archive.org/details/reignofquantitys0000guno). By René Guénon, 1945. 
 * [The Search for a *nonviolent* Future](https://www.mettacenter.org/bookstore/p/the-search-for-a-nonviolent-future-expanded-and-revised-version). By Michael N. Nagler.
-
+* Against Civilization: *The Anthropological Critique of Modernity*. By Morris Berman, 2025. 
 
 
 ## satyagraha
@@ -78,7 +79,7 @@ On the social philosophy and the vision of a non-violent social order, that we c
   * [Hildegard Goss-Mayrs christliche Gewaltfreiheit](https://wp.martin-arnold.eu/?page_id=164)
   * [Gandhis Satyagraha](https://www.martin-arnold.eu/?page_id=168)
   * [Bart de Ligts humanistische Geestelijke Weerbaarheid](https://www.martin-arnold.eu/?page_id=193)
-  * [Gütekraft: Ein Grundmodell der Wirkungsweise erfolgreicher gewaltfreier Konfliktaustragung nach Hildegard Goss-Mayr, Mohandas K. Gandhi und Bart de Ligt (Gesamtstudie)](https://wp.martin-arnold.eu/wp-content/uploads/2012/02/2011-1030.-G%C3%BCtekraft-Gesamtstudie_002.pdf). Martin Arnold, 2011.
+  * [Gütekraft: Ein Grundmodell der Wirkungsweise erfolgreicher gewaltfreier Konfliktaustragung (Gesamtstudie)](https://wp.martin-arnold.eu/wp-content/uploads/2012/02/2011-1030.-G%C3%BCtekraft-Gesamtstudie_002.pdf). 
 * [Hope or Terror? Gandhi and the Other 9/11](https://www.mettacenter.org/bookstore/p/hope-or-terror-gandhi-and-the-other-911). Michael N. Nagler.
 
 
