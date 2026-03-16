@@ -8,6 +8,7 @@ Whatever we list here does not mean that we *endorse* the content and everything
 * [Sarva Seva Sangh Prakashan](https://www.sssprakashan.com/)
 * [mkgandhi.org](https://www.mkgandhi.org/)
 * [vinoba.in](https://vinoba.in)
+* [Satyagraha Foundation for Nonviolent Studies](https://www.satyagrahafoundation.org/)
 * [Metta Center *for* Nonviolence](https://www.mettacenter.org/)
 * [L’Association des Amis de Lanza del Vasto](https://www.lanzadelvasto.com/en/)
 * [Communauté de l'Arche](https://www.arche-nonviolence.eu/)
