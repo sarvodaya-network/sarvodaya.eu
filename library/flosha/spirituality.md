@@ -1,6 +1,13 @@
 
 
 
+> Individuality, Autonomy and Function, the last essay from The Dance of Shiva, Fourteen Indian Essays, published in 1924. Individuality is *sva-bhava*; autonomy is *sva-rajya*; and function is *sva-dharma*.
+
+
+---
+
+Technique:
+
 I will argue that there is not only a common ground, but a common art of spirituality with shared techniques, which while they appear different on the surface, are done to the same end. And if we understand these techniques and how the *practice* actually works, independent of the outer form, we can then practice the outer form that suits our disposition, without being in delusion about the effectiveness or ineffectiveness of other forms of practice, because we understand the essence of what makes a practice work and what doesn't. 
 
 When in Christianity the monks pray X times a day, when in Islam the Muslim prays five times a day as the recommended minimum, this is a method of establishing a different base line, a different orientation, to bring about the religion in the actual sense of the term.  

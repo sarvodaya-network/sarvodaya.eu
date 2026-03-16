@@ -61,9 +61,10 @@ On the social philosophy and the vision of a non-violent social order, that we c
 * Shanti Sena: *A Guide Book*. By Dr. Ramjee Singh
 
 
-### Against Modernity and its Violent Industrial Civilisation
+### Critique of Modernity and its Violent Industrial Civilisation
 * [The Reign of Quantity and the Signs of the Times](https://archive.org/details/reignofquantitys0000guno). By René Guénon, 1945. 
 * [The Search for a *nonviolent* Future](https://www.mettacenter.org/bookstore/p/the-search-for-a-nonviolent-future-expanded-and-revised-version). By Michael N. Nagler.
+* [Cosmopolitan Anarchy: Ananda Coomaraswamy, Transnationalism, and Walt Whitman. By Allan Antliff. 2024.](https://www.proquest.com/docview/3150446615?pq-origsite=summon&sourcetype=Scholarly%20Journals)
 * Against Civilization: *The Anthropological Critique of Modernity*. By Morris Berman, 2025. 
 
 
