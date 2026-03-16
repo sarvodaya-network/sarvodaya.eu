@@ -7,7 +7,7 @@ Written: 01.03.2026
 Last update: 04.03.2026  
 
 
-A treatise against the perceived powerlessness of the individual in face of totalitarian and destructive systems of mechanisation, against the delusion that "I alone can do nothing" and that individual life doesn't matter. It is all that matters. 
+A treatise against the perceived powerlessness of the individual in face of totalitarian and destructive systems of mechanisation, against the delusion that "I alone can do nothing" and that one doesn't matter. *You* are all that matters. 
 
 ---
 
