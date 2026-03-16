@@ -7,11 +7,17 @@ Written: 01.03.2026
 Last update: 04.03.2026  
 
 
-## **I.** On Individual Responsibility
+You are an individual.  
+You are unique, you are one without a second; there may be equals, but no one is the same as you.   
+Your experience, your life, internally and externally, your impression and expression, are different from the life of everyone else, they are absolutely individual.  
+And in this life you have nothing but this your individuality. This individual experience is the beginning and the end of your life.    
+The individuality of life is an universal truth. In the entire universe, life expresses solely on an individual basis, on the basis of "one".  
+One is contained in everything and everything is contained in one.  
 
-End: Thus it is clear that everything has to start with yourself, as that is the only thing you may ne able to gaim control over and the only thing through which you can change the world.
-But in order to go anywhere, one needs a direction. You know now *that* and *why* you have to take responsibility, that you have to free yourself, but not how.
-Everything starts with a vision. Raising your head and setting your sight to what you want to reach and then taking the first step into that direction. 
+
+
+
+## **I.** On Individual Responsibility
 
 (II. On the Vision (of Life) or the Svadharma as the Basis of Action, following the sheep example, add vinobas polarstern and euklids gerade, two points; but in order to connect the dots, to set the path and start the journey, both of them have to be clear; the goal in form of the vision, but also you yourself and where you are. 
 
@@ -318,4 +324,10 @@ Krishnamurti summarising his teaching:
 > "Attempt without effort to live with death in futureless silence"
 > Explanining this: "death is the end of all you are afraid to lose: Your attachments, your memory, your disappeared friends, your prestige [...] All that is the content of your consciousness. Can you get rid of it right now?
 
+
+---
+
+End: Thus it is clear that everything has to start with yourself, as that is the only thing you may ne able to gaim control over and the only thing through which you can change the world.
+But in order to go anywhere, one needs a direction. You know now *that* and *why* you have to take responsibility, that you have to free yourself, but not how.
+Everything starts with a vision. Standing upright, raising your head, having faith yourself, in the soul as the embodiment of possibility, setting your sight to what you want to reach, something that is not serving you while hurting others; as nothing by which you hurt others can truly serve anyone. And then take the first step into that direction. 
 
