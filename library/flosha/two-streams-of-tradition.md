@@ -119,6 +119,10 @@ And it is also this (and only this) what justifies a state: If it attempts and c
 The state is justified to the degree that it allows us to take more responsibility ourselves as we show us capable of doing so, always making clear that its own dissolution is the aim. And it is unjustified to the degree that it does not grant us the responsibility we deserve; *then* it is justified to take it, because it isn't theirs that they withhold, it is always ours; it is nothing to take away from them, it is just something to develop in oneself. It is thus always justified to take the responsibility over *ourselves* that they may not grant to us; but it is never justified to take the unjustified power of the state over others away from the state, to then oneself exercise unjustified power over others. 
 
 
+> Rather than seeking liberation from sociopolitical structures, the emancipation advocated by Aguéli aimed to liberate the individual from their own conditioning and emotions: “Sentimentality is a kind of inner idolatry, in the same way as the idol is collective sentimentality in tangible form.”
+
+Before you can free yourself from others, you first have to free yourself from yourself. Before *we* can free ourselves from others, we first have to free ourselves from ourselves. In other words: Before we can achieve anarchy, before we can make an end to the forces that are ruling us outside, we have to make an end to the forces ruling us within.  
+We have to achieve self-liberation ere we can achieve economical and political liberation. But that does not mean that we shouldn't, while striving for self-liberation, as well strive for economical and political liberation, because both are gradual processes and have to do with each other. Insofar as the outer problems reflect the inner problems, the gradual solution of the inner problems (or a gradual internal purification or liberation) will enable a gradual solution of the outer problems (or a gradual external purification or liberation). 
 
 
 
