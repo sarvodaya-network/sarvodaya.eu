@@ -1,4 +1,5 @@
-# Approaches to the Inner Life  
+# Approaches to the Inner Life
+{: .center }
 
 **Lanza del Vasto**  
 {: .center }

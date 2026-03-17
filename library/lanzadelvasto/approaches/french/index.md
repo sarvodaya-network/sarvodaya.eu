@@ -1,4 +1,5 @@
-# Approches de la Vie Intérieure  
+# Approches de la Vie Intérieure
+{: .center }
 
 **Lanza del Vasto**  
 {: .center }
