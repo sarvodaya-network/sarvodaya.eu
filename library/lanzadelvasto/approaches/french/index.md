@@ -13,7 +13,7 @@
 * [De la vérité](de-la-verite)
 * [De l'erreur originelle](de-l-erreur-originelle)
 * [Deux amis sur un pont](deux-amis-sur-un-pont)
-* De l'indifférence, de la distraction et du rappel
+* [De l'indifférence, de la distraction et du rappel](de-l-indifference)
 * Du personnage et de la personne 
 * Des quatre cercles de la connaissance et du point
 * Du chemin de la conscience 
