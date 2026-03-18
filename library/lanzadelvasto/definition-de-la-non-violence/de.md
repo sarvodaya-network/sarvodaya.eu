@@ -1,397 +1,252 @@
+![book cover](/library/_covers/definitionen-der-gewaltlosigkeit.webp)
+
 # Definitionen der Gewaltlosigkeit
 
 Lanza del Vasto  
+{: .center }
 
-Übersetzt von Manfred de Voss nach der 1963 erschienenen Schrift "*Définitions de la Non-violence*", welche drei Kapitel aus dem Buch "*Approches de la Vie Intérieure*" zusammenfaßt.  
-Transkribiert von Flosha.  
+Übersetzt von Manfred de Voss nach der 1963 erschienenen Schrift "*Définitions de la Non-violence*", welche drei Kapitel aus dem Buch "*Approches de la Vie Intérieure*" zusammenfaßt. Transkribiert von Flosha.  
 
-**Über den Verfasser:**  
 Der Verfasser dieser Schrift ist 1901 in Apulien geboren und 1981 in Spanien gestorben. In seiner Jugend har er Philosophie studiert und sich künstlerisch betätigt. Von entscheidender Bedeutung war für ihn seine Begegnung mit Gandhi im Jahre 1937 in Indien. In Frankreich hat er 1948 die Ordensgemeinschaft der Arche gegründet, in welcher er seine Vorstellungen von Gewaltlosigkeit, Okumenismus und sozialer Gerechtigkeit konkretisieren konnte. Viele gewaltlose Aktionen innerhalb von Frankreich und auch ausserhalb sind unter seiner Mitwirkung zustande gekommen. Theorie und Praxis waren in seinem Leben immer eng miteinander verbunden. 
+
 
 ---
 
+
 **INHALT**  
 
-* VORWORT
+* [VORWORT](#vorwort)
 * [ÜBER AKTIVE GEWALTLOSIGKEIT](#über-aktive-gewaltlosigkeit)
 * [GEWALTLOSIGKEIT UND SELBSTVERTEIDIGUNG](#gewaltlosigkeit-und-selbstverteidigung)
 * [GEWALTLOSIGKEIT UND NÄCHSTENLIEBE](#gewaltlosigkeit-und-nächstenliebe)
+
+
+---
+
+
+## Vorwort
+
+"Die Bergpredigt ist für die Politik nicht zu gebrauchen", soll der deutsche Reichskanzler Bismarck einmal gesagt haben. Wenn so unverfrorene Worte auch nicht oft ausgesprochen werden, so kann man doch voraussetzen, daß dieser Standpunkt, heute wie damals, für die Politiker in Ost und West, in Nord und Süd allgemeine Gültigkeit hat. Allerdings wird der Bergpredigt auch auf anderen Gebieten des menschlichen Lebens die praktische Anwendbarkeit abgestritten, so daß man sich fragen muß, ob sie überhaupt von irgendwelchem Nutzen ist.  
+Doch wie wäre es, wenn gerade sie das fehlende Glied ist in der Kette unserer Bemühungen um Frieden, Gerechtigkeit und Freiheit, das wir so verzweifelt suchen? Das wäre allerdings fatal. Dann wäre ja all unser Mühen und Hoffen umsonst.  
+Wollen wir den Mächtigen noch etwas Zeit lassen, daß sie uns zeigen können, ob sie nicht doch ohne die Bergpredigt auskommen? Dann könnten wir uns und ihnen wenigstens eine so schrecklich unbequeme Umstellung unserer elementarsten Denk- und Lebensgewohnheiten ersparen.  
+Lanza del Vasto vertritt allerdings die Ansicht, daß uns keine Zeit mehr gegeben ist für solche Experimente, daß wir uns entscheiden müssen, selbst wenn es für unsere Entscheidung kein geschichtliches Beispiel gibt; daß wir in einem Augenblick höchster Gefahr leben, für den es, wenn überhaupt, nur in der biblischen Geschichte von Noah und der Arche einen Vergleich gibt. Er wird nicht müde, zu mahnen, zu drängen und aufzurütteln. Er sagt, daß schon Gandhi die Weichen gestellt hat und daß die Atombombe unser Abfahrtssignal ist, das zu überhören unser aller Untergang sein könnte.  
+Warum soviel Eifer? Weil es eine kollektive Verantwortung gibt. Und weil es sein kann, daß "das Blut unseres Mitmenschen von unserer Hand gefordert wird, wenn wir ihn nicht warnen".  
+(Hesekiel 3, 17 - 20)  
+— Der Übersetzer  
+
 
 ---
 
 
 ## Über aktive Gewaltlosigkeit
 
-**Subtile Einfachheit**
-
-Gewaltlosigkeit ist eine einfache Sache, aber sie verlangt Feingefühl. Sie ist nur deshalb so schwierig anzuwenden, weil sie von unseren alltäglichen Gewohnheiten ganz verschieden ist. 
-
-Die Schwierigkeit wird fast unüberwindlich, wo man glaubt, sie schon begriffen zu haben, und meint, sie bestehe darin, jeder Auseinandersetzung aus dem Wege zu gehen und sich abseits zu halten, wo es kracht.
-
-Wir wollen versuchen, ihr Wesen durch drei verschiedene Definitionen zu verdeutlichen:
-
+#### Subtile Einfachheit   
+Gewaltlosigkeit ist eine einfache Sache, aber sie verlangt Feingefühl. Sie ist nur deshalb so schwierig anzuwenden, weil sie von unseren alltäglichen Gewohnheiten ganz verschieden ist.  
+Die Schwierigkeit wird fast unüberwindlich, wo man glaubt, sie schon begriffen zu haben, und meint, sie bestehe darin, jeder Auseinandersetzung aus dem Wege zu gehen und sich abseits zu halten, wo es kracht.  
+Wir wollen versuchen, ihr Wesen durch drei verschiedene Definitionen zu verdeutlichen:  
 1. Mittel zur Beilegung von Streitigkeiten,
 2. Kraft der Gerechtigkeit,
 3. Mittel zur Bekehrung.
 
-**1. Beilegung von Streitigkeiten**
 
-Bei dieser Definition fällt als erstes auf, daß sie nur dort eine Unterscheidung ermöglicht, wo es Konflikte gibt. Einer, der ein friedliches Leben führt, mag vielleicht in seinem Innern gewaltlos sein, aber wir erfahren es nicht. Wir werden es erst erfahren, wenn ein Konflikt entsteht, und wenn wir sehen, daß er diesen überwindet, ohne Zwang oder Betrug anzuwenden. Ein Mensch aber, der sich selbst in Sicherheit bringt, während die Welt um ihn in Flammen steht, kann nicht als gewaltlos bezeichnet werden, denn er trägt nichts zur Lösung des Konfliktes bei. 
+### 1. Beilegung von Streitigkeiten
 
-Gewaltlosigkeit ist das "Nein" zur Gewalt. Die gefährlichsten Ausdrucksformen der Gewalt sind: Ungerechtigkeit, Mißbrauch und Lüge.
+Bei dieser Definition fällt als erstes auf, daß sie nur dort eine Unterscheidung ermöglicht, wo es Konflikte gibt. Einer, der ein friedliches Leben führt, mag vielleicht in seinem Innern gewaltlos sein, aber wir erfahren es nicht. Wir werden es erst erfahren, wenn ein Konflikt entsteht, und wenn wir sehen, daß er diesen überwindet, ohne Zwang oder Betrug anzuwenden. Ein Mensch aber, der sich selbst in Sicherheit bringt, während die Welt um ihn in Flammen steht, kann nicht als gewaltlos bezeichnet werden, denn er trägt nichts zur Lösung des Konfliktes bei.  
+Gewaltlosigkeit ist das "Nein" zur Gewalt. Die gefährlichsten Ausdrucksformen der Gewalt sind: Ungerechtigkeit, Mißbrauch und Lüge.  
+Wie kann man sich nun angesichts eines Konfliktes verhalten? Auf den ersten Blick können wir vier verschiedene Verhaltensweisen unterscheiden.  
+Die erste besteht darin, den Blick abzuwenden und der Sache aus dem Weg zu gehen. Das fällt besonders dann sehr leicht, wenn man nicht selbst betroffen ist. Wir haben ja immer genügend Mut, um das Leid anderer zu ertragen. Kurz gesagt: Die Sache geht uns nichts an, wir bleiben neutral. Noch besser: Wir bleiben nicht, sondern machen uns unauffällig aus dem Staub.  
+Die zweite Verhaltensweise besteht darin, tapfer in den Kampf zu ziehen und für jeden Schlag einen Schlag zurückzugeben, oder auch zwei für einen, wenn es geht.  
+Die dritte Haltung: Wir geben die Haltung auf und ergreifen die Flucht.  
+Als vierte Möglichkeit bietet sich an: Die Hände zu heben, auf die Knie zu fallen und um Gnade zu bitten, kurz: zu kapitulieren.  
 
-Wie kann man sich nun angesichts eines Konfliktes verhalten? Auf den ersten Blick können wir vier verschiedene Verhaltensweisen unterscheiden.
-
-Die erste besteht darin, den Blick abzuwenden und der Sache aus dem Weg zu gehen. Das fällt besonders dann sehr leicht, wenn man nicht selbst betroffen ist. Wir haben ja immer genügend Mut, um das Leid anderer zu ertragen. Kurz gesagt: Die Sache geht uns nichts an, wir bleiben neutral. Noch besser: Wir bleiben nicht, sondern machen uns unauffällig aus dem Staub. 
-
-Die zweite Verhaltensweise besteht darin, tapfer in den Kampf zu ziehen und für jeden Schlag einen Schlag zurückzugeben, oder auch zwei für einen, wenn es geht.
-
-Die dritte Haltung: Wir geben die Haltung auf und ergreifen die Flucht.
-
-Als vierte Möglichkeit bietet sich an: Die Hände zu heben, auf die Knie zu fallen und um Gnade zu bitten, kurz: zu kapitulieren.
-
-
-**Der fünfte und letzte Ausweg**
-
-Die fünfte Verhaltensweise ist die Gewaltlosigkeit. Sie schließt die vier hier aufgezählten Handlungsweisen gleichermaßen aus:
-
+#### Der fünfte und letzte Ausweg  
+Die fünfte Verhaltensweise ist die Gewaltlosigkeit. Sie schließt die vier hier aufgezählten Handlungsweisen gleichermaßen aus:  
 die Neutralität,  
 den Streit,  
 die Flucht,  
-die Kapitulation. 
-
-Haben Sie das verstanden? Wir haben verstanden, aber wir sind in großer Verlegenheit. Denn, wenn ich nicht streiten, dem Streit aber auch nicht ausweichen soll, wenn ich nicht fliehen und auch nicht kapitulieren soll, was soll ich dann tun?
-
-Ich verstehe Ihre Verlegenheit. Um aus ihr herauszukommen, müssen Sie ihr Handbuch zu Rate ziehen. Sie müssen dann nur noch die richtige Seite finden. Das Handbuch heißt "Evangelium".
-
-Und was sagt das Evangelium über rechtmäßige Verteidigung, über die Bestrafung von Verbrechern, über die Ehre des Vaterlandes, über die Verteidigung christlicher Kultur und andere Dinge, die immer und immer wieder Gründe liefern, Todesstrafen zu verhängen und gerechte Kriege zu führen?
-
-"Wer dich auf deine linke Wange schlägt, dem reiche auch die rechte hin."
-
-"Wer dir den Rock nehmen will, dem überlasse auch deinen Mantel."
-
-"Wenn man dich nötigt hundert Schritte zu machen, mache zweihundert."
-
-Gut. Sie haben verstanden, denn nun ist alles klar. Die Worte des Evangeliums kennen Sie ja auswendig, weil Sie Christen sind oder doch wenigstens unter Christen leben. 
-
-Ich schließe daraus, daß Sie immer so und nie anders handeln, denn wer anders handelt ist kein Christ. Das sage nicht ich sondern Christus: "Wenn ihr liebt, die euch lieben, wenn ihr grüßt, welche euch grüßen, wenn ihr denen Geld leiht, die es euch wieder zurückgeben (mit einem kleinen Zins), was tut ihr besonders? Tun nicht die Heiden das gleiche?"
-
-Das ist also Ihre Handlungsweise. Sie bleiben nicht neutral, Sie schlagen nicht zu und bedrohen auch nicht. Sie geben nicht nach und fliehen nicht. Sie halten stand und halten Ihren Gegner fest und lassen ihn erst los, wenn der Konflikt gelöst ist. 
-
-Dann haben Sie also die fünfte Handlungsweise gefunden, die so neu ist, so originell und so verwegen, daß die andern aus Verblüffung die Sprache verlieren.
-
-Dann müssen Sie diesen also erklären, warum Sie so handeln. Sie werden große Mühe haben, es zu verstehen. Die Bedauernswerten könnten vielleicht auf die Idee kommen, daß Sie zwei Ohrfeigen statt einer haben wollen, weil Sie heimtückische Absichten hegen oder weil Sie pervers sind. 
-
-
-**Warum soll ich die zweite Ohrfeige verlangen?**
-
-Ein Knall, "Au Backe, mein Zahn!" — "Hallo, Herr X, bleiben Sie da, Sie haben noch etwas vergessen." —
-
-"Was denn?" — "Daß ich zwei Wangen habe."
-
-Und nun erklären Sie den Leuten, warum Sie das machen. 
-
-Sagen Sie zuerst, daß Ihnen noch selten ein böser Mensch begegnet ist, der in seiner Bosheit so standhaft und unerschütterlich war, daß er die angebotene Freiheit und Straflosigkeit grenzenlos ausgenutzt hätte. — Sagen Sie, daß Sie Rasende gesehen haben, die, wie vom Blitz getroffen, stehen geblieben sind. Erklären Sie warum. 
-
-Ich mache das, weil ich weiß, daß mein Gegner ein Mensch ist! Ein Mensch, verstehen Sie? Ein Mensch!
-
-Dummheit! — Deswegen braucht man sich doch nicht so aufzuregen, das weiß ja jeder. 
-
-Ja, Sie wissen es, weil es augenscheinlich ist und weil Sie gerade friedlich auf einem Stuhl sitzen. — Aber wie ist es in der Hitze des Streites, wenn Ihr Blut in Wallung gerät? Wird ihnen diese Selbstverständlichkeit dann nicht plötzlich entschwinden? Und wird Ihr Feind dann nicht selber den Beweis liefern, daß er kein Mensch ist, sondern ein Schmarotzer, ein Scheusal oder ein Teufel?
-
-Vielleicht ist er erbittert und angriffslustig, vielleicht schäumt er vor Wut und ist so stark, daß ihm niemand in den Weg zu treten wagt. Noch stärker, noch erbitterter und unwiderstehlicher tritt Ihnen dann die Versuchung entgegen, ihn als ein rohes, vernunftloses Wesen, als eine Bestie oder einen Dämon zu betrachten!
-
-Nicht jetzt, sondern dann, in jener Situation ist es für Sie notwendig, sich die schwer verständliche Wahrheit vor Augen zu halten, daß er ein Mensch ist, ein Mensch wie du und ich. 
-
-Wenn er ein Mensch ist, hat er auch einen Gerechtigkeitssinn wie ich, denn der Gerechtigkeitssinn ist Gemeingut aller Menschen.
-
-Die Gerechtigkeit ist so einfach wie die Tatsache, daß zwei und zwei vier ist. — Zwei und zwei ist vier, sowohl für den Weißen als auch für den Schwarzen und den Gelben, für den Papua wie auch für den Deutschen, für den Guten wie für den Bösen, für mich und für meinen Feind. 
-
-Ich lenke absichtlich Ihre Aufmerksamkeit auf die zwingende Kraft der einfachen Behauptung, daß zwei und zwei vier ist. Wenn zwei zu zwei kommt, hängt es nicht von meinem guten oder bösen Willen ab, daß das Ergebnis vier ist. Es hängt auch nicht von meinem Wissen oder von meiner Unwissenheit ab, auch nicht von meiner Kraft oder meiner Geschicklichkeit. 
-
-Meine Sache muß also eindeutig gerecht sein. So eindeutig wie die Tatsache, daß zwei und zwei vier ist. Andernfalls kann die Gewaltlosigkeit nichts für sie ausrichten.
-
-So kommen wir zur zweiten Definition:
-
-
-**2. Gewaltlosigkeit, die Kraft der Gerechtigkeit**
-
-Wenn Sie ein Verteidiger dess Rechtes sind, und ich nehme an, daß Sie es sind, zumindest bin ich überzeugt, daß Sie es sein wollen, dann müssen Sie sich fragen, ob die Gerechtigkeit nicht eine ihr eigene Kraft besitzt. 
-
-Mißverstehen Sie mich jetzt aber nicht. Ich meine eine Kraft der Gerechtigkeit und nicht eine Kraft, die in den Dienst der Gerechtigkeit gestellt wird und dadurch gerechtfertigt erscheint. Ich spreche auch nicht von der Kraft, welche den in einen Streit verwickelten Menschen dadurch zuteil wird, daß sie überzeugt sind, auf der Seite des Rechts zu stehen.
-
-Ich spreche von einer Kraft, die der Gerechtigkeit wesenseigen ist, von jener zwingenden Kraft, die ich an dem Beispiel von "zwei und zwei" aufgezeigt habe. 
-
-**Woher kommt diese Kraft und was sind ihre Wirkungen?**
-
-Das ist so: Damit zwei und zwei vier ergibt, muß eins gleich eins sein. Dieser Grundsatz gilt sowohl für die Mathematik als auch für das Recht. 
-
-Man diskutiert über alle möglichen und unnmöglichen Dinge, über Meinungen, Geschmacksrichtungen und Farben, nicht aber über die Wahrheit der Zahlen. Die Kraft der Gerechtigkeit zwingt jeden Menschen, sich der Wahrheit zu beugen, daß eins gleich eins ist.
-
-Gerechtigkeit ist mathematische Folgerichtigkeit des Handelns. Sie ist unbeugsam wie die Logik. Sie ist das ungehinderte Sich-Auswirken der Wahrheit. 
-
-Wenn es so ist, wie ist es dann noch möglich, daß es Ungerechte oder Böswillige gibt?
-
-Sie gibt es in Wirklichkeit gar nicht; wenigstens nicht solche, die in ihren eigenen Augen ungerecht und böswillig sind. Sie meinen alle für die Gerechtigkeit zu kämpfen und das Gute zu suchen. Ohne das gäbe es keinen Grund zum Handeln und keine Richtung.
-
-Weil man ohne das Gute nichts tun kann, suchen sie, wenn das Gute fehlt, einen Ersatz. An die Stelle der Gerechtigkeit setzen sie eine Rechtfertigung.
-
-Das Schlechte ist nicht einfach nur das Schlechte, sondern ein teilweise Gutes, das für einige und für eine gewisse Zeit gut ist, aber als das absolut Gute angesehen wird, ein augenblicklich Gutes, das mit dem ewig Guten verwechselt wird. 
-
-Das Gegenteil von Gerechtigkeit ist nicht Ungerechtigkeit sondern Einseitigkeit. 
-
-Alles Böse und alle Ungerechtigkeit beginnen mit einem Irrtum. "Wenn der Gedanke falsch ist, ist Trübsal die Folge", sagt ein Weiser, den wir gerne zitieren. 
-
-Eins ist gleich eins. Jeder weiß das. Auch ich weiß es. Ich weiß es bis zu dem Augenblick, wo ich der eine bin. Denn sobald diese gewaltige Einheit auf den Plan tritt verwirren sich meine Gedanken und Überlegungen. 
-
-Alle Linien und Winkel sind gefälscht und verbogen durch den ersten Irrtum, die Ur-Sünde.
-
-Wer ist nun aber der Böse? Wer ist derjenige, der mir mein Hab und Gut entreißen will, der meine Rechte verletzt, der meinen Tod will oder den meiner Lieben? Dieses unbegreifliche Wesen dort, dieser unverschämte Kerl, diese Mißgeburt, dieser Verräter, dieser kalte, gefühllose Rechner, dieser Heuchler, dieser Taugenichts, dieser liederliche Bursche, diese Kanaille? Wer ist mein Feind?
-
-Er ist ein Mensch, der sich irrt.
-
-Diese Feststellung ist von großer Wichtigkeit. Sie ist die Grundlage der Gewaltlosigkeit. 
-
-Die erste Folgerung aus dieser Erkenntnis ist, daß ich ihn nicht mehr zu hassen brauche.
-
-Es wäre ja auch ganz sinnlos, lächerlich und vollkommen ungerecht, einen Menschen zu hassen, weil er sich irrt.
-
-Die zweite Folgerung ist, daß ich die elementare Pflicht habe, ihn von seinem Irrtum zu befreien. 
-
-Ist das nicht ganz natürlich? Versuchen wir das nicht alle ganz spontan, sobald wir hören, daß jemand etwas Unrichtiges behauptet, sogar dann, wenn es uns gar nichts angeht? Sogar dann, wenn es sich nur um eine kleine Ungenauigkeit handelt, die für niemand Bedeutung hat? Und wir haben recht, denn die Wahrheit ist immer wichtig. Sie ist aus sich selbst heraus wichtig. Sie ist für alle wichtig, denn durch sie leben wir, und durch sind wir, was wir sind. 
-
-Wieviel wichtiger ist es dann aber, das Mißverständnis zu berichtigen, das die Ursache eines Konfliktes und vieler anderer Übel ist!
-
-Die dritte Folgerung ist, daß ich vor mir eine Aufgabe sehe und mir einen Schlachtplan zurechtlegen muß. Ich muß die Rechtfertigungen meines Gegners eine nach der anderen zu Fall bringen, denn sie umgeben ihn wie ein Wall und machen ihn blind für die Wahrheit. Ich muß damit solange fortfahren, bis er nackt und bloß seinem eigenen Urteil gegenübersteht. 
-
-Die Wahrheit wird ihn überwinden.
-
-Dann habe ich den Konflikt gelöst. 
-
-
-**Die Macht der Überredung**
-
-Alles dies ist leicht gesagt und auch leicht einzusehen. Aber man darf nicht glauben, daß alles von alleine geht, wie bei der Berührung mit einem Zauberstab. 
-
-Wir sagten eingangs, die Gewaltlosigkeit sei eine einfache Sache. Das sollte aber nicht heißen, daß sie leicht auszuüben ist. 
-
-Aber selbst wenn sie Anstrengungen kostet, Mühsal und Opfer mit sich bringt und Überlegung verlangt, so kostet sie doch weniger als die Gewalt. Außerdem zieht sie keine Niederlage und keine Vergeltung nach sich. Sie ist eine unermeßliche Einsparung von Leiden und Verbrechen. 
-
-Manchmal kommt sie auch dem Konflikt zuvor und verhindert den Ausbruch durch gute Worte. Sie beruhigt den, der sich geärgert hat, weil er sich verletzt, beleidigt oder bedroht fühlte. Dies nennen wir die Macht der Überredung.
-
-
-**Die Macht der Überzeugung**
-
-Manchmal ist das Wort eine Tat, eine stärkere und wirksamere Tat als jede andere.
-
-Nehmen wir ein Beispiel aus dem Leben Davids. Der König David hatte, wie Sie wissen, die Frau eines seiner Soldaten zu sich genommen. Den Soldaten schickte er ins Feld, damit er den Tod finden sollte. 
-
-Soweit ging alles gut. Aber eines Tages kam der Prophet in des Königs Zimmer, um ihn auf einen beklagenswerten Fall hinzuweisen: "Sieh, ich kenne einen armen Menschen, der nur ein Schaf hatte, das er liebte. Ein reicher Nachbar aber beneidete ihn um das weiße Schaf und trieb es dabei soweit, daß er ihm nicht nur das Schaf wegnahm, sondern ihn auch noch in einen Hinterhalt lockte, um ihm das Leben zu nehmen."
-
-"Oh, wer ist dieser Schurke?" rief der König empört. "Man soll ihn zu mir bringen, damit er vor Gericht gestellt und mit dem Tode bestraft werden kann!" Der Prophet schaute ihn an, wies mit dem Finger auf ihn und sagte: "Der Schurke bist du!"
-
-Und was geschah? Der König legte seine Gewänder ab, hüllte sich in Sack und Asche und tat öffentlich Buße. 
-
-Doch nicht jeder Schurke ist von der Art Davids! Meistens ist es schwerer, einen Menschen zur Umkehr zu bringen. — Aber man darf sich die Sache auch nicht zu leicht machen, indem man sich sagt: der ist so hoffnungslos schlecht und verworfen, daß er nie etwas anderes als die Sprache der Gewalt verstehen wird. 
-
-Es geschah einmal in Deutschland während des Krieges in einem Gefangenenlager. Das Leben der Gefangenen war hart. Sie hatten Hunger und litten unter der Kälte und den Anstrengungen der Zwangsarbeit. Abends kehrten sie in ihre Baracken zurück. Ein Wachmann erwartete sie, um mit ihnen seine Scherze zu treiben, die aber nur ihm allein Vergnügen machten. Er zog den einen an der Nase und gab einem anderen einen Tritt in den Bauch. Jeder fragte sich, wer wohl heute an der Reihe wäre. 
-
-Eines Abends aber kam einer der Gefangenen von selber zu ihm und sagte: "Da Sie jeden Tag jemand schlagen müssen, möchte ich Sie bitten, heute mit mir vorlieb zu nehmen."
-
-"Nanu, kleines Französchen! Weil du so frech bist, rate einmal, wiviel Mal ich dir mit meiner Reitpeitsche auf den ..."
-
-"Es ist nicht meine Sache zu bestimmen, wieviele Schläge ich verdient habe. Ich überlasse das Ihrem Gewissen."
-
-"Meinem Gewissen, meinem Gewissen? Ich habe kein Gewissen!"
-
-"Doch!" sagte nach einer kleinen Pause der Gefangene. "Doch, Sie haben ein Gewissen. Ihr Zögern beweist, daß Sie ein Gewissen haben, denn Sie haben mich noch immer nicht geschlagen." — Und indem er sich anschickte weiterzugehen, fügte er noch hinzu: "Ich glaube sogar, daß Sie mich heute abend nicht mehr schlagen werden." Dann wandte er sich um und ging.
-
-Der Andere starrte betroffen vor sich auf den Boden, blaß, mit Tränen in den Augen und zitternden Lippen.
-
-Nie zuvor hatte jemand zu diesem Unglücklichen von seinem Gewissen gesprochen. Vielleicht war das die Ursache seiner Rohheit. 
-
-Nach diesem Tag wurde kein Gefangener mehr von ihm geschlagen. Diese Geschichte ist so unwahrscheinlich, daß ich nicht wagen würde, sie zu erzählen, wenn ich nicht wüßte, daß sie wahr ist. 
-
-
-**Die Macht des angenommenen Leides**
-
-Kommen wir nun wieder zurück zum Evangelium von den Backenstreichen, denn nun sind wir eher imstande zu verstehen, um was es hier geht. Was bedeutet das: "Reich ihm die andere Backe hin?" Das bedeutet: Biete deinem Feind die Möglichkeit, dir doppelt soviel Leid zuzufügen, als er beabsichtigt hatte. Warum? 
-
-Weil der Mensch, der dich zu unrecht geschlagen hat, irgendwo in seinem Innern fühlt, daß er unrecht getan hat. Irgendjemand in seinem Innern weiß es. Aber er gibt sich alle Mühe, diese Stimme nicht zu Wort kommen zu lassen. Das Gerechtigkeitsgefühl, das auf dem Grund seiner Seele ruht, erwartet, daß man ihm die Ohrfeige wieder zurückgibt. Es verlangt nach ihr, um die erste Ohrfeige zu rechtfertigen, denn dann könnte der Streit ruhig weitergehen. 
-
-Statt die erwartete Ohrfeige zurückzubekommen, wird ihm nun angeboten, sein Unrecht zu verdoppeln, zu verdreifachen und zu vervielfältigen. 
-
-Das ist die taktische Regel gewaltlosen Handelns: Veranlasse deinen Gegner, sein Unrecht zu vervielfachen. Und du ertrage es mit Geduld, Ausdauer und Hoffnung.
-
-Laß dich nicht verdrießen, sondern warte bis er soviel Unrecht auf sich geladen hat, daß in seiner dunklen Seele etwas ins Wanken kommt und umkippt.
-
-
-**3. Gewaltlosigkeit, ein Mittel zur Bekehrung**
-
-Hier sind wir nun beim wichtigsten Punkt angelangt, der Umwandlung des Gegners. Sie ist das eigentliche Ziel der Gewaltlosigkeit. Sie ist das Ziel und nicht ein Mittel zum Zweck. 
-
-Die Verwandlung des Gegners in einen Freund, des Böswilligen in einen Gutwilligen, des Tyrannen in einen gerechten und großzügigen Diener der Ordnung, das ist der wahre Sinn, nicht aber Wiedergutmachung eines Schadens oder Genugtuung für empfangene Beleidigungen, auch nicht Freiheit, Sicherheit oder Frieden. Diese Dinge könnenn uns aber nichtsdestoweniger als erfreuliche Auswirkungen einer erzielten Übereinstimmung zufallen.
-
-Wenn man die Übereinstimmung und den guten Willen des Gegners nur als Mittel betrachtet, seine persönlichen Absichten zu verwirklichen, handelt es sich nicht mehr um Gewaltlosigkeit sondern um Geschicklichkeit. 
-
-Wenn wir unseren Gegner dazu bringen, daß er tut, was wir wollen, nicht weil wir ihn überzeugt haben, sondern weil er zum Beispiel einen Skandal fürchtet oder weil er nicht belästigt werden will, so ist das nicht Gewaltlosigkeit sondern Erpressung. 
-
-Die gemeinste und niederträchtigste Art der Erpressung besteht aber darin, Mitleid, religiöse Skrupel oder das Pflichtbewußtsein anderer zu seinem Vorteil auszunutzen. Das eifersüchtige Mädchen, das seinem Geliebten die Pistole auf die Brust setzt ist harmlos gegen jenes, das ihm mit Selbstmord droht. 
-
-Woran erkennt man den Gewaltlosen?
-
-Daran, daß er liebenswürdig und sanft ist?
-
-Nein!
-
-An seiner Geduld und seiner unerschütterlichen Ruhe?
-
-Nein, denn um gewaltlos zu sein genügt es nicht, keine Gewalt zu üben.
-
-Gewaltlos ist, wer es auf das Gewissen absieht. 
-
-Wenn das Gewissen eines Tobenden am besten durch Ruhe und Gelassenheit zu beeindrucken ist, wird er ihm mit unerschütterlicher Ruhe und Gelassenheit begegnen. Durch demütige Heiterkeit gegenüber allen Beschimpfungen und Drohungen wird er ihn in Statuen versetzen. — Wenn es aber, um einen Trägen aufzurütteln, wirksamer ist, Schimpfworte und Schläge zu gebrauchen, wird er den Mut haben zornig zu sein. 
-
-Er kann auch spöttisch und herausfordernd sein, wenn er sieht, daß sein Gegner die ihm entgegengebrachte Achtung für Schmeichelei oder Unterwürfigkeit hält. 
-
-Er ist auch bereit anzugreifen. Gewaltlosigkeit in ihrer edelsten und legitimsten Form ist aggressiv. Der Gewaltlose durchdenkt seinen Angriff im voraus. Er wählt Straße, Schiff oder Eisenbahn, um sich an den Ort zu begeben, wo das Unrecht geschieht, um dort sein Zeugnis abzulegen, seinen Protest zu erheben, um einen Zwischenfall zu verursachen oder einen Skandal auszulösen. 
-
-Man dient seinem Gegner, man ehrt ihn und rettet ihn, indem man gegen ihn kämpft. Und dieser Kampf wird durchgefochten bis zu seinem Ende. Das Ende ist aber nicht Sieg und Beute sondern Versöhnung und Friede. 
-
-
-**Zurück zu den ersten Definitionen**
-
-Jetzt können wir noch einmal auf unsere ersten Definitionen zurückkommen, um genauer auf sie einzugehen. Zuerst also zur Beilegung von Streitigkeiten. 
-
-Die Gewaltlosigkeit ist die einzige Lösung, denn eine andere gibt es nicht. Wenn du nämlich Böses mit Bösem vergiltst, besserst du nichts, sondern du verdoppelst das Übel. 
-
-Wie kann man die Vergeltung gut nennen?
-
-Wenn du einen Mörder tötest, um ihn zu bestrafen, kannst du seinem Opfer doch kein Leben zurückgeben. Das Ergebnis sind also zwei Tote statt einem und zwei Mörder: Ihn und dich. Wie kannst du behaupten, daß es sich um ein kleineres Übel handelt, wo doch deine Rechtsprechung eine Strafe verlangt, die dem Verbrechen gleich ist? 
-
-Wie kannst du annehmen, daß auf diese Weise dem Bösen eine Schranke gesetzt wird, wenn du doch der Kette der Gewalttaten ein neues Glied anfügst, an welches sich wieder andere anschließen können?
-
-Denn der Besiegte wartet auf seine Stunde, um sich zu rächen. Wenn du ihn beseitigst, wird sein Bruder ihn rächen. Legst du ihn aber in Ketten, so bist du selbst an ihn gekettet.
-
-Die Gewalt ist ein Netz, in dessen Maschen sich auch derjenige verfängt, der sich mit ihrer Hilfe befreien will.
-
-Das Netz der legalen Gewaltanwendung aber ist noch stärker und besser gearbeitet als jedes andere. 
-
-Allein die Gewaltlosigkeit kann eine wirkliche Lösung bringen, eine Auflösung des Netzes, eine Befreiung. 
-
-Sollte dein Gegner aber so hartnäckig und verstockt sein, daß du mit ihm einfach nicht weiter kommst, so wird dir dein Kampf doch zu manchem Sieg über dich selbst verhelfen und er wird dir Erfahrungen und innere Erlebnisse bringen, die dir sonst versagt bleiben würden.
-
-
-**Loblied auf die Kraft**
-
-Wir haben gesagt: Gewaltlosigkeit ist die Kraft der Gerechtigkeit. So halten wir zwei Begriffe auseinander, die im allgemeinen oft verwechselt werden: Kraft und Gewalt.
-
-Kraft ist etwas sehr Gutes. Kraft ist der Wert des Seins. Im Lateinischen ist Kraft gleichbedeutend mit Tugend. Die Fülle der Kraft, die Allmacht, das ist Gott.
-
-Von Schwäche, Trägheit und Untätigkeit kann man nichts Gutes erwarten. Von der Gewalt auch nicht, denn sie ist ein Mißbrauch der Kraft, und der Mißbrauch einer so edlen Sache ist der schlimmste. 
-
-Gewalt ist die Kraft des Bösen. Ihre Formen sind: Brutalität, das heißt Vorherrschaft niederer Kräfte über höhere, Unrecht, das heißt Vergewaltigung des Rechtes und Lüge, das ist die Vergewaltigung der Wahrheit. 
-
-Es leuchtet ein, daß man der Gewalt, das heißt dem Mißbrauch einer Kraft nicht durch einen anderen Mißbrauch in entgegengesetzter Richtung Einhalt gebieten kann. Im Gegenteil, die Gewalt steigert und erregt sich auf diese Weise. 
-
-Sie kann auch nicht durch Schwäche oder Feigheit überwunden werden, denn dies sind gerade ihre besten Verbündeten. Ein Gewalttätiger findet immer Schwache und Feiglinge, die ihm dienen und Tribut zahlen, und je mehr er findet, desto stärker ist er. Von solchen Bündnissen der Gewalt mit Schwäche und Feigheit, die oft noch durch rationale und ethische Systeme gefestigt werden, soll im weiteren die Rede sein. Sie erklären sowohl die Unterwerfung der Bürger unter einen Diktator als auch die Disziplin der Soldaten in einer Armee. 
-
-Die einzige Kraft, die sich der Gewalt widersetzen kann, ist die Kraft der Gerechtigkeit.
-
-
-**Zweierlei Macht**
-
-"Es gibt zweierlei Macht auf dieser Welt: die Macht des Schwertes und die Macht des Geistes. Die Macht des Geistes wird zuletzt immer die des Schwertes überwinden."
-
-Meinen Sie, dies sei das Bekenntnis eines Propheten oder eines Predigers, einer Kapazität auf dem Gebiet des Geisteslebens? — Nein, dieses Wort stammt von Napoleon!
-
-Einem anderen Helden aber kam es zu, den Beweis für seine Richtigkeit zu liefern. Einem, der sich nicht mit dem Blut seiner Brüder befleckte: Mahatma Gandhi. 
-
-In seinem Angedenken ist wohl das Wort "Gewaltlosigkeit" in unsere Sprache aufgenommen worden. Es ist eine Übersetzung des Sanskritwortes "Ahimsa". Er aber hielt es für notwendig, eine andere, stärkere, positivere Bezeichnung dafür zu finden: "Satyagraha", das heißt soviel wie unnachgiebiges, unbeirrtes Festhalten an der Wahrheit, innere Kraft des Seins. "Sat" bedeutet Wahrheit und sein, Kraft der Wahrheit oder, mit den Worten Napoleons, Macht des Geistes.
-
-Man lasse sich aber nicht zu der Ansicht verleiten, die Gewaltlosigkeit sei von Gandhi erfunden worden. Schon fünf Jahrhunderte vor Christus wurde sie von Buddha gelehrt, und weitere fünf Jahrhunderte vor Buddha von Josef in der Bibel. 
-
-Man darf sie auch nicht als eine Eigentümlichkeit des Orients betrachten, zu der wir Menschen des Westens keinen Zugang haben. Auch im Westen hat die Gewaltlosigkeit eine lange Geschichte. Eine ihrer größten Wirkungen ist die Entstehung der Christlichen Kirche. Das Verhalten der Märtyrer zeugt davon. Auch in den letzten zwei Jahrhunderten haben Polen, Ungarn und Südamerika verschiedene Beispiele geliefert für gewaltlose Revolutionen und Befreiungen. — Sicher haben Sie auch von gewaltlosen Bewegungen gehört, die heute in verschiedenen Teilen der Welt am Werke sind. Mögen sie auch zahlenmäßig unbedeutend sein, so können sie doch nicht übersehen werden. 
-
-
-**Über die Wirksamkeit**
-
-Die Wirksamkeit der Gewaltlosigkeit braucht heute nicht mehr bezweifelt zu werden. Sie ist eine anerkannte Lehrmeinung und ein häufiges Diskussionsthema. Ich glaube mich nicht zu täuschen, wenn ich die Behauptung aufstelle, daß fast alle, die ihre Wirksamkeit anzweifeln, keinerlei eigene Erfahrungen gemacht haben. Man kann ihnen nur sagen: "Gehen Sie hin und schauen Sie, dann reden wir weiter!"
-
-Deshalb möchte ich jetzt auch nicht über ihre Wirksamkeit an sich diskutieren, sondern über die Bedeutung, die dieser Wirksamkeit beizumessen ist. 
-
-Wirksamkeit ist ein Begriff, der unsere Zeitgenossen fasziniert. Gelänge es nur, die öffentliche Meinung von der Wirksamkeit gewaltlosen Handelns zu überzeugen, könnten wir sicher sein, daß es begeistert angenommen und zu einem Teil unserer Sitten gemacht würde. Dies wäre äußerst wünschenswert. Aber vielleicht würde sich dann herausstellen, daß diese Begeisterung nur eine Folge eines Mißverständnisses ist. — Mißverständnisse jedoch wollen wir lieber vermeiden, auch wenn wir auf ihre Wirksamkeit verzichten müssen. 
-
-Wirksamkeit ist der Maßstab für den Wert eines Hilfsmittels. Über den Wert seines Zweckes sagt sie aber nichts aus. 
-
-Technik, Wirtschaft, Strategie, Politik, Wissenschaft können für sehr verschiedene Zwecke eingesetzt werden. 
-
-Die Technik ist ein sehr wirksames Hilfsmittel, um allerlei Gegenstände herzustellen, ganz unabhängig von ihrer Natur und dem Zweck, dem sie dienen sollen. Es können Werkzeuge sein oder auch Waffen, Gifte sowohl als auch Heilmittel. Ihre Erzeugnisse können sowohl Glück bringen oder auch Unglück. — Die Technik ist ein wertvolles Hilfsmittel zur Beschleunigung der Transporte, ganz unabhängig davon, ob diese Beschleunigung wünschenswert ist oder nicht, unabhängig davon ob es gut ist, einfach daraufloszurasen, ohne zu wissen warum und wohin.
-
-Die Wirtschaft ist ein wirksames Mittel, seinen Besitz zu vergrößern, ganz gleich ob der Besitz Glück bringt oder Verwirrung und Verderben.
-
-Die Strategie ist ein wirksames Hilfsmittel, Schlachten zu gewinnen, ganz unabhängig von dem Ziel, um dessentwillen eine Schlacht geschlagen wird. Die Wirksamkeit besagt nicht einmal etwas darüber, ob es überhaupt ein Ziel gibt, für das es sich lohnt soviele Menschenleben zu vernichten. 
-
-Die Politik ist ein wirksames Mittel, um sich eine Machtstellung zu erringen und sie festzuhalten, unabhängig davon ob diese Machtstellung dem Gemeinwohl dienlich ist oder nicht. 
-
-Die Wissenschaft legt dem Menschen gewaltige Naturkräfte in die Hand. Sie kümmert sich aber nicht darum, ob es für ihn gut ist über solche Machtmittel zu verfügen. 
-
-Aber bedenken wir doch einmal: Sind wir überhaupt berechtigt, diese Fragen zu umgehen? Sind wir berechtigt unsere ganze Aufmerksamkeit auf die Entwicklung der Hilfsmittel zu richten und die Untersuchung der Zwecke für spätere Zeiten aufzuheben oder anderen zu überlassen? Ist dieses Ausweichen nicht eine Ablehnung der Vernunft? Handelt es sich hier nicht um eine Art freiwillige Blindheit? Ist unsere Zivilisation nicht gerade dadurch auf Abwege geraten? Wird durch dieses Ausweichen nicht das Leben seines Sinnes beraubt? 
-
-Alle Dinge, die wir nach ihrer Wirksamkeit beurteilen, weil sie Hilfsmittel sind, haben ihren eigenen Wert. Dieser Wert ist aber relativ, zweitrangig und rein praktischer Natur. Er kann nicht mit religiösen und sittlichen Werten gleichgestellt werden, welche absolut sind und sich nur auf freie, persönliche Handlungen anwenden lassen. Den letzteren muß der Vorrang gegeben werden. 
-
-Je mehr Raum aber die praktischen Dinge im Leben des Menschen einnehmen, je mehr Möglichkeiten sie ihm bieten, sich Vorteile zu verschaffen und sich über seine Mitmenschen zu erheben, desto größeren Wert mißt man ihnen bei. Das geht oft so weit, daß man sie schließlich an die Stelle der absoluten Werte setzt. 
-
-Das Böse ist also, wie wir sehen, ein bedingt Gutes, das irrtümlich an die Stelle des "Guten an sich" gerückt worden ist. So geschieht es, daß Dinge, die in ihrem angemessenen Bereich gut und nützlich sein könnten, auf der Ebene des Absoluten böse werden. Sie sind eine große Gefahr für das innere und äußere Leben des Menschen. Das zeigt sich besonders an der regelmäßigen Wiederkehr von Kriegen und anderen Katastrophen. Man kann leicht erkennen, wie sie an ihrer Entstehung und Ausbreitung beteiligt sind. 
-
-Geringschätzung religiöser und sittlicher Werte ist die Kehrseite zur Überbewertung der praktischen Hilfsmittel. Dies zeigt sich besonders dort, wo kollektive Eigenliebe zur Tugend wird und das Interesse einer Gruppe zum sittlichen Maßstab. 
-
-Dann können Verbrechen wie Mord, Unterdrückung, Ausbeutung, Betrug und Bestechung als erlaubte Hilfsmittel gelten, die durch ihren Erfolg als gerechtfertigt erscheinen. So kommt man zu der leider allzu berühmten Formel: "Der Zweck heiligt die Mittel". 
-
-Aufgabe der Gewaltlosigkeit ist es, solche Rechtfertigungen über den Haufen zu werfen. Sie hängen nämlich immer von falschen Absolutheiten ab, wie Technik, Politik, Strategie, Wirtschaft oder Wissenschaft. 
-
-Gewaltlosigkeit ist das Gegenteil zur Rechtfertigung schlechter Mittel durch einen guten Zweck: sie paßt die Mittel dem Zweck an nach dem Motto: wenn das Ziel gut ist, müssen die Mittel auch gut sein, sonst ist alle Mühe umsonst. 
-
-Gandhi lehrt, daß Mittel und Zweck sich zueinander verhalten wie das Samenkorn zu einer ausgewachsenen Pflanze. Das Böse, welches sich über die Mittel in eine Unternehmung eingeschlichen hat, wird auch im Endergebnis wieder in Erscheinung treten.
-
-Das erklärt alle die Enttäuschungen, die auf gewaltsam errungene Siege und Befreiungen folgen, auch dann, wenn die Ziele gut waren und wenn die Kämpfer aufrichtig und heldenhaft gekämpft haben. 
-
-Nein, ein gutes Ziel rechtfertigt keine schlechten Mittel. Aber schlechte Mittel können die edelsten Zielsetzungen zunichte machen.
-
-Man muß unterscheiden können zwischen einer Wirksamkeit im engeren Sinne, die ein Hilfsmittel nur für sich allein beurteilt und einer Wirksamkeit im weiteren und höheren Sinne, die das Hilfsmittel im Zusammenhang mit seinem Zweck betrachtet. 
-
-Die Wissenschaft dient jedem Zweck, nicht aber das Gewissen. 
-
-Die Intelligenz unterzieht sich jeder Aufgabe, nicht aber die Weisheit. 
-
-Macht vermag alles. Selbstbemeisterung nicht. 
-
-Geld läßt sich zu jedem Dienst einspannen. Nicht so die Ehrlichkeit. 
-
-Mit Mut kann man jedes Ziel in Angriff nehmen, nicht aber mit Barmherzigkeit. 
-
-Kraft ist zu jeder Arbeit notwendig. Gewaltlosigkeit aber, die Kraft der Gerechtigkeit, ist nur wirksam im Dienste der Wahrheit. 
-
-
-**Loblied auf die Gerechtigkeit**
-
+die Kapitulation.  
+Haben Sie das verstanden? Wir haben verstanden, aber wir sind in großer Verlegenheit. Denn, wenn ich nicht streiten, dem Streit aber auch nicht ausweichen soll, wenn ich nicht fliehen und auch nicht kapitulieren soll, was soll ich dann tun?  
+Ich verstehe Ihre Verlegenheit. Um aus ihr herauszukommen, müssen Sie ihr Handbuch zu Rate ziehen. Sie müssen dann nur noch die richtige Seite finden. Das Handbuch heißt "Evangelium".  
+Und was sagt das Evangelium über rechtmäßige Verteidigung, über die Bestrafung von Verbrechern, über die Ehre des Vaterlandes, über die Verteidigung christlicher Kultur und andere Dinge, die immer und immer wieder Gründe liefern, Todesstrafen zu verhängen und gerechte Kriege zu führen?  
+"Wer dich auf deine linke Wange schlägt, dem reiche auch die rechte hin."  
+"Wer dir den Rock nehmen will, dem überlasse auch deinen Mantel."  
+"Wenn man dich nötigt hundert Schritte zu machen, mache zweihundert."  
+Gut. Sie haben verstanden, denn nun ist alles klar. Die Worte des Evangeliums kennen Sie ja auswendig, weil Sie Christen sind oder doch wenigstens unter Christen leben.  
+Ich schließe daraus, daß Sie immer so und nie anders handeln, denn wer anders handelt ist kein Christ. Das sage nicht ich sondern Christus: "Wenn ihr liebt, die euch lieben, wenn ihr grüßt, welche euch grüßen, wenn ihr denen Geld leiht, die es euch wieder zurückgeben (mit einem kleinen Zins), was tut ihr besonders? Tun nicht die Heiden das gleiche?"  
+Das ist also Ihre Handlungsweise. Sie bleiben nicht neutral, Sie schlagen nicht zu und bedrohen auch nicht. Sie geben nicht nach und fliehen nicht. Sie halten stand und halten Ihren Gegner fest und lassen ihn erst los, wenn der Konflikt gelöst ist.  
+Dann haben Sie also die fünfte Handlungsweise gefunden, die so neu ist, so originell und so verwegen, daß die andern aus Verblüffung die Sprache verlieren.  
+Dann müssen Sie diesen also erklären, warum Sie so handeln. Sie werden große Mühe haben, es zu verstehen. Die Bedauernswerten könnten vielleicht auf die Idee kommen, daß Sie zwei Ohrfeigen statt einer haben wollen, weil Sie heimtückische Absichten hegen oder weil Sie pervers sind.  
+
+#### Warum soll ich die zweite Ohrfeige verlangen?  
+Ein Knall, "Au Backe, mein Zahn!" — "Hallo, Herr X, bleiben Sie da, Sie haben noch etwas vergessen." —  
+"Was denn?" — "Daß ich zwei Wangen habe."  
+Und nun erklären Sie den Leuten, warum Sie das machen.  
+Sagen Sie zuerst, daß Ihnen noch selten ein böser Mensch begegnet ist, der in seiner Bosheit so standhaft und unerschütterlich war, daß er die angebotene Freiheit und Straflosigkeit grenzenlos ausgenutzt hätte. — Sagen Sie, daß Sie Rasende gesehen haben, die, wie vom Blitz getroffen, stehen geblieben sind. Erklären Sie warum.  
+Ich mache das, weil ich weiß, daß mein Gegner ein Mensch ist! Ein Mensch, verstehen Sie? Ein Mensch!  
+Dummheit! — Deswegen braucht man sich doch nicht so aufzuregen, das weiß ja jeder.  
+Ja, Sie wissen es, weil es augenscheinlich ist und weil Sie gerade friedlich auf einem Stuhl sitzen. — Aber wie ist es in der Hitze des Streites, wenn Ihr Blut in Wallung gerät? Wird ihnen diese Selbstverständlichkeit dann nicht plötzlich entschwinden? Und wird Ihr Feind dann nicht selber den Beweis liefern, daß er kein Mensch ist, sondern ein Schmarotzer, ein Scheusal oder ein Teufel?  
+Vielleicht ist er erbittert und angriffslustig, vielleicht schäumt er vor Wut und ist so stark, daß ihm niemand in den Weg zu treten wagt. Noch stärker, noch erbitterter und unwiderstehlicher tritt Ihnen dann die Versuchung entgegen, ihn als ein rohes, vernunftloses Wesen, als eine Bestie oder einen Dämon zu betrachten!  
+Nicht jetzt, sondern dann, in jener Situation ist es für Sie notwendig, sich die schwer verständliche Wahrheit vor Augen zu halten, daß er ein Mensch ist, ein Mensch wie du und ich.  
+Wenn er ein Mensch ist, hat er auch einen Gerechtigkeitssinn wie ich, denn der Gerechtigkeitssinn ist Gemeingut aller Menschen.  
+Die Gerechtigkeit ist so einfach wie die Tatsache, daß zwei und zwei vier ist. — Zwei und zwei ist vier, sowohl für den Weißen als auch für den Schwarzen und den Gelben, für den Papua wie auch für den Deutschen, für den Guten wie für den Bösen, für mich und für meinen Feind.  
+Ich lenke absichtlich Ihre Aufmerksamkeit auf die zwingende Kraft der einfachen Behauptung, daß zwei und zwei vier ist. Wenn zwei zu zwei kommt, hängt es nicht von meinem guten oder bösen Willen ab, daß das Ergebnis vier ist. Es hängt auch nicht von meinem Wissen oder von meiner Unwissenheit ab, auch nicht von meiner Kraft oder meiner Geschicklichkeit.  
+Meine Sache muß also eindeutig gerecht sein. So eindeutig wie die Tatsache, daß zwei und zwei vier ist. Andernfalls kann die Gewaltlosigkeit nichts für sie ausrichten.  
+So kommen wir zur zweiten Definition:  
+
+
+### 2. Gewaltlosigkeit, die Kraft der Gerechtigkeit
+
+Wenn Sie ein Verteidiger dess Rechtes sind, und ich nehme an, daß Sie es sind, zumindest bin ich überzeugt, daß Sie es sein wollen, dann müssen Sie sich fragen, ob die Gerechtigkeit nicht eine ihr eigene Kraft besitzt.  
+Mißverstehen Sie mich jetzt aber nicht. Ich meine eine Kraft der Gerechtigkeit und nicht eine Kraft, die in den Dienst der Gerechtigkeit gestellt wird und dadurch gerechtfertigt erscheint. Ich spreche auch nicht von der Kraft, welche den in einen Streit verwickelten Menschen dadurch zuteil wird, daß sie überzeugt sind, auf der Seite des Rechts zu stehen.  
+Ich spreche von einer Kraft, die der Gerechtigkeit wesenseigen ist, von jener zwingenden Kraft, die ich an dem Beispiel von "zwei und zwei" aufgezeigt habe.  
+
+#### Woher kommt diese Kraft und was sind ihre Wirkungen?    
+Das ist so: Damit zwei und zwei vier ergibt, muß eins gleich eins sein. Dieser Grundsatz gilt sowohl für die Mathematik als auch für das Recht.  
+Man diskutiert über alle möglichen und unnmöglichen Dinge, über Meinungen, Geschmacksrichtungen und Farben, nicht aber über die Wahrheit der Zahlen. Die Kraft der Gerechtigkeit zwingt jeden Menschen, sich der Wahrheit zu beugen, daß eins gleich eins ist.  
+Gerechtigkeit ist mathematische Folgerichtigkeit des Handelns. Sie ist unbeugsam wie die Logik. Sie ist das ungehinderte Sich-Auswirken der Wahrheit.  
+Wenn es so ist, wie ist es dann noch möglich, daß es Ungerechte oder Böswillige gibt?  
+Sie gibt es in Wirklichkeit gar nicht; wenigstens nicht solche, die in ihren eigenen Augen ungerecht und böswillig sind. Sie meinen alle für die Gerechtigkeit zu kämpfen und das Gute zu suchen. Ohne das gäbe es keinen Grund zum Handeln und keine Richtung.  
+Weil man ohne das Gute nichts tun kann, suchen sie, wenn das Gute fehlt, einen Ersatz. An die Stelle der Gerechtigkeit setzen sie eine Rechtfertigung.  
+Das Schlechte ist nicht einfach nur das Schlechte, sondern ein teilweise Gutes, das für einige und für eine gewisse Zeit gut ist, aber als das absolut Gute angesehen wird, ein augenblicklich Gutes, das mit dem ewig Guten verwechselt wird.  
+Das Gegenteil von Gerechtigkeit ist nicht Ungerechtigkeit sondern Einseitigkeit.  
+Alles Böse und alle Ungerechtigkeit beginnen mit einem Irrtum. "Wenn der Gedanke falsch ist, ist Trübsal die Folge", sagt ein Weiser, den wir gerne zitieren.  
+Eins ist gleich eins. Jeder weiß das. Auch ich weiß es. Ich weiß es bis zu dem Augenblick, wo ich der eine bin. Denn sobald diese gewaltige Einheit auf den Plan tritt verwirren sich meine Gedanken und Überlegungen.  
+Alle Linien und Winkel sind gefälscht und verbogen durch den ersten Irrtum, die Ur-Sünde.  
+Wer ist nun aber der Böse? Wer ist derjenige, der mir mein Hab und Gut entreißen will, der meine Rechte verletzt, der meinen Tod will oder den meiner Lieben? Dieses unbegreifliche Wesen dort, dieser unverschämte Kerl, diese Mißgeburt, dieser Verräter, dieser kalte, gefühllose Rechner, dieser Heuchler, dieser Taugenichts, dieser liederliche Bursche, diese Kanaille? Wer ist mein Feind?  
+Er ist ein Mensch, der sich irrt.  
+Diese Feststellung ist von großer Wichtigkeit. Sie ist die Grundlage der Gewaltlosigkeit.  
+Die erste Folgerung aus dieser Erkenntnis ist, daß ich ihn nicht mehr zu hassen brauche.  
+Es wäre ja auch ganz sinnlos, lächerlich und vollkommen ungerecht, einen Menschen zu hassen, weil er sich irrt.  
+Die zweite Folgerung ist, daß ich die elementare Pflicht habe, ihn von seinem Irrtum zu befreien.  
+Ist das nicht ganz natürlich? Versuchen wir das nicht alle ganz spontan, sobald wir hören, daß jemand etwas Unrichtiges behauptet, sogar dann, wenn es uns gar nichts angeht? Sogar dann, wenn es sich nur um eine kleine Ungenauigkeit handelt, die für niemand Bedeutung hat? Und wir haben recht, denn die Wahrheit ist immer wichtig. Sie ist aus sich selbst heraus wichtig. Sie ist für alle wichtig, denn durch sie leben wir, und durch sind wir, was wir sind.  
+Wieviel wichtiger ist es dann aber, das Mißverständnis zu berichtigen, das die Ursache eines Konfliktes und vieler anderer Übel ist!  
+Die dritte Folgerung ist, daß ich vor mir eine Aufgabe sehe und mir einen Schlachtplan zurechtlegen muß. Ich muß die Rechtfertigungen meines Gegners eine nach der anderen zu Fall bringen, denn sie umgeben ihn wie ein Wall und machen ihn blind für die Wahrheit. Ich muß damit solange fortfahren, bis er nackt und bloß seinem eigenen Urteil gegenübersteht.  
+Die Wahrheit wird ihn überwinden.  
+Dann habe ich den Konflikt gelöst.  
+
+#### Die Macht der Überredung    
+Alles dies ist leicht gesagt und auch leicht einzusehen. Aber man darf nicht glauben, daß alles von alleine geht, wie bei der Berührung mit einem Zauberstab.  
+Wir sagten eingangs, die Gewaltlosigkeit sei eine einfache Sache. Das sollte aber nicht heißen, daß sie leicht auszuüben ist.  
+Aber selbst wenn sie Anstrengungen kostet, Mühsal und Opfer mit sich bringt und Überlegung verlangt, so kostet sie doch weniger als die Gewalt. Außerdem zieht sie keine Niederlage und keine Vergeltung nach sich. Sie ist eine unermeßliche Einsparung von Leiden und Verbrechen.  
+Manchmal kommt sie auch dem Konflikt zuvor und verhindert den Ausbruch durch gute Worte. Sie beruhigt den, der sich geärgert hat, weil er sich verletzt, beleidigt oder bedroht fühlte. Dies nennen wir die Macht der Überredung.  
+
+#### Die Macht der Überzeugung    
+Manchmal ist das Wort eine Tat, eine stärkere und wirksamere Tat als jede andere.  
+Nehmen wir ein Beispiel aus dem Leben Davids. Der König David hatte, wie Sie wissen, die Frau eines seiner Soldaten zu sich genommen. Den Soldaten schickte er ins Feld, damit er den Tod finden sollte.   
+Soweit ging alles gut. Aber eines Tages kam der Prophet in des Königs Zimmer, um ihn auf einen beklagenswerten Fall hinzuweisen: "Sieh, ich kenne einen armen Menschen, der nur ein Schaf hatte, das er liebte. Ein reicher Nachbar aber beneidete ihn um das weiße Schaf und trieb es dabei soweit, daß er ihm nicht nur das Schaf wegnahm, sondern ihn auch noch in einen Hinterhalt lockte, um ihm das Leben zu nehmen."  
+"Oh, wer ist dieser Schurke?" rief der König empört. "Man soll ihn zu mir bringen, damit er vor Gericht gestellt und mit dem Tode bestraft werden kann!" Der Prophet schaute ihn an, wies mit dem Finger auf ihn und sagte: "Der Schurke bist du!"  
+Und was geschah? Der König legte seine Gewänder ab, hüllte sich in Sack und Asche und tat öffentlich Buße.  
+Doch nicht jeder Schurke ist von der Art Davids! Meistens ist es schwerer, einen Menschen zur Umkehr zu bringen. — Aber man darf sich die Sache auch nicht zu leicht machen, indem man sich sagt: der ist so hoffnungslos schlecht und verworfen, daß er nie etwas anderes als die Sprache der Gewalt verstehen wird.  
+Es geschah einmal in Deutschland während des Krieges in einem Gefangenenlager. Das Leben der Gefangenen war hart. Sie hatten Hunger und litten unter der Kälte und den Anstrengungen der Zwangsarbeit. Abends kehrten sie in ihre Baracken zurück. Ein Wachmann erwartete sie, um mit ihnen seine Scherze zu treiben, die aber nur ihm allein Vergnügen machten. Er zog den einen an der Nase und gab einem anderen einen Tritt in den Bauch. Jeder fragte sich, wer wohl heute an der Reihe wäre.  
+Eines Abends aber kam einer der Gefangenen von selber zu ihm und sagte: "Da Sie jeden Tag jemand schlagen müssen, möchte ich Sie bitten, heute mit mir vorlieb zu nehmen."  
+"Nanu, kleines Französchen! Weil du so frech bist, rate einmal, wiviel Mal ich dir mit meiner Reitpeitsche auf den ..."  
+"Es ist nicht meine Sache zu bestimmen, wieviele Schläge ich verdient habe. Ich überlasse das Ihrem Gewissen."  
+"Meinem Gewissen, meinem Gewissen? Ich habe kein Gewissen!"  
+"Doch!" sagte nach einer kleinen Pause der Gefangene. "Doch, Sie haben ein Gewissen. Ihr Zögern beweist, daß Sie ein Gewissen haben, denn Sie haben mich noch immer nicht geschlagen." — Und indem er sich anschickte weiterzugehen, fügte er noch hinzu: "Ich glaube sogar, daß Sie mich heute abend nicht mehr schlagen werden." Dann wandte er sich um und ging.  
+Der Andere starrte betroffen vor sich auf den Boden, blaß, mit Tränen in den Augen und zitternden Lippen.  
+Nie zuvor hatte jemand zu diesem Unglücklichen von seinem Gewissen gesprochen. Vielleicht war das die Ursache seiner Rohheit.  
+Nach diesem Tag wurde kein Gefangener mehr von ihm geschlagen. Diese Geschichte ist so unwahrscheinlich, daß ich nicht wagen würde, sie zu erzählen, wenn ich nicht wüßte, daß sie wahr ist.   
+
+#### Die Macht des angenommenen Leids  
+Kommen wir nun wieder zurück zum Evangelium von den Backenstreichen, denn nun sind wir eher imstande zu verstehen, um was es hier geht. Was bedeutet das: "Reich ihm die andere Wange hin?" Das bedeutet: Biete deinem Feind die Möglichkeit, dir doppelt soviel Leid zuzufügen, als er beabsichtigt hatte. Warum?  
+Weil der Mensch, der dich zu unrecht geschlagen hat, irgendwo in seinem Innern fühlt, daß er unrecht getan hat. Irgendjemand in seinem Innern weiß es. Aber er gibt sich alle Mühe, diese Stimme nicht zu Wort kommen zu lassen. Das Gerechtigkeitsgefühl, das auf dem Grund seiner Seele ruht, erwartet, daß man ihm die Ohrfeige wieder zurückgibt. Es verlangt nach ihr, um die erste Ohrfeige zu rechtfertigen, denn dann könnte der Streit ruhig weitergehen.  
+Statt die erwartete Ohrfeige zurückzubekommen, wird ihm nun angeboten, sein Unrecht zu verdoppeln, zu verdreifachen und zu vervielfältigen.  
+Das ist die taktische Regel gewaltlosen Handelns: Veranlasse deinen Gegner, sein Unrecht zu vervielfachen. Und du ertrage es mit Geduld, Ausdauer und Hoffnung.  
+Laß dich nicht verdrießen, sondern warte bis er soviel Unrecht auf sich geladen hat, daß in seiner dunklen Seele etwas ins Wanken kommt und umkippt.  
+
+
+### 3. Gewaltlosigkeit, ein Mittel zur Bekehrung 
+
+Hier sind wir nun beim wichtigsten Punkt angelangt, der Umwandlung des Gegners. Sie ist das eigentliche Ziel der Gewaltlosigkeit. Sie ist das Ziel und nicht ein Mittel zum Zweck.  
+Die Verwandlung des Gegners in einen Freund, des Böswilligen in einen Gutwilligen, des Tyrannen in einen gerechten und großzügigen Diener der Ordnung, das ist der wahre Sinn, nicht aber Wiedergutmachung eines Schadens oder Genugtuung für empfangene Beleidigungen, auch nicht Freiheit, Sicherheit oder Frieden. Diese Dinge könnenn uns aber nichtsdestoweniger als erfreuliche Auswirkungen einer erzielten Übereinstimmung zufallen.  
+Wenn man die Übereinstimmung und den guten Willen des Gegners nur als Mittel betrachtet, seine persönlichen Absichten zu verwirklichen, handelt es sich nicht mehr um Gewaltlosigkeit sondern um Geschicklichkeit.  
+Wenn wir unseren Gegner dazu bringen, daß er tut, was wir wollen, nicht weil wir ihn überzeugt haben, sondern weil er zum Beispiel einen Skandal fürchtet oder weil er nicht belästigt werden will, so ist das nicht Gewaltlosigkeit sondern Erpressung.  
+Die gemeinste und niederträchtigste Art der Erpressung besteht aber darin, Mitleid, religiöse Skrupel oder das Pflichtbewußtsein anderer zu seinem Vorteil auszunutzen. Das eifersüchtige Mädchen, das seinem Geliebten die Pistole auf die Brust setzt ist harmlos gegen jenes, das ihm mit Selbstmord droht.  
+Woran erkennt man den Gewaltlosen?  
+Daran, daß er liebenswürdig und sanft ist?  
+Nein!  
+An seiner Geduld und seiner unerschütterlichen Ruhe?  
+Nein, denn um gewaltlos zu sein genügt es nicht, keine Gewalt zu üben.  
+Gewaltlos ist, wer es auf das Gewissen absieht.  
+Wenn das Gewissen eines Tobenden am besten durch Ruhe und Gelassenheit zu beeindrucken ist, wird er ihm mit unerschütterlicher Ruhe und Gelassenheit begegnen. Durch demütige Heiterkeit gegenüber allen Beschimpfungen und Drohungen wird er ihn in Statuen versetzen. — Wenn es aber, um einen Trägen aufzurütteln, wirksamer ist, Schimpfworte und Schläge zu gebrauchen, wird er den Mut haben zornig zu sein.  
+Er kann auch spöttisch und herausfordernd sein, wenn er sieht, daß sein Gegner die ihm entgegengebrachte Achtung für Schmeichelei oder Unterwürfigkeit hält.  
+Er ist auch bereit anzugreifen. Gewaltlosigkeit in ihrer edelsten und legitimsten Form ist aggressiv. Der Gewaltlose durchdenkt seinen Angriff im voraus. Er wählt Straße, Schiff oder Eisenbahn, um sich an den Ort zu begeben, wo das Unrecht geschieht, um dort sein Zeugnis abzulegen, seinen Protest zu erheben, um einen Zwischenfall zu verursachen oder einen Skandal auszulösen.  
+Man dient seinem Gegner, man ehrt ihn und rettet ihn, indem man gegen ihn kämpft. Und dieser Kampf wird durchgefochten bis zu seinem Ende. Das Ende ist aber nicht Sieg und Beute sondern Versöhnung und Friede.  
+
+#### Zurück zu den ersten Definitionen  
+Jetzt können wir noch einmal auf unsere ersten Definitionen zurückkommen, um genauer auf sie einzugehen. Zuerst also zur Beilegung von Streitigkeiten.  
+Die Gewaltlosigkeit ist die einzige Lösung, denn eine andere gibt es nicht. Wenn du nämlich Böses mit Bösem vergiltst, besserst du nichts, sondern du verdoppelst das Übel.  
+Wie kann man die Vergeltung gut nennen?  
+Wenn du einen Mörder tötest, um ihn zu bestrafen, kannst du seinem Opfer doch kein Leben zurückgeben. Das Ergebnis sind also zwei Tote statt einem und zwei Mörder: Ihn und dich. Wie kannst du behaupten, daß es sich um ein kleineres Übel handelt, wo doch deine Rechtsprechung eine Strafe verlangt, die dem Verbrechen gleich ist?  
+Wie kannst du annehmen, daß auf diese Weise dem Bösen eine Schranke gesetzt wird, wenn du doch der Kette der Gewalttaten ein neues Glied anfügst, an welches sich wieder andere anschließen können?  
+Denn der Besiegte wartet auf seine Stunde, um sich zu rächen. Wenn du ihn beseitigst, wird sein Bruder ihn rächen. Legst du ihn aber in Ketten, so bist du selbst an ihn gekettet.  
+Die Gewalt ist ein Netz, in dessen Maschen sich auch derjenige verfängt, der sich mit ihrer Hilfe befreien will.  
+Das Netz der legalen Gewaltanwendung aber ist noch stärker und besser gearbeitet als jedes andere.  
+Allein die Gewaltlosigkeit kann eine wirkliche Lösung bringen, eine Auflösung des Netzes, eine Befreiung.  
+Sollte dein Gegner aber so hartnäckig und verstockt sein, daß du mit ihm einfach nicht weiter kommst, so wird dir dein Kampf doch zu manchem Sieg über dich selbst verhelfen und er wird dir Erfahrungen und innere Erlebnisse bringen, die dir sonst versagt bleiben würden.  
+
+#### Loblied auf die Kraft  
+Wir haben gesagt: Gewaltlosigkeit ist die Kraft der Gerechtigkeit. So halten wir zwei Begriffe auseinander, die im allgemeinen oft verwechselt werden: Kraft und Gewalt.  
+Kraft ist etwas sehr Gutes. Kraft ist der Wert des Seins. Im Lateinischen ist Kraft gleichbedeutend mit Tugend. Die Fülle der Kraft, die Allmacht, das ist Gott.  
+Von Schwäche, Trägheit und Untätigkeit kann man nichts Gutes erwarten. Von der Gewalt auch nicht, denn sie ist ein Mißbrauch der Kraft, und der Mißbrauch einer so edlen Sache ist der schlimmste.  
+Gewalt ist die Kraft des Bösen. Ihre Formen sind: Brutalität, das heißt Vorherrschaft niederer Kräfte über höhere, Unrecht, das heißt Vergewaltigung des Rechtes und Lüge, das ist die Vergewaltigung der Wahrheit.  
+Es leuchtet ein, daß man der Gewalt, das heißt dem Mißbrauch einer Kraft nicht durch einen anderen Mißbrauch in entgegengesetzter Richtung Einhalt gebieten kann. Im Gegenteil, die Gewalt steigert und erregt sich auf diese Weise.  
+Sie kann auch nicht durch Schwäche oder Feigheit überwunden werden, denn dies sind gerade ihre besten Verbündeten. Ein Gewalttätiger findet immer Schwache und Feiglinge, die ihm dienen und Tribut zahlen, und je mehr er findet, desto stärker ist er. Von solchen Bündnissen der Gewalt mit Schwäche und Feigheit, die oft noch durch rationale und ethische Systeme gefestigt werden, soll im weiteren die Rede sein. Sie erklären sowohl die Unterwerfung der Bürger unter einen Diktator als auch die Disziplin der Soldaten in einer Armee.  
+Die einzige Kraft, die sich der Gewalt widersetzen kann, ist die Kraft der Gerechtigkeit.  
+
+#### Zweierlei Macht  
+"Es gibt zweierlei Macht auf dieser Welt: die Macht des Schwertes und die Macht des Geistes. Die Macht des Geistes wird zuletzt immer die des Schwertes überwinden."  
+Meinen Sie, dies sei das Bekenntnis eines Propheten oder eines Predigers, einer Kapazität auf dem Gebiet des Geisteslebens? — Nein, dieses Wort stammt von Napoleon!  
+Einem anderen Helden aber kam es zu, den Beweis für seine Richtigkeit zu liefern. Einem, der sich nicht mit dem Blut seiner Brüder befleckte: Mahatma Gandhi.  
+In seinem Angedenken ist wohl das Wort "Gewaltlosigkeit" in unsere Sprache aufgenommen worden. Es ist eine Übersetzung des Sanskritwortes "Ahimsa". Er aber hielt es für notwendig, eine andere, stärkere, positivere Bezeichnung zu finden: "Satyagraha", das heißt soviel wie unnachgiebiges, unbeirrtes Festhalten an der Wahrheit, innere Kraft des Seins. "Sat" bedeutet Wahrheit und sein, Kraft der Wahrheit oder, mit den Worten Napoleons, Macht des Geistes.  
+Man lasse sich aber nicht zu der Ansicht verleiten, die Gewaltlosigkeit sei von Gandhi erfunden worden. Schon fünf Jahrhunderte vor Christus wurde sie von Buddha gelehrt, und weitere fünf Jahrhunderte vor Buddha von Josef in der Bibel.  
+Man darf sie auch nicht als eine Eigentümlichkeit des Orients betrachten, zu der wir Menschen des Westens keinen Zugang haben. Auch im Westen hat die Gewaltlosigkeit eine lange Geschichte. Eine ihrer größten Wirkungen ist die Entstehung der Christlichen Kirche. Das Verhalten der Märtyrer zeugt davon. Auch in den letzten zwei Jahrhunderten haben Polen, Ungarn und Südamerika verschiedene Beispiele geliefert für gewaltlose Revolutionen und Befreiungen. — Sicher haben Sie auch von gewaltlosen Bewegungen gehört, die heute in verschiedenen Teilen der Welt am Werke sind. Mögen sie auch zahlenmäßig unbedeutend sein, so können sie doch nicht übersehen werden.  
+
+#### Über die Wirksamkeit  
+Die Wirksamkeit der Gewaltlosigkeit braucht heute nicht mehr bezweifelt zu werden. Sie ist eine anerkannte Lehrmeinung und ein häufiges Diskussionsthema. Ich glaube mich nicht zu täuschen, wenn ich die Behauptung aufstelle, daß fast alle, die ihre Wirksamkeit anzweifeln, keinerlei eigene Erfahrungen gemacht haben. Man kann ihnen nur sagen: "Gehen Sie hin und schauen Sie, dann reden wir weiter!"  
+Deshalb möchte ich jetzt auch nicht über ihre Wirksamkeit an sich diskutieren, sondern über die Bedeutung, die dieser Wirksamkeit beizumessen ist.  
+Wirksamkeit ist ein Begriff, der unsere Zeitgenossen fasziniert. Gelänge es nur, die öffentliche Meinung von der Wirksamkeit gewaltlosen Handelns zu überzeugen, könnten wir sicher sein, daß es begeistert angenommen und zu einem Teil unserer Sitten gemacht würde. Dies wäre äußerst wünschenswert. Aber vielleicht würde sich dann herausstellen, daß diese Begeisterung nur eine Folge eines Mißverständnisses ist. — Mißverständnisse jedoch wollen wir lieber vermeiden, auch wenn wir auf ihre Wirksamkeit verzichten müssen.  
+Wirksamkeit ist der Maßstab für den Wert eines Hilfsmittels. Über den Wert seines Zweckes sagt sie aber nichts aus.  
+Technik, Wirtschaft, Strategie, Politik, Wissenschaft können für sehr verschiedene Zwecke eingesetzt werden.  
+Die Technik ist ein sehr wirksames Hilfsmittel, um allerlei Gegenstände herzustellen, ganz unabhängig von ihrer Natur und dem Zweck, dem sie dienen sollen. Es können Werkzeuge sein oder auch Waffen, Gifte sowohl als auch Heilmittel. Ihre Erzeugnisse können sowohl Glück bringen oder auch Unglück. — Die Technik ist ein wertvolles Hilfsmittel zur Beschleunigung der Transporte, ganz unabhängig davon, ob diese Beschleunigung wünschenswert ist oder nicht, unabhängig davon ob es gut ist, einfach daraufloszurasen, ohne zu wissen warum und wohin.  
+Die Wirtschaft ist ein wirksames Mittel, seinen Besitz zu vergrößern, ganz gleich ob der Besitz Glück bringt oder Verwirrung und Verderben.  
+Die Strategie ist ein wirksames Hilfsmittel, Schlachten zu gewinnen, ganz unabhängig von dem Ziel, um dessentwillen eine Schlacht geschlagen wird. Die Wirksamkeit besagt nicht einmal etwas darüber, ob es überhaupt ein Ziel gibt, für das es sich lohnt soviele Menschenleben zu vernichten.  
+Die Politik ist ein wirksames Mittel, um sich eine Machtstellung zu erringen und sie festzuhalten, unabhängig davon ob diese Machtstellung dem Gemeinwohl dienlich ist oder nicht.  
+Die Wissenschaft legt dem Menschen gewaltige Naturkräfte in die Hand. Sie kümmert sich aber nicht darum, ob es für ihn gut ist über solche Machtmittel zu verfügen.  
+Aber bedenken wir doch einmal: Sind wir überhaupt berechtigt, diese Fragen zu umgehen? Sind wir berechtigt unsere ganze Aufmerksamkeit auf die Entwicklung der Hilfsmittel zu richten und die Untersuchung der Zwecke für spätere Zeiten aufzuheben oder anderen zu überlassen? Ist dieses Ausweichen nicht eine Ablehnung der Vernunft? Handelt es sich hier nicht um eine Art freiwillige Blindheit? Ist unsere Zivilisation nicht gerade dadurch auf Abwege geraten? Wird durch dieses Ausweichen nicht das Leben seines Sinnes beraubt?  
+Alle Dinge, die wir nach ihrer Wirksamkeit beurteilen, weil sie Hilfsmittel sind, haben ihren eigenen Wert. Dieser Wert ist aber relativ, zweitrangig und rein praktischer Natur. Er kann nicht mit religiösen und sittlichen Werten gleichgestellt werden, welche absolut sind und sich nur auf freie, persönliche Handlungen anwenden lassen. Den letzteren muß der Vorrang gegeben werden.  
+Je mehr Raum aber die praktischen Dinge im Leben des Menschen einnehmen, je mehr Möglichkeiten sie ihm bieten, sich Vorteile zu verschaffen und sich über seine Mitmenschen zu erheben, desto größeren Wert mißt man ihnen bei. Das geht oft so weit, daß man sie schließlich an die Stelle der absoluten Werte setzt.  
+Das Böse ist also, wie wir sehen, ein bedingt Gutes, das irrtümlich an die Stelle des "Guten an sich" gerückt worden ist. So geschieht es, daß Dinge, die in ihrem angemessenen Bereich gut und nützlich sein könnten, auf der Ebene des Absoluten böse werden. Sie sind eine große Gefahr für das innere und äußere Leben des Menschen. Das zeigt sich besonders an der regelmäßigen Wiederkehr von Kriegen und anderen Katastrophen. Man kann leicht erkennen, wie sie an ihrer Entstehung und Ausbreitung beteiligt sind.  
+Geringschätzung religiöser und sittlicher Werte ist die Kehrseite zur Überbewertung der praktischen Hilfsmittel. Dies zeigt sich besonders dort, wo kollektive Eigenliebe zur Tugend wird und das Interesse einer Gruppe zum sittlichen Maßstab.  
+Dann können Verbrechen wie Mord, Unterdrückung, Ausbeutung, Betrug und Bestechung als erlaubte Hilfsmittel gelten, die durch ihren Erfolg als gerechtfertigt erscheinen. So kommt man zu der leider allzu berühmten Formel: "Der Zweck heiligt die Mittel".  
+Aufgabe der Gewaltlosigkeit ist es, solche Rechtfertigungen über den Haufen zu werfen. Sie hängen nämlich immer von falschen Absolutheiten ab, wie Technik, Politik, Strategie, Wirtschaft oder Wissenschaft.  
+Gewaltlosigkeit ist das Gegenteil zur Rechtfertigung schlechter Mittel durch einen guten Zweck: sie paßt die Mittel dem Zweck an nach dem Motto: wenn das Ziel gut ist, müssen die Mittel auch gut sein, sonst ist alle Mühe umsonst.  
+Gandhi lehrt, daß Mittel und Zweck sich zueinander verhalten wie das Samenkorn zu einer ausgewachsenen Pflanze. Das Böse, welches sich über die Mittel in eine Unternehmung eingeschlichen hat, wird auch im Endergebnis wieder in Erscheinung treten.  
+Das erklärt alle die Enttäuschungen, die auf gewaltsam errungene Siege und Befreiungen folgen, auch dann, wenn die Ziele gut waren und wenn die Kämpfer aufrichtig und heldenhaft gekämpft haben.  
+Nein, ein gutes Ziel rechtfertigt keine schlechten Mittel. Aber schlechte Mittel können die edelsten Zielsetzungen zunichte machen.  
+Man muß unterscheiden können zwischen einer Wirksamkeit im engeren Sinne, die ein Hilfsmittel nur für sich allein beurteilt und einer Wirksamkeit im weiteren und höheren Sinne, die das Hilfsmittel im Zusammenhang mit seinem Zweck betrachtet.  
+Die Wissenschaft dient jedem Zweck, nicht aber das Gewissen.  
+Die Intelligenz unterzieht sich jeder Aufgabe, nicht aber die Weisheit.  
+Macht vermag alles. Selbstbemeisterung nicht.  
+Geld läßt sich zu jedem Dienst einspannen. Nicht so die Ehrlichkeit.  
+Mit Mut kann man jedes Ziel in Angriff nehmen, nicht aber mit Barmherzigkeit.  
+Kraft ist zu jeder Arbeit notwendig. Gewaltlosigkeit aber, die Kraft der Gerechtigkeit, ist nur wirksam im Dienste der Wahrheit.  
+
+#### Loblied auf die Gerechtigkeit  
 Gerechtigkeit, die wahre, oder besser noch mit den Worten Gandhis:  
 Gerechtigkeit, die Wahrheit, die sich in Taten ausdrückt,  
 Gerechtigkeit, die Königin der Tugenden, ohne welche alle anderen ihren Wert verlieren und zu Untugenden werden,  
 Gerechtigkeit, die sichtbares Zeichen der Güte ist,  
 Gerechtigkeit, die das Gesetz des Lebens ist und die Ursache aller Harmonie,  
-Gerechtigkeit, die jedem Ding den rechten Platz gibt, denn alles ist gut zu seiner Zeit, an seinem Ort.   
+Gerechtigkeit, die jedem Ding den rechten Platz gibt, denn alles ist gut zu seiner Zeit, an seinem Ort.  
 Die niederen Dinge sind gut an niederem Ort, durch ihre Festigkeit. Die hohen Dinge sind gut an hohem Ort, durch ihre Klarheit.  
 Der Schmerz ist gut zu seiner Stunde, denn er läutert. Der Tod ist gut zu seiner Stunde, denn er befreit.  
 Der Schatten ist gut für die Ruhe. Das Feuer ist gut für die Wärme, und die Schönheit ist gut.  
 Nichts ist vergebens, nichts ist häßlich, nichts ist falsch, nichts ist schmutzig, nichts ist schlecht außer der Unordnung.  
 Die Gerechtigkeit ist so gut und so schön wie die Musik.
 
-
-**Zweierlei Gerechtigkeit**
-
+#### Zweierlei Gerechtigkeit 
 Aber wir kennen zweierlei Gerechtigkeit: die gute und die andere.  
-
 Die Gerechtigkeit ist die, welche Gutes mit Gutem vergilt und das Gute vervielfältigt,  
 welche empfangene Wohltaten mit Wohltaten erwidert, wenn sie kann, und Dank sagt, wenn sie es nicht kann,  
 welche jedem gibt, was ihm gebührt, Ehre dem Großen, Hilfe dem Schwachen, Mitleid dem Kleinen,  
@@ -407,168 +262,92 @@ Sehen Sie jetzt, welchen Weg die Gerechtigkeit zurücklegen muß, bis sie dem en
 Ist Ihnen jetzt klar, warum Christus in aller Form verurteilt und zwischen zwei Verbrechern ans Kreuz geschlagen werden mußte? Und welche Absage an menschliche Justiz sich im Zeichen des Kreuzes ausdrückt?  
 Möchten Sie wissen, welche Gerechtigkeit die Ihre ist? Urteilen Sie selber! Was sagen Sie, wenn von einem furchtbaren Verbrechen die Rede ist und Sie ganz entsetzt sind?  
 Womit wird man den Verbrecher bestrafen? Welche Strafe wird man ihm auferlegen, wo doch der Tod nicht ausreicht?  
-Oder fragen Sie sich: Was könnte man tun, um eine so schreckliche Untat wiedergutzumachen? Was soll man mit diesem Unglücklichen tun oder was soll man ihm sagen, daß er wieder Halt findet, umkehrt und seine Seele rettet!
-
+Oder fragen Sie sich: Was könnte man tun, um eine so schreckliche Untat wiedergutzumachen? Was soll man mit diesem Unglücklichen tun oder was soll man ihm sagen, daß er wieder Halt findet, umkehrt und seine Seele rettet!  
 All jene hochherzigen Menschen, die im Laufe der letzten Jahrhunderte für Abschaffung von Folter, Prügelstrafen, Pranger, Galeeren, Zwangsarbeit und Todesstrafe eingetreten sind und sich für die Sanierung der Gefängnisse eingesetzt haben sowie für humanen Strafvollzug, für die Erziehung jugendlicher Verbrecher, Wiedereingliederung ehemaliger Häftlinge in die Gesellschaft, rücksichtsvolle Behandlung der Angeklagten, für Bewährungsfristen bei erstmals Straffälligen und für Strafmilderungen bei gutwilligen Häftlingen und so weiter, — all diesen Menschen kommt das unschätzbare Verdienst zu, die Verwerflichkeit der Justiz der Rache erkannt zu haben und ihr allein und gegen den Strom der öffentlichen Meinung Widerstand geleistet zu haben. Sie sind die wahrhaften Vorkämpfer der Gewaltlosigkeit, wenn sie sich auch nicht als solche bezeichnen. 
 
-
-**Justiz und Krieg**
-
+#### Justiz und Krieg  
 Die Stabilität unserer staatlichen Ordnung ruht auf den Ketten der rächenden Justiz. Unsere Richter im Talar und unsere mit Orden und Ehrzeichen geschmückten Staatsmänner kennen keine andere als diese. Sie ist die Grundlage für das geordnete Geschäftsleben und für die Ruhe und Sicherheit unserer Familien.  
+Wundern wir uns nicht, wenn Jesus uns am letzten Tag seines Erdenlebens verkündet, daß der Geist die Welt strafen wird "wegen der Sünde, wegen der Gerechtigkeit und wegen des Gerichts" und daß "der Fürst dieser Welt bereits gerichtet ist".  
+Will man aber wissen, wie die Welt für Sünde, Gerechtigkeit und Gericht gestraft wird, muß man neben der Justiz auch die andere Form rechtmäßiger Gewaltanwendung betrachten, nämlich den Krieg.  
+Beachten Sie, daß wir von rechtmäßiger Gewaltanwendung sprechen, denn unrechtmäßige Gewalt, die in Haß, Eifersucht, Begierde, Neid, Zorn und anderen Übeln ihre Ursache hat, ist eine Angelegenheit der Moral und ist für das Studium der Gewaltlosigkeit nicht besonders wichtig.  
+Da erfahren wir zum Beispiel aus einer Zeitung, daß man gerade einen Mann festgenommen hat, der zwei oder drei andere Menschen ums Leben gebracht hat, und daß er vor Gericht gestellt wird und beste Aussichten hat erhängt zu werden. Dabei hätte ich alle Lust, ihn zu umarmen und zu beglückwünschen dafür, daß er nur so wenige umgebracht hat, nur zwei oder drei!  
+Diejenigen aber, die mit ihrer Bombe an unserer aller Vernichtung arbeiten, sei es in Marcoule oder anderswo, die für Millionen ihrer Mitmenschen, von denen viele noch nicht einmal geboren sind, die Lepra zubereiten, diese Leute brauchen nicht fürchten, daß man sie aufhängt!  
+Das sind keine gewöhnlichen Mörder! Das sind ehrbare Bürger. Für die selbstlose Hingabe an ihre Arbeit werden sie noch mit Geld und Ehren überhäuft. Man muß sie doch belohnen für die großen Wohltaten, die sie der Menschheit erweisen.  
+Auch all die zuverlässigen Angestellten und die guten Arbeiter bis hinunten zum letzten Fensterputzer, die ihr Tagewerk diesem Wunder der Technik und anderen nicht minder nützlichen Kunstwerken widmen, sind doch alle ehrliche Leute? Was meinen Sie?  
+Und wie ehrlich sie sind! Sie sind sogar Gewerkschaftsmitglieder und Sozialisten. Vielleicht nennen sie sich zu allem Überfluß auch noch Pazifisten! Solche, die in jeder Versammlung und in jeder Demonstration dabei sind, um "Frieden, Frieden" zu grölen!  
+Und wenn das Ding los geht, sind bestimmt die anderen schuld.  
+Aber wir, Freunde und Brüder, was sollen wir tun? Sollen auch wir weiterhin getreulich unsere Bürgerpflichten erfüllen, ohne unbequeme Fragen zu stellen?  
+Wenn die Sache vielleicht doch einmal in die Luft geht, trotzdem bisher alles so gut und reibungslos funktioniert hat? Was dann? Sind dann die habgierigen Industriellen schuld? Oder die ehrgeizigen Politiker? Oder ist es der Haß und die Rohheit jenes anderen Volkes oder der Fanatismus seiner Führer?  
+Soweit brauchen wir gar nicht zu gehen, um eine Erklärung zu finden. Es genügt vollkommen, daß jeder Bürger getreulich seine Pflichten erfüllt und allen Befehlen seiner Vorgesetzten Folge leistet, ohne nachzudenken, um die Sache eines Tages zur Explosion zu bringen!  
+Das ist die andere Form der rechtmäßigen Gewalt, das ist der Krieg für Recht und Gerechtigkeit.  
+Warum bemüht ihr euch, ihr Patrioten, ihr Philosophen und Theologen, eine Doktrin über den gerechten Krieg aufzustellen? Nur um uns zu zeigen, daß der gerechteste Krieg, den es gibt, der ist, den wir gerade führen? Das wissen wir ja schon, denn sonst würden wir ihn gar nicht führen! Ohne einen vernünftigen Grund führt man keinen Krieg.  
+Wenn die Tiere keinen Krieg kennen, liegt das daran, daß ihnen die Vernunft fehlt, und daß sie nichts von Gerechtigkeit verstehen.  
+Seiner Vernunft verdankt der Mensch die Waffen und sonstigen Hilfsmittel, die für einen Krieg notwendig sind. Seine Vernunft und sein Gerechtigkeitssinn liefern ihm auch die notwendigen Beweggründe.  
+Es genügt nicht zu sagen, daß unser Krieg gerecht ist. Man muß wissen, daß das Recht sein Leitgedanke und seine Triebfeder ist.  
+Zweifeln Sie daran? Halten Sie uns denn für Betrüger? Oder für Schurken, Räuber oder gemeine Mörder? Nein, mit solchen Leuten kann man keinen Krieg führen! Asoziale Elemente sind dazu untauglich, denn für den Krieg sind Mut, Disziplin, Opferbereitschaft und Intelligenz notwendig. Wir führen den Krieg, wir, die wir die Rechtschaffenheit selber sind!  
+Wir betrügen nicht, aber wir werden irregeführt. Wer führt uns irre? Unsere Regierung? Nein, hier stimmen wir ausnahmsweise einmal überein mit unserer Regierung!  
+Sie sagen, wir werden gezwungen. Werden wir gezwungen in die Schlacht zu ziehen, wo wir doch dann bewaffnet sind und es gut mit denen aufnehmen könnten, die uns zwingen wollen?  
+Ist es der Eigennutz, der uns treibt, wie manche Leute behaupten, die sich in wirtschaftlichen Dingen auszukennen glauben? Sie verstehen nichts vom menschlichen Herzen — und von der Wirtschaft auch nicht viel, wie mir scheint.  
+Wenn es nur darum ginge, Interessen zu verteidigen, warum marschieren dann sowohl Besitzende wie auch Besitzlose? Um die Interessen anderer zu verteidigen? Oder um sich zu bereichern, indem sie ihre eigene Haut zu Markte tragen? Sollten die Menschen wirklich so töricht sein?  
+Und wir? Wir Durchschnittsbürger, die wir so sehr auf unseren Vorteil bedacht sind? Sind wir so verrückt, einen Krieg um seiner Vorteile willen zu führen?  
+Das Interesse der Allgemeinheit ist auch unser Interesse, nämlich daß es Arbeiter gibt, die ihr Brot verdienen, anstelle von Soldaten, die nur verbrauchen und zerstören. Unser Interesse ist die Sicherheit der Straßen, Öffnung der Grenzen, Freundschaft zwischen benachbarten Völkern, kurz: der Frieden.  
+Denn der Krieg wird nicht von den Soldaten bezahlt, auch nicht, wenn sie ihn gewinnen. Auch die Regierung bezahlt ihn nicht, wenn es auch so scheinen mag, sondern wir bezahlen ihn! Und die Kosten, Zerstörungen und Gefahren sind riesenhaft, unberechenbar, unmittelbar, augenblicklich und unvermeidlich. Die Vorteile dagegen sind auf jeden Fall zweifelhaft und liegen in weiter Ferne.  
+Und so sehr wir auch auf Gewinn bedacht sind, so hängen wir doch mehr noch an unserem Leben und dem unserer Kinder. Vor den Gefahren des Krieges aber kann uns kein Reichtum bewahren.  
+Ist es also der Haß?  
+Wie kann ich einen Feind hassen, den ich nie gesehen habe? Ich hasse ihn trotzdem, weil ich alles hasse, was er für mich darstellt. Ich hasse ihn nicht von mir selber aus, aber ich mache es mir zur Pflicht, ihn zu hassen, aus Liebe zur Gerechtigkeit, denn er ist für mich die Verkörperung des Bösen. Er bedroht das Recht. Er ist die Barbarei und wir sind die Zivilisation. Er ist die Knechtschaft und wir sind die Freiheit. Er ist der Böswillige und Gott ist auf unserer Seite!  
+Diese Beweggründe sind so überwältigend und unser Verantwortungsbewußtsein ist dabei so groß, daß wir bereit sind, unser Leben dafür einzusetzen.  
+Und unser Gegner desgleichen.  
+Im Krieg hebt sich der Gerechtigkeitssinn über sich selbst hinaus: Gibt es etwas Erhebenderes als zugleich Ankläger, Richter und Vollstrecker einer Strafe zu sein?  
+Sünde, Gerechtigkeit und Gericht sind "bereits gerichtet!" Hier nämlich bringt der Baum der Erkenntnis von Gut und Böse seine größte Frucht. Die Wurzel des Baumes ist die List, sein Saft der Zwiespalt, seine tragenden Äste heißen Technik, Wirtschaft, Strategie, Politik und Wissenschaft, und die Frucht, die an ihrem Kreuzungspunkt entsteht, ist die Bombe.  
+Hallo! Haben Sie gehört?  
+Oder haben Sie Ohren und hören doch nicht?  
+Besitzen Sie, wenn Ihnen die Weisheit fehlt, noch etwas gesunden Menschenverstand? Haben Sie, wenn Ihnen die Liebe verlorengegangen ist, wenigstens noch etwas tierische Furcht, um sich dem einzigen Ausweg zuzuwenden? Dem Ausweg, der sich gerade zu dieser historischen Stunde anbietet? Zufällig meinen Sie? Haben Sie augen und sehen doch nicht?  
+Die Gewaltlosigkeit kann den Krieg verhindern! Studieren Sie das Leben Gandhis und Sie werden sehen, daß er einen Krieg in fünf Tagen beendete.  
+Wenn die Gewaltlosigkeit den Krieg nicht beseitigt, gibt es nichts, was ihn aufhalten könnte. Kennedy aber sagte: "Entweder macht die Menschheit dem Krieg ein Ende, oder der Krieg macht der Menschheit ein Ende." — Also gehört der Gewaltlosigkeit die Zukunft, oder es gibt keine Zukunft mehr.  
+Was vermag aber die Gewaltlosigkeit gegen eine fremde Macht, die sich unseren Verzicht auf Waffen zunutze macht und unser Land besetzt?  
+Fragen Sie noch einmal Gandhi, wie er eine vorbildlich bewaffnete Armee aus seinem Land vertrieben hat, ohne auch nur einen Schuß abzugeben.  
+Wenn Sie aber nicht immer von demselben Meister belehrt werden wollen, fragen Sie King-Hall, einen britischen Oberst, wie er sich die nationale Verteidigung im Atomzeitalter vorstellt. Dieser geistig auffallend unabhängig Offizier ist zu der Feststellung gekommen, daß die Zeiten der guten, alten Königin Viktoria vorbei sind und daß die Hoffnung auf einen bewaffneten Widerstand gegen ferngelenkte Raketen einem verspäteten Knabentraum gleichkommt. Er erklärt auch die Taktiken, mit denen ein der Freiheit würdiges Volk einen fremden Unterdrücker schachmatt setzen und der Lächerlichkeit preisgeben kann. Dieser Autor neigt dabei etwas zur heroischen Ironie eines Till Eulenspiegel. Es bedarf aber noch mehr. Es bedarf eines Opfers, das fast ebenso groß ist wie das, welches der Krieg von uns fordert. Und es bedarf eines doppelten Mutes. Einige Beispiele liefert uns die Geschichte.  
+Aber Gewalt ist nicht immer blutig und der Unterdrücker ist nicht immer eine fremde Nation. Es gibt auch einen Zustand fortwährender, verborgener Gewalt, der aber meistens die Möglichkeit zu einem offenen Ausbruch in Form einer Revolte in sich trägt.  
+Die wirtschaftliche Gewalt, welche die Reichen gegenüber den Armen ausüben, ist ein solcher Zustand. Ebenso die Gewalt, welche Regierende gegen die Regierten anwenden, um ihnen Arbeit und Steuern abzugewinnen. All dies kann sich unter legalen Formen und im Rahmen einer bestehenden Ordnung abspielen. Das ist die vertikale Gewalt.  
+Fragen Sie Gandhi, wie er die Parias befreit hat und was er unter "*Swadeshi*" versteht. Wir nennen es wirtschaftliche Unabhängigkeit. In diesem Falle ist es eine Wirtschaftsform, die ohne Ausbeutung und Zwang zu existieren vermag.  
+Fragen Sie Vinoba, was er unter "*Bhu-Dan*" (Landgabe) versteht und unter "*Sarvodaya*" (Wohl Aller).  
+Vergessen wir auch nicht den Streik, der im Westen historische Bedeutung erlangt hat als Hilfsmittel zur Entwicklung der Arbeiterschaft. Trotz Sorel und Marx ist er ein gewaltloses Hilfsmittel ersten Ranges. In geläuterter und erweiterter Form würde er genügen, alle notwendigen Reformen durchzuführen. Gleichzeitig würde er zur Reifung der Völker beitragen.  
+Vielleicht sagen Sie, daß es gegen die Gewaltlosigkeit nur einen unwiderlegbaren Einwand gibt, nämlich: daß sie den Besitz der Wahrheit voraussetzt. Kein Mensch aber besitzt die Wahrheit.  
+Die Wahrheit ist niemands ausschließliches Eigentum. Das ist an und für sich schon eine Wahrheit, eine Wahrheit, die der Gewaltlose nie aus den Augen verlieren darf. Dies ist also nur ein weiterer Grund, Gewaltlosigkeit zu üben, erstens weil man auch die Möglichkeit in Betracht zieht, daß man selber im Irrtum sein könnte, und zweitens, weil, wenn man in der Wahrheit ist, der gewaltlose Kampf und seine Vorbereitung uns helfen, der Wahrheit noch näher zu kommen.  
+Rechthaberei ist eine der markantesten Züge der legalen Gewalt. Sie wird zu einer Leidenschaft, die sich mit der Überzeugung verbindet, daß der Feind nicht nur schlecht und böswillig ist, sondern daß er das Böse selbst ist und daß es keine andere Möglichkeit gibt, sich seiner zu entledigen, als ihn zu vernichten.  
+Dieser Irrtum ist so ungeheuerlich, daß man sich kaum vorstellen kann, wie es möglich ist, daß jeder Dummkopf ihm zum Opfer fällt. Aber nicht nur Dummköpfe, sondern selbst die Intelligentesten können ihm erliegen, wenn der Zorn sie zu einem Urteil antreibt. Ganze Völker urteilen plötzlich auf diese Weise über andere Völker. In diesem Wahn liegt die Ursache des Krieges.  
+Die Grenze zwischen Gut und Böse ist es, die uns von den anderen trennt! Das könnte man geistige Einfachheit nennen!  
+Aber so einfach ist es nicht. Die Grenze zwischen Gut und Böse läuft genau durch unsere Mitte, durch unseren Körper und durch unsere Seele.  
+Eine grundlegende Erkenntnis, von der alle Gewaltlosigkeit abhängt, ist, wie wir gesehen haben, daß das Gefühl für Recht und Unrecht in meinem Feinde wie in mir selber vorhanden sei. Hieraus ergibt sich, daß das Böse und der Irrtum sowohl an mir als auch an ihm einen Anteil hat.  
+Wenn ich aber meinem Zorn trotze und in ihm das Gute anerkenne, löse ich ihn von dem Bösen, an das mein Zorn ihn ketten wollte.  
+Wenn ich in mir das Böse anerkenne, welches mein Hochmut mir verbergen möchte, löse ich mich von meinem Zorn und von meinem Stolz und komme der Gerechtigkeit um einen Schritt näher.  
+Jetzt hasse ich nicht mehr ihn sondern nur noch das Böse in ihm. Paulus sagt: "Wir kämpfen nicht gegen Fleisch und Blut, sondern gegen Mächte, die zwischen Himmel und Erde wohnen."  
+Was meine Aufmerksamkeit hier noch besonders festhält, ist das Wort "Macht", das nicht der Namen eines Übels ist oder eines Dämonen, sondern der eines Engels.  
+Ja, wir wissen, das Böse ist immer ein Teil des Guten, ein Bruchstück der Wahrheit. Auch der Irrtum meines Feindes ist eine Wahrheit, vielleicht sogar eine sehr hohe Wahrheit, die ihn in ihren Bann zieht und ihn hindert, die ganze Wahrheit zu sehen. Sie ist ein Teilstück, das für ihn die Stelle des Ganzen eingenommen hat. Sie ist eine Rechtfertigung, die für ihn an die Stelle der Gerechtigkeit getreten ist.  
+Vaterland, Ehre, Recht, Freiheit sind herrliche Dinge, die weder auf der Erde noch im Himmel ihren Sitz haben. Sie bewohnen die "Räume zwischen Himmel und Erde". Die Dinge, die uns soweit bringen, daß wir uns gegenseitig bekämpfen und Gott vergessen sind gewissermaßen "aus der Luft gegriffen".  
+Man hüte sich nun aber davor, solche falshcen Absolutheiten, nämlich Teilwahrheiten zu verachten und zu verdammen. Wir dürfen sie auf keinen Fall zu negativen Absolutheiten machen, denn damit ist nichts gewonnen.  
+Trotz unserer Unwissenheit und Niedrigkeit ist es für uns Pflicht, uns um die Gerechtigkeit zu bemühen. Das wird uns schließlich von Unwissenheit und Niedrigkeit befreien.  
+Es ist nicht das gleiche, ob man eine Sache als gut bezeichnet, weil sie unsere eigene Sache ist, oder ob man eine Sache zu seiner eigenen macht, weil sie gut ist.  
+Wir alle können uns irren. Von dieser Möglichkeit müssen wir ausgehen. Wenn wir ganz aufrichtig und ganz demütig sind, wird unsere Fehlbarkeit vielleicht sogar gegen alle Voraussicht zu einem Gewinn für uns werden.  
+Wenn wir in einen Konflikt verwickelt werden, fragen wir uns zunächst einmal, wie groß und welcher Art unser Anteil an der Schuld ist. Einen Anteil haben wir bestimmt, denn wären wir völlig schuldlos, gäbe es keinen Konflikt für uns. Die Sutren des Yoga lehren: "Ist der Zustand der Gewaltlosigkeit erreicht, fällt die Gewalt angesichts des Weisen von selbst ins Nichts zurück." Also wird der Kampf um so heftiger sein, je unreiner wir sind. Die Drangsale, die wir durch die Ungerechtigkeit zu erleiden haben, sind weniger ungerecht, als es uns erscheint. Wenn wir das wissen, können sie uns sogar nützlich sein.  
+Haben wir nun unseren Fehler entdeckt, dann verheimlichen wir ihn nicht und verschanzen uns auch nicht hinter unseren Rechtfertigungen, sondern wir bieten mit entwaffnender Einfachheit eine Wiedergutmachung an. So sprengen wir den Teufelskreis und zwingen unseren Gegner, zu sich selber zurückzukehren.  
+Unser Feind antwortet uns mit Beschimpfungen, wenn wir ihn anklagen. Vorwürfe beantwortet er wieder mit Vorwürfen. Klagen wir uns aber selber an, so horcht er auf und folgt unseren Worten. Von diesem Augenblick an haben wir die Lage in der Hand. Jetzt führen wir den Kampf und unterminieren seine Befestigungen, das heißt seine Rechtfertigungen.  
+Der Wert meiner Sache ist unabhängig von den Verdiensten oder Fehlern dessen, der sie verteidigt. Über ihren objektiven Wert muß ich mir gründlich klar werden, denn auf ihn muß ich bauen, nicht auf meine Kräfte. Er soll durch mein Handeln in Erscheinung treten. Mein Handeln muß in Einklang stehen mit der Natur des Konflikts und mit seiner Wichtigkeit. Danach richtet sich die Wahl des Ortes, des Zeitpunktes und die Art meines Vorgehens sowie der Stil seiner Ankündigung.  
+Das mindeste aber, was ich tun muß, um die Sauberkeit meines Anliegens nicht zu besudeln, ist, daß ich nicht genauso handle wie mein Feind und ihn trotz seines Unrechtes zum Verteidiger des Rechtes mache. Alle Gewaltakte, alle Arten von List und Verschlagenheit, alle Bosheit und alle Beleidigungen, die mir an ihm mißfallen, muß ich unter allen Umständen vermeiden. Kein geistiges Exerzitium ist schwieriger als dieses. Es gibt aber auch keines, das wirksamer ist.  
+Ohne Kampf gegen mich selber kann mir die Gewaltlosigkeit zu keinem Sieg verhelfen. Wenn das Böse sowohl in mir als auch in meinem Feinde ist, muß ich ordnungsgemäß vorgehen und zuerst das Böse in mir selber bekämpfen.  
+Wie kann ich einen anderen bekehren, wenn ich selber noch nicht ganz bekehrt bin? Wie kann ich ihm seine Fehler vor sein Gewissen stellen und seine Rechtfertigungen zu Fall bringen, wenn ich ihm immer eine Rechtfertigung übrig lasse, die zwar nicht gerade edel ist aber doch sehr gewichtig, daß er mir nämlich sagen kann: "Und Du?"  
+Der erste Schlag, den ich gegen das Böse in mir selber führen kann, ist, daß ich es anerkenne. In manchen Fällen genügt schon dieser Schlag allein, um mich von ihm zu befreien.  
+Solange ich nicht wenigstens begonnen habe, mich selber zu läutern, kann ich mich nicht zum Anwalt der Gerechtigkeit machen.  
+"Das Schlachtfeld des gewaltlosen Kampfes ist das menschliche Herz", sagt Vinoba. Es ist auch der Ort seiner Vorbereitung.  
+Die ordnungsgemäße Vorbereitung auf gewaltloses Handeln ist die Einführung in das innere Leben: Selbsterkenntnis, Selbstbeherrschung und Selbsthingabe. Zu diesem Zweck, um nämlich mit dem Anfang anzufangen, gibt es eine "Arche"¹. Der Anfang der Gewaltlosigkeit liegt in der Verborgenheit des menschlichen Herzens. Ihre Fortsetzung spielt sich im Kreise der Familie ab. Und dann kann sie sich auch im öffentlichen Leben erproben.  
+Es könnte natürlich sein, daß Sie schon einmal an öffentlichen Manifestationen teilgenommen haben, weil Ihr Edelmut Sie unter dem Eindruck gefährlicher Ereignisse oder des Unglücks ihrer Mitmenschen dazu begeistert hat. Wenn Sie sich in diesem Fall der Leitung eines guten Führers anvertraut haben, brauchen Sie sich nicht übermäßig zu beunruhigen über Ihren Mangel an geistiger Schulung. Die Erfahrung wird Ihnen bald zeigen, wo Ihre Lücken sind und dann werden Sie das Bedürfnis haben, dieselben auszufüllen. Und wer sucht, der findet.  
+Viel bedauerlicher ist es hingegen, sich mit der Redensart zu entschuldigen: "Die Gewaltlosigkeit ist für Heilige geschaffen, nicht aber für mich, denn ich bin kein Heiliger".  
+Es handelt sich darum, Mensch zu sein. Gandhi sagte: "Gewalt ist das Gesetz der Bestie, Gewaltlosigkeit aber ist das Gesetz des Menschen". Das Gesetz der Bestie erniedrigt den Menschen, der sich ihm unterstellt, und führt ihn letzten Endes zur Selbstvernichtung.  
+Es handelt sich darum, Mensch zu sein, sein Leben hinzugeben, um sein Leben zu retten!  
+
+¹ Flosha: Mit *Arche* gemeint ist hier im engeren Sinne der von Lanza gegründete, arbeitende Orden der Arche, der aber in seiner wie von ihm konzipierten Form, Stand heute (2026), soweit mir bekannt, nur noch in Form einer einzigen Gemeinschaft in Frankreich, in Gwenves, besteht. Im weiteren Sinne ist einfach eine *Gemeinschaft* gemeint, wie sie auch jeder von Gandhi und Vinoba gegründete *Ashram* darstellt und die auch jede andere Gemeinschaft darstellen kann, vorausgesetzt, dass sie Gewaltlosigkeit praktiziert (in allen Belangen, angefangen bei sich selbst, seinem Umgang mit sich, der Natur und anderen Menschen in Form wirtschaftlicher Unabhängigkeit ohne Ausbeutung) und so auf *Selbsterkenntnis, Selbstbeherrschung und Selbsthingabe* hinarbeitet. Andere Bestandteile, die Lanza del Vasto in Form seines Ordens und in der Ordensregel etabliert hat, sind Details, Gebräuche, Trachten, Traditionen; sie haben ihren Wert, sind aber nicht zwingend und alternativlos, sondern ein bestimmter, frei gewählter Ausdruck dieses spezifischen Ordens. In diesem Sinne kann man natürlich auch jede heute noch bestehende Gemeinschaft, die sich in den alten Gemäuern der Arche niedergelassen hat, durchaus als eine gültige Gemeinschaft in diesem Sinne betrachten, da es auf die äußere Form nicht wesentlich ankommt; andere Formen sind möglich, jedoch eben nur in dem Grade, in dem sie sich zumindest in der *Substanz* immernoch der Gewaltlosigkeit verschrieben haben, in allen Bereichen des Lebens. Und in dem Maße, in dem sie das tun, können sie als wertvolle Laboratorien im Sinne der gewaltlosen Tradition betrachtet werden. In dem Maß, in dem sie das nicht tun, nicht. Die Abkehr von *Khadi*, vom handgesponnenen und handgewebten Tuch und damit ausgerechnet die Abkehr vom Spinnrad als dem Symbol gewaltloser Revolution und als der Ausdruck von Gewaltlosigkeit in der Kleidung, ist ein solcher Bereich, in dem die meisten heutigen, auf die Arche zurückgehenden Gemeinschaften, leider nicht nur in der Form (z.B. Farben, Schnitte, Muster, etc.), sondern in der Substanz abzuweichen scheinen, weil das *Prinzip* aufgegeben wurde und, so meine ich, der Zusammenhang zwischen Gewaltlosigkeit und Unabhängigkeit in Fragen der Bekleidung, nicht mehr gesehen wird. In dem Maße aber, indem sie lediglich die *Priorität* auf die Unabhängigkeit in der Ernährung legen und die Unabhängigkeit in der Kleidung noch immer als ein erstrebenswertes Ziel ins Auge fassen, das aktuell nur hinter jenem Bereich zurückstehen muss und sich bis dahin mit gebrauchter Kleidung und ständiger Reparatur ihrer Kleidung behelfen, sollte es keine Einwände geben. Entscheidend ist die Richtung.  
+{: .subtext }
 
-Wundern wir uns nicht, wenn Jesus uns am letzten Tag seines Erdenlebens verkündet, daß der Geist die Welt strafen wird "wegen der Sünde, wegen der Gerechtigkeit und wegen des Gerichts" und daß "der Fürst dieser Welt bereits gerichtet ist". 
-
-Will man aber wissen, wie die Welt für Sünde, Gerechtigkeit und Gericht gestraft wird, muß man neben der Justiz auch die andere Form rechtmäßiger Gewaltanwendung betrachten, nämlich den Krieg.
-
-Beachten Sie, daß wir von rechtmäßiger Gewaltanwendung sprechen, denn unrechtmäßige Gewalt, die in Haß, Eifersucht, Begierde, Neid, Zorn und anderen Übeln ihre Ursache hat, ist eine Angelegenheit der Moral und ist für das Studium der Gewaltlosigkeit nicht besonders wichtig. 
-
-Da erfahren wir zum Beispiel aus einer Zeitung, daß man gerade einen Mann festgenommen hat, der zwei oder drei andere Menschen ums Leben gebracht hat, und daß er vor Gericht gestellt wird und beste Aussichten hat erhängt zu werden. Dabei hätte ich alle Lust, ihn zu umarmen und zu beglückwünschen dafür, daß er nur so wenige umgebracht hat, nur zwei oder drei!
-
-Diejenigen aber, die mit ihrer Bombe an unserer aller Vernichtung arbeiten, sei es in Marcoule oder anderswo, die für Millionen ihrer Mitmenschen, von denen viele noch nicht einmal geboren sind, die Lepra zubereiten, diese Leute brauchen nicht fürchten, daß man sie aufhängt!
-
-Das sind keine gewöhnlichen Mörder! Das sind ehrbare Bürger. Für die selbstlose Hingabe an ihre Arbeit werden sie noch mit Geld und Ehren überhäuft. Man muß sie doch belohnen für die großen Wohltaten, die sie der Menschheit erweisen. 
-
-Auch all die zuverlässigen Angestellten und die guten Arbeiter bis hinunten zum letzten Fensterputzer, die ihr Tagewerk diesem Wunder der Technik und anderen nicht minder nützlichen Kunstwerken widmen, sind doch alle ehrliche Leute? Was meinen Sie?
-
-Und wie ehrlich sie sind! Sie sind sogar Gewerkschaftsmitglieder und Sozialisten. Vielleicht nennen sie sich zu allem Überfluß auch noch Pazifisten! Solche, die in jeder Versammlung und in jeder Demonstration dabei sind, um "Frieden, Frieden" zu grölen!
-
-Und wenn das Ding los geht, sind bestimmt die anderen schuld.
-
-Aber wir, Freunde und Brüder, was sollen wir tun? Sollen auch wir weiterhin getreulich unsere Bürgerpflichten erfüllen, ohne unbequeme Fragen zu stellen?
-
-Wenn die Sache vielleicht doch einmal in die Luft geht, trotzdem bisher alles so gut und reibungslos funktioniert hat? Was dann? Sind dann die habgierigen Industriellen schuld? Oder die ehrgeizigen Politiker? Oder ist es der Haß und die Rohheit jenes anderen Volkes oder der Fanatismus seiner Führer?
-
-Soweit brauchen wir gar nicht zu gehen, um eine Erklärung zu finden. Es genügt vollkommen, daß jeder Bürger getreulich seine Pflichten erfüllt und allen Befehlen seiner Vorgesetzten Folge leistet, ohne nachzudenken, um die Sache eines Tages zur Explosion zu bringen!
-
-Das ist die andere Form der rechtmäßigen Gewalt, das ist der Krieg für Recht und Gerechtigkeit.
-
-Warum bemüht ihr euch, ihr Patrioten, ihr Philosophen und Theologen, eine Doktrin über den gerechten Krieg aufzustellen? Nur um uns zu zeigen, daß der gerechteste Krieg, den es gibt, der ist, den wir gerade führen? Das wissen wir ja schon, denn sonst würden wir ihn gar nicht führen! Ohne einen vernünftigen Grund führt man keinen Krieg.
-
-Wenn die Tiere keinen Krieg kennen, liegt das daran, daß ihnen die Vernunft fehlt, und daß sie nichts von Gerechtigkeit verstehen. 
-
-Seiner Vernunft verdankt der Mensch die Waffen und sonstigen Hilfsmittel, die für einen Krieg notwendig sind. Seine Vernunft und sein Gerechtigkeitssinn liefern ihm auch die notwendigen Beweggründe. 
-
-Es genügt nicht zu sagen, daß unser Krieg gerecht ist. Man muß wissen, daß das Recht sein Leitgedanke und seine Triebfeder ist. 
-
-Zweifeln Sie daran? Halten Sie uns denn für Betrüger? Oder für Schurken, Räuber oder gemeine Mörder? Nein, mit solchen Leuten kann man keinen Krieg führen! Asoziale Elemente sind dazu untauglich, denn für den Krieg sind Mut, Disziplin, Opferbereitschaft und Intelligenz notwendig. Wir führen den Krieg, wir, die wir die Rechtschaffenheit selber sind!
-
-Wir betrügen nicht, aber wir werden irregeführt. Wer führt uns irre? Unsere Regierung? Nein, hier stimmen wir ausnahmsweise einmal überein mit unserer Regierung!
-
-Sie sagen, wir werden gezwungen. Werden wir gezwungen in die Schlacht zu ziehen, wo wir doch dann bewaffnet sind und es gut mit denen aufnehmen könnten, die uns zwingen wollen? 
-
-Ist es der Eigennutz, der uns treibt, wie manche Leute behaupten, die sich in wirtschaftlichen Dingen auszukennen glauben? Sie verstehen nichts vom menschlichen Herzen — und von der Wirtschaft auch nicht viel, wie mir scheint. 
-
-Wenn es nur darum ginge, Interessen zu verteidigen, warum marschieren dann sowohl Besitzende wie auch Besitzlose? Um die Interessen anderer zu verteidigen? Oder um sich zu bereichern, indem sie ihre eigene Haut zu Markte tragen? Sollten die Menschen wirklich so töricht sein? 
-
-Und wir? Wir Durchschnittsbürger, die wir so sehr auf unseren Vorteil bedacht sind? Sind wir so verrückt, einen Krieg um seiner Vorteile willen zu führen?
-
-Das Interesse der Allgemeinheit ist auch unser Interesse, nämlich daß es Arbeiter gibt, die ihr Brot verdienen, anstelle von Soldaten, die nur verbrauchen und zerstören. Unser Interesse ist die Sicherheit der Straßen, Öffnung der Grenzen, Freundschaft zwischen benachbarten Völkern, kurz: der Frieden.
-
-Denn der Krieg wird nicht von den Soldaten bezahlt, auch nicht, wenn sie ihn gewinnen. Auch die Regierung bezahlt ihn nicht, wenn es auch so scheinen mag, sondern wir bezahlen ihn! Und die Kosten, Zerstörungen und Gefahren sind riesenhaft, unberechenbar, unmittelbar, augenblicklich und unvermeidlich. Die Vorteile dagegen sind auf jeden Fall zweifelhaft und liegen in weiter Ferne.
-
-Und so sehr wir auch auf Gewinn bedacht sind, so hängen wir doch mehr noch an unserem Leben und dem unserer Kinder. Vor den Gefahren des Krieges aber kann uns kein Reichtum bewahren.
-
-Ist es also der Haß?
-
-Wie kann ich einen Feind hassen, den ich nie gesehen habe? Ich hasse ihn trotzdem, weil ich alles hasse, was er für mich darstellt. Ich hasse ihn nicht von mir selber aus, aber ich mache es mir zur Pflicht, ihn zu hassen, aus Liebe zur Gerechtigkeit, denn er ist für mich die Verkörperung des Bösen. Er bedroht das Recht. Er ist die Barbarei und wir sind die Zivilisation. Er ist die Knechtschaft und wir sind die Freiheit. Er ist der Böswillige und Gott ist auf unserer Seite! 
-
-Diese Beweggründe sind so überwältigend und unser Verantwortungsbewußtsein ist dabei so groß, daß wir bereit sind, unser Leben dafür einzusetzen. 
-
-Und unser Gegner desgleichen. 
-
-Im Krieg hebt sich der Gerechtigkeitssinn über sich selbst hinaus: Gibt es etwas Erhebenderes als zugleich Ankläger, Richter und Vollstrecker einer Strafe zu sein? 
-
-Sünde, Gerechtigkeit und Gericht sind "bereits gerichtet!" Hier nämlich bringt der Baum der Erkenntnis von Gut und Böse seine größte Frucht. Die Wurzel des Baumes ist die List, sein Saft der Zwiespalt, seine tragenden Äste heißen Technik, Wirtschaft, Strategie, Politik und Wissenschaft, und die Frucht, die an ihrem Kreuzungspunkt entsteht, ist die Bombe. 
-
-Hallo! Haben Sie gehört?
-
-Oder haben Sie Ohren und hören doch nicht? 
-
-Besitzen Sie, wenn Ihnen die Weisheit fehlt, noch etwas gesunden Menschenverstand? Haben Sie, wenn Ihnen die Liebe verlorengegangen ist, wenigstens noch etwas tierische Furcht, um sich dem einzigen Ausweg zuzuwenden? Dem Ausweg, der sich gerade zu dieser historischen Stunde anbietet? Zufällig meinen Sie? Haben Sie augen und sehen doch nicht? 
-
-Die Gewaltlosigkeit kann den Krieg verhindern! Studieren Sie das Leben Gandhis und Sie werden sehen, daß er einen Krieg in fünf Tagen beendete. 
-
-Wenn die Gewaltlosigkeit den Krieg nicht beseitigt, gibt es nichts, was ihn aufhalten könnte. Kennedy aber sagte: "Entweder macht die Menschheit dem Krieg ein Ende, oder der Krieg macht der Menschheit ein Ende." — Also gehört der Gewaltlosigkeit die Zukunft, oder es gibt keine Zukunft mehr. 
-
-Was vermag aber die Gewaltlosigkeit gegen eine fremde Macht, die sich unseren Verzicht auf Waffen zunutze macht und unser Land besetzt?
-
-Fragen Sie noch einmal Gandhi, wie er eine vorbildlich bewaffnete Armee aus seinem Land vertrieben hat, ohne auch nur einen Schuß abzugeben.
-
-Wenn Sie aber nicht immer von demselben Meister belehrt werden wollen, fragen Sie King-Hall, einen britischen Oberst, wie er sich die nationale Verteidigung im Atomzeitalter vorstellt. Dieser geistig auffallend unabhängig Offizier ist zu der Feststellung gekommen, daß die Zeiten der guten, alten Königin Viktoria vorbei sind und daß die Hoffnung auf einen bewaffneten Widerstand gegen ferngelenkte Raketen einem verspäteten Knabentraum gleichkommt. Er erklärt auch die Taktiken, mit denen ein der Freiheit würdiges Volk einen fremden Unterdrücker schachmatt setzen und der Lächerlichkeit preisgeben kann. Dieser Autor neigt dabei etwas zur heroischen Ironie eines Till Eulenspiegel. Es bedarf aber noch mehr. Es bedarf eines Opfers, das fast ebenso groß ist wie das, welches der Krieg von uns fordert. Und es bedarf eines doppelten Mutes. Einige Beispiele liefert uns die Geschichte.
-
-Aber Gewalt ist nicht immer blutig und der Unterdrücker ist nicht immer eine fremde Nation. Es gibt auch einen Zustand fortwährender, verborgener Gewalt, der aber meistens die Möglichkeit zu einem offenen Ausbruch in Form einer Revolte in sich trägt. 
-
-Die wirtschaftliche Gewalt, welche die Reichen gegenüber den Armen ausüben, ist ein solcher Zustand. Ebenso die Gewalt, welche Regierende gegen die Regierten anwenden, um ihnen Arbeit und Steuern abzugewinnen. All dies kann sich unter legalen Formen und im Rahmen einer bestehenden Ordnung abspielen. Das ist die vertikale Gewalt. 
-
-Fragen Sie Gandhi, wie er die Parias befreit hat und was er unter "Swadeshi" versteht. Wir nennen es wirtschaftliche Unabhängigkeit. In diesem Falle ist es eine Wirtschaftsform, die ohne Ausbeutung und Zwang zu existieren vermag. 
-
-Fragen Sie Vinoba, was er unter "Bhu-Dan" (Landgabe) versteht und unter "Sarvodaya" (Wohl Aller). 
-
-Vergessen wir auch nicht den Streik, der im Westen historische Bedeutung erlangt hat als Hilfsmittel zur Entwicklung der Arbeiterschaft. Trotz Sorel und Marx ist er ein gewaltloses Hilfsmittel ersten Ranges. In geläuterter und erweiterter Form würde er genügen, alle notwendigen Reformen durchzuführen. Gleichzeitig würde er zur Reifung der Völker beitragen. 
-
-Vielleicht sagen Sie, da0 es gegen die Gewaltlosigkeit nur einen unwiderlegbaren Einwand gibt, nämlich: daß sie den Besitz der Wahrheit voraussetzt. Kein Mensch aber besitzt die Wahrheit. 
-
-Die Wahrheit ist niemands ausschließliches Eigentum. Das ist an und für sich schon eine Wahrheit, eine Wahrheit, die der Gewaltlose nie aus den Augen verlieren darf. Dies ist also nur ein weiterer Grund, Gewaltlosigkeit zu üben, erstens weil man auch die Möglichkeit in Betracht zieht, daß man selber im Irrtum sein könnte, und zweitens, weil, wenn man in der Wahrheit ist, der gewaltlose Kampf und seine Vorbereitung uns helfen, der Wahrheit noch näher zu kommen. 
-
-Rechthaberei ist eine der markantesten Züge der legalen Gewalt. Sie wird zu einer Leidenschaft, die sich mit der Überzeugung verbindet, daß der Feind nicht nur schlecht und böswillig ist, sondern daß er das Böse selbst ist und daß es keine andere Möglichkeit gibt, sich seiner zu entledigen, als ihn zu vernichten. 
-
-Dieser Irrtum ist so ungeheuerlich, daß man sich kaum vorstellen kann, wie es möglich ist, daß jeder Dummkopf ihm zum Opfer fällt. Aber nicht nur Dummköpfe, sondern selbst die Intelligentesten können ihm erliegen, wenn der Zorn sie zu einem Urteil antreibt. Ganze Völker urteilen plötzlich auf diese Weise über andere Völker. In diesem Wahn liegt die Ursache des Krieges. 
-
-Die Grenze zwischen Gut und Böse ist es, die uns von den anderen trennt! Das könnte man geistige Einfachheit nennen!
-
-Aber so einfach ist es nicht. Die Grenze zwischen Gut und Böse läuft genau durch unsere Mitte, durch unseren Körper und durch unsere Seele. 
-
-Eine grundlegende Erkenntnis, von der alle Gewaltlosigkeit abhängt, ist, wie wir gesehen haben, daß das Gefühl für Recht und Unrecht in meinem Feinde wie in mir selber vorhanden sei. Hieraus ergibt sich, daß das Böse und der Irrtum sowohl an mir als auch an ihm einen Anteil hat. 
-
-Wenn ich aber meinem Zorn trotze und in ihm das Gute anerkenne, löse ich ihn von dem Bösen, an das mein Zorn ihn ketten wollte. 
-
-Wenn ich in mir das Böse anerkenne, welches mein Hochmut mir verbergen möchte, löse ich mich von meinem Zorn und von meinem Stolz und komme der Gerechtigkeit um einen Schritt näher. 
-
-Jetzt hasse ich nicht mehr ihn sondern nur noch das Böse in ihm. Paulus sagt: "Wir kämpfen nicht gegen Fleisch und Blut, sondern gegen Mächte, die zwischen Himmel und Erde wohnen."
-
-Was meine Aufmerksamkeit hier noch besonders festhält, ist das Wort "Macht", das nicht der Namen eines Übels ist oder eines Dämonen, sondern der eines Engels. 
-
-Ja, wir wissen, das Böse ist immer ein Teil des Guten, ein Bruchstück der Wahrheit. Auch der Irrtum meines Feindes ist eine Wahrheit, vielleicht sogar eine sehr hohe Wahrheit, die ihn in ihren Bann zieht und ihn hindert, die ganze Wahrheit zu sehen. Sie ist ein Teilstück, das für ihn die Stelle des Ganzen eingenommen hat. Sie ist eine Rechtfertigung, die für ihn an die Stelle der Gerechtigkeit getreten ist. 
-
-Vaterland, Ehre, Recht, Freiheit sind herrliche Dinge, die weder auf der Erde noch im Himmel ihren Sitz haben. Sie bewohnen die "Räume zwischen Himmel und Erde". Die Dinge, die uns soweit bringen, daß wir uns gegenseitig bekämpfen und Gott vergessen sind gewissermaßen "aus der Luft gegriffen". 
-
-Man hüte sich nun aber davor, solche falshcen Absolutheiten, nämlich Teilwahrheiten zu verachten und zu verdammen. Wir dürfen sie auf keinen Fall zu negativen Absolutheiten machen, denn damit ist nichts gewonnen.
-
-Trotz unserer Unwissenheit und Niedrigkeit ist es für uns Pflicht, uns um die Gerechtigkeit zu bemühen. Das wird uns schließlich von Unwissenheit und Niedrigkeit befreien. 
-
-Es ist nicht das gleiche, ob man eine Sache als gut bezeichnet, weil sie unsere eigene Sache ist, oder ob man eine Sache zu seiner eigenen macht, weil sie gut ist. 
-
-Wir alle können uns irren. Von dieser Möglichkeit müssen wir ausgehen. Wenn wir ganz aufrichtig und ganz demütig sind, wird unsere Fehlbarkeit vielleicht sogar gegen alle Voraussicht zu einem Gewinn für uns werden.
-
-Wenn wir in einen Konflikt verwickelt werden, fragen wir uns zunächst einmal, wie groß und welcher Art unser Anteil an der Schuld ist. Einen Anteil haben wir bestimmt, denn wären wir völlig schuldlos, gäbe es keinen Konflikt für uns. Die Sutren des Yoga lehren: "Ist der Zustand der Gewaltlosigkeit erreicht, fällt die Gewalt angesichts des Weisen von selbst ins Nichts zurück." Also wird der Kampf um so heftiger sein, je unreiner wir sind. Die Drangsale, die wir durch die Ungerechtigkeit zu erleiden haben, sind weniger ungerecht, als es uns erscheint. Wenn wir das wissen, können sie uns sogar nützlich sein. 
-
-Haben wir nun unseren Fehler entdeckt, dann verheimlichen wir ihn nicht und verschanzen uns auch nicht hinter unseren Rechtfertigungen, sondern wir bieten mit entwaffnender Einfachheit eine Wiedergutmachung an. So sprengen wir den Teufelskreis und zwingen unseren Gegner, zu sich selber zurückzukehren. 
-
-Unser Feind antwortet uns mit Beschimpfungen, wenn wir ihn anklagen. Vorwürfe beantwortet er wieder mit Vorwürfen. Klagen wir uns aber selber an, so horcht er auf und folgt unseren Worten. Von diesem Augenblick an haben wir die Lage in der Hand. Jetzt führen wir den Kampf und unterminieren seine Befestigungen, das heißt seine Rechtfertigungen. 
-
-Der Wert meiner Sache ist unabhängig von den Verdiensten oder Fehlern dessen, der sie verteidigt. Über ihren objektiven Wert muß ich mir gründlich klar werden, denn auf ihn muß ich bauen, nicht auf meine Kräfte. Er soll durch mein Handeln in Erscheinung treten. Mein Handeln muß in Einklang stehen mit der Natur des Konflikts und mit seiner Wichtigkeit. Danach richtet sich die Wahl des Ortes, des Zeitpunktes und die Art meines Vorgehens sowie der Stil seiner Ankündigung. 
-
-Das mindeste aber, was ich tun muß, um die Sauberkeit meines Anliegens nicht zu besudeln, ist, daß ich nicht genauso handle wie mein Feind und ihn trotz seines Unrechtes zum Verteidiger des Rechtes mache. Alle Gewaltakte, alle Arten von List und Verschlagenheit, alle Bosheit und alle Beleidigungen, die mir an ihm mißfallen, muß ich unter allen Umständen vermeiden. Kein geistiges Exerzitium ist schwieriger als dieses. Es gibt aber auch keines, das wirksamer ist. 
-
-Ohne Kampf gegen mich selber kann mir die Gewaltlosigkeit zu keinem Sieg verhelfen. Wenn das Böse sowohl in mir als auch in meinem Feinde ist, muß ich ordnungsgemäß vorgehen und zuerst das Böse in mir selber bekämpfen. 
-
-Wie kann ich einen anderen bekehren, wenn ich selber noch nicht ganz bekehrt bin? Wie kann ich ihm seine Fehler vor sein Gewissen stellen und seine Rechtfertigungen zu Fall bringen, wenn ich ihm immer eine Rechtfertigung übrig lasse, die zwar nicht gerade edel ist aber doch sehr gewichtig, daß er mir nämlich sagen kann: "Und Du?"
-
-Der erste Schlag, den ich gegen das Böse in mir selber führen kann, ist, daß ich es anerkenne. In manchen Fällen genügt schon dieser Schlag allein, um mich von ihm zu befreien. 
-
-Solange ich nicht wenigstens begonnen habe, mich selber zu läutern, kann ich mich nicht zum Anwalt der Gerechtigkeit machen.
-
-"Das Schlachtfeld des gewaltlosen Kampfes ist das menschliche Herz", sagt Vinoba. Es ist auch der Ort seiner Vorbereitung. 
-
-Die ordnungsgemäße Vorbereitung auf gewaltloses Handeln ist die Einführung in das innere Leben: Selbsterkenntnis, Selbstbeherrschung und Selbsthingabe. Zu diesem Zweck, um nämlich mit dem Anfang anzufangen, gibt es eine "Arche". Der Anfang der Gewaltlosigkeit liegt in der Verborgenheit des menschlichen Herzens. Ihre Fortsetzung spielt sich im Kreise der Familie ab. Und dann kann sie sich auch im öffentlichen Leben erproben. 
-
-Es könnte natürlich sein, daß Sie schon einmal an öffentlichen Manifestationen teilgenommen haben, weil Ihr Edelmut Sie unter dem Eindruck gefährlicher Ereignisse oder des Unglücks ihrer Mitmenschen dazu begeistert hat. Wenn Sie sich in diesem Fall der Leitung eines guten Führers anvertraut haben, brauchen Sie sich nicht übermäßig zu beunruhigen über Ihren Mangel an geistiger Schulung. Die Erfahrung wird Ihnen bald zeigen, wo Ihre Lücken sind und dann werden Sie das Bedürfnis haben, dieselben auszufüllen. Und wer sucht, der findet. 
-
-Viel bedauerlicher ist es hingegen, sich mit der Redensart zu entschuldigen: "Die Gewaltlosigkeit ist für Heilige geschaffen, nicht aber für mich, denn ich bin kein Heiliger".
-
-Es handelt sich darum, Mensch zu sein. Gandhi sagte: "Gewalt ist das Gesetz der Bestie, Gewaltlosigkeit aber ist das Gesetz des Menschen". Das Gesetz der Bestie erniedrigt den Menschen, der sich ihm unterstellt, und führt ihn letzten Endes zur Selbstvernichtung.
-
-Es handelt sich darum, Mensch zu sein, sein Leben hinzugeben, um sein Leben zu retten!
 
 ---
 
@@ -668,12 +447,13 @@ Antwort: Darauf sage ich nichts.
 Derselbe: Warum?  
 Antwort: Wenn Sie bei all dem, was bis jetzt gesagt worden ist, nicht zugehört haben, wie könnte ich da erwarten, daß meine Worte jetzt besser ankommen?  
 
+
 ---
+
 
 ## Gewaltlosigkeit und Nächstenliebe
 
-Ein Geselle: Welche Beziehung besteht zwischen Gewaltlosigkeit und Nächstenliebe? Gandhi sagte gewöhnlich: "Gewaltlosigkeit, die wir auch Liebe nennen". Und Sie selber haben erwas Ähnliches geschrieben. Später aber haben Sie Unterscheidungen eingeführt. Welche sind das?
-
+Ein Geselle: Welche Beziehung besteht zwischen Gewaltlosigkeit und Nächstenliebe? Gandhi sagte gewöhnlich: "Gewaltlosigkeit, die wir auch Liebe nennen". Und Sie selber haben erwas Ähnliches geschrieben. Später aber haben Sie Unterscheidungen eingeführt. Welche sind das?  
 Antwort: In der "Pilgerfahrt zu den Quellen" habe ich gesagt, daß sich die Gewaltlosigkeit, wie Gandhi sie versteht und ausübte, in nichts von der christlichen Nächstenliebe unterscheide. Nach 10 Jahren der Erfahrung und des Nachdenkens sagte ich in "Vinoba¹", ich habe festgestellt, daß es zwei verschiedene Dinge sind und es deshalb richtig ist, wenn auch zwei verschiedene Ausdrücke gebraucht werden. Nachdem nun wieder einige Jahre vergangen sind, glaube ich, eine endgültige Formulierung gefunden zu haben.  
 Die erste und niederste Stufe der Nächstenliebe ist die Achtung. Und die Achtung vor einem Mitmenschen fängt an mit der Achtung vor seinem Leben.  
 Die Achtung vor dem Gegner war schon eine der Grundlagen der Ritterlichkeit und des Rittertums. Dies zeigen die Kampfregeln und die Höflichkeitsregeln, die man selbst in der Hitze des Gefechts und unter Lebensgefahr noch als gültig ansah.  
@@ -705,7 +485,6 @@ Mein Ich, mein wahres Selbst, mein lebendiges, inneres Wesen ist Liebe, und alle
 Liebe ist Gott, mit welchem Namen man ihn auch nennen mag, und auch, wenn man ihn überhaupt nicht kennt. 
 
 Ein Freund: Das stimmt für jede Art von Liebe und besonders für die leidenschaftliche, schuldige und unglückliche Liebe. Die Dichter wissen davon.  
-
 Antwort: Reden wir von den Leidenschaften ohne Leidenschaft. Entgleisungen der Liebe haben ihre Entschuldigung, weniger aber die Entgleisungen des Denkens über die Liebe.  
 Übrigens haben Sie die leidenschaftliche Liebe sehr gut in zwei Worten charakterisiert: schuldig und unglücklich. Wenn Sie noch das Wort "falsch" hinzufügen, genügt es, um sie der Liebe, von der wir soeben sprachen, als Gegensatz gegenüberzustellen.  
 Die leidenschaftliche Liebe ist schuldig, weil ihr alle Liebe fehlt. Sie besteht aus Wünschen, Genuß, Verlangen nach Macht und Neugier.  
@@ -714,18 +493,14 @@ Sie ist falsch, weil sie blind ist für die Wirklichkeit und von Wahnvorstellung
 Eine falsche Ekstase, die nur aus Krampf und Delirium besteht. Ein falscher Opfergeist, der nichts ist als Zerstörungswut. Ein falsches Mysterium, das nur Finsternis und Irrtum enthält.  
 
 Eine Frau: Wie erklärt es sich aber, daß Elternliebe, Kindesliebe, die Liebe der Geschwister und die Gattenliebe oft zu genauso unglücklichen Ergebnissen führen, obwohl solche Liebe eigentlich unschuldig und von echten sittlichen Werten getragen wird. Wieviele zerbrochene Schicksale gibt es doch auch in den Familien! Wieviele vergeudete Menschenleben zwischen Herd und Kehrrichtschaufel! Wieviele Enttäuschungen und Revolutionen, wieviel Tyrannei und wieviel Undankbarkeit!  
-
 Antwort: Und vor allem wieviele, die in der schwülen Wärme ersticken! Liebe kann eine Krankheit sein.  
 Liebe kann anmaßend, töricht und blind sein. Nicht blind aus Verblendung, wie die leidenschaftliche Liebe, sondern blind aus Trägheit oder Starrsinn.  
 Die mir Nahestehenden sind nicht ich und auch nicht meine Nächsten. Sie sind nicht "die Anderen", weil sie "die Meinigen" sind. Zuneigung ist etwas anderes als leidenschaftliche Liebe, etwas anderes als Freundschaft und etwas anderes als Barmherzigkeit. Sie ist eine merkwürdige Mischung aus diesen dreien. Meistens enthält sie auch noch verschiedene andere Dinge von geringerem Wert, wie Gewohnheit, Bequemlichkeit, Pflichtgefühl, Mühsal, Eigennutz, Anhänglichkeit.  
 Zuneigung ist das Gegenteil von befreiender Liebe. Die weiche, schützende Hülle, die für das Gedeihen eines Kindes so förderlich ist, kann für den Erwachsenen, der sich ihrer nicht rechtzeitig entledigt hat, zu einem Unglück werden.  
-
 Die Frau: Soll man daraus schließen, daß Zuneigung ein Hindernis für das geistige Leben ist?  
-
 Antwort: Befragen Sie das Evangelium. Das kann Ihnen einige deutliche und klare Antworten geben. Und betrachten Sie das Leben der Heiligen. Die Zuneigung enthält in ihrer Mischung Dinge von unschätzbarem Wert wie die kindliche Liebe zu den Eltern, das brüderliche Vertrauen oder die Zärtlichkeit einer Mutter. "Wer sind meine Mutter und meine Brüder?" fragt Jesus. — Dies alles muß geläutert werden, und manchmal bedarf es einer Prüfung durch das Feuer.  
 
 Ein Familienvater: Bleiben wir noch einen Augenblick bei diesem Thema. Sie haben doch selber einen "patriarchalischen Orden" gegründet. Sie wissen also doch, daß die milde, warme, vielleicht manchmal auch etwas laue Atmosphäre in einer Familie vom himmlischen Vater eines wohlwollenden Blickes gewürdigt wird.  
-
 Antwort: Versuchen Sie doch bitte, meinen Gedanken zu folgen, und mißverstehen Sie nicht den Sinn dieser Analyse. Eine Studie ist kein Prozeß und noch viel weniger eine Verurteilung.  
 Die Liebe wissen wir zu schätzen! Wir lieben sie in allen ihren Formen, den körperlichen wie den geistigen, denn sie ist das Leben des Lebens.  
 Nicht aus Verachtung unterscheidet man niedere Arten von höheren. Für einen Wurm ist es keine Beleidigung, wenn ich ihn als Wurm bezeichne, und für einen Esel nicht, wenn ich ihn Esel nenne. Ein Hund ist kein Mensch, und es ist fast genau so frevelhaft, mit seinem Hund wie mit einem Kind umzugehen, wie wenn man sein Kind wie einen Hund behandelt.  
@@ -739,13 +514,11 @@ Das lateinische Wort für Ehe heißt *Conjugium*, was soviel bedeutet wie gemein
 Die Welt wünscht den Eheleuten "Glück", mit anderen Worten: günstige Zufälle. Aber soviele verschiedenartige Dinge in Übereinstimmung zu bringen, ist eine Sache, die man nicht dem Zufall überlassen kann. Das Gelingen eines solchen Bundes verdient einen besseren Namen. Man sollte den Eheleuten wünschen, daß sie gemeinsam ihr Heil finden. Dann wird das Glück auch nicht ausbleiben.  
 
 Ein junger Mann: Was sagen Sie über die Freundschaft?  
-
 Antwort: Ich würde nicht wie Cicero sagen, daß sie ein Vorrecht der Tugendhaften ist, wohl aber ein Vorrecht der geistig Aktiven. Sie ist eine Affektion des Intellekts, eine Übereinstimmung von Geschmack und Gedanken. Deshalb ist sie im allgemeinen vernünftiger als jede andere Art der Zuneigung.  
 Die Sinne haben keinen Anteil an ihr, sonst müßte man ihr einen anderen Namen geben. Die Leidenschaft kann sich mit ihr verbinden, besonders in der jugendlichen Sturm- und Drang-Zeit.  
 Die Barmherzigkeit kann in sie eintreten, wie in ein rein gehaltenes, für ihren Empfang vorbereitetes Haus.  
 
 Ein Besucher: Was sagen Sie von der Vaterlandsliebe, die doch eine Quelle größter Tugend ist und von manchen Geistern in den Stand einer Religion erhoben wird?  
-
 Antwort: Reden wir lieber von Poesie als von Tugend.  
 Geliebtes Land, wee bist du? Bist du der Staub und die Steine, auf denen unsere Knie lagen, die unsre Tränen und unsre Küsse aufgesogen haben, als wir von der langen Reise zurückkamen?  
 Bist du die Beklemmung in meinem Herzen, die mich befällt, wenn es Abend wird und mir das Glockengeläute meines Heimatdorfes in den Sinn kommt?  
@@ -780,12 +553,9 @@ Barmherzigkeit weiß nichts von Selbstüberhebung, weil sie das Wesentliche vom 
 Barmherzigkeit ist weder anhänglich noch aufdringlich, denn sie hängt nicht von ihrem Gegenstand ab und verschließt sich nicht in ihm. Was sie liebt, ist die Liebe selbst, das Gute, mit einem Wort: Gott. Gott, der in dieser sichtbaren Gestalt enthalten ist, wie auch in jeder anderen Gestalt, der aber auch ohne Gestalt gegenwärtig ist.  
 Barmherzigkeit kennt keine Gleichgültigkeit, denn sie wendet sich ohne Umstände dem nächsten Besten zu, der uns nichts bedeutet.  
 
-Ein Mädchen: Jesus lehrte uns, einander zu lieben. Das ist alles. Er hat nicht so viele Erklärungen hinzugefügt und hat es nicht so schwierig dargestellt.  
-
-Antwort: Nehmen Sie das Kreuz weg. 
-
-Das Mädchen: Was wollen Sie damit sagen?
-
+Eine junge Frau: Jesus lehrte uns, einander zu lieben. Das ist alles. Er hat nicht so viele Erklärungen hinzugefügt und hat es nicht so schwierig dargestellt.  
+Antwort: Nehmen Sie das Kreuz weg.  
+Die junge Frau: Was wollen Sie damit sagen?  
 Antwort: Nehmen Sie das Kreuz weg, und alles wird so leicht und sanft sein, wie Sie es sehen.  
 Sind Sie Ihrem Nächsten schon begegnet? Haben Sie gemerkt, daß er ein häßliches Gesicht hat, dieser Nächste? Daß seine Augen stumpf und blicklos sind? Daß er oft griesgrämig ist und abweisend, gehässig und niederträchtig ist? — Aber das alles ist nichts neben seinem Geruch!  
 Damit nicht genug. Nehmen wir an, Sie begegnen ihm und wollen ihm helfen. Dann müssen Sie auch wissen wie und womit. Sie müssen es besser wissen als er. Der Säufer wird Sie um Geld bitten, um sich zu betrinken. Aber je mehr Sie ihm geben, desto mehr schaden Sie ihm.  
