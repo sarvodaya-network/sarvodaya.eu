@@ -239,4 +239,8 @@ main ul, main ol {
   padding-right: 50px;
 }
 
+main hr {
+  margin: 0;
+}
+
 </style>

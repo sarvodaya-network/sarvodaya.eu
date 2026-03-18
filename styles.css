@@ -376,6 +376,9 @@ main h3 {
 
   hr {
     margin: 50px 0;
+    height: 1px !important;
+    background-color: black;
+    border: none;
   }
 
   .subtext {
