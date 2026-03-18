@@ -76,7 +76,7 @@ On the social philosophy and the vision of a non-violent social order, that we c
 * [Satyagraha](/library/vinoba/english/Satyagraha.pdf). Vinoba.
 * A Handbook for Satyagrahis. Narayan Desai.
 * Non-violent Resistance (Satyagraha). M. K. Gandhi.
-* Definition of Non-Violence. Lanza del Vasto.
+* Definitions of Non-Violence. / DE: [Definitionen der Gewaltlosigkeit](/library/lanzadelvasto/definition-de-la-non-violence/de). Lanza del Vasto.
 * [Gütekraft](https://wp.martin-arnold.eu/?page_id=319), Martin Arnold, 2011.
   * [Hildegard Goss-Mayrs christliche Gewaltfreiheit](https://wp.martin-arnold.eu/?page_id=164)
   * [Gandhis Satyagraha](https://www.martin-arnold.eu/?page_id=168)
