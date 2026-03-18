@@ -85,7 +85,7 @@ On the social philosophy and the vision of a non-violent social order, that we c
 * [Hope or Terror? Gandhi and the Other 9/11](https://www.mettacenter.org/bookstore/p/hope-or-terror-gandhi-and-the-other-911). Michael N. Nagler.
 
 
-### General Writings to Non-Violent Resistance
+### On Non-Violent Resistance
 * [Discourse on Voluntary Servitude](https://archive.org/details/0000-00-00-00-etienne-de-la-boetie-00_202201/1548-00-00_Discourse%20on%20Voluntary%20Servitude_1942_org/mode/1up) (from 1548 by Étienne de La Boétie)
 * [On the Duty of Civil Disobedience](https://www.gutenberg.org/files/71/71-h/71-h.htm) (Essay by Henry David Thoreau, originally released in 1849 under the title *Resistance to Civil Government*)
 * [The Conquest of Violence](https://archive.org/details/de-ligt-bart-the-conquest-of-violence/page/n7/mode/1up) (*An Essay on War and Revolution*, by Bart De Ligt)
@@ -114,7 +114,7 @@ The metaphysical basis of *Sarvodaya* and a philosophy of life that upholds a tr
 
 ---
 
-## Literature for Children
+### Literature for Children
 
 * [Gandhi Searches for Truth](https://www.mettacenter.org/bookstore/p/gandhi-searches-for-truth): *A Practical Biography for Children*
 * My Dear Pranav
@@ -206,6 +206,10 @@ main h1 {
 main h2 {
   padding: 1.5em 0 0;
   font-size: 40px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  text-align: left;
 }
 
 </style>
