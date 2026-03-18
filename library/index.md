@@ -196,20 +196,45 @@ The metaphysical basis of *Sarvodaya* and a philosophy of life that upholds a tr
 
 main {
   font-family: helvetica;
+  padding: 0; 
+  padding-bottom: 100px;
+  margin-top: 55px;
 }
 
 main h1 {
-    padding: 1em 0 0;
+    padding: 10px 30px;
     font-size: 50px;
+    background: var(--bg-darkest);
+    color: white;
+    /* display: inline-block; */
+    margin: 0;
 }
+
+  @media (min-width: 1000px) {
+    main h1 {
+      margin: 80px 0 30px;
+    }
+  }
 
 main h2 {
   padding: 1.5em 0 0;
   font-size: 40px;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  text-align: left;
+main h1, h2, h3, h4, h5, h6 {
+  text-align: left !important;
+  padding-left: 20px !important;
+  padding-right: 20px !important;
+}
+
+main p {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+main ul, main ol {
+  padding-left: 50px;
+  padding-right: 50px;
 }
 
 </style>
