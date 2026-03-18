@@ -249,8 +249,10 @@ main ul, main ol {
   padding-right: 50px;
 }
 
-.no-margin {
-  margin: 0;
+@media (max-width: 1000px) {
+  .no-margin {
+    margin: 0;
+  }
 }
 
 </style>
