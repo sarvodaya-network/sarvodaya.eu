@@ -569,5 +569,5 @@ Hier handelt es sich noch um etwas anderes als darum, die Gleichgültigkeit zu e
 Und die wichtigste Wohltat, die ich meinem Feind erweisen kann, ist die, ihn von seiner Abneigung und Verachtung, von seinem Widerwillen, seiner Abscheu und seiner Angst zu befreien, von allem, was Haß und Feindschaft verursacht. Solange bis ich durch Versöhnung zum Frieden gelangt bin.  
 Die Pflicht der Barmherzigkeit gegen seinen Feind besteht darin, nicht nachzulassen, auf keine Anpassung, kein Bündnis und keinen Kompromiß einzugehen, ehe nicht das Ziel erreicht ist, das Ziel des Friedens durch Versöhnung.  
 
-¹ *Vinoba ou le noveau pelerinage* (1954), ein Buch des Autors, in deutscher Übersetzung erschienen als "*Vinoba — König der Armen*. 
+¹ *Vinoba ou le noveau pelerinage* (1954), ein Buch des Autors, in deutscher Übersetzung erschienen als "*Vinoba — König der Armen*". 
 {: .subtext }
