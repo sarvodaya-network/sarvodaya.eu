@@ -139,8 +139,8 @@ Soweit ging alles gut. Aber eines Tages kam der Prophet in des Königs Zimmer, u
 Und was geschah? Der König legte seine Gewänder ab, hüllte sich in Sack und Asche und tat öffentlich Buße.  
 Doch nicht jeder Schurke ist von der Art Davids! Meistens ist es schwerer, einen Menschen zur Umkehr zu bringen. — Aber man darf sich die Sache auch nicht zu leicht machen, indem man sich sagt: der ist so hoffnungslos schlecht und verworfen, daß er nie etwas anderes als die Sprache der Gewalt verstehen wird.  
 Es geschah einmal in Deutschland während des Krieges in einem Gefangenenlager. Das Leben der Gefangenen war hart. Sie hatten Hunger und litten unter der Kälte und den Anstrengungen der Zwangsarbeit. Abends kehrten sie in ihre Baracken zurück. Ein Wachmann erwartete sie, um mit ihnen seine Scherze zu treiben, die aber nur ihm allein Vergnügen machten. Er zog den einen an der Nase und gab einem anderen einen Tritt in den Bauch. Jeder fragte sich, wer wohl heute an der Reihe wäre.  
-Eines Abends aber kam einer der Gefangenen von selber zu ihm und sagte: "Da Sie jeden Tag jemand schlagen müssen, möchte ich Sie bitten, heute mit mir vorlieb zu nehmen."  
-"Nanu, kleines Französchen! Weil du so frech bist, rate einmal, wiviel Mal ich dir mit meiner Reitpeitsche auf den ..."  
+Eines Abends aber kam einer der Gefangenen von selbst zu ihm und sagte: "Da Sie jeden Tag jemanden schlagen müssen, möchte ich Sie bitten, heute mit mir vorlieb zu nehmen."  
+"Nanu, kleines Französchen! Weil du so frech bist, rate einmal, wieviel Mal ich dir mit meiner Reitpeitsche auf den ..."  
 "Es ist nicht meine Sache zu bestimmen, wieviele Schläge ich verdient habe. Ich überlasse das Ihrem Gewissen."  
 "Meinem Gewissen, meinem Gewissen? Ich habe kein Gewissen!"  
 "Doch!" sagte nach einer kleinen Pause der Gefangene. "Doch, Sie haben ein Gewissen. Ihr Zögern beweist, daß Sie ein Gewissen haben, denn Sie haben mich noch immer nicht geschlagen." — Und indem er sich anschickte weiterzugehen, fügte er noch hinzu: "Ich glaube sogar, daß Sie mich heute abend nicht mehr schlagen werden." Dann wandte er sich um und ging.  
