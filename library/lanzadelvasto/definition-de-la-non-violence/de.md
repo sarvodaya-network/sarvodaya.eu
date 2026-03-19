@@ -169,7 +169,7 @@ Nein!
 An seiner Geduld und seiner unerschütterlichen Ruhe?  
 Nein, denn um gewaltlos zu sein genügt es nicht, keine Gewalt zu üben.  
 Gewaltlos ist, wer es auf das Gewissen absieht.  
-Wenn das Gewissen eines Tobenden am besten durch Ruhe und Gelassenheit zu beeindrucken ist, wird er ihm mit unerschütterlicher Ruhe und Gelassenheit begegnen. Durch demütige Heiterkeit gegenüber allen Beschimpfungen und Drohungen wird er ihn in Statuen versetzen. — Wenn es aber, um einen Trägen aufzurütteln, wirksamer ist, Schimpfworte und Schläge zu gebrauchen, wird er den Mut haben zornig zu sein.  
+Wenn das Gewissen eines Tobenden am besten durch Ruhe und Gelassenheit zu beeindrucken ist, wird er ihm mit unerschütterlicher Ruhe und Gelassenheit begegnen. Durch demütige Heiterkeit gegenüber allen Beschimpfungen und Drohungen wird er ihn in eine Statue verwandeln. — Wenn es aber, um einen Trägen aufzurütteln, wirksamer ist, Schimpfworte und Schläge zu gebrauchen, wird er den Mut haben zornig zu sein.  
 Er kann auch spöttisch und herausfordernd sein, wenn er sieht, daß sein Gegner die ihm entgegengebrachte Achtung für Schmeichelei oder Unterwürfigkeit hält.  
 Er ist auch bereit anzugreifen. Gewaltlosigkeit in ihrer edelsten und legitimsten Form ist aggressiv. Der Gewaltlose durchdenkt seinen Angriff im voraus. Er wählt Straße, Schiff oder Eisenbahn, um sich an den Ort zu begeben, wo das Unrecht geschieht, um dort sein Zeugnis abzulegen, seinen Protest zu erheben, um einen Zwischenfall zu verursachen oder einen Skandal auszulösen.  
 Man dient seinem Gegner, man ehrt ihn und rettet ihn, indem man gegen ihn kämpft. Und dieser Kampf wird durchgefochten bis zu seinem Ende. Das Ende ist aber nicht Sieg und Beute sondern Versöhnung und Friede.  
