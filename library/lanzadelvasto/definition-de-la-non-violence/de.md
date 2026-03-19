@@ -300,9 +300,10 @@ Diese Beweggründe sind so überwältigend und unser Verantwortungsbewußtsein i
 Und unser Gegner desgleichen.  
 Im Krieg hebt sich der Gerechtigkeitssinn über sich selbst hinaus: Gibt es etwas Erhebenderes als zugleich Ankläger, Richter und Vollstrecker einer Strafe zu sein?  
 Sünde, Gerechtigkeit und Gericht sind "bereits gerichtet!" Hier nämlich bringt der Baum der Erkenntnis von Gut und Böse seine größte Frucht. Die Wurzel des Baumes ist die List, sein Saft der Zwiespalt, seine tragenden Äste heißen Technik, Wirtschaft, Strategie, Politik und Wissenschaft, und die Frucht, die an ihrem Kreuzungspunkt entsteht, ist die Bombe.  
+
 Hallo! Haben Sie gehört?  
 Oder haben Sie Ohren und hören doch nicht?  
-Besitzen Sie, wenn Ihnen die Weisheit fehlt, noch etwas gesunden Menschenverstand? Haben Sie, wenn Ihnen die Liebe verlorengegangen ist, wenigstens noch etwas tierische Furcht, um sich dem einzigen Ausweg zuzuwenden? Dem Ausweg, der sich gerade zu dieser historischen Stunde anbietet? Zufällig meinen Sie? Haben Sie augen und sehen doch nicht?  
+Besitzen Sie, wenn Ihnen die Weisheit fehlt, noch etwas gesunden Menschenverstand? Haben Sie, wenn Ihnen die Liebe verlorengegangen ist, wenigstens noch etwas tierische Furcht, um sich dem einzigen Ausweg zuzuwenden? Dem Ausweg, der sich gerade zu dieser historischen Stunde anbietet? Zufällig meinen Sie? Haben Sie Augen und sehen doch nicht?  
 Die Gewaltlosigkeit kann den Krieg verhindern! Studieren Sie das Leben Gandhis und Sie werden sehen, daß er einen Krieg in fünf Tagen beendete.  
 Wenn die Gewaltlosigkeit den Krieg nicht beseitigt, gibt es nichts, was ihn aufhalten könnte. Kennedy aber sagte: "Entweder macht die Menschheit dem Krieg ein Ende, oder der Krieg macht der Menschheit ein Ende." — Also gehört der Gewaltlosigkeit die Zukunft, oder es gibt keine Zukunft mehr.  
 Was vermag aber die Gewaltlosigkeit gegen eine fremde Macht, die sich unseren Verzicht auf Waffen zunutze macht und unser Land besetzt?  
