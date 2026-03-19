@@ -15,7 +15,7 @@ Flosha, 2026
 
 * [The Clear Eye](the-clear-eye)
 * [On Truth](on-truth)
-* On the Original Error
+* [On the Original Error](original-error)
 * [Two Friends on a Bridge](two-friends-on-a-bridge)
 * On Indifference, Distraction and on Remembrance <!-- or on the Rappel -->
 * On Personality and Person 

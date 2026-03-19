@@ -8,7 +8,7 @@ Lanza del Vasto
 Ce n'est pas une petite affaire de savoir les sciences, ni une science, ni la moitié de la moitié d'une.  
 S'il les fallait apprendre toutes pour comprendre quelque chose à ce monde, on passerait sa vie à étudier et à ne rien comprendre.  
 Mais il parait maintenant que c'est vain et cela nous soulage beaucoup!  
-Il paraît que, pour avoir la vérité dernière, suffit de se connaître. Je m'en réjouis fort, car c'est un sujet pour lequel j'ai toujours eu un faible. Voyez-vous, moi et moi-même nous nous entendons bien, depuis le temps que nous allons bras dessus, bras dessous. Nous voici done en bon chemin et nous avons l'omniscience en vue ou peu s'en faut.  
+Il paraît que, pour avoir la vérité dernière, suffit de se connaître. Je m'en réjouis fort, car c'est un sujet pour lequel j'ai toujours eu un faible. Voyez-vous, moi et moi-même nous nous entendons bien, depuis le temps que nous allons bras dessus, bras dessous. Nous voici donc en bon chemin et nous avons l'omniscience en vue ou peu s'en faut.  
 
 Moi je... Presque toutes nos phrases commencent ainsi. Et nous croyons bien savoir de quoi nous parlons.  
 Mais si quelqu'un nous demandait: "Moi? Qu'est cela?" il nous arriverait peut-être de nous apercevoir que nous ne savons pas répondre.  
@@ -28,7 +28,7 @@ Et maintenant, prouvez-le.
 Je ne vous demande pas de prouver qu'il en est ainsi, mais de prouver que vous le savez.  
 Et la preuve en sera vite faite.  
 On éprouve l'argent en le faisant tinter. D'un geste brusque, je vais vous écraser le petit doigt du pied et j'aurai votre preuve au son!  
-Il faut alors qu'on entende quelque chose comme: "Voilà qui est assez regrettable, car c'est un des meilleurs pieds que j'aie, mais somme toute cette affaire ne me regarde pas. "Or donc, si je vous vois affolé et hurlant, c'est que toute votre éducation religieuse et philosophique s'est écroulée et que vous êtes tout d'un coup retombé dans la commune erreur.  
+Il faut alors qu'on entende quelque chose comme: "Voilà qui est assez regrettable, car c'est un des meilleurs pieds que j'aie, mais somme toute cette affaire ne me regarde pas." Or donc, si je vous vois affolé et hurlant, c'est que toute votre éducation religieuse et philosophique s'est écroulée et que vous êtes tout d'un coup retombé dans la commune erreur.  
 O vous qui m'écoutez, retenez bien cette histoire de pieds. Elle voous enseignera le sens que nous donnons au mot *savoir*.  
 Savoir, ce n'est pas tourner des phrases correctes sur des choses exactes et sublimes. Les choses essentielles, il faut les savoir de tout son intellect, de tout son cœur, avec ses entrailles et même avec ses pieds! C'est le sens qu'a ce mot dans le langage traditionnel. Et si vous savez ce que veut dire savoir, vous entendez aussi ce que les hindous appellent l'*Ignorance*, et ce que la Bible appelle l'*Insensé*.  
 Vous pouvez ignorer le nom de la servante-maîtresse de Carnéas et les dates du règne de l'Empereur Tetricus, et vous pouvez même ignorer combien font sept fois huit. Là n'est pas l'Ignorance. Tel "yôguî de la Connaissance" ne sait ni A ni B.  
@@ -134,7 +134,7 @@ Si vous vous êtes avancés jusqu'à ce point, rendus à l'évidence, pliés, pe
 Alors, peut-être êtes-voous parvenus à un tournant de votre vie,  
 Car vous êtes déjà tout à fait différents des passants que, passant vous-mêmes, vous avez recontrés dans la rue en venant, qui tous croient savoir le dessein qu'ils poursuivent et où ils vont et qui ils sont!  
 Celui qui croit savoir n'est jamais qu'un passant et qui passe à côté du savoir et de la foi.  
-Le point où vous en êtes, celui de la plus totale obscurité, a ceci de [net?], de décisif, de salutaire, qu'on ne peut y demeurer.  
+Le point où vous en êtes, celui de la plus totale obscurité, a ceci de net, de décisif, de salutaire, qu'on ne peut y demeurer.  
 
 <section class="subtext">
     <p>

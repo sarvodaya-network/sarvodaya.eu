@@ -14,12 +14,12 @@
 * [De l'erreur originelle](de-l-erreur-originelle)
 * [Deux amis sur un pont](deux-amis-sur-un-pont)
 * [De l'indifférence, de la distraction et du rappel](de-l-indifference)
-* Du personnage et de la personne 
+* [Du personnage et de la personne](du-personnage) 
 * Des quatre cercles de la connaissance et du point
 * Du chemin de la conscience 
-* Connaissance, possession et don 
+* [Connaissance, possession et don](connaissance-possession-et-don) 
 * Des deux mains et des dix doigts 
-* Tiens-toi droit 
+* [Tiens-toi droit](tiens-toi-droit) 
 * De la détente pacifiante et libératrice 
 * Du souffle dominateur et vivifiant
 * [De la soumission du corps ou ascèse](de-la-soumission)
@@ -27,7 +27,7 @@
 * Du péché originel 
 * Des sept mammons
 * De la beauté du compromis 
-* Gagner le temps perdu 
+* [Gagner le temps perdu](gagner-le-temps-perdu) 
 * Questions et réponses autour de la non-violence 
 * De la liberté
 * De l'entraînement ou chute dans le dehors 
@@ -38,20 +38,20 @@
 * Les torts d'autrui ne nous justifient pas 
 * De l'entraînement de la colère 
 * De la hâte 
-* Des soucis 
+* [Des soucis](des-soucis) 
 * De la non-violence active 
 * Non-violence et défense légitime 
 * Le jugement de la ruche 
 * Non-violence et charité
 * De la non-violence passive 
 * De la politique 
-* Morale de l'achat 
-* Trop aimable 
+* [Morale de l'achat](morale-de-l-achat) 
+* [Trop aimable](trop-aimable) 
 * Du sentiment 
 * De l'imagination et de la représentation 
 * Recherche de l'âme 
 * De la méditation 
-* La Grande Peur 
+* [La Grande Peur](la-grande-peur) 
 
 
 

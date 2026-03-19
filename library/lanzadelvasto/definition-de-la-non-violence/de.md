@@ -41,6 +41,9 @@ Warum soviel Eifer? Weil es eine kollektive Verantwortung gibt. Und weil es sein
 
 ## Über aktive Gewaltlosigkeit
 
+> *Denn die Waffen unseres Kampfes sind nicht fleischlich, sondern mächtig vor Gott, um Festungen zu zerstören.* (II Kor., 10, 4, Heiliger Paulus). 
+
+
 #### Subtile Einfachheit   
 Gewaltlosigkeit ist eine einfache Sache, aber sie verlangt Feingefühl. Sie ist nur deshalb so schwierig anzuwenden, weil sie von unseren alltäglichen Gewohnheiten ganz verschieden ist.  
 Die Schwierigkeit wird fast unüberwindlich, wo man glaubt, sie schon begriffen zu haben, und meint, sie bestehe darin, jeder Auseinandersetzung aus dem Wege zu gehen und sich abseits zu halten, wo es kracht.  
@@ -299,7 +302,8 @@ Wie kann ich einen Feind hassen, den ich nie gesehen habe? Ich hasse ihn trotzde
 Diese Beweggründe sind so überwältigend und unser Verantwortungsbewußtsein ist dabei so groß, daß wir bereit sind, unser Leben dafür einzusetzen.  
 Und unser Gegner desgleichen.  
 Im Krieg hebt sich der Gerechtigkeitssinn über sich selbst hinaus: Gibt es etwas Erhebenderes als zugleich Ankläger, Richter und Vollstrecker einer Strafe zu sein?  
-Sünde, Gerechtigkeit und Gericht sind "bereits gerichtet!" Hier nämlich bringt der Baum der Erkenntnis von Gut und Böse seine größte Frucht. Die Wurzel des Baumes ist die List, sein Saft der Zwiespalt, seine tragenden Äste heißen Technik, Wirtschaft, Strategie, Politik und Wissenschaft, und die Frucht, die an ihrem Kreuzungspunkt entsteht, ist die Bombe.  
+Sünde, Gerechtigkeit und Gericht sind "bereits gerichtet!" Hier nämlich bringt der Baum der Erkenntnis von Gut und Böse seine größte Frucht. Die Wurzel des Baumes ist die List, sein Saft der Zwiespalt, seine tragenden Äste heißen Technik, Wirtschaft, Strategie, Politik und Wissenschaft, und die Frucht, die an ihrem Kreuzungspunkt entsteht:  
+<center>die Bombe.</center>  
 Hallo! Haben Sie gehört?  
 Oder haben Sie Ohren und hören doch nicht?  
 Besitzen Sie, wenn Ihnen die Weisheit fehlt, noch etwas gesunden Menschenverstand? Haben Sie, wenn Ihnen die Liebe verlorengegangen ist, wenigstens noch etwas tierische Furcht, um sich dem einzigen Ausweg zuzuwenden? Dem Ausweg, der sich gerade zu dieser historischen Stunde anbietet? Zufällig meinen Sie? Haben Sie augen und sehen doch nicht?  
@@ -311,7 +315,7 @@ Wenn Sie aber nicht immer von demselben Meister belehrt werden wollen, fragen Si
 Aber Gewalt ist nicht immer blutig und der Unterdrücker ist nicht immer eine fremde Nation. Es gibt auch einen Zustand fortwährender, verborgener Gewalt, der aber meistens die Möglichkeit zu einem offenen Ausbruch in Form einer Revolte in sich trägt.  
 Die wirtschaftliche Gewalt, welche die Reichen gegenüber den Armen ausüben, ist ein solcher Zustand. Ebenso die Gewalt, welche Regierende gegen die Regierten anwenden, um ihnen Arbeit und Steuern abzugewinnen. All dies kann sich unter legalen Formen und im Rahmen einer bestehenden Ordnung abspielen. Das ist die vertikale Gewalt.  
 Fragen Sie Gandhi, wie er die Parias befreit hat und was er unter "*Swadeshi*" versteht. Wir nennen es wirtschaftliche Unabhängigkeit. In diesem Falle ist es eine Wirtschaftsform, die ohne Ausbeutung und Zwang zu existieren vermag.  
-Fragen Sie Vinoba, was er unter "*Bhu-Dan*" (Landgabe) versteht und unter "*Sarvodaya*" (Wohl Aller).  
+Fragen Sie Vinoba, was er unter "*Bhu-Dan*" (Landgabe) versteht und dem Dienst an Allen oder unter "*Sarvodaya*" (Wohl Aller).  
 Vergessen wir auch nicht den Streik, der im Westen historische Bedeutung erlangt hat als Hilfsmittel zur Entwicklung der Arbeiterschaft. Trotz Sorel und Marx ist er ein gewaltloses Hilfsmittel ersten Ranges. In geläuterter und erweiterter Form würde er genügen, alle notwendigen Reformen durchzuführen. Gleichzeitig würde er zur Reifung der Völker beitragen.  
 Vielleicht sagen Sie, daß es gegen die Gewaltlosigkeit nur einen unwiderlegbaren Einwand gibt, nämlich: daß sie den Besitz der Wahrheit voraussetzt. Kein Mensch aber besitzt die Wahrheit.  
 Die Wahrheit ist niemands ausschließliches Eigentum. Das ist an und für sich schon eine Wahrheit, eine Wahrheit, die der Gewaltlose nie aus den Augen verlieren darf. Dies ist also nur ein weiterer Grund, Gewaltlosigkeit zu üben, erstens weil man auch die Möglichkeit in Betracht zieht, daß man selber im Irrtum sein könnte, und zweitens, weil, wenn man in der Wahrheit ist, der gewaltlose Kampf und seine Vorbereitung uns helfen, der Wahrheit noch näher zu kommen.  
