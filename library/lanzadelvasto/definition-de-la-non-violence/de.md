@@ -8,7 +8,7 @@ Lanza del Vasto
 
 Übersetzt von Manfred de Voss nach der 1963 erschienenen Schrift "*Définitions de la Non-violence*", welche drei Kapitel aus dem Buch "*Approches de la Vie Intérieure*" zusammenfaßt. Transkribiert von Flosha.  
 
-Über den Autor: Der Verfasser dieser Schrift ist 1901 in Apulien geboren und 1981 in Spanien gestorben. In seiner Jugend har er Philosophie studiert und sich künstlerisch betätigt. Von entscheidender Bedeutung war für ihn seine Begegnung mit Gandhi im Jahre 1937 in Indien. In Frankreich hat er 1948 die Ordensgemeinschaft der Arche gegründet, in welcher er seine Vorstellungen von Gewaltlosigkeit, Okumenismus und sozialer Gerechtigkeit konkretisieren konnte. Viele gewaltlose Aktionen innerhalb von Frankreich und auch ausserhalb sind unter seiner Mitwirkung zustande gekommen. Theorie und Praxis waren in seinem Leben immer eng miteinander verbunden. 
+Über den Autor: Der Verfasser dieser Schrift ist 1901 in Apulien geboren und 1981 in Spanien gestorben. In seiner Jugend hat er Philosophie studiert und sich künstlerisch betätigt. Von entscheidender Bedeutung war für ihn seine Begegnung mit Gandhi im Jahre 1937 in Indien. In Frankreich hat er 1948 die Ordensgemeinschaft der Arche gegründet, in welcher er seine Vorstellungen von Gewaltlosigkeit, Okumenismus und sozialer Gerechtigkeit konkretisieren konnte. Viele gewaltlose Aktionen innerhalb von Frankreich und auch ausserhalb sind unter seiner Mitwirkung zustande gekommen. Theorie und Praxis waren in seinem Leben immer eng miteinander verbunden. 
 
 
 ---
