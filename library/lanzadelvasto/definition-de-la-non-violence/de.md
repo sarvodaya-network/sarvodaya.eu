@@ -133,7 +133,7 @@ Manchmal kommt sie auch dem Konflikt zuvor und verhindert den Ausbruch durch gut
 
 #### Die Macht der Überzeugung    
 Manchmal ist das Wort eine Tat, eine stärkere und wirksamere Tat als jede andere.  
-Nehmen wir ein Beispiel aus dem Leben Davids. Der König David hatte, wie Sie wissen, die Frau eines seiner Soldaten zu sich genommen. Den Soldaten schickte er ins Feld, damit er den Tod finden sollte.   
+Nehmen wir ein Beispiel aus dem Leben Davids. König David hatte, wie Sie wissen, die Frau eines seiner Soldaten an sich genommen. Den Soldaten schickte er ins Feld, damit er den Tod finden sollte.   
 Soweit ging alles gut. Aber eines Tages kam der Prophet in des Königs Zimmer, um ihn auf einen beklagenswerten Fall hinzuweisen: "Sieh, ich kenne einen armen Menschen, der nur ein Schaf hatte, das er liebte. Ein reicher Nachbar aber beneidete ihn um das weiße Schaf und trieb es dabei soweit, daß er ihm nicht nur das Schaf wegnahm, sondern ihn auch noch in einen Hinterhalt lockte, um ihm das Leben zu nehmen."  
 "Oh, wer ist dieser Schurke?" rief der König empört. "Man soll ihn zu mir bringen, damit er vor Gericht gestellt und mit dem Tode bestraft werden kann!" Der Prophet schaute ihn an, wies mit dem Finger auf ihn und sagte: "Der Schurke bist du!"  
 Und was geschah? Der König legte seine Gewänder ab, hüllte sich in Sack und Asche und tat öffentlich Buße.  
