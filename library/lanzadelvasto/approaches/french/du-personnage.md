@@ -51,5 +51,5 @@ O Riche, regarde-le, regarde-le bien, et apprends!
 
 
 ¹ Étymologie possible de *Persona*: de *Sonare*, sonner, et de *Per*, à travers. La Personne? Ce à travers quoi sonne une signification. Dieu veuille que ce soit vrai!  
-
+{: .subscript }
 

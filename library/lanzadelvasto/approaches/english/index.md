@@ -18,7 +18,7 @@ Flosha, 2026
 * [On the Original Error](original-error)
 * [Two Friends on a Bridge](two-friends-on-a-bridge)
 * On Indifference, Distraction and on Remembrance <!-- or on the Rappel -->
-* On Personality and Person 
+* On Persona and Person 
 * On the Four Circles of Knowledge and the Point
 * From the Path of Consciousness 
 * Knowledge, Possession and Gift <!-- or Giving or Donation -->

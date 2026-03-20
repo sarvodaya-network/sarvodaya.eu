@@ -130,8 +130,8 @@ Have you followed me well so far?
 This is what we call the Three Steps.  
 Step by step have you followed me... nowhere?  
 Do you have the courage, the honesty, the lucidity to recognize that you don't know each other?  
-If you have advanced to this point, made it obvious, folded in half, bent over, annihilated to this point,  
-So, maybe you have reached a turning point in your life,  
+If you have advanced to this point, made it obvious, folded in half, bent over, annihilated to this point.    
+So, maybe you have reached a turning point in your life.    
 For you are already quite different from the passants whom, passing by yourselves, you met on the street on your way, who all believe they know the purpose they are pursuing and where they are going and who they are!  
 He who believes he knows is never just a passant who *passes* (misses) knowledge and faith.  
 The point at which you are, that of the most total darkness, it is clear, decisive, salutary, that we cannot remain there.

@@ -15,8 +15,8 @@
 * [Deux amis sur un pont](deux-amis-sur-un-pont)
 * [De l'indifférence, de la distraction et du rappel](de-l-indifference)
 * [Du personnage et de la personne](du-personnage) 
-* Des quatre cercles de la connaissance et du point
-* Du chemin de la conscience 
+* [Des quatre cercles de la connaissance et du point](des-quatre-cercles)
+* [Du chemin de la conscience](du-chemin-de-la-conscience) 
 * [Connaissance, possession et don](connaissance-possession-et-don) 
 * Des deux mains et des dix doigts 
 * [Tiens-toi droit](tiens-toi-droit) 
