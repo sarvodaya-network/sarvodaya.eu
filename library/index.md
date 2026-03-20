@@ -66,6 +66,7 @@ On the social philosophy and the vision of a non-violent social order, that we c
 
 ### Critique of Modernity and its Violent Industrial Civilisation
 * [The Reign of Quantity and the Signs of the Times](https://archive.org/details/reignofquantitys0000guno). By René Guénon, 1945. 
+* [Gandhiji's Critique of Modern Civilization and its Relevance in Present Day](https://www.slideshare.net/slideshow/gandhijis-critique-of-modern-civilization-and-its-relevance-in-present-day-84345244/84345244)
 * [Going Against the Stream: The Relevance of Ananda Coomaraswamy in the 21st Century](https://www.kataragama.org/centers/akc_oration99.htm). Manik Sandrasagra, 1999.
 * [The Search for a *nonviolent* Future](https://www.mettacenter.org/bookstore/p/the-search-for-a-nonviolent-future-expanded-and-revised-version). By Michael N. Nagler.
 * [Cosmopolitan Anarchy: Ananda Coomaraswamy, Transnationalism, and Walt Whitman. By Allan Antliff. 2024.](https://www.proquest.com/docview/3150446615?pq-origsite=summon&sourcetype=Scholarly%20Journals)
