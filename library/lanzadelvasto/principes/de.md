@@ -7,14 +7,20 @@ Lanza del Vasto.
 
 Erstmals in deutscher Übersetzung erschienen (jedoch mit einigen Auslassungen) unter dem Titel: "Weisheit der Landstrasse oder Vom Sinn des unsteten Lebens" von Hannelise Hinderberger. Diese erste Übersetzung wurde in dieser vollständigen Übersetzung ebenfalls herangezogen.  
 
+---
+
 1. Das Leben eines freundlichen Vagabunden zu führen, ist schwer, doch es wird erhellt von der Freude der Springbrunnen und der Offenheit des Himmels.  
-Schon lange trage ich nun Wanderstab, Bettelsack und Bart.
+Schon lange trage ich nun Wanderstab, Bettelsack und Bart.  
 Mich wiegend von einem Fuß auf den anderen, habe ich schließlich vergessen, was man mich in der Schule lehrte, vergessen, was ich in den Büchern las.  
-Die wenigen Gedanken, die mir bleiben, haben sich lange mit unangenehmem Geräusch in meinem Kopf bewegt, schließlich im Hintergrund sich aufgeschichtet, eingetrocknet von der Sonne und der Luft, sind sie hart geworden und haben sich fast aufgelöst in nichts.  
+Die wenigen Gedanken, die mir bleiben, haben sich lange mit unangenehmem Geräusch in meinem Kopf bewegt, schließlich im Hintergrund sich aufgeschichtet, eingetrocknet von der Sonne und der Luft, sind sie hart geworden und haben sich fast aufgelöst in nichts.   
+Es ist die Tat eines Toren, unleugbare Dinge mit glühendem Eifer zu behaupten, und in der Haltung, als hätte er sie entdeckt. Verzeih, Freund, wenn ich fortan nichts anderes zu tun vermag.  
+Ich weiß nur noch Dinge, die so offenkundig sind, daß ein vernünftiger Mensch verschmähen würde, sie auszusprechen. So offenkundig, dass die meisten vernünftigen Menschen sie vergessen haben.   
 
-2. ...
+2. Ich kann dir wenigstens die Prinzipien des Berufs beibringen, die Regeln der Irrfahrten und den Reiseplan der Rückkehr.  
 
-3. ...
+3. Wohin gehen wir auf dieser Straße, auf der wir schon so lange wandern, ohne jemanden zu fragen, wohin sie führt?  
+Einer geht, um das Glück zu suchen, ein anderer, um die Sorgen zu verscheuchen, einer, um sich Wissen zu erwerben, und ein anderer, um nach Hause zu gelangen.  
+Wir wollen all das gleichzeitig tun: wir wollen zur Offenkundigkeit zurückkehren.  
 
 4. ...
 
