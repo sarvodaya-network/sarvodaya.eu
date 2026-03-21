@@ -7,7 +7,10 @@ Lanza del Vasto.
 
 Erstmals in deutscher Übersetzung erschienen (jedoch mit einigen Auslassungen) unter dem Titel: "Weisheit der Landstrasse oder Vom Sinn des unsteten Lebens" von Hannelise Hinderberger. Diese erste Übersetzung wurde in dieser vollständigen Übersetzung ebenfalls herangezogen.  
 
-1. ...
+1. Das Leben eines freundlichen Vagabunden zu führen, ist schwer, doch es wird erhellt von der Freude der Springbrunnen und der Offenheit des Himmels.  
+Schon lange trage ich nun Wanderstab, Bettelsack und Bart.
+Mich wiegend von einem Fuß auf den anderen, habe ich schließlich vergessen, was man mich in der Schule lehrte, vergessen, was ich in den Büchern las.  
+Die wenigen Gedanken, die mir bleiben, haben sich lange mit unangenehmem Geräusch in meinem Kopf bewegt, schließlich im Hintergrund sich aufgeschichtet, eingetrocknet von der Sonne und der Luft, sind sie hart geworden und haben sich fast aufgelöst in nichts.  
 
 2. ...
 
