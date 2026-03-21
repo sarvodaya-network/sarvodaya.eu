@@ -1,5 +1,8 @@
 # Literatur — das Bindeglied
 
+[Vinoba Bhave](/library/vinoba/deutsch/)
+{: .center }
+
 *Rede, gehalten in Pandharpur, Maharashtra, Mai 1957*
 
 Was für Mächte — abgesehen von Gott — gestalten das Leben dieser Welt? Einige glauben, die politischen Führer übten diese Macht aus, aber dem ist nicht so. Die Dinge, die in Wahrheit die Welt gestalten, sind: Naturwissenschaft, spirituelles Wissen und Schrifttum.  
