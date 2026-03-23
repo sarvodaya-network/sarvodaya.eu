@@ -1,6 +1,8 @@
+[Vinoba](/library/vinoba/deutsch/) / Dritte Macht
+
 # Literatur — das Bindeglied
 
-[Vinoba Bhave](/library/vinoba/deutsch/)
+Vinoba Bhave
 {: .center }
 
 *Rede, gehalten in Pandharpur, Maharashtra, Mai 1957*
