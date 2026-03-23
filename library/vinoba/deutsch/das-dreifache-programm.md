@@ -5,7 +5,13 @@
 [...]
 
 ## 1. Gramdan
-[... ]
+
+Wir haben beschlossen, daß das Eigentum an Land in einem Gramdan-Dorf beim gramsabha (Dorfrat) liegen soll. Die ursprünglichen Eigentümer werden weiterhin das Land nutzen, das ihnen verbleibt, nachdem den Landlosen ein Teil gegeben worden ist, aber sie werden die Eigentumsrechte dem gramsabha vermachen.  
+Gramdan ist ein Akt, bei dem jeder etwas opfert. Wir betrachten den gramsabha als eine Mutter-Gottheit: Wir bringen unsere Opfer und nehmen entgegen zu unserem eigenen Nutzen, was immer an *prasad* (göttlicher Gabe) sie uns zurückgibt. Das ist ein sehr schöner und einnehmender Gedanke. Welche Freude würde es bringen, wenn er in die Praxis umgesetzt wird!  
+Als ich mit der Bhoodan-Arbeit in Telengana begann, sagte ich den Leuten, ich sei gekommen, um "mit Liebe zu plündern". Ich sagte dies, weil die Dorfbewohner dort nur zu vertraut waren mit einer anderen Art von Plündern. Jetzt sage ich bloß, ich sei gekommen, um meine Liebe zu zeigen. Und auf diese Weise bin ich in der Lage, alle Herzen anzurühren, völlig unparteiisch.  
+
+
+[...]
 
 
 ## 2. Khadi
