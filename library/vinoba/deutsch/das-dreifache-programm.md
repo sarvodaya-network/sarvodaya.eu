@@ -31,5 +31,5 @@ Ich sagte vorher, Gramdan und Khadi müßten zusammengehen. Die Arbeiter, die re
 Wir kommen nun zum dritten Programmpunkt, zur Shanti Sena (Friedensarmee), ohne den wir nicht überleben können. Der Präsident der Sarvodaya Sammelan, Sri Jugatram, hat vorgeschlagen, daß jedermann ein Jahr seines Lebens der Mitarbeit in der Shantisena widmen sollte. Das ist möglicherweise nicht leicht, es gibt alle Arten von Schwierigkeiten, besonders für verheiratete Männer. Der Gedanke ist der: Die Freiwilligen versprechen, insgesamt zwei Monate zu üben und zehn Monate zu arbeiten, in abwechselnden Perioden. ...
 
 
-Autorisierte Übersetzung aus dem Englischen von Rolf Hinder, Verlag Hinder + Deelmann 1974). Der vorliegenden Übersetzung lag die indische Ausgabe von "Third Power" (Sarva Seva Sangh Prakashan, Varanasi 1972) zugrunde.  
+Autorisierte Übersetzung aus dem Englischen von Rolf Hinder (Verlag Hinder + Deelmann, 1974). Der vorliegenden Übersetzung lag die indische Ausgabe von "Third Power" (Sarva Seva Sangh Prakashan, Varanasi 1972) zugrunde.  
 {: .subtext }
