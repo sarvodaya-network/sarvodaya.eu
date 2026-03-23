@@ -1,6 +1,8 @@
+[Vinoba](/library/vinoba/deutsch/) / Dritte Macht  
+
 # Das dreifache Programm
 
-[Vinoba Bhave](/library/vinoba/deutsch/)
+Vinoba Bhave
 {: .center }
 
 *Eine Adreese an die Sarvodaya Sammelan in Raipur, Dezember 1963*
@@ -32,7 +34,7 @@ Ich sagte vorher, Gramdan und Khadi müßten zusammengehen. Die Arbeiter, die re
 ## 3. Shanti Sena 
 
 Wir kommen nun zum dritten Programmpunkt, zur Shanti Sena (Friedensarmee), ohne den wir nicht überleben können. Der Präsident der Sarvodaya Sammelan, Sri Jugatram, hat vorgeschlagen, daß jedermann ein Jahr seines Lebens der Mitarbeit in der Shantisena widmen sollte. Das ist möglicherweise nicht leicht, es gibt alle Arten von Schwierigkeiten, besonders für verheiratete Männer. Der Gedanke ist der: Die Freiwilligen versprechen, insgesamt zwei Monate zu üben und zehn Monate zu arbeiten, in abwechselnden Perioden. Dann würden sie nach Hause und in ihre Berufe zurückkehren und den Frieden in ihrer eigenen Gemeinde vorantreiben, und ein zweiter Schub würde zur Übung einrücken. Alle würden bereit sein, in Spannungs- oder Notstandsgebieten zu arbeiten. Wie weit wir einen solchen Plan durchführen können, weiß ich nicht, aber ohne etwas dieser Art werden wir weder Frieden haben noch Sicherheit.  
-Die Shanti Sainiks haben damit angefangen, ein gelbes Kopftuch als Unterscheidungsmerkmal zu tragen. Einige Leute fürchten, daß diese Uniform die Shantisena zu einer "separatistischen" Haltung ermuntern könnte. Niemand würde einem sektiererischen Geist schärfer entgegentreten als ich. Aber als ich gestern die Shantisena-Truppe beobachtete, war ich wirklich begeistert. Es gibt kein Sektierertum um sie. Wenn Shanti Sainiks in einen Tumult verwickelt sind, müssen sie die Möglichkeit haben, einander zu erkennen. Das ist Erfahrungssache. Das gelbe Tuch erfüllt dieses Bedürfnis. Shantisena steht über allen Parteien. Die Frage von Sektierertum stellt sich nicht.  
+Die Shanti Sainiks haben damit angefangen, ein gelbes Kopftuch als Unterscheidungsmerkmal zu tragen. Einige Leute fürchten, daß diese Uniform die Shantisena zu einer "separatistischen" Haltung ermuntern könnte. Niemand würde einem sektiererischen Geist schärfer entgegentreten als ich. Aber als ich gestern die Shantisena-Truppe beobachtete, war ich wirklich begeistert. Es gibt kein Sektierertum um sie. Wenn Shanti Sainiks in einen Tumult verwickelt sind, müssen sie die Möglichkeit haben, einander zu erkennen. Das ist Erfahrungssache. Das gelbe Tuch erfüllt dieses Bedürfnis. Shantisena steht über allen Partein. Die Frage von Sektierertum stellt sich nicht.  
 Wir brauchen die Shantisena in jedem Dorf und jeder Stadt. Ich bin bereit, ihr Rat und Liebe zu geben, nichts anderes. Das Notwendige dafür kann sehr leicht getan werden, wenn überall Sarvodaya-patras üblich sind. Wenn die Shanti Sainiks unterstützt werden durch das "Votum für Frieden" der Bevölkerung, dessen Symbol das Sarvodaya-patra ist, werden sie wahrscheinlich gewaltlose Kraft hinter sich haben und erfolgreich arbeiten. Wenn die Menschen bezüglich ihrer Sicherheit von der Armee abhängen, verlieren sie ihre Unabhängigkeit. Das gilt nicht unbedingt auch für die Shantisena, und der Weg, das zu verhindern, besteht darin, daß die Shantisena durch den Willen der Menschen selbst erhalten wird, was seinen Ausdruck im Sarvodaya-patra findet.  
 
 Gramdan, Khadi, Shantisena — das ist unser dreifaches Programm. Dieser Trinität, diesen dreien als eines genommen müssen wir unseren Dienst weihen. Werden die drei Aspekte auseinandergerissen, schwinden sie sämtlich dahin. In all unserem Einsatz müssen wir sie deshalb als Einheit betrachten.   
