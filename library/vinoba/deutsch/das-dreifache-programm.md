@@ -1,5 +1,7 @@
 # Das dreifache Programm
 
+[Vinoba Bhave](/library/vinoba/deutsch/)
+
 *Eine Adreese an die Sarvodaya Sammelan in Raipur, Dezember 1963*
 
 Wir sind ganz einfache Leute, doch die Gesellschaft erwartet viel von uns. Warum tut sie das? Weil jeder weiß, daß die Welt, solange unsere Prinzipien nicht übernommen werden, so undurchführbar sie scheinbar sind, nicht nur keinen Fortschritt macht, sondern nicht einmal überleben kann. Die Leute betrachten uns als Pioniere, die darum ringen, die Gesellschaft der Zukunft zu bauen, und sie blicken mit großem Interesse auf uns als die Repräsentanten des Zeitgeistes. Unsere Arbeit ist keineswegs nur von vorübergehender Bedeutung, denn sollte sie mißlingen, ist die Gesellschaft selbst zum Untergang verdammt.  
