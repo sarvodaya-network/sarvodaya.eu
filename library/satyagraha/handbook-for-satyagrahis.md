@@ -6,7 +6,7 @@ A Manual for Volunteers of Total Revolution
 Narayan Desai
 {: .center }
 
-© Gandhi Peace Foundation
+© Gandhi Peace Foundation  
 Second Edition, 1985
 
 ---
