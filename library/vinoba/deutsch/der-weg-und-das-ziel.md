@@ -1,5 +1,4 @@
-[Fragmente einer Vision](fragmente-einer-vision)  
-[Vinoba](/library/vinoba/)
+[Vinoba](/library/vinoba/) / [Fragmente einer Vision](fragmente-einer-vision)  
 
 # Fragmente einer Vision
 
