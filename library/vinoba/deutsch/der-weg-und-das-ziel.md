@@ -1,4 +1,4 @@
-[Fragmente einer Vision](fragmente-einer-vision)
+[Fragmente einer Vision](fragmente-einer-vision)  
 [Vinoba](/library/vinoba/)
 
 # Fragmente einer Vision
@@ -325,5 +325,5 @@ Feste Verpflichtung zur Wahrheit ist die Grundlage von Sarvodaya. Manche Leute s
 6,29: Wer, in Einklang gebracht durch den Yoga, das Selbst als allen Wesen innewohnend und alle Wesen im Selbst sieht; überall sieht er das selbe. 6,30: Er, der Mich überall sieht, und alles in Mir, der wird Mich niemals los lassen, noch werde ich ihn los lassen. 6,31: Der Yogi, der, in Einheit gegründet, Mich als in allen Wesen innewohnend verehrt, der wohnt Mir inne, egal in welchem Zustand er sich befinden mag. 6,32: Er, der selbst anderen gleich Vergnügungen und Qualen aller wie seine eigenen spürt, wird als großer Yogi betrachtet. 
 ¹⁰ *Brahman* ist das Absolute, die höchste Wahrheit, die ewige und ultimative Realität. Es wohnt allem inne und ist jenseits von allem. Es ist das Höchste Selbst, an dem alle individuellen "Selbste" Anteile sind. Ihre Entwicklung verläuft zur Verschmelzung mit Brahman, das heißt, zur spirituellen Befreiung.  
 ¹¹ Siehe Jesus: „Das Königreich des Vaters ist ausgebreitet über die Erde, und die Menschen sehen es nicht.“ 
-¹² Gandhiji hatte ein konstruktives Programm von 18 Punkten für die Wiederbelebung des ländlichen Indiens vorgeschlagen. Leser seien an seine gleichnamige Broschüre ‘Constructive Programme’ (Ahmedabad: Navajivan) verwiesen. 
-{: .subscript }
+¹² Gandhiji hatte ein konstruktives Programm von 18 Punkten für die Wiederbelebung des ländlichen Indiens vorgeschlagen. Leser seien an seine gleichnamige Broschüre ‘Constructive Programme’ (Ahmedabad: Navajivan) verwiesen.  
+{: .subtext }
