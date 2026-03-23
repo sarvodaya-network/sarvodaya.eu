@@ -1,6 +1,7 @@
 # Das dreifache Programm
 
 [Vinoba Bhave](/library/vinoba/deutsch/)
+{: .center }
 
 *Eine Adreese an die Sarvodaya Sammelan in Raipur, Dezember 1963*
 
