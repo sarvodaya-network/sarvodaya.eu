@@ -2,7 +2,9 @@
 
 *Eine Adreese an die Sarvodaya Sammelan in Raipur, Dezember 1963*
 
-[...]
+Wir sind ganz einfache Leute, doch die Gesellschaft erwartet viel von uns. Warum tut sie das? Weil jeder weiß, daß die Welt, solange unsere Prinzipien nicht übernommen werden, so undurchführbar sie scheinbar sind, nicht nur keinen Fortschritt macht, sondern nicht einmal überleben kann. Die Leute betrachten uns als Pioniere, die darum ringen, die Gesellschaft der Zukunft zu bauen, und sie blicken mit großem Interesse auf uns als die Repräsentanten des Zeitgeistes. Unsere Arbeit ist keineswegs nur von vorübergehender Bedeutung, denn sollte sie mißlingen, ist die Gesellschaft selbst zum Untergang verdammt.  
+Ziel und Zweck der Sarvodaya Samaj ist die Wohlfahrt aller, nicht nur die einer Majorität oder Minorität, sondern die Wohlfahrt jedes Einzelnen. Sie ist offen für jeden, der an diesen Zweck glaubt. Alles, was ihr zu tun habt, ist zu sagen, daß ihr einer von uns seid. Es ist eine Vereinigung, die auf Vertrauen basiert, auf dem Vertrauen in das Wort eines Menschen. Der Mensch selbst ist der größte der spirituellen Werte, in denen das gesellschaftliche Leben gründet. Die anderen sind das Kleingeld, die Menschheit ist die Sterling-Münze. Diese Sarvodaya Samaj erkennt nicht die Unterschiede in Sprache, Kaste, Sekte, Klasse usw. an. Das Wesen ihrer Philosophie ist das Einssein des Selbsts, der Seele. Es gibt Unterschiede der Kultur und Tradition, die uns, flüchtig betrachtet, zu trennen scheinen. Doch wenn wir tiefer sehen, erkennen wir, daß die Menschheit eins ist. Für uns ist diese Menschheit der höchste Wert, und die Seele der Menschheit ist eine. Es mag so aussehen, als ob es unmöglich sei, diese Wahrheit heute in die Praxis umzusetzen. Aber die Samaj anerkennt und glaubt, daß das, was heute undurchführbar ist, morgen durchführbar sein kann. Unterdessen müssen wir all unsere Kraft für das dreifache Programm von Gramdan, Khadi und Shantisena einsetzen.  
+
 
 ## 1. Gramdan
 
@@ -27,3 +29,6 @@ Ich sagte vorher, Gramdan und Khadi müßten zusammengehen. Die Arbeiter, die re
 ## 3. Shanti Sena 
 [...]
 
+
+Autorisierte Übersetzung aus dem Englischen von Rolf Hinder, Verlag Hinder + Deelmann 1974). Der vorliegenden Übersetzung lag die indische Ausgabe von "Third Power" (Sarva Seva Sangh Prakashan, Varanasi 1972) zugrunde.  
+{: .subtext }
