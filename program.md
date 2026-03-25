@@ -11,6 +11,19 @@ The programme is put into practice by a free association consisting of independe
 This rejection of any binding, central organisation does not exclude the formation of such strict (non-profit) organisations for service or the fulfillment of particular missions in specific localities, regions or lands (such as the *Sarva Seva Sangh* in India or the *Shanti Sena*); it only excludes the existence of any organisation *above* the level of the principle and any kind of formal authority *over* the principle. Only the principle itself can be the guiding force and there cannot exist any kind of institution or authority above the principle (of truth, non-violence); therefore there can also not exist any kind of institution *representing* the principle; the principle can be represented by anyone. Any man on the street is as capable to represent it as any other or any organisation and so the constructive program can be put into practice by everyone who strives to live accordingly. One can *always* recognise them *by their deeds*. Deeds in discord with the principle of truth and non-violence by any individual or any instutition are thus never disproving the principle, the program or the movement; they are always only proving those doing so as acting against the principle, the program and the movement if done willingly or when unwillingly it shows their weakness or incapability of acting accordingly.  
 
 
+---
+
+The constructive programme is primarily focused on labour, on economical service, because it is literally the "lebensgrundlage" of everyone. Whoever controls the "life foundation" of the people, controls the people. Corporations control people by continueously taking more and more economical areas into their hands. They try to control and rule the people by going so far as to even take illusionary property of seeds, a crime and a lie beyond measure.  
+If whoever who controls the life foundation of the people controls the people, then it follows, that it is the most important thing to give the control over their life foundations back to the people. Therefore it is this what the constructive programme is primarily focussing on. It has to make sure that the people become self-reliant and independent in their livelihood, in real ways, not in illusionary ways. Earning money in itself doesn't make one a iota independent nor self-reliant in any meaningful way.  
+Therefore, the foundation of the constructive programme is the foundation of our life:  
+The purification and liberation of our livelihood, of our food, cloth and shelter, summarised as *village industry*.  
+This is where everything starts and this is what most constructive workers will always be focused on doing mostly. 
+
+---
+
+
+
+
 ## The Nine Precepts 
 
 At the time of Gandhiji he has coined eleven precepts. They in turn were based on the five precepts of Satya, Ahimsa, Aparigraha, Asteya, Brahmacharya and Asvada from the ancient traditions, which the Hindu tradition shares with the Jainas and Buddhists. Gandhi added six additional precepts to them based on the demands of our time, but while some of them are of universal value, at least one of them had a particular Hindu context that isn't applicable to the international level. And Vinobaji had added a twelvte precept to the eleven. The 9 precepts presented here are a simplification only by form; they contain *all* of the precepts by Gandhiji and Vinobaji and above that they also contain all *ten* of the buddhist precepts, as a matter of gradual refinement. I explain this in more detail in an article on its own.  
