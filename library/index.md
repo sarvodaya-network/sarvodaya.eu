@@ -1,9 +1,16 @@
 # library
 
-The Sarvodaya Library is a constant work in progress. We keep adding new books and articles and develop it further both in regard to its content as well as in regard to its presentation. 
+The Sarvodaya Library is a constant work in progress. We keep adding new books and articles and develop it further both in regard to its content as well as in regard to its presentation. The books that we upload here, to the best of our knowledge, are meant to be freely published and distributed by the authors or the respective organisations responsible for these works, to serve our common cause of a non-violent society; therefore they are free from copyright restrictions. While some of these works may have been published by particular publishers in the past, they as well have been published in newspapers and other freely available sources by the authors themselves, in order to promote their thought to the best of their ability at the time; the digital age has given us another medium. Some of the books are long out of print and made available here again. If in spite of this we have made a mistake and you should find anything that should not be made publicly available, please contact us and we will remove it. 
 
 ---
 {: .no-margin }
+
+
+## Introduction  
+
+* Strands of a Vision | DE: [Fragmente einer Vision](/library/vinoba/deutsch/fragmente-einer-vision) (by Vinoba)
+
+---
 
 
 ## sarvodaya

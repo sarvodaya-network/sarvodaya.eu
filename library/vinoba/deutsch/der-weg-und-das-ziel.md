@@ -1,14 +1,5 @@
 [Vinoba](/library/vinoba/) / [Fragmente einer Vision](fragmente-einer-vision)  
 
-# Fragmente einer Vision
-
-VINOBA
-{: .center }
-
-Ins Englische übersetzt von Parag Cholkar.  
-Aus dem Englischen übersetzt von Flosha.    
-2025-2026
-
 
 ## 1. Der Weg und das Ziel
 
@@ -310,6 +301,7 @@ Darum sollten wir unsere Verpflichtung zu Wahrheit und Gewaltlosigkeit bekräfti
 
 Feste Verpflichtung zur Wahrheit ist die Grundlage von Sarvodaya. Manche Leute sind besorgt, dass das viele davon abhalten könnte, sich der Sarvodaya Bruderschaft anzuschließen. Aber wieso können nicht alle einen Antrieb zur Güte haben? Ich würde die Hoffnung hegen, dass sie einen solchen Ansporn haben. Doch selbst wenn sie es nicht haben und Sarvodaya eine unverwirklichte Idee bleibt; die Idee allein würde bereits das Wohlergehen der ganzen Welt fördern.  
 
+---
 
 
 ¹ Gemäß der Sankhya Philosophie, besteht *prakriti* oder die Natur aus drei *gunas* oder essentiellen Qualitäten: *sattva* ist das Prinzip des Gleichgewichts und der Harmonie; *rajas* ist das Prinzip der Leidenschaft, der Rastlosigkeit, der Mühe und des Beginnens, *tamas* ist das Prinzip der Ignoranz und Schwerfälligkeit.  
