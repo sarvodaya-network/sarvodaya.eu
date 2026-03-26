@@ -57,7 +57,7 @@ Als *Gramdan* (Dorfschenkung) zunahm, erdachte ich den revolutionären Schritt, 
 
 Eine Organisation und eine Bewegung, beide sind bestimmt, Ideen zu verwirklichen. Aber es gibt einen grundlegenden Unterschied. Eine Bewegung, wenn richtig geführt, kann der Verwirklichung von Ideen dienlich sein, während eine Organisation einen Götzendienst an den Ideen fördern kann. Wird die Bewegung nicht richtig geführt, kann sie die Ideen verfälschen. Aber eine Organisation, selbst wenn sie gut geführt wird, wird im Laufe der Zeit zu einer regelgebundenen Struktur und verliert die Betonung auf den grundlegenden Prinzipien.  
 
-Ich halte dafür, dass es besser ist, rechtschaffene Ideen in der Luft zu streuen. Werden sie in die Erde gesät, werden sie zu einem Baum heranwachsen. Aber nur wenige können im Schatten eines Baumes sitzen. Sein Nutzen ist begrenzt. Aber eine Idee, die man in der Atmosphäre ausstreut, berührt jedes Herz und fliegt weit und breit. Ohne dies kann eine friedliche Revolution nicht stattfinden. 
+Ich halte dafür, dass es besser ist, rechtschaffene Ideen in die Luft zu streuen. Werden sie in die Erde gesät, werden sie zu einem Baum heranwachsen. Aber nur wenige können im Schatten eines Baumes sitzen. Sein Nutzen ist begrenzt. Aber eine Idee, die man in der Atmosphäre ausstreut, berührt jedes Herz und fliegt weit und breit. Ohne dies kann eine friedliche Revolution nicht stattfinden. 
 
 
 ### Wieso der Verlust an Lebendigkeit? 
