@@ -1,7 +1,7 @@
 [Vinoba](/library/vinoba/) / [Fragmente einer Vision](fragmente-einer-vision)  
 
 
-## 3. Organisation: Test der Gewaltlosigkeit
+## 3. Gewaltlosigkeit und Organisation
 
 ### Warum habe ich alle Institutionen verlassen?
 

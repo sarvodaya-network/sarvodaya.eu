@@ -40,5 +40,7 @@ Wir brauchen die Shantisena in jedem Dorf und jeder Stadt. Ich bin bereit, ihr R
 Gramdan, Khadi, Shantisena — das ist unser dreifaches Programm. Dieser Trinität, diesen dreien als eines genommen müssen wir unseren Dienst weihen. Werden die drei Aspekte auseinandergerissen, schwinden sie sämtlich dahin. In all unserem Einsatz müssen wir sie deshalb als Einheit betrachten.   
 
 
+---
+
 Autorisierte Übersetzung aus dem Englischen von Rolf Hinder (Verlag Hinder + Deelmann, 1974). Der vorliegenden Übersetzung lag die indische Ausgabe von "Third Power" (Sarva Seva Sangh Prakashan, Varanasi 1972) zugrunde.  
 {: .subtext }

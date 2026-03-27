@@ -18,8 +18,8 @@ Aus dem Englischen übersetzt von Flosha.
 
 1. [Der Weg und das Ziel](der-weg-und-das-ziel)
 2. [Prozess der Revolution](prozess-der-revolution)
-3. [Organisation: Test der Gewaltlosigkeit](organisation_test-der-gewaltlosigkeit)
-4. Die Sarvodaya Schale
+3. [Gewaltlosigkeit und Organisation](gewaltlose-organisation)
+4. [Die Sarvodaya Schale](sarvodaya-schale)
 5. Reinheit und Ordnung des Lebens
 6. Sprache und Schrift
 7. Verbreitung von Gedanken
