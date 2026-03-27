@@ -142,7 +142,11 @@ The metaphysical basis of *Sarvodaya* and a philosophy of life that upholds a tr
 * [Courage](https://www.mettacenter.org/bookstore/p/courage): A Story by Ela Gandhi / [Animation](https://www.mettacenter.org/courage-animation)
 
 
+---
 
+### Khadi / Clothing
+
+* [Flax to linen: From sowing to sewing](https://m.youtube.com/watch?v=3JKhhtoe9v4)
 
 
 <!-- 
