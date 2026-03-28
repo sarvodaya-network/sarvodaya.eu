@@ -5,6 +5,12 @@ At the bottom there should be some sort of a guideline/guidance .pdf how to star
 
 The constructive programme is a decidedly apolitical programme for building up a non-violent social order, that can be taken up by anyone at any time. It is serving individual and local needs, tackling both individual, as well as regional and international problems directly from the bottom up, without party-politics and political intervention.
 
+Structure Idea:  
+I. Introduction / Philosophy of Life
+II. Internal Work / Spiritual/Moral Foundation or "source".  
+III. External Work / The Programme deduced from or flowing from the source.
+IV. Towards Total Revolution - the ocean that the programme runs into.  
+
 
 ## Aim and Means of the Programme 
 
