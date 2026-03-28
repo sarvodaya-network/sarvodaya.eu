@@ -63,6 +63,6 @@ In order to do so, I must (1) at first discern, wherein violence lies in regard 
 
 ## The Principle of Support of the Nearest
 
-
+The principle of non-violence has also been expressed by the christian maxime: "Love each other", and this "each" includes all without exception. But as it is difficult to love someone that I don't know (if not impossible, as love includes knowing, it is knowing oneself in another and knowing another in oneself), it comes with an additional clarification in regard to how to love each other in practice, which is the demand: "Love the nearest as thyself." 
 
 
