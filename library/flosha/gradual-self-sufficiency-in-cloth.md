@@ -88,8 +88,18 @@ But how is love expressed? Love in action is service. Love is expressed by servi
 
 Then what does love mean in regard to cloth?
 
-If I make the cloth all by myself, caring for myself, then there is no problem in loving others as myself in this regard, as others are not involved; I have "myself" covered. But since I have to love others the same as me, if I want to be nonviolent, I have to care for their cloth too. Do I then have to make cloth for them too, for everyone I know? If they need it and cannot make it on their own, I should. But I help them even more by helping them make it for themselves. Because it isn't much love shown to them to make them dependent on myself nor is it much love shown to me if I have to make cloth for everyone in consequence of my love and care. This would destroy me and when I am gone everyone I knew will soon be naked since no one can make cloth anymore, since everyone depended on me doing it.  
+If I make the cloth all by myself, caring for myself, then there is no problem in loving others as myself in this regard, as others are not involved; I have "myself" covered. But since I have to love others the same as me, if I want to be nonviolent, I have to care for their cloth too. Do I then have to make cloth for them too, for everyone I know? If they need it and cannot make it on their own, I should. But I help them even more by helping them make it for themselves. Because it isn't much love shown to them to make them dependent on myself nor is it much love shown to me if I have to make cloth for everyone in consequence of my love and care. This would destroy me and when I am gone everyone I knew will soon be naked, because no one can make cloth anymore, since everyone depended on me doing it.  
 
-If others make the cloth for me, ...
+If others make the cloth for me, what does love mean in this regard, how can love be expressed in this relationship of having others making cloth for me? Firstly, I cannot love whom I do not know. Thus, it cannot be justified to get cloth done or get materials for cloth-making from anyone whom I do not know. That automatically excludes clothing or materials coming to me from afar. 
+
+I may be able to get to know someone living at the other side of the world capable to make clothing for me. I could write him a letter and we could come closer by doing so. We could develop some kind of love for each other and build mutual trust. This would be possible. And yet it is much more difficult to do so than to just go to the nearest person that is able to do it. It is also less effective in every regard. It is economically disadvantageous. And it is harmful to the environment. How can it be that I get clothing from India or China cheaper than from a person in my neighbourhood? The simple answer: It cannot be.  
+What happens if I get clothing from India, while living in Germany? Cotton is produced in India, by a corporarion, not by independent peasants. A corporation with big machines, not independent spinners, is turning that cotton into yarn. Then big machines, not independent weavers, are turning this yarn into fabric. Then a corporation with hundreds of sewers on sewing machines, not independent tailors, are turning that fabric into cloth. Then that cloth is send to be dyed, because I don't want plain cloth, but colourful cloth, so it is dyed in a big company by paid dyers, not by independent dyers, working over toxic substances without proper safety measures so that I don't have to wear plain white cotton. Then that cloth, by a big logistic company or by several ones, is loaded onto ships or airplanes, send on the way to Germany. Then it is brought by other logistic companies to be put into a local store in my city, the local store of a multi-million dollar corporation, not the local store of an individual and independent merchant. Then I go to that store and buy myself a T-Shirt for 15€, complaining about the price, because I get it elsewhere for 5. 
+
+
+
+
+There is nothing wrong in supporting some who lives afar. 
+
+
 
 
