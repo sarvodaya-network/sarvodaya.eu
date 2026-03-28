@@ -105,3 +105,10 @@ In the following chapters we shall deal with each of the eight steps of a Satyag
 ---
 
 
+## CHAPTER II - SELF-PREPARATION: SADHANA
+
+MANKIND'S progress has been in two directions. It has tried to develop its inner faculties through study, inner search, meditation, Yoga, etc. This progress is concerned with the journey within. The other direction has been in the line of social change through reforms, legislations, revolutions, etc. This progress is concerned with the journey without.  
+A Satyagrahi does not treat these two journeys as distinct or separated from each other. To a Satyagrahi the purification of the self and the change of the society are not only not mutually exclusive, but they are inter-related and interdependent. To a Satyagrahi the individual search for truth must end in social change and the medium of social change should be individual search for truth.  
+For a Satyagrahi the revolution begins with him/herself. He/she cannot dream of changing the society without changing him/herself. His/her march towards Total Revolution, therefore, begins with him/herself. His/her first lessons are for self-preparation or Sadhana. The self-preparation of a Satyagrahi means the development of his/her total personality. The personality consists of a number of factors. But for the sake of convenience we accept the three broad faculties described in the *Gita* as *Jnana* or knowledge, *Karma* or action, and *Bhakti* or devotion. A Satyagrahi tries to develop all these three faculties in a way which will create a balance between them and result in harmony of his/her personality. He/she constantly strives to broaden his/her horizons in all these faculties in order to make him/her a more accomplished instrument of Total Revolution. A Satyagrahi will keep his/her windows open to all influences from all directions but would refuse to be swept away by any one of them.  
+
+
