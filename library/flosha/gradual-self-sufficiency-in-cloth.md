@@ -98,10 +98,20 @@ What happens if I get clothing from India, while living in Germany? Cotton is pr
 
 This product, this shirt, seems totally impersonal and totally innocent, when it hangs around there in the store. But it isn't. It travelled the world and went through douzens of humand hands. Human hands made it. Human hands and machines replacing such hands. There was the peasant behind the cotton, there was the machine behind the yarn, there was the machine behind the weaving, there was the sewer behind the sewing, there was the dyer behind the colour, there was the driver and the captain and the carrier and the next driver and the next carrier and finally it endet in my hands. It was shipped from a country of poor people, where some have barely enough cloth to cover themselves, into a country of rich people, where some have enough clothing in their closet to cloth an entire village. And I paid 15€. Every single person involved in its production has to be paid from this money. If this is so, how much money will remain for each of them for the shirt that I now wear? I am responsible for this. 
 
-Ignorance is an essential aspect of and an essential reason for violence. Jesus prayed to his father for the violent men torturing him: "Please forgive them, because they don't know what they do." People don't know what they do. If they do something so simple as buying a shirt, they don't know what that contains, what that implies, what that supports and maintains. That beautiful shirt in the store — if they would look behind it, if they would know what it contains, they would find no beauty in it. It would evoke no desire nor admiration, but nothing but distate and sadness for the sorrow it creates and perpetuates. It is manufactured sorrow on behalf of my enjoyment. 
+Ignorance is an essential aspect of and an essential reason for violence. Jesus prayed to his father for the violent men torturing him: "Please forgive them, because they don't know what they do." People don't know what they do. If they do something so simple as buying a shirt, they don't know what that contains, what that implies, what that supports and maintains. That beautiful shirt in the store — if they would look behind it, if they would know what it contains, they would find no beauty in it. It would evoke no desire nor admiration, but nothing but distaste and sadness for the sorrow it creates and perpetuates. It is manufactured sorrow on behalf of my desire. 
+
+Manufactured sorrow on behalf of our desire — that is almost everything that we can buy today. A non-violent man will thus attempt to buy as little as possible. Sokrates wandering through the market of ancient Athen (motivated by his own sufficiency), used to say: "How am I happy for all the things I don't need!" We today (motivated by compassion) must say: "How am I sad for all the things no one should want."
+
+
+
 
 
 ---
+
+
+But this kind of thing is not without 
+
+
 
 I would pay 100€ for a Shirt if I knew that everyone involved in its production
 
