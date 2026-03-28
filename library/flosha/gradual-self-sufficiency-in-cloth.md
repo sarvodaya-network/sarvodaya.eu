@@ -1,4 +1,6 @@
-# Gradual Self-Sufficiency in Clotb
+# Gradual Self-Sufficiency in Cloth
+
+Or: Khadi: Why and how? 
 
 by Flosha
 
@@ -53,11 +55,13 @@ If I choose to buy cloth instead, which would be the worst of the options, then 
 
 ---
 
-Thus, the third question arises: If I do not want to support violent practices in regard to the production of the clothing that I wear, if I want to support only the most non-violent practices, to the best of my current ability, by either making cloth myself (in full or to opartial degree) or by having others deliberately make it for me, or by buying it, if I must, how can I do that?  
+Thus, the third question arises: If I do not want to support violent practices in regard to the production of the clothing that I wear, if I want to support only the most non-violent practices, to the best of my current ability, by either making cloth myself (in full or to some partial degree) or by having others deliberately make it for me, or by buying it, if I must, how can I do that?  
 
-In order to do so, I must (1) at first discern, wherein violence lies in regard to how clothing is made, in the most general way, then (2) inform myself about how a particular ready-made (or to be made) cloth or a ressource for cloth-making (e.g. wool, yarn, fabric) is made in regard to all the steps of production and distribution involved. 
+In order to do so, I must (1) at first discern, wherein violence lies in regard to how clothing is made, in the most general way, then (2) inform myself about how a particular ready-made (or for me to be made) cloth or a ressource for cloth-making (e.g. wool, yarn, fabric) is made in regard to all the steps of production and distribution involved. 
 
 ---
+
+## The Principle of Support of the Nearest
 
 
 
