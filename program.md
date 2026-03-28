@@ -3,13 +3,38 @@
 <!-- Todo: Make a subpage and then present this constructive programme, including at least one image for each major point of the programme and later maybe for the sub-programmes too. 
 At the bottom there should be some sort of a guideline/guidance .pdf how to start, what can be done, how to start if one is completely alone, how to connect, how to begin a small local group setting; the small local group of about 3 to 10 people maximum as the essentiall driving force/cell/seed to initiate work and local programmes. -->
 
-The constructive programme is a decidedly apolitical programme for building up a non-violent social order, that can be taken up by anyone at any time. It is serving individual and local needs, tackling both individual, as well as regional and international problems directly from the bottom up, without party-politics and political intervention, in accordance with the well known phrase: <em>"Think globally, act locally." Which we also could reformulate as such: "Think universally, act individually." Or in yet other terms, we could say: "Humans of the world, unite, but do not depend on anything or anyone to act."</em>
+The constructive programme is a decidedly apolitical programme for building up a non-violent social order, that can be taken up by anyone at any time. It is serving individual and local needs, tackling both individual, as well as regional and international problems directly from the bottom up, without party-politics and political intervention.
 
-It is free and independent from any formal organisation or institution.  
-The programme is put into practice by a free association consisting of independent individuals and small local circles without any binding, central organisation, determined only by shared spiritual principles and the most fundamental ideas of non-violence as applied to the pedagogical and socio-economic field. All that is holding us together are the principles and the virtue they demand, summarised in the nine precepts. <!-- These ideas are our only weapons and our only protection. -->
 
-This rejection of any binding, central organisation does not exclude the formation of such strict (non-profit) organisations for service or the fulfillment of particular missions in specific localities, regions or lands (such as the *Sarva Seva Sangh* in India or the *Shanti Sena*); it only excludes the existence of any organisation *above* the level of the principle and any kind of formal authority *over* the principle. Only the principle itself can be the guiding force and there cannot exist any kind of institution or authority above the principle (of truth, non-violence); therefore there can also not exist any kind of institution *representing* the principle; the principle can be represented by anyone. Any man on the street is as capable to represent it as any other or any organisation and so the constructive program can be put into practice by everyone who strives to live accordingly. One can *always* recognise them *by their deeds*. Deeds in discord with the principle of truth and non-violence by any individual or any instutition are thus never disproving the principle, the program or the movement; they are always only proving those doing so as acting against the principle, the program and the movement if done willingly or when unwillingly it shows their weakness or incapability of acting accordingly.  
+## Aim and Means of the Programme 
 
+Harmony of Interests:  
+The aim of the programme is *Sarvodaya*, the good of all, the vision of a non-violent social order. We hold that the good of one is contained in the good of all and the good of all is contained in the good of one. There can be no conflict of interests, as the true interests of each and everyone are in harmony with the interests of everyone else. 
+
+Harmony of Means and Ends:  
+As one always harvests what one sows, the means of the programme are strictly non-violent. Non-violent means are not just a possible mode to choose for the achievement of a non-violent goal, it is the only possible means, as the goal is contained in the means.  
+
+Harmony of local and international needs:  
+Every individual is humanity in essence, and every locality is the world in essence.  
+In order to solve the problems of all, we have to solve the problems of the individual. Thus we must begin with ourselves.  
+In order to solve the problems of the world, we have to solve the problems of the village, city and neighbourhood. Thus we must begin with the construction of non-violence where we are.  
+We must therefore *"think globally, act locally."* Which we also could reformulate as such: "Think universally, act individually." Or in yet other terms, we could say: "Humans of the world, unite, but do not depend on anything or anyone to act." Or in yet other terms: "Be yourself the change you want to see in the world."
+
+
+## Organisations
+
+The Constructive Programme is free and independent from any formal organisation or institution.  
+The programme is put into practice by a free association consisting of independent individuals and small local circles without any binding, central organisation, determined only by shared spiritual principles and the most fundamental ideas of non-violence as applied to the pedagogical and socio-economic field. All that is holding us together are the principles and the virtue they demand, summarised in the nine precepts. They are our only binding authority. <!-- These ideas are our only weapons and our only protection. -->
+
+This rejection of any binding, central organisation does not exclude the formation of such strict (non-profit) organisations for service or the fulfillment of particular missions in specific localities, regions or lands (such as the *Sarva Seva Sangh* in India or the *Shanti Sena*); it only excludes the existence of any organisation *above* the level of the principle and any kind of formal authority *over* the principle. The principle is our only authority. Only the principle itself can be the guiding force and there cannot exist any kind of institution or authority above the principle (of truth, non-violence); therefore there can also not exist any kind of institution *representing* the principle. 
+
+The principle or ideas can be represented by anyone. Any man on the street is as capable to represent it as any other or any organisation and so the constructive program can be put into practice by everyone who strives to live accordingly. One can *always* recognise them *by their deeds*. Deeds in discord with the principle of truth and non-violence by any individual or any instutition are thus never disproving the principle, the program or the movement; they are always only proving those doing so as acting against the principle, the program and the movement if done willingly or when unwillingly it shows their weakness or incapability of acting accordingly.  
+
+Any organisation founded to support our cause, must comply to the fundamental principles of non-violent organisation:  
+* It must be not only be non-profit, non-commercial, it must be anti-commercial
+* It must make decisions based on consensus
+* It must be organised in decentralised ways from the bottom up, with full autonomy at the local level and mere moral authority at the centre that only gives advise.
+* It must be strictly non-partisan. Who wants to serve the Good of All and proclaims the Harmony of interests, can not do any party politics or support any party over another. It is for the service of all in the interest of all, even if focusing one a particular need or a particular group in need.   
 
 ---
 
