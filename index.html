@@ -462,9 +462,10 @@ h2 {
 
     .gallery img {
       transition: 0.3s ease;
+      filter: saturate(0);
     }
 
-    .gallery:nth-of-type(1) img:hover { filter: saturate(0); }
+    .gallery:nth-of-type(1) img:hover { filter: saturate(1); }
 
     .gallery:nth-of-type(2) .desaturate { filter: saturate(0.1); }
     .gallery:nth-of-type(2) img:hover { filter: saturate(1) !important; }
