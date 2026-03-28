@@ -45,11 +45,20 @@ Finding discarded cloth by others, as the early buddhist monks were doing, is in
 
 ---
 
-But there is more to clothing than just its function of covering the body. It is also an expression and a representation. And in that I wear cloth, in that I cover my body with cloth, I express a preference of one thing over another. I cannot wear cloth without this cloth being produced. If the cloth has been discarded and I haven't paid for it, then I do not actively support any practice behind its production and may not have any unwholesome intention, which is all that the Buddha cared about and which is why there is nothing to blame about wearing such clothing from this perspective. And yet this clothing has been produced in particular ways and by particular men or by machines under particular conditions. And when I choose to wear it, I am choosing to wear cloth made under particular conditions over other cloth made under other conditions and by wearing it I make myself represent these conditions. For this reason the conditions under which the cloth has been made that I wear, is not beyond my responsibility. It is within my responsibility.
+But there is more to clothing than just its function of covering the body. It is also an expression and a representation. And in that I wear cloth, in that I cover my body with cloth, I express a preference of one thing over another. I cannot wear cloth without this cloth being produced. If the cloth has been discarded and I haven't paid for it, then I do not actively support any practice behind its production and may not have any unwholesome intention, which is all that the Buddha cared about and which is why there is nothing to blame about wearing such clothing from this perspective. And yet this clothing has been produced in particular ways and by particular men or by machines under particular conditions. And when I choose to wear it, I am choosing to wear cloth made under particular conditions over other cloth made under other conditions and by wearing it I give expression to these conditions, represent these conditions. For this reason the conditions under which the cloth has been made that I wear, is not beyond my responsibility. It is within my responsibility.
 
-Therefore, when I want to be non-violent and if I want to express nonviolence in regard to what I wear as well as in any other regard (this surely is not the *most* important area in which I should strive to express nonviolence, but it is nonetheless an important area, as it is a fundamental need in life), then I should *prefer* cloth being made and distributed in (more) nonviolent ways over cloth being made and distributed in (more) violent ways.  
+Therefore, when I want to be non-violent and if I want to express nonviolence in regard to what I wear as well as in any other regard (which surely may not be the *most* important area in which I should strive to express nonviolence, but it is nonetheless an important area, as it is a fundamental need in life and one of the most obvious ways in which I can express and promote it), then I should *prefer* cloth being made and distributed in (more) nonviolent ways over cloth being made and distributed in (more) violent ways.  
 
-If I choose to buy cloth instead, which would be the worst of the options, then this applies even more so, as I would then not only represent and express the practices behind the clothings production with what I wear, but I would also actively support these practices with money by buying it, which is an active vote in support of these practices, justifying the practices.  
+If I choose to buy cloth instead, which would be the worst of the options, then this applies even more so, as I then not only represent and express the practices behind the clothings production with what I wear, but I also actively support these practices with money by buying it, which is an active vote in support of these practices, justifying the practices.  
+
+---
+
+Thus, the third question arises: If I do not want to support violent practices in regard to the production of the clothing that I wear, if I want to support only the most non-violent practices, to the best of my current ability, by either making cloth myself (in full or to opartial degree) or by having others deliberately make it for me, or by buying it, if I must, how can I do that?  
+
+In order to do so, I must (1) at first discern, wherein violence lies in regard to how clothing is made, in the most general way, then (2) inform myself about how a particular ready-made (or to be made) cloth or a ressource for cloth-making (e.g. wool, yarn, fabric) is made in regard to all the steps of production and distribution involved. 
+
+---
+
 
 
 
