@@ -24,22 +24,26 @@ We must therefore *"think globally, act locally."* Which we also could reformula
 ## Organisations
 
 The Constructive Programme is free and independent from any formal organisation or institution.  
-The programme is put into practice by a free association consisting of independent individuals and small local circles without any binding, central organisation, determined only by shared spiritual principles and the most fundamental ideas of non-violence as applied to the pedagogical and socio-economic field. All that is holding us together are the principles and the virtue they demand, summarised in the nine precepts. They are our only binding authority. <!-- These ideas are our only weapons and our only protection. -->
+The programme is put into practice by a free association consisting of independent individuals and small local circles without any binding, central organisation, determined only by shared spiritual principles and the most fundamental ideas of non-violence as applied to the pedagogical and socio-economic field. All that is holding us together are the principles and the virtue they demand, summarised in the nine precepts. <!-- These ideas are our only weapons and our only protection. -->
 
-This rejection of any binding, central organisation does not exclude the formation of such strict (non-profit) organisations for service or the fulfillment of particular missions in specific localities, regions or lands (such as the *Sarva Seva Sangh* in India or the *Shanti Sena*); it only excludes the existence of any organisation *above* the level of the principle and any kind of formal authority *over* the principle. The principle is our only authority. Only the principle itself can be the guiding force and there cannot exist any kind of institution or authority above the principle (of truth, non-violence); therefore there can also not exist any kind of institution *representing* the principle. 
+This rejection of any binding, central organisation does not exclude the formation of such strict (non-profit) organisations for service or the fulfillment of particular missions in specific localities, regions or lands (such as the *Sarva Seva Sangh* in India or the *Shanti Sena*); it only excludes the existence of any organisation *above* the level of the principle and any kind of formal authority *over* the principle. The principle is our only binding authority. Only the principle itself can be the guiding force and there cannot exist any kind of institution or authority above the principle (of truth, non-violence); therefore there can also not exist any kind of institution *representing* the principle. 
 
 The principle or ideas can be represented by anyone. Any man on the street is as capable to represent it as any other or any organisation and so the constructive program can be put into practice by everyone who strives to live accordingly. One can *always* recognise them *by their deeds*. Deeds in discord with the principle of truth and non-violence by any individual or any instutition are thus never disproving the principle, the program or the movement; they are always only proving those doing so as acting against the principle, the program and the movement if done willingly or when unwillingly it shows their weakness or incapability of acting accordingly.  
 
 Any organisation founded to support our cause, must comply to the fundamental principles of non-violent organisation:  
-* It must be not only be non-profit, non-commercial, it must be anti-commercial
-* It must make decisions based on consensus
-* It must be organised in decentralised ways from the bottom up, with full autonomy at the local level and mere moral authority at the centre that only gives advise.
-* It must be strictly non-partisan. Who wants to serve the Good of All and proclaims the Harmony of interests, can not do any party politics or support any party over another. It is for the service of all in the interest of all, even if focusing one a particular need or a particular group in need.   
 
----
+1. It must be *non-violent* to the best of its ability, it must enforce nothing and do and support nothing that threatens peace.
+2. It must not only be non-profit, non-commercial, it must be *anti-commercial*
+3. It must make decisions based on *consensus*
+4. Every part of it, even to the individual level, must be *autonomous*; it must thus be organised in decentralised ways from the bottom up, with full autonomy at the local and individual level and mere moral authority at the centre that only gives advise.
+5. It must be strictly *non-partisan*. Who wants to serve the Good of All and proclaims the Harmony of interests, can not do any party politics or support any party over another. It is for the service of all in the interest of all, even if focusing on a particular need or a particular group in need at a time.   
 
-The constructive programme is primarily focused on labour, on economical service, because it is literally the "lebensgrundlage" of everyone. Whoever controls the "life foundation" of the people, controls the people. Corporations control people by continueously taking more and more economical areas into their hands. They try to control and rule the people by going so far as to even take illusionary property of seeds, a crime and a lie beyond measure.  
-If whoever who controls the life foundation of the people controls the people, then it follows, that it is the most important thing to give the control over their life foundations back to the people. Therefore it is this what the constructive programme is primarily focussing on. It has to make sure that the people become self-reliant and independent in their livelihood, in real ways, not in illusionary ways. Earning money in itself doesn't make one a iota independent nor self-reliant in any meaningful way.  
+
+## The Programme is based on Labour
+
+The constructive programme is primarily focused on labour, on economical service, because it is literally the "life foundation" of everyone. Whoever controls the "life foundation" of the people, controls the people.  
+Corporations control people by continueously taking more and more economical areas into their hands. They try to control and rule the people by going so far as to even take illusionary property of seeds, a crime and lie beyond measure.  
+If whoever who controls the life foundation of the people controls the people, then it follows, that it is the most important thing to give the control over their life foundation back to the people. Therefore it is this what the constructive programme is primarily focussing on. It has to make sure that the people become self-reliant and independent in their livelihood, in real ways, not in illusionary ways. Earning money in itself doesn't make one a iota more independent nor more self-reliant in any meaningful way.  
 Therefore, the foundation of the constructive programme is the foundation of our life:  
 The purification and liberation of our livelihood, of our food, cloth and shelter, summarised as *village industry*.  
 This is where everything starts and this is what most constructive workers will always be focused on doing mostly. 
@@ -47,11 +51,9 @@ This is where everything starts and this is what most constructive workers will 
 ---
 
 
-
-
 ## The Nine Precepts 
 
-At the time of Gandhiji he has coined eleven precepts. They in turn were based on the five precepts of Satya, Ahimsa, Aparigraha, Asteya, Brahmacharya and Asvada from the ancient traditions, which the Hindu tradition shares with the Jainas and Buddhists. Gandhi added six additional precepts to them based on the demands of our time, but while some of them are of universal value, at least one of them had a particular Hindu context that isn't applicable to the international level. And Vinobaji had added a twelvte precept to the eleven. The 9 precepts presented here are a simplification only by form; they contain *all* of the precepts by Gandhiji and Vinobaji and above that they also contain all *ten* of the buddhist precepts, as a matter of gradual refinement. I explain this in more detail in an article on its own.  
+At the time of Gandhiji he has coined eleven precepts. They in turn were based on the five precepts of Satya, Ahimsa, Aparigraha, Asteya, Brahmacharya and Asvada from the ancient traditions, that the Hindu tradition shares with the Jainas and Buddhists. Gandhi added six additional precepts to them based on the demands of our time, but while some of them are of universal value, at least one of them had a particular Hindu context that isn't applicable to the international level. And Vinobaji had added a twelvte precept to the eleven. The 9 precepts presented here are a simplification only by form; they contain *all* of the precepts by Gandhiji and Vinobaji and above that they also contain all *ten* of the buddhist precepts, as a matter of gradual refinement. I explain this in more detail in an article on its own.  
 
 1. Truth                        / liberation from ignorance
 2. Nonviolence                  / liberation from violence
@@ -74,7 +76,8 @@ expressed in selfless *service* without desire.
 All of the nine precepts are basically included in truth and non-violence and are nothing but logical inferences of them; truth and non-violence themselves are logical inferences of each other. Therefore the fundamental insistence is on them; if they are understood in their evidence and applied to all aspects of life, the other precepts are following on their own; their necessity can then not be denied, as it becomes evident that they are necessary to express truth and non-violence in the respective domains of life. At the same time, the precepts can be paired in different ways to reveal their interconnection, their meaning and mutual support.  
 
 What is not true, is violent. And what is violent, is not true. As truth and non-violence are logical inferences of each other, there is a term that is including both of them: *Satyagraha*, short *truthistence*, the insistence on truth, the non-violent fight for truth, or the truthful fight for non-violence. If you do not like the word fight, then call it aspiration, search, experimentation, struggle, striving.    
-Truth and nonviolence can never be taken apart. Any commitment of violence is proving a degree of untruth. And every untruth is proving some degree of violence. *Satyagraha* expresses more than the inference of truth through nonviolene and vice versa; it also expresses the fundamental truth of the indestructible link between means and ends, which once will be accepted as a fundamental part of the rule of cause and effect: a violent action can never result in a peaceful outcome. Who takes the sword will die by the sword. 
+Truth and nonviolence can never be taken apart. Any commitment of violence is proving a degree of untruth. And every untruth is proving some degree of violence.  
+*Satyagraha* expresses more than the inference of truth through nonviolene and vice versa; it also expresses the fundamental truth of the indestructible link between means and ends, which once will be accepted as a fundamental part of the rule of cause and effect: a violent action can never result in a peaceful outcome. Who takes the sword will die by the sword. 
 
 [TODO:ShortenthePreceptsDescriptionsToTheAbsoluteEssence,ThenLinkToOneDocumentAboutEachPrecept]
 
