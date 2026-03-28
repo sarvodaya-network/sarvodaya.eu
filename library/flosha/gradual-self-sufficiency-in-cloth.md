@@ -47,22 +47,49 @@ Finding discarded cloth by others, as the early buddhist monks were doing, is in
 
 ---
 
-But there is more to clothing than just its function of covering the body. It is also an expression and a representation. And in that I wear cloth, in that I cover my body with cloth, I express a preference of one thing over another. I cannot wear cloth without this cloth being produced. If the cloth has been discarded and I haven't paid for it, then I do not actively support any practice behind its production and may not have any unwholesome intention, which is all that the Buddha cared about and which is why there is nothing to blame about wearing such clothing from this perspective. And yet this clothing has been produced in particular ways and by particular men or by machines under particular conditions. And when I choose to wear it, I am choosing to wear cloth made under particular conditions over other cloth made under other conditions and by wearing it I give expression to these conditions, represent these conditions. For this reason the conditions under which the cloth has been made that I wear, is not beyond my responsibility. It is within my responsibility.
+## Clothing is Expression
 
-Therefore, when I want to be non-violent and if I want to express nonviolence in regard to what I wear as well as in any other regard (which surely may not be the *most* important area in which I should strive to express nonviolence, but it is nonetheless an important area, as it is a fundamental need in life and one of the most obvious ways in which I can express and promote it), then I should *prefer* cloth being made and distributed in (more) nonviolent ways over cloth being made and distributed in (more) violent ways.  
+But there is more to clothing than just its function of covering the body. It is also an expression and a representation. In that I wear cloth, in that I cover my body with cloth, I express a preference of one thing over another as I chose to wear it over other options that I do not wear. This matters in two regards. It matters in regard to...
+* The Beauty or lack thereof expressed by it. 
+* The Process of Clothing Production involved in it.
 
-If I choose to buy cloth instead, which would be the worst of the options, then this applies even more so, as I then not only represent and express the practices behind the clothings production with what I wear, but I also actively support these practices with money by buying it, which is an active vote in support of these practices, justifying the practices.  
+The cloth chosen may express beauty or do so less. Nonviolence is truth in action. And beauty is truth in form. There is no action without form and there is no form without action. Action creates form. Cloth-making is an action. Cloth is a form, the expression of the maker. Cloth-wearing is an action. The cloth and the wearer are a form, the expression of the persona that the body in combination with the clothing creates. It is what one represents in society. There is no representation without cloth, and not much of a persona. Therefore not wearing cloth is the most radical rebellion against society that can exist. But I don't want to eradicate society, I want a non-violent society, I want a society that sucks less. Thus I will wear cloth. And it ought to be beautiful cloth, as its beauty is a direct consequence of the nonviolence in which it was created. 
+
+Thus the cloth chosen can be a result of and give expression to non-violent cloth-making, which will mean cloth that is beautiful and pure; or it can do so less, which in the worst case, amounts to a very violent clothing production, which means cloth that is ugly and impure.  
+  
+I cannot wear cloth without this cloth being produced. If the cloth has been discarded and I haven't paid for it, then I do not actively support any practice behind its production and may not have any unwholesome intention.  
+Intention was all that the Buddha cared about and which is why there is nothing to blame about wearing such clothing from this perspective.  
+And yet this clothing has been produced in particular ways, by particular men or by machines and under particular conditions. And when I choose to wear it, I am choosing to wear cloth made under these particular conditions over other cloth made under other conditions. And by wearing it I give expression to these conditions, represent these conditions. For this reason the conditions under which the cloth has been made that I wear, is not beyond my responsibility. It is within my responsibility.
+
+Therefore, when I want to be non-violent and if I want to express nonviolence in regard to what I wear as well as in any other regard, then I should *prefer* cloth being made and distributed in (more) nonviolent ways over cloth being made and distributed in (more) violent ways. 
+
+It might for sure not be the *most* important area in which I should strive to express nonviolence, but it is nonetheless an important area, as cloth is a fundamental need in life and one of the most obvious ways in which I can express and promote nonviolence or the lack thereof.
+
+If I choose to buy cloth instead, which would be the worst of the options, then this applies even more so, as I then not only represent and express the practices behind the clothing production with what I wear, but I also actively support these practices with money by buying it, which is an active vote in support of these practices, is justifying and maintaining these practices.  
 
 ---
 
-Thus, the third question arises: If I do not want to support violent practices in regard to the production of the clothing that I wear, if I want to support only the most non-violent practices, to the best of my current ability, by either making cloth myself (in full or to some partial degree) or by having others deliberately make it for me, or by buying it, if I must, how can I do that?  
+## How Clothing is Made
 
-In order to do so, I must (1) at first discern, wherein violence lies in regard to how clothing is made, in the most general way, then (2) inform myself about how a particular ready-made (or for me to be made) cloth or a ressource for cloth-making (e.g. wool, yarn, fabric) is made in regard to all the steps of production and distribution involved. 
+Thus, the third question arises: *If I do not want to support violent practices in regard to the production of the clothing that I wear, if I want to support only the most non-violent practices, to the best of my current ability, by either making cloth myself (in full or to some partial degree) or by having others deliberately make it for me, or by buying it, if I must, how can I do that?*  
+
+In order to do so, I must (1) at first discern, wherein violence lies in regard to how clothing is made, in the most general way - the potential conditions. Then (2) inform myself about how a particular ready-made (or for me to be made) cloth or a material for cloth-making (e.g. wool, yarn, fabric) is made in regard to all the steps of production and distribution involved - the actual conditions. 
+
+When I discern the potential conditions there at first arises one particular condition, the most fundmental one. It is the most fundamental one because it is the one nearest to me and to my problem of getting cloth. It is the question of: Where to get it from? Whether I make it, or get it made, where and under which conditions I can get the cloth or the materials for cloth-making and which of these conditions are more or less nonviolent? The answer to this question lies in the principle of "support of the nearest".
 
 ---
 
 ## The Principle of Support of the Nearest
 
-The principle of non-violence has also been expressed by the christian maxime: "Love each other", and this "each" includes all without exception. But as it is difficult to love someone that I don't know (if not impossible, as love includes knowing, it is knowing oneself in another and knowing another in oneself), it comes with an additional clarification in regard to how to love each other in practice, which is the demand: "Love the nearest as thyself." 
+The principle of non-violence has also been expressed by the christian maxime: "Love each other". The "each" includes all without exception. But it is not only difficult, it is impossible to love someone I do not know in any way, as love includes knowing, it is knowing oneself in another and knowing another in oneself. Therefore the maxime comes with an additional clarification in regard to how to love each other in practice, which is the demand: "Love the nearest as thyself." 
+I don't have to and cannot actively love "everyone" as long as my existence is within physical constraints. But I can love everyone I come in contact with, everyone I know. And if everyone would love everyone he knows, there would be no one left, and everyone would be loved and cared for, as everyone is known to others. 
+
+But how is love expressed? Love in action is service. Love is expressed by service. Loving each other means caring for one another, supporting each other, sharing with each other. You cannot say: "I love you" to another and then don't care about him and letting him starve. No one will believe you, including yourself. 
+
+Then what does love mean in regard to cloth?
+
+If I make the cloth all by myself, caring for myself, then there is no problem in loving others as myself in this regard, as others are not involved; I have "myself" covered. But since I have to love others the same as me, if I want to be nonviolent, I have to care for their cloth too. Do I then have to make cloth for them too, for everyone I know? If they need it and cannot make it on their own, I should. But I help them even more by helping them make it for themselves. Because it isn't much love shown to them to make them dependent on myself nor is it much love shown to me if I have to make cloth for everyone in consequence of my love and care. This would destroy me and when I am gone everyone I knew will soon be naked since no one can make cloth anymore, since everyone depended on me doing it.  
+
+If others make the cloth for me, ...
 
 
