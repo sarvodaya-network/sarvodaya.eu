@@ -75,3 +75,33 @@ I am grateful to a number of friends for offering their comments and valuable su
 ---
 
 
+## CHAPTER I - HOW A SATYAGRAHI ACTS
+
+A SATYAGRAHI is one who practices Satyagraha. Gandhi defined Satyagraha as a way of life. It not only includes the active direct action against oppression or injustice, but also the whole lifestyle of the person or persons who practice Satyagraha.  
+A Satyagrahi has a creed, has a value-system, has certain methods of working. But these he/she uses like an artist, not in a set way, but according to the need of situation. Each act of a Satyagrahi, therefore, becomes an independent act of art. Gandhi practiced this art like a master artist. He had his methods but he was never a slave to method. Indeed his whole life was a constant process of development. He would easily discard a method if he found it to be useless, and choose a new one without worrying to be consistent in the strict sense of the term. That made it extremely difficult to systematise Gandhi's method of work.  
+For the sake of convenience we are trying to categorise the total action of a Satyagrahi into the following categories:  
+
+a) Self-preparation  
+b) Revolution at home  
+c) Learning from the people  
+d) Loving the people  
+e) Mass organizations  
+f) Constructive work  
+g) Small-scale laboratories  
+h) Direct action  
+
+We are using these eight categories as phases of the Satyagrahi's action. These phases may not necessarily be in the same order as we have categorised them. The order may vary from situation to situation. There may also be permutations, combinations of some of these phases. This is so because Satyagraha is concerned with living human beings and life is not strictly divided into rigid or water-tight compartments.  
+These are only suggestive phases. A Satyagrahi will evolve his/her own methods of working according to:  
+
+a) His/her own wider understanding of truth and nonviolence  
+b) His/her own inner responses characterising his/her own personality  
+c) The situation that he/she faces  
+d) The situation which arises from time to time  
+e) The need for the strategy for Total Revolution  
+
+Upon these and many more variables the action of the Satyagrahi will ultimately depend. It is this enormous variety of possibilities that makes the action of the Satyagrahi an act of art making all efforts at scientific classification somewhat limited. But if Satyagraha is to be a tool for the use of the future generations, for the ordinary man and woman in the struggle against injustice and oppression, then it has got to have a scientific base. It cannot be left to certain individual's responses. To make it applicable to the masses the methods and techniques of Satyagraha must be so simple that they can be imparted by the process of training. In fact though Gandhi himself was a master artist in the art of Satyagraha, he constantly strove to make the methods of Satyagraha available to the ordinary man. He even tried to educate a whole nation of 300 million people in the methods of changing through love.  
+In the following chapters we shall deal with each of the eight steps of a Satyagrahi mentioned above. In dealing with them we shall not only keep Gandhi's methods in our mind to serve us as our guidelines, but shall also keep the present Indian situation and the needs of the nonviolent movement in mind to correlate the methods of training with the needs of the present-day life.  
+
+---
+
+
