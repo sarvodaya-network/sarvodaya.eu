@@ -8,17 +8,22 @@ The constructive programme is a decidedly apolitical programme for building up a
 
 ## Aim and Means of the Programme 
 
-Harmony of Interests:  
+**Harmony of Interests:**  
 The aim of the programme is *Sarvodaya*, the good of all, the vision of a non-violent social order. We hold that the good of one is contained in the good of all and the good of all is contained in the good of one. There can be no conflict of interests, as the true interests of each and everyone are in harmony with the interests of everyone else. 
 
-Harmony of Means and Ends:  
+**Harmony of Means and Ends:**  
 As one always harvests what one sows, the means of the programme are strictly non-violent. Non-violent means are not just a possible mode to choose for the achievement of a non-violent goal, it is the only possible means, as the goal is contained in the means.  
 
-Harmony of local and international needs:  
+**Harmony of Inner and Outer Life:**  
+In the past, spiritual minds have usually neglected outer life and social practice. And revolutionary minds have usually neglected inner life and spiritual practice. We are uniting inner and outer life. Thus the constructive programme is at the same time spiritual and revolutionary work and one through the other. We strive for total revolution without and total liberation within.  
+> The purification of the self and the change of society are not only not mutually exclusive, but are inter-related and interdependent.  
+> The individual search for truth must end in social change and the medium of social change should be individual search for truth. (Narayan Desai)  
+
+**Harmony of local and international needs:**  
 Every individual is humanity in essence, and every locality is the world in essence.  
 In order to solve the problems of all, we have to solve the problems of the individual. Thus we must begin with ourselves.  
 In order to solve the problems of the world, we have to solve the problems of the village, city and neighbourhood. Thus we must begin with the construction of non-violence where we are.  
-We must therefore *"think globally, act locally."* Which we also could reformulate as such: "Think universally, act individually." Or in yet other terms, we could say: "Humans of the world, unite, but do not depend on anything or anyone to act." Or in yet other terms: "Be yourself the change you want to see in the world."
+We must therefore *"think globally, act locally."* Which we also could reformulate as such: "Think universally, act individually." Or in yet other terms we could say with Gandhi: "Be yourself the change you want to see in the world." This is all that the constructive programme is about.  
 
 
 ## Organisations
@@ -26,22 +31,24 @@ We must therefore *"think globally, act locally."* Which we also could reformula
 The Constructive Programme is free and independent from any formal organisation or institution.  
 The programme is put into practice by a free association consisting of independent individuals and small local circles without any binding, central organisation, determined only by shared spiritual principles and the most fundamental ideas of non-violence as applied to the pedagogical and socio-economic field. All that is holding us together are the principles and the virtue they demand, summarised in the nine precepts. <!-- These ideas are our only weapons and our only protection. -->
 
-This rejection of any binding, central organisation does not exclude the formation of such strict (non-profit) organisations for service or the fulfillment of particular missions in specific localities, regions or lands (such as the *Sarva Seva Sangh* in India or the *Shanti Sena*); it only excludes the existence of any organisation *above* the level of the principle and any kind of formal authority *over* the principle. The principle is our only binding authority. Only the principle itself can be the guiding force and there cannot exist any kind of institution or authority above the principle (of truth, non-violence); therefore there can also not exist any kind of institution *representing* the principle. 
+We might say: Humans of the world, unite! But one cannot unite to oppress; in total union there can be no oppression, because in Sarvodaya no one is left out, its union is the union with the Absolute; a union of all or nothing. We must unite, and for this we might have to organise, but we must not depend on anything or anyone to act.
 
-The principle or ideas can be represented by anyone. Any man on the street is as capable to represent it as any other or any organisation and so the constructive program can be put into practice by everyone who strives to live accordingly. One can *always* recognise them *by their deeds*. Deeds in discord with the principle of truth and non-violence by any individual or any instutition are thus never disproving the principle, the program or the movement; they are always only proving those doing so as acting against the principle, the program and the movement if done willingly or when unwillingly it shows their weakness or incapability of acting accordingly.  
+This rejection of any binding, central organisation does not exclude the formation of even strict organisations for service or the fulfillment of particular missions in specific localities, regions or lands (such as the *Sarva Seva Sangh* in India or the *Shanti Sena*); it only excludes the existence of any organisation *above* the level of the principle and any kind of formal authority *over* the principle. The principle is our only binding authority. Only the principle itself can be the guiding force and there cannot exist any kind of institution or authority above the principle (of truth, non-violence); therefore there can also not exist any kind of institution *representing* the principle. 
+
+The principle or ideas can be represented by anyone. Any man on the street is as capable to represent it as any other or any organisation and so the constructive program can be put into practice by everyone who strives to live accordingly. One can *always* recognise them *by their deeds*. Deeds in discord with the principle of truth and non-violence by any individual or any institution are thus never disproving the principle, the program or the movement; they are always only proving those doing so as acting against the principle, the program and the movement (if done willingly; or, when unwillingly, it shows their weakness or incapability of acting accordingly).    
 
 Any organisation founded to support our cause, must comply to the fundamental principles of non-violent organisation:  
 
-1. It must be *non-violent* to the best of its ability, it must enforce nothing and do and support nothing that threatens peace.
-2. It must not only be non-profit, non-commercial, it must be *anti-commercial*
+1. It must be *non-violent* to the best of its ability, it must enforce nothing and do and support nothing that threatens peace.  
+2. It must not only be non-profit, non-commercial, it must be *anti-commercial*.  
 3. It must make decisions based on *consensus*
 4. Every part of it, even to the individual level, must be *autonomous*; it must thus be organised in decentralised ways from the bottom up, with full autonomy at the local and individual level and mere moral authority at the centre that only gives advise.
-5. It must be strictly *non-partisan*. Who wants to serve the Good of All and proclaims the Harmony of interests, can not do any party politics or support any party over another. It is for the service of all in the interest of all, even if focusing on a particular need or a particular group in need at a time.   
+5. It must be strictly *non-partisan*. Who wants to serve the Good of All and proclaims the harmony of interests, can not do any party politics or support any party over another. It is for the service of all, in the interest of all, even if focusing on a particular need or a particular group in need at a time.   
 
 
 ## The Programme is based on Labour
 
-The constructive programme is primarily focused on labour, on economical service, because it is literally the "life foundation" of everyone. Whoever controls the "life foundation" of the people, controls the people.  
+The constructive programme is primarily focused on labour, on economical service, because labour is literally the "life foundation" of everyone, as it is labour that produces everyone's needs. Whoever controls the "life foundation" of the people, controls the people.  
 Corporations control people by continueously taking more and more economical areas into their hands. They try to control and rule the people by going so far as to even take illusionary property of seeds, a crime and lie beyond measure.  
 If whoever who controls the life foundation of the people controls the people, then it follows, that it is the most important thing to give the control over their life foundation back to the people. Therefore it is this what the constructive programme is primarily focussing on. It has to make sure that the people become self-reliant and independent in their livelihood, in real ways, not in illusionary ways. Earning money in itself doesn't make one a iota more independent nor more self-reliant in any meaningful way.  
 Therefore, the foundation of the constructive programme is the foundation of our life:  
