@@ -153,4 +153,5 @@ In actual practice, we will most often start somewhere inbetween, at the point t
 
 ### From individual experiments to an universal program
 
-... 
+How do my individual experiments and interests relate to the interests of others and their needs? What do my findings tell me about my own situation compared to the situation around me? How can I help others in regard to this need for cloth in nonviolent ways and how could others here help me? Such are the questions that I have to ask, in order to proceed from my own individual experiments for my own needs towards an universal program that doesn't just serve me, but others just as well. 
+
