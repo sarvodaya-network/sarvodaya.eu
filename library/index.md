@@ -32,7 +32,7 @@ On the social philosophy and the vision of a non-violent social order, that we c
 * [Vinoba's Voice in Madras City](https://vinoba.in/downloads/books/Vinoba's%20Voice%20in%20Madras%20City.pdf). Eight Speeches by Vinoba, selected by the *Sarvodaya Prachuralaya*, 1956.
 * [Bhoodan to Gramdan](https://vinoba.in/downloads/books/Bhoodan%20to%20Gramdan%20-%20Vinoba.pdf). Vinoba, 1956.
 * [Sarvodaya and Communism](https://vinoba.in/downloads/books/Sarvodaya%20And%20Communism.pdf). Vinoba, 1957.
-* Shanti Sena. Vinoba.
+* [Shanti Sena](/library/vinoba/english/vinoba_shanti-sena) - Peace Army. Vinoba.
 * [Revolutionary Sarvodaya](https://vinoba.in/downloads/books/Revolutionary%20Sarvodaya.pdf): *Philosophy for the Remaking of Man*. Compiled and translated by Vasant Nargolkar from Speeches by Vinoba, 1964.
 * [Gramdan for Gram-Swaraj](https://vinoba.in/downloads/books/Gramdan%20for%20Gramswaraj.pdf). Vinoba & Jayaprakash Narayan, 1967.
 * Towards a Nonviolent Revolution, Narayan Desai, 1972.
