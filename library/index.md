@@ -8,7 +8,7 @@ The Sarvodaya Library is a constant work in progress. We keep adding new books a
 
 ## Introduction  
 
-* Strands of a Vision | DE: [Fragmente einer Vision](/library/vinoba/deutsch/fragmente-einer-vision) (by Vinoba)
+* Strands of a Vision / DE: [Fragmente einer Vision](/library/vinoba/deutsch/fragmente-einer-vision) (by Vinoba)
 
 ---
 
