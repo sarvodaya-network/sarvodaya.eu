@@ -10,8 +10,10 @@ VINOBA
 
 Ins Englische übersetzt von Parag Cholkar.  
 Aus dem Englischen übersetzt von Flosha.    
+{: .center }
 
 2025-2026
+{: .center }
 
 
 ## INHALT
