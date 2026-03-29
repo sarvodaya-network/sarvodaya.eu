@@ -22,9 +22,11 @@ On the social philosophy and the vision of a non-violent social order, that we c
 * [The Kingdom of God is Within You](https://www.gutenberg.org/files/43302/43302-h/43302-h.htm) (a christian anarchist treatise by Leo Tolstoj and the culmination of his philosophal thought, first published in Germany in 1894 after being banned in Russia; without its influence Gandhi wouldn't have done what he did, as it profoundly deepened his conviction in non-violence; consequentially the second Ashram founded by Gandhi (after the "Phoenix Farm") was called "Tolstoi Farm".)
 
 ### Primary Literature 
-* Hind Swaraj. M. K. Gandhi, 1909.
+* [Hind Swaraj](/library/gandhi/hind_swaraj.pdf). M. K. Gandhi, 1909.
 * [*Sarvodaya*](/library/sarvodaya/untothislast-paraphrase.pdf) ("A Paraphrase of *Unto This Last*" by M. K. Gandhi)
+* [Sarvodaya](/library/gandhi/gandhi-sarvodaya.pdf), M. K. Gandhi, 1954.
 * Reorientation of Khadi. By M. K. Gandhi (Talks and discussions with the Trustees at Sevagram in 1944.)
+* [My Socialism](/library/gandhi/my-socialism.pdf), M. K. Gandhi, 1959.
 * [Swaraj Shastra: The Principles of a Non-Violent Political Order](/library/vinoba/english/swarajshastra) (by Vinoba Bhave, who later described it as "the grammar of Lokniti")
 * [Third Power](/library/vinoba/third-power.pdf) (by Vinoba)
 * [Swaraj & Lokniti](/library/vinoba/english/Swaraj-and-Lokniti.pdf) (by Vinoba)
@@ -49,6 +51,7 @@ On the social philosophy and the vision of a non-violent social order, that we c
 * Swaraj for Masses. J. C. Kumarappa.
 * The Ideology of the Charkha. Shrikrishnadas Jaju.
 * Planning and Sarvodaya. J. B. Kripalani.
+* [Industrialise - and Perish!](/library/gandhi/industrialize-and-perish.pdf). By M. K. Gandhi, compiled by R. K. Prabhu, 1966. 
 
 ### Secondary Literature
 * [The Five Gifts](https://vinoba.in/downloads/books/The%20Five%20Gifts.pdf) *The story of Bhoodan and Vinoba Bhave*. R. P. Masani, 1957.
@@ -69,6 +72,7 @@ On the social philosophy and the vision of a non-violent social order, that we c
 * Freedom for the Masses. Manmohan Choudhary.
 * Bhoodan & Gramdan In Orissa: *An Analytical Study*. By T. P. Singh
 * Shanti Sena: *A Guide Book*. By Dr. Ramjee Singh
+* [Gandhi, Sarvodaya, and organizations](https://archive.org/details/gandhisarvodayao0000pand/page/n9/mode/2up), by Pandey, B.P. (Badri Prasad), 1939.   
 
 
 ### Critique of Modernity and its Violent Industrial Civilisation
