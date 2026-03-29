@@ -56,7 +56,7 @@ On the social philosophy and the vision of a non-violent social order, that we c
 ### Secondary Literature
 * [The Five Gifts](https://vinoba.in/downloads/books/The%20Five%20Gifts.pdf) *The story of Bhoodan and Vinoba Bhave*. R. P. Masani, 1957.
 * The Progress of a Pilgrimage. Suresh Ram.
-* [Vinoba: Man & Message](https://vinoba.in/downloads/books/Where%20Silence%20Speaks.pdf). By Suresh Ram, 1961.
+* Vinoba: Man & Message. By Suresh Ram, 1961.
 * [Vinoba and his Mission](https://vinoba.in/downloads/books/Vinoba%20and%20his%20mission.pdf). Suresh Ram, 1962.
 * The Creed of Saint Vinoba. By Vasant Nargolkar, 1963. 
 * [Sarvodaya Ideology & Acharya Vinoba Bhave](https://vinoba.in/downloads/books/Sarvodaya%20ideology%20and%20Acharya%20Vinoba%20Bhave.pdf). V. Narayan Karan Reddy, 1963.
@@ -134,8 +134,8 @@ The metaphysical basis of *Sarvodaya* and a philosophy of life that upholds a tr
 
 * Gita Pravachan / EN: [Talks on the Gita](/library/vinoba/english/Talks-on-the-Gita.pdf) / DE: [Gespräche über die Gita](/library/vinoba/deutsch/Gita-Pravachan_German.pdf) (Vinoba's Commentary on the Bhagavad-Gita, in many regards a spiritual foundation of *Sarvodaya* from the Hindu perspective)
 * [Approches de la Vie Intérieure](/library/lanzadelvasto/approaches/french) / EN: [Approaches to the Inner Life](/library/lanzadelvasto/approaches/english) / DE: Annäherungen an das Innere Leben (a selection of speeches and writings by Lanza del Vasto (aka "Shantidas") from 1962, about the basics of internal training)
-* [Where Silence Speaks](https://vinoba.in/downloads/books/Where%20Silence%20Speaks.pdf), Vinoba.
-
+* Mahaguha men Pravesh (‘entering the mega cave within’). Vinoba's thoughts on Meditation. 1984. / EN: [Where Silence Speaks](/library/vinoba/english/where-silence-speaks.pdf). Edited by Usha, 2013. 
+* [Drops of Ambrosia](/library/vinoba/english/drops-of-ambrosia). Vinoba. Quotes compiled by Kanchan, 2015.
 
 ---
 

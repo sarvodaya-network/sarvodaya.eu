@@ -19,97 +19,46 @@ Es kann nicht in jeder Aktivität Regelmäßigkeit sichergestellt werden. Aber w
 
 ### Bedeutung von Entschlüssen
 
-Der Tag sollte mit einem frommen Entschluss beginnen, etwas bestimmtes zu tun, er sollte im Bemühen verbracht werden, an diesem Entschluss festzuhalten, und die guten Taten, die während des Tages getan werden, sollten vor dem Zubettgehen Gott geweiht werden. Diese Routine wird uns fortschreitend erheben. 
+Der Tag sollte mit einem frommen Entschluss beginnen, etwas bestimmtes zu tun, er sollte in dem Bemühen verbracht werden, an diesem Entschluss festzuhalten, und die guten Taten, die während des Tages getan werden, sollten vor dem Zubettgehen Gott geweiht werden. Diese Routine wird uns fortschreitend läutern. 
 
-Der Entschluss sollte rein und stark und narrensicher sein. Zu diesem Zweck sollte man mit kleinen Entschlüssen beginnen und versuchen sie zu erfüllen. Wenn sie erfüllt werden gibt das einen Sinn für Kraft. Das ist was Zufriedenheit bedeutet. 
+Der Entschluss sollte rein und stark und narrensicher sein. Zu diesem Zweck sollte man mit kleinen Entschlüssen beginnen und versuchen sie zu erfüllen. Wenn sie erfüllt werden gibt das einen Sinn für Kraft. Das ist es was Zufriedenheit bedeutet. 
 
-Sobald ein Entschluss gefasst wurde, sollte man sich daran halten. Weder sollte man versucht sein, dem Entschluss etwas hinzuzufügen, noch sollte man kalte Füße kriegen und ihn aufgeben. Ist er erfüllt, mag man einen schwierigeren Entschluss fassen. 
+Sobald ein Entschluss gefasst wurde, sollte man sich daran halten. Weder sollte man versucht sein, dem Entschluss etwas hinzuzufügen, noch sollte man kalte Füße kriegen und ihn aufgeben. Ist er erfüllt, kann man einen schwierigeren Entschluss fassen. 
 
-Der Entschluss muss rein sein. Seine Reinheit stärkt und erhebt das Selbst. In jedem Fall, man kann allein kraft der Seele am Entschluss festhalten, aber ein reiner Entschluss erhebt das Selbst, während ein unreiner Entschluss seine Degeneration verursacht. 
+Der Entschluss muss rein sein. Seine Reinheit stärkt und erhebt das Selbst. In jedem Fall, man kann allein kraft der Seele am Entschluss festhalten, aber ein reiner Entschluss läutert das Selbst, während ein unreiner Entschluss seine Degeneration verursacht. 
 
 Sobald ein Entschluss gefasst wurde, sollte er nicht aufgegeben werden wenn man darin einen kleinen Mangel findet, der keinen Bezug zu fundamentalen Prinzipien hat. Das würde die Willenskraft schwächen. Solche Mängel sind nicht so schädlich wie spirituelle oder moralische Mängel. Bemerkt man einen letzteren, sollte der Entschluss aufgegeben werden. 
 
 Ein Entschluss sollte weder so einfach sein, dass er wenig Mühe kostet, noch so schwer, dass es fast unmöglich ist, sich daran zu halten. 
 
 
-### Tiefe im Studium 
+### Tiefe im Lernen 
 
-In study, depth and seriousness are important, not
-the range or variety. It should be intensive, not extensive.
-Regular study of a particular subject, done with full
-concentration for a brief period is what I call deep study.
-It is preferable to the study of various subjects for hours
-on end. One may sleep for ten hours, but if that sleep is
-unsound or is assailed by dreams, it would not give due
-rest. But sleep for five or six hours can give adequate rest
-if it is sound and dreamless. This is true about study
-also.
+Beim Lernen sind Tiefe und Ernsthaftigkeit wichtig, nicht Art oder Umfang. Es sollte intensiv sein, nicht extensiv. Regelmäßiges Studium eines bestimmten Themas für eine kurze Zeit, das man mit voller Konzentration ausführt, das ist was ich tiefes Lernen nenne. Es ist dem Studium verschiedenster Themen für endlose Stunden vorzuziehen. Jemand mag zehn Stunden schlafen, aber wenn der Schlaf nicht tief ist oder von Träumen geplagt, wird er nicht die gebührende Erholung verschaffen. Aber Schlaf für fünf oder sechs Stunden kann einem ausreichend Erholung geben, wenn er tief und traumlos ist. Das trifft auch auf das Lernen zu.  
 
-Knowledge cannot be gained without deep study
-done with full absorption. Wide-ranging but cursory study
-is often illusive; it only saps one’s strength and nothing is
-gained thereby. Study should result in independence and
-creativity, wisdom and imagination—in the blossoming of
-new ideas. It should lead to new discoveries, fresh
-inspiration and enthusiasm. Wide-ranging haphazard
-studies bring about exactly the opposite result.
+Wissen kann man nicht erlangen ohne tiefes Studium, in das man vollständig eintaucht. Breitgefächertes, aber flüchtiges Studium ist oft illusorisch; es wird nur die eigene Kraft erschöpfen und nichts wird dabei gewonnen. Lernen sollte zu Unabhängigkeit und Kreativität, Weisheit und Vorstellungskraft führen — zum Erblühen neuer Ideen. Es sollte zu neuen Entdeckungen führen, frischer Inspiration und Begeisterung. Breitgefächertes, wahlloses Studium wird genau zum Gegenteil führen.  
 
-Study should not intrude into the space for necessary activities and duties. Otherwise, it would mean loss of the
-present time in our hands in the hope of having a bright
-future. Everyone knows how unpredictable life is. It is
-God’s grace that He introduces some or other shortcoming
-in everyone. He expects us to be aware of it and be
-vigilant.
+Das Studium sollte nicht in den Raum eindringen, der für Aktivität und Pflichten nötig ist. Andernfalls bedeutet es einen Verlust der gegenwärtigen Zeit, die wir in den Händen haben, in der Hoffnung auf eine leuchtende Zukunft. Jeder weiß wie unvorhersehbar das Leben ist. Es ist Gottes Gnade, dass er einem jeden die ein oder Unzulänglichkeit präsentiert. Er erwartet von uns, dass wir dessen gewahr und wachsam sind.   
 
-Two points define a line. The path of our life is also
-determined by two points—the point where we are at
-present and the point of our destination. If we can locate
-these two points, we perceive the direction of life. Now
-that path needs to be adhered to; diversion would not
-take us to the goal.
+Zwei Punkte definieren eine Gerade. So ist auch der Pfad unseres Lebens bestimmt durch zwei Punkte — der Punkt, an dem wir uns gegenwärtig befinden und der Punkt unserer Bestimmung. Wenn wir diese beiden Punkte ausfinding machen können, nehmen wir die Richtung des Lebens wahr. Nun müssen wir auf dem Pfad beharren; davon abzuweichen wird uns nicht zum Ziel bringen.  
 
-In short, short and measured period, regularity and
-consistency, full concentration, adequate room for
-obligatory activities and a fixed direction are the factors
-which ensure depth in study.
-
+In Kürze: Kurze, maßvolle Perioden, Regelmäßigkeit und Konsistenz, volle Konzentration, genug Raum für verpflichtende Aktivitäten und eine feste Richtung sind die Faktoren, die Tiefe im Studium sicherstellen.  
 
 
 ### Kontrolle der Rede
 
-God has endowed human beings with the faculty of
-speech, which animals lack. They may be able to
-communicate with one another in some way, but they do
-not have the faculty of speech like the human beings. If
-this faculty is properly utilized, it can become an
-instrument for uplift.
+Gott hat den Menschen mit Sprachvermögen ausgestattet, das Tieren fehlt. Sie mögen in der Lage sein, in einer Weise miteinander zu kommunizieren, aber sie haben nicht dasselbe Sprachvermögen wie die Menschen. Wenn diese Fähigkeit richtig genutzt wird, kann es zu einem Werkzeug werden, das uns emporheben kann. 
 
-There is difference between language and speech.
-Language is not God-given; speech is. Languages differ
-from one another, speech does not. Speech conveys what
-one thinks through the medium of language.
+Es gibt einen Unterschied zwischen einer Sprache und Rede (oder Sprache an sich). Eine Sprache ist nicht gottgegeben; die Sprache an sich schon. Sprachen unterscheiden sich voneinander, aber *die* Sprache nicht. Durch das Mittel einer Sprache vermittelt die Rede was man denkt.  
 
-Speech should be used in a right way. One of the
-requirements in this regard is that truth alone must be
-uttered. The second requirement is that the speech should
-be brief. It is not that those who speak less speak truth.
-One may talk less to hide something. But that should not
-be the intent; it should be in the interest of balanced
-thinking.
+Die Rede sollte in der richtigen Weise gebraucht werden. Eine Voraussetzung in dieser Hinsicht ist, dass nur Wahrheit ausgesprochen werden darf. Die zweite Voraussetzung ist, dass die Rede kurz sein sollte. Es ist nicht so, dass der, der weniger spricht automatisch die Wahreit sagt. Man kann auch weniger sprechen, um etwas zu verbergen. Aber das sollte nicht die Absicht sein; es sollte im Interesse eines ausgewogenen Denkens passieren. 
 
-The third consideration in this regard is that one
-should never speak ill of others, even if what one speaks
-is true; particularly behind the back of the person being
-so spoken of. Not only should one not speak ill of others,
-one should not also think ill of others. The spirit of
-goodwill alone should prevail. One should see only the
-good qualities in others.
+Die dritte Erwägung in dieser Hinsicht ist, dass man niemals schlecht von anderen sprechen sollte, selbst wenn es wahr ist, was man sagt; besonders nicht hinter dem Rücken der Person, über die gesprochen wird. Nicht nur sollte man nicht schlecht von anderen sprechen, man sollte auch nicht schlecht von anderen denken. Allein der Geist des guten Willens sollte vorherrschen. Man sollte nur die guten Qualitäten in anderen sehen. 
 
-When alleged faults of others are criticised, the very
-same faults, whether they actually exist in the person
-being criticised or not, enter the speech and pollute it. It
-means that we ourselves have put in our mind the dirt
-that was outside. This is to our own detriment.
+Wenn angebliche Fehler von anderen kritisiert werden, dringen genau diese selben Fehler in die Rede ein und verunreinigen sie, egal ob die kritisierte Person diese Fehler wirklich hat oder nicht. Es bedeutet, dass wir selbst den Schmutz, der zuvor draußen war, in unser Gemüt aufgenommen haben. Das ist zu unserem eigenen Nachteil. 
+
+...
+
 
 While engaged in any work, one is required to
 discuss many points, and it does involve discussion of
