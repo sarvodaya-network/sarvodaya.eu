@@ -56,7 +56,7 @@ Any organisation founded to support our cause, must comply to the fundamental pr
 
 The constructive programme is primarily focused on labour, on economical service, because labour is literally the "life foundation" of everyone, as it is labour that produces everyone's needs. Whoever controls the "life foundation" of the people, controls the people.  
 Corporations control people by continueously taking more and more economical areas into their hands. They try to control and rule the people by going so far as to even take illusionary property of seeds, a crime and lie beyond measure.  
-If whoever who controls the life foundation of the people controls the people, then it follows, that it is the most important thing to give the control over their life foundation back to the people. Therefore it is this what the constructive programme is primarily focussing on. It has to make sure that the people become self-reliant and independent in their livelihood, in real ways, not in illusionary ways. Earning money in itself doesn't make one a iota more independent nor more self-reliant in any meaningful way.  
+If whoever who controls the life foundation of the people controls the people, then it follows, that it is the most important thing to give the control over their life foundation back to the people. Therefore it is this what the constructive programme is primarily focussing on. It has to make sure that the people become self-reliant and independent in their sustenance, in real ways, not in illusionary ways. Earning money in itself doesn't make one a iota more independent nor more self-reliant in any meaningful way.  
 Therefore, the foundation of the constructive programme is the foundation of our life:  
 The purification and liberation of our livelihood, of our food, cloth and shelter, summarised as *village industry*.  
 This is where everything starts and this is what most constructive workers will always be focused on doing mostly. 
@@ -66,12 +66,13 @@ This is where everything starts and this is what most constructive workers will 
 
 ## The Nine Precepts 
 
-At the time of Gandhiji he has coined eleven precepts. They in turn were based on the five precepts of Satya, Ahimsa, Aparigraha, Asteya, Brahmacharya and Asvada from the ancient traditions, that the Hindu tradition shares with the Jainas and Buddhists. Gandhi added six additional precepts to them based on the demands of our time, but while some of them are of universal value, at least one of them had a particular Hindu context that isn't applicable to the international level. And Vinobaji had added a twelvte precept to the eleven. The 9 precepts presented here are a simplification only by form; they contain *all* of the precepts by Gandhiji and Vinobaji and above that they also contain all *ten* of the buddhist precepts, as a matter of gradual refinement. I explain this in more detail in an article on its own.  
+At the time of Gandhiji he has coined eleven precepts. They were based on the five precepts of Satya, Ahimsa, Aparigraha, Asteya and Brahmacharya from the ancient traditions, that the Hindu tradition shares with the Jainas and Buddhists. Gandhi added six additional precepts to them based on the demands of our time, but while some of them are of universal value, at least one of them had a particular Hindu context that isn't applicable to the international level.   
+Vinobaji had added a twelfth precept to the eleven. The 9 precepts presented here are a simplification only by form; they contain *all* of the precepts by Gandhiji and Vinobaji and above that they also contain all *ten* of the buddhist precepts, as a matter of gradual refinement. I explain this in more detail in an article on its own.  
 
-1. Truth                        / liberation from ignorance
+1. Truth                        / liberation from ignorance/delusion
 2. Nonviolence                  / liberation from violence
 3. Internal Training            / liberation from desire
-4. Bread Labour                 / liberation from abuse/exploit.
+4. External Labour              / liberation from abuse/exploit.
 5. Non-possession               / liberation from property
 6. Synthetical Thinking         / liber. from confusion and viol. thought
 7. Self-Rule or Autonomy        / liber. from the state
@@ -81,7 +82,7 @@ At the time of Gandhiji he has coined eleven precepts. They in turn were based o
 We could summarise the precepts in prosaic form, as such:
 
 We believe in the absolute value of *truth* & *nonviolence*  
-aspired through *internal training* and *bread labour*  
+aspired through *internal training* and *physical labour*  
 on the basis of *non-possession* and *synthetical thinking*  
 via gradual practice of *autonomy* and *self-sufficiency*  
 expressed in selfless *service* without desire.  
