@@ -56,7 +56,7 @@ On the social philosophy and the vision of a non-violent social order, that we c
 ### Secondary Literature
 * [The Five Gifts](https://vinoba.in/downloads/books/The%20Five%20Gifts.pdf) *The story of Bhoodan and Vinoba Bhave*. R. P. Masani, 1957.
 * The Progress of a Pilgrimage. Suresh Ram.
-* Vinoba: Man & Message. By Suresh Ram, 1961.
+* [Vinoba: Man & Message](/library/vinoba/english/Vinoba%20-%20Man%20And%20Message.pdf). By Suresh Ram, 1961.
 * [Vinoba and his Mission](https://vinoba.in/downloads/books/Vinoba%20and%20his%20mission.pdf). Suresh Ram, 1962.
 * The Creed of Saint Vinoba. By Vasant Nargolkar, 1963. 
 * [Sarvodaya Ideology & Acharya Vinoba Bhave](https://vinoba.in/downloads/books/Sarvodaya%20ideology%20and%20Acharya%20Vinoba%20Bhave.pdf). V. Narayan Karan Reddy, 1963.
@@ -73,6 +73,12 @@ On the social philosophy and the vision of a non-violent social order, that we c
 * Bhoodan & Gramdan In Orissa: *An Analytical Study*. By T. P. Singh
 * Shanti Sena: *A Guide Book*. By Dr. Ramjee Singh
 * [Gandhi, Sarvodaya, and organizations](https://archive.org/details/gandhisarvodayao0000pand/page/n9/mode/2up), by Pandey, B.P. (Badri Prasad), 1939.   
+* [Vinoba: Sage of the Age](/library/vinoba/english/vinoba-sage-of-the-age.pdf). by Usha, 2014.  
+
+
+### Talks  
+* [Sarvodaya and New World Coming](https://www.youtube.com/watch?v=qd0HYwi_0-c). Roger Weir, summer 1983.  
+* [Gandhi, Vinoba and the Dharma Chakra](https://www.youtube.com/watch?v=CX2Bmndqduc). Roger Weir, summer 1983.  
 
 
 ### Critique of Modernity and its Violent Industrial Civilisation
