@@ -79,6 +79,7 @@ On the social philosophy and the vision of a non-violent social order, that we c
 ### Talks  
 * [Sarvodaya and New World Coming](https://www.youtube.com/watch?v=qd0HYwi_0-c). Roger Weir, summer 1983.  
 * [Gandhi, Vinoba and the Dharma Chakra](https://www.youtube.com/watch?v=CX2Bmndqduc). Roger Weir, summer 1983.  
+* [The (Un)Holy Alliance of Religion and Politics - A Gandhian Perspective](https://www.youtube.com/watch?v=kqSIIijFY8o). Dr. Veena Howard and Dr. James Tepfer, 2024. 
 
 
 ### Critique of Modernity and its Violent Industrial Civilisation
@@ -128,7 +129,9 @@ On the social philosophy and the vision of a non-violent social order, that we c
 * Vichar Photi / EN: Random Reflections / DE: [Gedanken](/library/vinoba/deutsch/Vichar-pothi_German.pdf) (Random short notes by Vinoba on diverse, mostly spiritual themes with an universal outlook, that can give an insight into the application of *samanvaya* in his thought)
 * [Essence of Basic Education](https://vinoba.in/downloads/books/Essence%20of%20Basic%20Education.pdf). Vinoba, 1967.
 * [Moved by Love](/library/vinoba/english/movedbylove.pdf) (a carefully selected and well ordered anthology of autobiographic anecdotes by Kalindi, one of Vinobas closest associates; Gandhi said: "My life is my message". By learning from the life of others, we learn about their ideas, how they put ideas into practice, how their ideas were formed and merged; especially Vinobas life was a constant synthesis in practice.) 
+* [Vinoba Bhave, Life & Mission, A Pictorial Gallery & Reference Library](https://drive.google.com/file/d/0B-ZWGF0lkaCBS3BEYXc5ZXRUMGc/edit?resourcekey=0-vXno2BX8R1BmMCdZYDcGHw)
 * Vinoba on Gandhi, Kantilal Shah, 1973 
+
 
 
 ---
@@ -156,6 +159,7 @@ The metaphysical basis of *Sarvodaya* and a philosophy of life that upholds a tr
 
 ### Khadi / Clothing
 
+* [Ambar Charkha](https://www.youtube.com/watch?v=fSs0_i3BFho). Documentary by Nilkanth Magdum.
 * [Flax to linen: From sowing to sewing](https://m.youtube.com/watch?v=3JKhhtoe9v4)
 
 
