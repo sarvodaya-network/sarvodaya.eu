@@ -221,6 +221,22 @@ Vinobas Wheel.
         Das Ableiten von einem Programm von den Gelübden ist dann ähnlich den
         Regeln der Arche, in dem quasi die Gelübde auch zugleich eine Art Programm darstellen,
         die das Leben gestalten. 
+---
+
+
+
+
+
+Gifts:
+* Gramdan
+* Sammati-dan
+* Bhudan
+* Shrama-dan
+* Sampatti-dan
+* Buddhi-dan
+* ...
+
+
 
 
 
