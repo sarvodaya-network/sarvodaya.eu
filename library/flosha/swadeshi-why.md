@@ -25,10 +25,23 @@ Nur wenn mir etwas nicht gefällt, wenn ich etwas nicht gerne tue, dann wünscht
 Dann gibt es Menschen, die messen Fortschritt in der produzierten Masse an Produkten und dem Geld, das man dadurch gewinnen kann. Diese Leute denken: Wenn man mehr produziert und dadurch mehr Geld hat, dann ist das gut, wenn man weniger produziert, dann ist das schlecht. Diese Betrachtungsweise ist genauso wenig intelligent.  
 Wenn ich habe, was ich brauche und was ich mir wünsche, bin ich zufrieden. Wenn ich mir z.B. fünf Pullover wünsche, die ich regelmäßig trage, bin ich zufrieden. Ich wünsche mir keinen sechsten Pullover und auch keine sechzig Pullover und ich brauche sie nicht, ich trage ja sowieso nur diese fünf. Wieso sollte ich dann mehr Pullover produzieren wollen? Wieso sollte ich Zeit darauf verschwenden? Und wieso wäre das Fortschritt? Es wäre kein Fortschritt. 
 
-Also kann Fortschritt nicht darin bestehen, immer mehr zu produzieren. Fortschritt kann nur darin bestehen, dass man mehr produziert, wo mehr gebraucht wird und nicht genug vorhanden war. Sobald genug vorhanden ist und jeder hat was er sich wünscht, kann darüber hinaus kein Fortschritt stattfinden, weil alles darüber hinaus pure Zeitverschwendung wäre. 
+Also kann Fortschritt nicht darin bestehen, immer mehr zu produzieren. Fortschritt kann nur darin bestehen, dass man mehr produziert, wo mehr gebraucht wird und nicht genug vorhanden war. Sobald genug vorhanden ist und jeder hat was er sich wünscht, kann darüber hinaus kein Fortschritt stattfinden, weil alles darüber hinaus pure Zeitverschwendung wäre. Also ist jede Produktion über unsere Wünsche hinaus ein Rückschritt, weil es unsere Zeit stiehlt. Es stiehlt uns die Zeit, die wir damit verbringen könnten, schöne Dinge zu tun und uns an dem zu erfreuen, was wir haben. Da wir mehr nicht brauchen und uns an mehr nicht erfreuen können, sollten wir mehr auch nicht haben wollen.  
 
-Wieder andere haben eine noch absurdere Idee. Sie sagen: Fortschritt ist, wenn der Mensch immer weniger selbst tun muss und Machinen immer mehr übernehmen. Auch diese Betrachtungsweise ist nicht intelligent. 
-Wenn alles, was man tun kann, eine Bürde wäre und Freude nur im Nichtstun bestünde, dann wäre diese Ansicht gerechtfertigt. Aber so ist es nicht. Menschen tun viele Dinge gerne. Es macht ihnen keinen Spaß, wenn andere Menschen das tun, was sie gerne tun würden und es macht ihnen noch weniger Spaß, wenn Machinen tun, was sie gerne tun würden. 
+Wieder andere haben eine noch absurdere Idee. Sie sagen: Fortschritt ist, wenn der Mensch immer weniger selbst tun muss und Maschinen immer mehr übernehmen. Auch diese Betrachtungsweise ist nicht intelligent. 
+Wenn alles, was man tun kann, eine Bürde wäre und Freude nur im Nichtstun bestünde, dann wäre diese Ansicht gerechtfertigt. Aber so ist es nicht. Menschen tun viele Dinge gerne. Es macht ihnen keinen Spaß, wenn andere Menschen das tun, was sie gerne tun würden und es macht ihnen noch weniger Spaß, wenn Maschinen tun, was sie gerne tun würden.  
+Jedes Kind kennt das: Ein Erwachsener will dem Kind helfen und etwas für das Kind tun, um ihm das Leben leichter zu machen. Aber das Kind ist nicht zufrieden. Manchmal ist es sogar traurig, denn es wollte die Sache selbst tun. Es liegt also eine Freude darin, etwas selbst zu tun. Und wenn eine Sache keine Freude macht, dann gibt es nicht nur diese eine Möglichkeit, dass man versucht, sich dieser Sache zu entledigen und sie andere Menschen oder eine Maschine für einen tun zu lassen, weil man es selbst nicht tun will. Sondern es gibt noch eine andere Möglichkeit, die man zu aller erst in Erwägung ziehen sollte: Ob es nicht irgendwie möglich ist, die Sache so zu verändern und einen Weg zu finden, damit sie doch Freude macht. Denn wenn man eine Sache, die keine Freude macht, in eine Sache verwandeln kann, die Freude macht, dann würde man sie gar nicht loswerden wollen. Also muss man darüber zu aller erst nachdenken anstatt darüber, wie man sie loswerden kann.  
+
+Hier ist es also so wie mit der Zeit: Nur wenn es um unangenehme Dinge geht, um solche Dinge, die nicht man nicht gerne tut, um solche Dinge, die niemand gerne tut (und die man auch nicht so verändern kann, dass man sie gerne tut), dann mag es auch niemandem schaden, wenn eine Maschine diese Arbeit übernimmt.  
+Wenn die Maschine uns dadurch eine Arbeit abnimmt, die keinem Freude macht, dann wäre das ein Fortschritt. Wenn sie uns aber eine Arbeit abnimmt, die uns Freude macht oder die uns Freude machen könnte, wenn wir sie etwas anpassen würden, dann wäre das ein Rückschritt.  
+
+Dazu muss man auch bedenken: Wieso macht uns eine Tätigkeit Freude oder nicht? Es gibt nur zwei Möglichkeiten, woran das liegen kann. 
+* Es kann an der Art der Tätigkeit selber liegen oder an einem Bestandteil dieser Tätigkeit. 
+* Es kann an uns liegen und an der Art, wie wir diese Tätigkeit betrachten oder wie wir diese Tätigkeit tun.
+
+Beide Faktoren können wir verändern. Wir können die Tätigkeit selbst verändern oder einzelne Bestandteile davon. Wir können auch uns selbst verändern oder wie wir diese Tätigkeit tun oder wie wir sie betrachten.  
+
+
+
 
 
 ---
