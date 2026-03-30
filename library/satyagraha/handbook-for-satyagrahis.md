@@ -42,7 +42,17 @@ A Glossary of Indian Terms
 The Gandhian movement in India, whatever may be thought of its success or failure, has been alive for more than half a century. It has played a major role in India's long struggle for national freedom; it has been involved in struggles against economic and social injustice in India. And it is a vision of a means of social change which has had wide impact in many parts of the world. This edition of *Handbook for Satyagrahis* is a timely reminder of the Gandhian method of struggle. And to the newcomer this *Handbook* can provide a summation of the ideas embodied in the writing and experiment of Gandhi and those who worked with him.  
 To those concerned with the art of training as a part of the movement for nonviolent social change, the *Handbook* is evidence of the serious and long continuing efforts to develop training programmes to help people prepare for nonviolent struggle. There is much we can learn from these efforts.  
 The author, Narayan Desai, has spent his entire life committed to that struggle. Much of the first twenty years of his life was spent living with Gandhi at Sabarmati and Sevagram Ashrams. He helped found the Shanti Sena, India's "Peace Army", which he led for many years. He is presently active in the National People's Committee, which is working to build people's committees all over India to guide the "Total Revolution" begun with the inspiration of Jayaprakash Narayan, the famed Gandhian leader who was jailed for months by the Indira Gandhi government in 1975.  
+The *Handbook* confirms what is obvious: that concepts and methods of training are strongly influenced by the culture and historical experience in which it is rooted. What works in one culture may not work in another; adaptation and experimentation become essential tools in developing training and in learning from each other.  
+Secondly, the *Handbook* focuses on the need to change social, political, and economic institutions, and the necessity of the social change agent, the Satyagrahi, to perfect oneself, to build a disciplined way of life that will enable the social change agent to continue in effective struggle. The *Handbook* lays down guidelines, or truths, to be followed by the social change agent. Training in the United States focuses on much the same major objectives, but concentrates much more on process, the "how-to-do-it", rather than the essence, the motives undergirding the nonviolent movement. Is it possible that our training processes need to give more emphasis to these "truths"?  
+Lastly, the *Handbook*, like training manuals in the United States, can be seen as a useful tool to stimulate transnational network building, the reaching out and linking up of nonviolent revolutionary groups all over the world. While the immediate struggle is always on the homefront, we know that our struggles are universal. Thus the importance of sharing our ideas, our experiences, our lives as steps in building a living network.  
+The Transnational Collective of the Movement for a New Society is working to increase consciousness in the movement in the United States of our interdependency. It seeks to build strong links with other nonviolent revolutionary groups in other countries and to encourage interchange of people, ideas, and training handbooks. Transnational Collective is pleased to sponsor the edition of Narayan Desai's *Handbook* for nonviolent revolutionaries.  
+— GEORGE WILLOUGHBY
 
+Transnational Collective  
+Movement for a New Society  
+Philadelphia, USA  
+
+June 1979  
 
 
 ---
@@ -113,5 +123,9 @@ In the following chapters we shall deal with each of the eight steps of a Satyag
 MANKIND'S progress has been in two directions. It has tried to develop its inner faculties through study, inner search, meditation, Yoga, etc. This progress is concerned with the journey within. The other direction has been in the line of social change through reforms, legislations, revolutions, etc. This progress is concerned with the journey without.  
 A Satyagrahi does not treat these two journeys as distinct or separated from each other. To a Satyagrahi the purification of the self and the change of the society are not only not mutually exclusive, but they are inter-related and interdependent. To a Satyagrahi the individual search for truth must end in social change and the medium of social change should be individual search for truth.  
 For a Satyagrahi the revolution begins with him/herself. He/she cannot dream of changing the society without changing him/herself. His/her march towards Total Revolution, therefore, begins with him/herself. His/her first lessons are for self-preparation or Sadhana. The self-preparation of a Satyagrahi means the development of his/her total personality. The personality consists of a number of factors. But for the sake of convenience we accept the three broad faculties described in the *Gita* as *Jnana* or knowledge, *Karma* or action, and *Bhakti* or devotion. A Satyagrahi tries to develop all these three faculties in a way which will create a balance between them and result in harmony of his/her personality. He/she constantly strives to broaden his/her horizons in all these faculties in order to make him/her a more accomplished instrument of Total Revolution. A Satyagrahi will keep his/her windows open to all influences from all directions but would refuse to be swept away by any one of them.  
+
+### Seeking Jnana or Knowledge
+
+"I do not want ...
 
 
