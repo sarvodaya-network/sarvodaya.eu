@@ -87,10 +87,13 @@ On the social philosophy and the vision of a non-violent social order, that we c
 * [Gandhiji's Critique of Modern Civilization and its Relevance in Present Day](https://www.slideshare.net/slideshow/gandhijis-critique-of-modern-civilization-and-its-relevance-in-present-day-84345244/84345244)
 * [Going Against the Stream: The Relevance of Ananda Coomaraswamy in the 21st Century](https://www.kataragama.org/centers/akc_oration99.htm). Manik Sandrasagra, 1999.
 * [Against Civilization](https://archive.org/details/AgainstCivilizationReadingsAndReflectionsEnlargedEdition). John Zerzan, 1999.
+* [Flight from the City](https://drive.google.com/file/d/0B1wQ6T5I3eBVX1ZPdFFPSlZtd00/view?usp=drivesdk). Ralph Borsodi. 
+* [Seventeen Problems of Man and Society](https://docs.google.com/file/d/0B1wQ6T5I3eBVWG1xT2xoZlhRRFU/edit?usp=drivesdk). Ralph Borsodi.
+* [Decentralist Manifesto](https://docs.google.com/file/d/0B1wQ6T5I3eBVbGR0SzRaNlJBTDQ/edit?usp=drivesdk). Ralph Borsodi. 
+* [This Ugly Civilization](https://drive.google.com/file/d/0B1wQ6T5I3eBVSHB6eFlpSmxOZVk/view?usp=sharing). Ralph Borsodi. 
 * [The Search for a *nonviolent* Future](https://www.mettacenter.org/bookstore/p/the-search-for-a-nonviolent-future-expanded-and-revised-version). By Michael N. Nagler.
 * [Cosmopolitan Anarchy: Ananda Coomaraswamy, Transnationalism, and Walt Whitman. By Allan Antliff. 2024.](https://www.proquest.com/docview/3150446615?pq-origsite=summon&sourcetype=Scholarly%20Journals)
 * Against Civilization - *The Anthropological Critique of Modernity*. By Morris Berman, 2025. 
-
 
 ---
 
@@ -118,7 +121,6 @@ On the social philosophy and the vision of a non-violent social order, that we c
 * [Handbook for Nonviolent Campaigns]() / DE: [Handbuch für gewaltfreie Kampagnen](https://www.graswurzel.net/gwr/produkt/handbuch-fuer-gewaltfreie-kampagnen/)
 * [The Nonviolent Handbook](https://www.mettacenter.org/bookstore/p/the-nonviolence-handbook): *A Guide for Practical Action*. Michael N. Nagler.
 
-
 ---
 
 
@@ -129,10 +131,10 @@ On the social philosophy and the vision of a non-violent social order, that we c
 * Vichar Photi / EN: Random Reflections / DE: [Gedanken](/library/vinoba/deutsch/Vichar-pothi_German.pdf) (Random short notes by Vinoba on diverse, mostly spiritual themes with an universal outlook, that can give an insight into the application of *samanvaya* in his thought)
 * [Essence of Basic Education](https://vinoba.in/downloads/books/Essence%20of%20Basic%20Education.pdf). Vinoba, 1967.
 * [Moved by Love](/library/vinoba/english/movedbylove.pdf) (a carefully selected and well ordered anthology of autobiographic anecdotes by Kalindi, one of Vinobas closest associates; Gandhi said: "My life is my message". By learning from the life of others, we learn about their ideas, how they put ideas into practice, how their ideas were formed and merged; especially Vinobas life was a constant synthesis in practice.) 
-* [Vinoba Bhave, Life & Mission, A Pictorial Gallery & Reference Library](https://drive.google.com/file/d/0B-ZWGF0lkaCBS3BEYXc5ZXRUMGc/edit?resourcekey=0-vXno2BX8R1BmMCdZYDcGHw)
+* [Vinoba Bhave, Life & Mission, A Pictorial Gallery & Reference Library](https://drive.google.com/file/d/0B-ZWGF0lkaCBS3BEYXc5ZXRUMGc/edit?resourcekey=0-vXno2BX8R1BmMCdZYDcGHw). By Mumbai Sarvodaya Mandal.
 * Vinoba on Gandhi, Kantilal Shah, 1973 
-
-
+* Education and Living. Ralph Borsodi. [Vol 1](https://docs.google.com/file/d/0B1wQ6T5I3eBVY2RyWjZjcmpKUFk/edit?usp=drivesdk) / [Vol 2](https://docs.google.com/file/d/0B1wQ6T5I3eBVd0FabTZUdGR6aGM/edit?usp=drivesdk). 
+* [The Education of the Whole Man](https://drive.google.com/file/d/0B1wQ6T5I3eBVd2JWOGxSQWo3VTQ/view?usp=drivesdk). Ralph Borsodi. 
 
 ---
 
@@ -159,8 +161,11 @@ The metaphysical basis of *Sarvodaya* and a philosophy of life that upholds a tr
 
 ### Khadi / Clothing
 
+* [Video Introduction to the Spinning Wheel in our Philosophy](https://www.youtube.com/watch?v=dDzQ2QMc4AQ)
 * [Ambar Charkha](https://www.youtube.com/watch?v=fSs0_i3BFho). Documentary by Nilkanth Magdum.
+* [Ambar Charkha Presentation](https://www.youtube.com/watch?v=mI1I-Ky6pus) by CEMCA. 
 * [Flax to linen: From sowing to sewing](https://m.youtube.com/watch?v=3JKhhtoe9v4)
+* [Backstrap Weaving Instruction](https://www.youtube.com/watch?v=R2JlgXorWeg) / [Backstrap Loom (Prototype and Factoids)](https://www.youtube.com/watch?v=MOTSw4In2nA)  
 
 
 <!-- 

@@ -24,6 +24,8 @@ Whatever we list here does not mean that we *endorse* the content and everything
 * [State Free](https://statefree.world)
 * [organic radicals: challenging the system to its core](https://orgrad.wordpress.com/our-principles/)
 * [winteroak.org](https://winteroak.org.uk/)
+* [School of Living](https://www.schoolofliving.org/borsodi)
+* [Ralph Borsodi](https://www.ralphborsodi.com/)
 
 <!--[Fossil Free ECAs](https://www.fossilfreeecas.org/)-->
 
@@ -60,9 +62,16 @@ Whatever we list here does not mean that we *endorse* the content and everything
 * [Dr. Abhay Bang speaking on Vinoba at Launch Event of www.vinoba.in](https://www.youtube.com/watch?v=KMXCDEUKSys)
 
 
+### Technology 
+
+* [Good and Basic](https://www.youtube.com/@GoodandBasic) (Technology and Village Industry)
+* [Prabhudas Gandhi spinning on Ambar Charkha at Kasturba Ashram](https://www.youtube.com/watch?v=PX4eprNHHDs)
+
+
 ### Economics / De-Growth / Growth Critique
 * [Nachhaltigkeit Wachstum und die Grenzen der Politik, Niko Paech](https://www.youtube.com/watch?v=aU94v0I7oH0)
 * [Niko Paech: Blick in ein entrümpeltes Leben](https://www.youtube.com/watch?v=XN78GM-K0y8)
+
 
 ### Lanza del Vasto
 * [Lanza del Vasto parle de non-violence et de Gandhi (English Subtitles)](https://www.youtube.com/watch?v=WV0fUrdbA68)
