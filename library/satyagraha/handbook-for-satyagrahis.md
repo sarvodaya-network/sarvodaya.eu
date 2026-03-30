@@ -124,8 +124,11 @@ MANKIND'S progress has been in two directions. It has tried to develop its inner
 A Satyagrahi does not treat these two journeys as distinct or separated from each other. To a Satyagrahi the purification of the self and the change of the society are not only not mutually exclusive, but they are inter-related and interdependent. To a Satyagrahi the individual search for truth must end in social change and the medium of social change should be individual search for truth.  
 For a Satyagrahi the revolution begins with him/herself. He/she cannot dream of changing the society without changing him/herself. His/her march towards Total Revolution, therefore, begins with him/herself. His/her first lessons are for self-preparation or Sadhana. The self-preparation of a Satyagrahi means the development of his/her total personality. The personality consists of a number of factors. But for the sake of convenience we accept the three broad faculties described in the *Gita* as *Jnana* or knowledge, *Karma* or action, and *Bhakti* or devotion. A Satyagrahi tries to develop all these three faculties in a way which will create a balance between them and result in harmony of his/her personality. He/she constantly strives to broaden his/her horizons in all these faculties in order to make him/her a more accomplished instrument of Total Revolution. A Satyagrahi will keep his/her windows open to all influences from all directions but would refuse to be swept away by any one of them.  
 
+
 ### Seeking Jnana or Knowledge
 
-"I do not want ...
+"I do not want my house to be walled in on all sides and my windows to be stuffed", Gandhi had said in *Young India* (1 June 1921). "I want the cultures of all the lands to be blown about my house as freely as possible. But I refuse to be blown off my feet by any."  
+In order to keep this noble tradition of openness combined with deep-rootedness intact a Satyagrahi must constantly seek knowledge.  
+There is no age 
 
 
