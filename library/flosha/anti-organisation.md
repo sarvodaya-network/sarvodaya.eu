@@ -1,16 +1,16 @@
 # Freedom from Organisation
 
-Vinoba called it Tantra-Mukti. 
-Liberation from Organisation.
+Vinoba called for *Tantra-Mukti*, which is usually translated as "liberation from organisation". But tantra actually is more referring to a "system". Etymologically it is related to a weft. A weft is what is interconnected with the warp into a whole. So is a system interconnected, it is a particular way of how things are in relation to others and according to particular rules. An organism is called a system too, in that it has a particular order and interconnected organs each functioning in dependence with others. Here system and organisation are one and the same.
 
-But what does that mean? 
-It is rooted in an attitude against what organisations usually are. They contain a hierarchy. They come with specific rules. They come with a high degree of administrative demands, they are often rigid, inflexible and centralised; through centralisation they become coercive and the potential for abuse within grows. 
+But there is one big difference between systems. There are natural systems, natural orders of things. And there are unnatural, man-made systems, man-made organisations, which have lots of influence on our life, while often being completely opposed to how natural systems function.
+
+Vinobas *tantra-mukti* is rooted in an attitude against what man-made systems and organisations usually are. They contain a hierarchy. They come with specific rules. They come with a high degree of administrative demands, they are often rigid, inflexible and centralised; through centralisation they become coercive and the potential for abuse within grows. But it all could be purified by nonviolence. 
 
 What does Sarvodaya actually want and represent? It is a non-violent social *order*. An *order* in which love, truth and compassion rule.  
 
-It doesn't want a non-violent "state" or a non-violent "nation" or any other institution or organisation, what it wants is an order.  
+It doesn't want a non-violent "state" or a non-violent "nation" or any other institution or organisation, nor a system, what it wants is an order.  
 
-What is the difference between an order and an organisation?  
+What is the difference between an order and an organisation or system?  
 An order is a state, while organisation is the process of bringing that state about.  
 When entering my room, one will find a particular order of things. It simply means that every thing has a particular place. It has the place that I have determined for it. I can change this order at any time, because I am the one who is ordering my things. The process of doing that, this may be called "organisation". 
 
