@@ -1,4 +1,4 @@
-# Freedom from Organisation
+# Freedom from Systems
 
 Vinoba called for *Tantra-Mukti*, which is usually translated as "liberation from organisation". But tantra actually is more referring to a "system". Etymologically it is related to a weft. A weft is what is interconnected with the warp into a whole. So is a system interconnected, it is a particular way of how things are in relation to others and according to particular rules. An organism is called a system too, in that it has a particular order and interconnected organs each functioning in dependence with others. Here system and organisation are one and the same.
 
