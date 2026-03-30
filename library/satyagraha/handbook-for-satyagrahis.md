@@ -1,9 +1,9 @@
 # Handbook for Satyagrahis
 
-A Manual for Volunteers of Total Revolution
+A Manual for Volunteers of Total Revolution  
 {: .center }
 
-Narayan Desai
+Narayan Desai  
 {: .center }
 
 © Gandhi Peace Foundation  
@@ -39,7 +39,10 @@ A Glossary of Indian Terms
 
 ## FOREWORD 
 
-The Gandhian movement in India, ... 
+The Gandhian movement in India, whatever may be thought of its success or failure, has been alive for more than half a century. It has played a major role in India's long struggle for national freedom; it has been involved in struggles against economic and social injustice in India. And it is a vision of a means of social change which has had wide impact in many parts of the world. This edition of *Handbook for Satyagrahis* is a timely reminder of the Gandhian method of struggle. And to the newcomer this *Handbook* can provide a summation of the ideas embodied in the writing and experiment of Gandhi and those who worked with him.  
+To those concerned with the art of training as a part of the movement for nonviolent social change, the *Handbook* is evidence of the serious and long continuing efforts to develop training programmes to help people prepare for nonviolent struggle. There is much we can learn from these efforts.  
+The author, Narayan Desai, has spent his entire life committed to that struggle. Much of the first twenty years of his life was spent living with Gandhi at Sabarmati and Sevagram Ashrams. He helped found the Shanti Sena, India's "Peace Army", which he led for many years. He is presently active in the National People's Committee, which is working to build people's committees all over India to guide the "Total Revolution" begun with the inspiration of Jayaprakash Narayan, the famed Gandhian leader who was jailed for months by the Indira Gandhi government in 1975.  
+
 
 
 ---
