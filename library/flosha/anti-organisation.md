@@ -33,6 +33,7 @@ Men will always strive to order the world in a way that is in accordance with th
 
 If men reach this deeply founded order within, that nothing can erschütter them, also called the *equanimity of mind* or the *steadfast wisdom* or the *right view*, then nothing will be able stop this inner order to emanate into a nonviolent social order without. 
 
+But if they do not reach this inner order, then nothing that they outwardly do will be capable to ensure any true betterment of order nor any freedom from coercion, as they will keep living under orders coming from without, feeling pressured and enforced by outer orders, living *under* orders, instead of having an order under them; as they truly are meant to be above order, the source of order, since no order can be without them ordering it. 
 
 
 
