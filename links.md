@@ -66,6 +66,7 @@ Whatever we list here does not mean that we *endorse* the content and everything
 
 * [Good and Basic](https://www.youtube.com/@GoodandBasic) (Technology and Village Industry)
 * [Prabhudas Gandhi spinning on Ambar Charkha at Kasturba Ashram](https://www.youtube.com/watch?v=PX4eprNHHDs)
+* [Marx versus your Washing Machine](https://www.youtube.com/watch?v=mivJ8qJ70bA)
 
 
 ### Economics / De-Growth / Growth Critique
