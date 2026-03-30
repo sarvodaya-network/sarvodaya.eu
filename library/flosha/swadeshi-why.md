@@ -15,6 +15,22 @@ Ebenso müssen jene Menschen einen teuren Preis dafür bezahlen, die das Produkt
 
 In der Fabrik gehört ihnen nichts. Sie arbeiten für jemand anderen, dem die Fabrik gehört. Zuvor haben sie für sich selbst gearbeitet und mit ihren eigenen Werkzeugen. Auch das ist ein Rückschritt für diese Menschen und vermindert ihre Freude, schadet ihrer Würde und stört ihren Sinn, weil es sie weniger frei macht. 
 
+Die Leute sagen, dass man den Fortschritt nicht aufhalten kann. Aber für diese Menschen ist es ein Rückschritt gewesen. Wieso ist dann von Fortschritt die Rede? Es ist deshalb von Fortschritt die Rede, weil die Menschen Fortschritt in unterschiedlicher Weise messen.  
+
+Manche Menschen messen Fortschritt durch Geschwindigkeit. Wenn etwas schneller funktioniert als vorher, dann ist das Fortschritt. Wenn es langsamer ist, dann ist das Rückschritt. Diese Betrachtungsweise ist nicht intelligent.  
+Wenn ich z.B. sehr schnell esse, so schnell, dass ich alles sofort runterschlucke und verschlinge, dann habe ich daran wenig Freude. Wenn ich langsamer esse, habe ich mehr Freude daran. Also ist schneller essen kein Fortschritt. Ebenso: Wenn ich Zeit mit meinen Freunden verbringe und will, dass das möglichst schnell erledigt ist, verbringe ich wenig Zeit mit meinen Freunden. Was ist daran gut? Wenn ich gerne Zeit mit meinen Freunden verbringe, dann will ich nicht, dass das möglichst schnell vorbei ist, sondern dass es länger dauert. 
+
+Nur wenn mir etwas nicht gefällt, wenn ich etwas nicht gerne tue, dann wünscht man sich, dass es schneller geht und schnell vorbei ist. Geschwindigkeit ist also nur dann Fortschritt, wenn es um unschöne, freudlose, langweilige Dinge geht. Wenn es um schöne, freudvolle Dinge geht, wollen wir es nicht möglichst schnell haben, sondern wir wollen es möglichst schön haben.  
+
+Dann gibt es Menschen, die messen Fortschritt in der produzierten Masse an Produkten und dem Geld, das man dadurch gewinnen kann. Diese Leute denken: Wenn man mehr produziert und dadurch mehr Geld hat, dann ist das gut, wenn man weniger produziert, dann ist das schlecht. Diese Betrachtungsweise ist genauso wenig intelligent.  
+Wenn ich habe, was ich brauche und was ich mir wünsche, bin ich zufrieden. Wenn ich mir z.B. fünf Pullover wünsche, die ich regelmäßig trage, bin ich zufrieden. Ich wünsche mir keinen sechsten Pullover und auch keine sechzig Pullover und ich brauche sie nicht, ich trage ja sowieso nur diese fünf. Wieso sollte ich dann mehr Pullover produzieren wollen? Wieso sollte ich Zeit darauf verschwenden? Und wieso wäre das Fortschritt? Es wäre kein Fortschritt. 
+
+Also kann Fortschritt nicht darin bestehen, immer mehr zu produzieren. Fortschritt kann nur darin bestehen, dass man mehr produziert, wo mehr gebraucht wird und nicht genug vorhanden war. Sobald genug vorhanden ist und jeder hat was er sich wünscht, kann darüber hinaus kein Fortschritt stattfinden, weil alles darüber hinaus pure Zeitverschwendung wäre. 
+
+Wieder andere haben eine noch absurdere Idee. Sie sagen: Fortschritt ist, wenn der Mensch immer weniger selbst tun muss und Machinen immer mehr übernehmen. Auch diese Betrachtungsweise ist nicht intelligent. 
+Wenn alles, was man tun kann, eine Bürde wäre und Freude nur im Nichtstun bestünde, dann wäre diese Ansicht gerechtfertigt. Aber so ist es nicht. Menschen tun viele Dinge gerne. Es macht ihnen keinen Spaß, wenn andere Menschen das tun, was sie gerne tun würden und es macht ihnen noch weniger Spaß, wenn Machinen tun, was sie gerne tun würden. 
+
+
 ---
 
 
