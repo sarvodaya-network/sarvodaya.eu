@@ -97,7 +97,14 @@ Truth and nonviolence can never be taken apart. Any commitment of violence is pr
 
 **Truth** (*Satya*): Not to lie nor to deceit, not others nor oneself. To speak the truth, search for the truth and to accept truth wherever it appears; it doesn't matter who speaks the truth nor who lies. We won't accept any untruth from anyone no matter his authority or position and in the same way we will not reject any truth from anyone no matter his authority or position, as truth is the only authority with actual (and righteous) coercive power.  
 
-Adherence to Truth automatically implies and requires an open mind. A mind that is not open is closed and into a closed mind, truth cannot enter. Keeping ones mind closed implies that one has no need for any kind of new truth to enter, no need for any refinement of ones view, that one either has all truth already or has no need for truth. A closed mind is also a sign of arrogance, whereas an open mind is a sign of humility. A closed mind is also an unfree mind, because the closeness does neither allow truth to enter nor to get out. An open mind is a free mind as truth can freely be entered and freely be expressed. An open mind is a mind that is capable to constantly change, whereas a closed mind is petrified. But openness is not just a requirement for truth to enter; it is also the nature of truth, as truth itself is open; it is closed off only to those who close of themselves, as truth doesn't force itself unto anyone. Becoming open means to not hold on to anything, to let everything flow in and out at will without tainting you, without holding on; it is thus the positive aspect of what in negative terms is called detachment, or in Eckhart terms, *Abgeschiedenheit*. 
+Adherence to Truth automatically implies and requires an open mind. A mind that is not open is closed and into a closed mind, truth cannot enter. Keeping ones mind closed implies that one has no need for any kind of new truth to enter, no need for any refinement of ones view, that one either has all truth already or has no need for truth.  
+* A closed mind is also a sign of arrogance, whereas an open mind is a sign of humility.   
+* A closed mind is also an unfree mind, because the closeness does neither allow truth to enter nor to get out. An open mind is a free mind as truth can freely be entered and freely be expressed.   
+* An open mind is a mind that is capable to constantly change, whereas a closed mind is petrified.
+
+But openness is not just a requirement for truth to enter; it is also the nature of truth, as truth itself is open; it is closed off only to those who close themselves, as truth doesn't force itself unto anyone. 
+
+Becoming open means to not hold on to anything, to let everything flow in and out at will without tainting you, without holding on; it is thus the positive aspect of what in negative terms is called detachment, or in Eckhart terms, *Abgeschiedenheit*. Thus, an open mind is also a detached mind. 
 
 
 
