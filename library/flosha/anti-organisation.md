@@ -23,6 +23,15 @@ We can have order without an organisation, as long as people order situations an
 How does such an order of things work? It has to do with the outherness vs. the innerness of order.  
 Order can either come from outside, being enforced down unto someone in a downward motion; then it is oppressive and enslaving. Or it can arise from the inside, in an upward motion; then it is non-oppressive and liberating. 
 
+Now, that doesn't mean that there may not be orders that are more truthful, more nonviolent, that are to be preferred. But the point is that such an order can only ever be *offered*. It can not be enforced. 
+
+Since a non-violent order is by definition a non-coercive order, it is not just "wrong" to enforce a non-violent order, it is *impossible* to do so.  
+Therefore a non-violent order can only ever be *offered*. We can offer ideas, we can give advise, but must give total freedom to accept these ideas or not, to follow the advise or not. Only if the ideas or advise are deliberately accepted, as one is convinced that they are right, will one be ordered within and can order arise from within. 
+
+Man has an inner order and is surrounded by an outer order. The more the inner order is opposed to the outer order, the more the inner and the outer order will be in conflict. This will cause unrest within and without. Internal and external aggression, mental and social conflict will be the result.  
+Men will always strive to order the world in a way that is in accordance with their inner order. At the same time, the inner order of men will always be influenced and distorted by the outer order, as long as they aren't so deeply grounded within themselves that no outer order can bring their inner order out of balance. 
+
+If men reach this deeply founded order within, that nothing can erschütter them, also called the *equanimity of mind* or the *steadfast wisdom* or the *right view*, then nothing will be able stop this inner order to emanate into a nonviolent social order without. 
 
 
 
