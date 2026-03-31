@@ -25,5 +25,8 @@ In the New Testament, whenever you find being talked about Obedience and Command
 For some reason obedience has been choosen as the vow established by the old christian orders, instead of vowing that which is the very content of the obedience, which is love with which we have to live in accordance. But the founders of these orders surely knew this; just later it has been forgotten more and more.  
 
 
+> To those who by persistence in doing good seek glory, honor and immortality, he will give eternal life.
+> But for those who are self-seeking and who reject the truth and follow evil, there will be wrath and anger.
 
-
+The "persistence in doing good" is what Satyagraha is all about. And it is here indirectly equated with adherence to truth, as in the second sentence, doing the opposite is called rejection of truth and following evil.  
+It is not just about saying good, wanting good or doing good occasionaly. This is particularly about persisting in doing good, when everyone else starts reacting in evil ways; it is the persistence in doing good inspite of being confronted, surrounded, attacked by evil. 
