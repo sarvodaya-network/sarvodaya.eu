@@ -18,7 +18,8 @@ It is for this reason that the principle of adherence to truth and nonviolence i
 
 That all of Gods commands are in accordance with this, is evident when God is defined as being absolute truth and love and is himself saying so. (All commands in scripture have to be evaluated against it; if anything therein is to be found to be in opposition to truth and love, we must either consider it as a human impurity, as an unjustified addition, or as misunderstood and interpreted wrongly.) But that *every* command given by *man* would be sacred in itself and on behalf of the position of this man, that *every* command is automatically in accordance with truth and love and thus worthy and necessary to be obeyed; this is delusional and a sin against reason and religion. 
 
+In the New Testament, whenever you find being talked about Obedience and Commands, it is almost always in the context of love. The command is to love each other, sticking to the command is love, it is commanded out of love, consists in love and leads to love. 
 
-
+> And this is love: that we walk in obedience to his commands. As you have heard from the beginning, his command is that you walk in love.
 
 
