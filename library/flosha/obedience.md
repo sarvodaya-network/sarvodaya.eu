@@ -1,0 +1,21 @@
+# On Obedience
+
+On Obedience and why it is not one of our vows.  
+
+by Flosha    
+31.03.2026  
+
+The vow of obedience is included in the vow of truth and non-violence.  
+
+To explain this in religious language: There should never an order be given that is against the will of god. But the will of god is love. It also cannot be said that God would want anything that is not true. Thus God wants truth and non-violence. Who orders anything and demands obedience that is opposed to truth or nonviolence, ought not to be followed even according to any christian monastic tradition of old, since the obedience to god precedes obedience to man. 
+
+Therefore we do not include obedience as a vow on its own as was done in the past, because it suffices to say that we ought to adhere to truth and nonviolence; if then an order is given by anyone, and be it a begging child, that is in accordance with truth and nonviolence, it must be obeyed, and if there is any order given by anyone, and be it the king of the world, that is in discord with truth and nonviolence, it must be disobeyed.  
+
+It is for this reason that the principle of adherence to truth and nonviolence is far more important than the principle of obedience, includes the principle of obedience and purifies it from any possibility of abuse it may contain, since never has God nor a saint demanded obedience from anyone without the premise that the demand is rooted in truth and love and not violating truth and love. 
+
+That all of Gods commands are in accordance with this, is evident when God is defined as being absolute truth and love and is himself saying so. (All commands in scripture have to be evaluated against it; if anything therein is to be found to be in opposition to truth and love, we must either consider it as a human impurity, as an unjustified addition, or as misunderstood and interpreted wrongly.) But that *every* command given by *man* would be sacred in itself and on behalf of the position of this man, that *every* command is automatically in accordance with truth and love and thus worthy and necessary to be obeyed; this is delusional and a sin against reason and religion. 
+
+
+
+
+
