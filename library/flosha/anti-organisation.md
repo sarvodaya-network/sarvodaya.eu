@@ -45,8 +45,9 @@ How then can *tantra-mukti* be practiced?
 * An order can be a union, but it cannot be a union against any other, the Sarvodaya Union is therefore by definition the union of unions; it can be a brotherhood, a sisterhood, a family, a village, a community, an individual, it can be whatever is able to exist without opposing others.  
 * There is no so called "membership" within the order; it is not only always voluntary, but also always informal. One does not belong to a nonviolent order because a paper says so, but because one is living accordingly, because one orders ones life in harmony with the order, in that one makes that order ones own. One is never owned by an order, one is "applying" and *expressing* order.  
 
+Just as anarchy is in no way opposed to order, but it is order without coercive authority, so is anarchy in no way opposed to rules or "law", but against enforced rules and violent law; it is for deliberately accepted rules and nonviolent law.
 
-
+One who does not accept any order imposed on him, one who cannot be forced by rule or law to obey, does not imply that he has no order, wants no order, follows no rule and obeys no law. He has an inner order, wants the outer order to reflect this inner order, follows rules he has given to himself and obeys the law that asks for obedience, never enforces the same, as non-coercion is part of the law. In fact he may follow stricter rules than any one under order; nonviolence is such a strict rule.  
 
 
 
