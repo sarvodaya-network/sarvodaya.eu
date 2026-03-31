@@ -13,4 +13,7 @@ Matt. 16:24:
 Luke 9:3:  
 “Take nothing for the journey,” He told them, “no staff, no bag, no bread, no money, no second tunic."
 
+> "The brothers shall appropriate nothing to themselves, neither a house nor place nor anything. And as pilgrims and strangers in this world...let them go confidently in quest of alms."  
+> "This, my dearest brothers, is the height of the most sublime poverty, which has made you heirs and kings of the kingd
+
 
