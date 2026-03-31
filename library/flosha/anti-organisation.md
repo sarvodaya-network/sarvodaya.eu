@@ -33,7 +33,7 @@ Therefore a non-violent order can only ever be *offered*. We can offer ideas, we
 Man has an inner order and is surrounded by an outer order. The more the inner order is opposed to the outer order, the more the inner and the outer order will be in conflict. This will cause unrest within and without. Internal and external violencw, mental and social conflict will be the result.  
 Men will always strive to order the world in a way that is in accordance with their inner order. At the same time, the inner order of men will always be influenced and distorted by the outer order, as long as they aren't so deeply grounded within themselves that no outer order can influence any control over their inner order; that nothing can bring them out of their balance within. 
 
-If men reach this deeply founded order within, that nothing can erschütter them, also called the *equanimity of mind* or the *steadfast wisdom* or the *right view*, then nothing will be able stop their inner order to emanate into a nonviolent social order without. 
+If men reach this deeply founded order within, so that nothing can shake them, also called the *equanimity of mind* or the *steadfast wisdom* or the *right view*, then nothing will be able stop their inner order to emanate into a nonviolent social order without. 
 
 But if they do not reach this inner order, then nothing that they outwardly do will be capable to ensure any true betterment of order nor any freedom from coercion, as they will keep living under orders coming from without, feeling pressured and enforced by outer orders, living *under* orders, instead of having an order under them; as they truly are meant to be above order, the source of order, since no order can be without them ordering it. 
 
