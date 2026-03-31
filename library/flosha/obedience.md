@@ -22,4 +22,8 @@ In the New Testament, whenever you find being talked about Obedience and Command
 
 > And this is love: that we walk in obedience to his commands. As you have heard from the beginning, his command is that you walk in love.
 
+For some reason obedience has been choosen as the vow established by the old christian orders, instead of vowing that which is the very content of the obedience, which is love with which we have to live in accordance. But the founders of these orders surely knew this; just later it has been forgotten more and more.  
+
+
+
 
