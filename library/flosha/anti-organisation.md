@@ -63,6 +63,7 @@ Add:
 * Reflections on the Sarvodaya Samaj
 * on the Sarva Seva Sangh
 * on Ashrams
+* on Gram Seva Mandal
 * on the nishkam sevak order idea
 * on the order of Lanza del Vasto and the original idea of the "unstet..."
 * on the shanti sena
