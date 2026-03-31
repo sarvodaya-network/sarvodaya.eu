@@ -30,3 +30,9 @@ For some reason obedience has been choosen as the vow established by the old chr
 
 The "persistence in doing good" is what Satyagraha is all about. And it is here indirectly equated with adherence to truth, as in the second sentence, doing the opposite is called rejection of truth and following evil.  
 It is not just about saying good, wanting good or doing good occasionaly. This is particularly about persisting in doing good, when everyone else starts reacting in evil ways; it is the persistence in doing good inspite of being confronted, surrounded, attacked by evil. 
+
+> through the obedience of the one man the many will be made righteous.
+
+Exactly when everyone else does no longer persist in good, does no longer love the enemy, then it must be done; that is what god demands. 
+
+
