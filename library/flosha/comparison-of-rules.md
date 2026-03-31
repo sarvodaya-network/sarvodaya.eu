@@ -11,4 +11,6 @@ Matt. 16:24:
 “Whoever wants to be my disciple must deny themselves and take up their cross and follow me."
 
 Luke 9:3:  
+“Take nothing for the journey,” He told them, “no staff, no bag, no bread, no money, no second tunic."
+
 
