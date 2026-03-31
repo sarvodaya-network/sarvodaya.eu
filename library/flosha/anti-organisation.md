@@ -57,4 +57,14 @@ How then can *tantra-mukti* be practiced?
 * **Precedence of the Precepts over Rules:** Whenever time and need should require a change of rules, they can be modified, as long as they are still clearly adhering to the precepts; the rule should thus not be changed in the sense of getting more lax, but on the contrary, the rule, just as the individuals, should underwent a process of constant purification. If a rule change seems necessary, then because it has been too time-bound, too limited before, because it has been based on some kind of limited understanding of truth; so any change of the rule should improve the rule in the light of a more trueful understanding of the underlying principles. But these principles and the commitment to these principles must never be given up. 
 
 
+---
+
+Add: 
+* Reflections on the Sarvodaya Samaj
+* on the Sarva Seva Sangh
+* on Ashrams
+* on the nishkam sevak order idea
+* on the order of Lanza del Vasto and the original idea of the "unstet..."
+* on the shanti sena
+* on other organisations founded by Vinoba
 
