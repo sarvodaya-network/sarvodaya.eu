@@ -38,5 +38,16 @@ If men reach this deeply founded order within, so that nothing can shake them, a
 But if they do not reach this inner order, then nothing that they outwardly do will be capable to ensure any true betterment of order nor any freedom from coercion, as they will keep living under orders coming from without, feeling pressured and enforced by outer orders, living *under* orders, instead of having an order under them; as they truly are meant to be above order, the source of order, since no order can be without them ordering it. 
 
 
+## Tantra-Mukti in Practice
+
+How then can *tantra-mukti* be practiced? 
+* In the nonviolent context, "Order" is preferred over "organisation", "system" or "institution".
+* An order can be a union, but it cannot be a union against any other, the Sarvodaya Union is therefore by definition the union of unions; it can be a brotherhood, a sisterhood, a family, a village, a community, an individual, it can be whatever is able to exist without opposing others.  
+* There is no so called "membership" within the order; it is not only always voluntary, but also always informal. One does not belong to a nonviolent order because a paper says so, but because one is living accordingly, because one orders ones life in harmony with the order, in that one makes that order ones own. One is never owned by an order, one is "applying" and *expressing* order.  
+
+
+
+
+
 
 
