@@ -35,7 +35,7 @@ Denn das ist wirkliche Freiheit. Wenn ich nur dann frei bin, wenn mich jeder fre
 
 ---
 
-So ähnlich ist es auch mit dem Reichtum an Geld. Wie kann es sein, dass heute scheinbar jeder reich sein will, aber dass alle Religionen sagen, dass man arm sein soll?  
+So ähnlich ist es auch mit dem Reichtum an Geld. Wie kann es sein, dass heute scheinbar jeder reich sein will, aber die Religionen sagen, dass man arm sein soll?  
 
 Jesus hat das immer sehr deutlich gesagt und das Neue Testament ist voll davon. Buddha hat das auch sehr deutlich gesagt. Im Hinduismus ist das auch der Fall, hier heißt es *aparigraha* oder *asangraha*, Nicht-Besitzen oder Besitzlosigkeit. Muhammad hat gesagt: "Meine Armut ist mein Stolz." 
 
