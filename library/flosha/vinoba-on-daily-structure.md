@@ -4,3 +4,6 @@
 
 > In order to learn restraint, sit silently and quietly before going to bed. Meditate for a while as you are sitting on your bed. Once you get up in the morning, meditate for 5, 10, 15 minutes. Whenever time permits, meditate. This will increase the power of meditation. (Where Silence Speaks)
 
+> At night, before going to bed, remember God
+in silence. Real solitude consists in the silent recollection of God at night and falling asleep while meditating upon God. (Where Silence Speaks)
+
