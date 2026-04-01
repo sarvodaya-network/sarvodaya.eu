@@ -17,5 +17,10 @@ Aber diejenigen edlen Menschen, die man später als Heilige bezeichnet hat und n
 
 Die Heiligen würden argumentieren, dass das ein Irrtum ist. Sie würden sagen, dass die meisten Menschen eigentlich vieles von dem, was sie für gut halten und was sie wollen, nur aufgrund von einem Irrtum wollen, dass sie eigentlich etwas anderes wollen und für gut halten, wofür dieser Wille nur ein Ersatz ist.
 
+Zum Beispiel reden heute plötzlich ganz viele Menschen davon, dass sie gerne reich werden wollen, dass sie gerne möglichst viel Geld haben wollen. So viele Menschen reden so, dass sie das selbstverständlich finden. Sie denken, dass das jedem Menschen so gehen müsste, weil es ihnen selbst so geht. Sie denken sogar, dass jeder Mensch, der sagt, er würde nicht reich sein wollen, lügen würde. Sie behaupten auch solche schrecklichen Dinge wie, dass jeder Mensch käuflich wäre und für den richtigen Preis alles tun würde, was nichts anderes bedeutet als dass sie jeden Menschen zu einer Hure erklären. 
+
+
+
+
 
 
