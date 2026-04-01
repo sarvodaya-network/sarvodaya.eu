@@ -4,7 +4,7 @@
 
 Was bedeutet Armut?   
 
-Wenn man *arm* ist, dann ist man immer arm an etwas. Daran gibt es nichts Negatives. Wenn heute jemand von Armut spricht, dann denkt ein jeder daran, kein Geld zu haben und hält Armut für etwas schlechtes. Das bedeutet das Wort aber nicht.  
+Wenn man *arm* ist, dann ist man arm an *etwas*.  Daran gibt es nichts Negatives. Wenn heute jemand von Armut spricht, dann denkt ein jeder daran, kein Geld zu haben und hält Armut für etwas schlechtes. Das bedeutet das Wort aber nicht.  
 Wenn ich zum Beispiel arm an Sorgen bin oder arm an Feindseligkeit, dann ist das eine gute Sache, denn wer will schon Sorgen oder Feindseligkeit haben? Es gibt also Dinge, von denen sind eigentlich alle überzeugt, dass es gut ist, wenn man sie nicht hat oder möglichst wenig davon hat, das heißt, wenn man arm daran ist. 
 
 Viel zu haben, das also, was man unter Reichtum versteht, ist demnach keineswegs an sich eine gute Sache. Denn wenn ich zum Beispiel viele Sorgen habe, wenn ich also reich an Sorgen bin, was soll daran gut sein?  
