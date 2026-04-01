@@ -7,15 +7,15 @@ Was bedeutet Armut?
 Wenn man *arm* ist, dann ist man arm an *etwas*. Daran gibt es nichts Negatives. Wenn heute jemand von Armut spricht, denkt erstmal jeder daran, kein Geld zu haben und hält Armut für etwas Schlechtes. Das bedeutet das Wort aber nicht.  
 Wenn ich zum Beispiel arm an Sorgen bin oder arm an Feindseligkeit, dann ist das eine gute Sache, denn wer will schon Sorgen oder Feindseligkeit haben? Es gibt also Dinge, von denen sind eigentlich alle überzeugt, dass es gut ist, wenn man sie nicht hat oder möglichst wenig davon hat, das heißt, wenn man arm daran ist. 
 
-Was aber, wenn man arm an allem ist? Oder reich an allem? Das ist unmöglich. Indem ich arm an etwas bin, bin ich automatisch reich an etwas anderem. Und indem ich reich an etwas bin, bin ich automatisch arm an etwas anderem. Wenn ich zum Beispiel wenig zu tun habe, arm an Aktivität bin, habe ich viel Zeit, bin reich an Zeit. Wenn ich immer viel zu tun habe, reich an Aktivität bin, bin ich arm an Zeit. 
+Was aber, wenn man arm an allem ist? Oder reich an allem? Das ist unmöglich. Indem ich arm an etwas bin, bin ich automatisch reich an etwas anderem. Und indem ich reich an etwas bin, bin ich automatisch arm an etwas anderem. Wenn ich zum Beispiel wenig zu tun habe, arm an Aktivität bin, habe ich viel Zeit, bin reich an Zeit. Wenn ich immer viel zu tun habe, reich an Aktivität bin, bin ich arm an Zeit. Ich kann aber nicht beides gleichzeitig sein. Reich an Zeit zu sein mag gut sein, aber nur wenn ich nicht gerade zu arm an Aktivität bin. Reich an Aktivität zu sein mag gut sein, aber nur wenn ich nicht gerade zu arm an Zeit bin. Ebenso mag es wunderbar sein, reich an Nahrung zu sein, aber nur wenn nicht gerade mein Nachbar verhungert. Wo das der Fall ist, werde ich es offensichtlich gut finden, ärmer zu sein, damit mein Nachbar etwas reicher sein kann. In dem Moment, in dem ich satt bin, nützt mir mein Überfluss an Nahrung gar nichts, fehlt aber meinem hungernden Nachbarn. 
 
-So wie also arm an etwas sein keineswegs etwas Schlechtes sein muss, so ist viel zu haben, das also, was man unter Reichtum versteht, keineswegs an sich eine gute Sache. Denn wenn ich zum Beispiel viele Sorgen habe, wenn ich also reich an Sorgen bin, was soll daran gut sein?  
+So wie also arm an etwas sein keineswegs etwas Schlechtes sein muss, so ist viel zu haben, das also, was man unter Reichtum versteht, keineswegs an sich eine gute Sache. Wenn ich zum Beispiel viele Sorgen habe, wenn ich also reich an Sorgen bin, was soll daran gut sein?  
 
 Das bedeutet, dass weder Armut noch Reichtum gut oder schlecht sind, sondern es kommt darauf an, woran man arm und woran man reich ist. Tatsächlich will jeder Mensch gerne arm sein an allem, was er schlecht findet und will reich sein an allem, was er gut findet. 
 
 --- 
 
-Es stellt sich also vielmehr die Frage, woran man arm sein soll und woran man reich sein soll, es stellt sich die Frage, was man haben wollen sollte und was man nicht haben wollen sollte. Und diese Frage beantworten die Menschen sehr unterschiedlich.
+Es stellt sich also vielmehr die Frage, woran man arm sein soll und woran man reich sein soll, es stellt sich die Frage, was man haben wollen sollte und was man nicht haben wollen sollte und zu welcher Zeit und in welcher Situation. Und diese Frage beantworten die Menschen sehr unterschiedlich.
 
 Diejenigen edlen Menschen, die man als "Heilige" bezeichnet, in allen Kulturen der Welt, hatten immer eine ganz andere Antwort auf diese Frage als die meisten anderen Menschen. Ihre Antwort auf diese Frage war sogar oft das Gegenteil von dem, was die meisten anderen Menschen darauf antworten. 
 
