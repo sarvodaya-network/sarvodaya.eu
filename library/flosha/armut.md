@@ -153,7 +153,9 @@ In einer solchen Familie will ein Mensch nicht leben. Wieso sollten wir dann in 
 
 Wer das alles versteht, der wird auch verstanden haben, wieso freiwillige Armut etwas Heiliges ist, etwas, dass die Welt zu heilen imstande ist. 
 
-Und jemand, der sich als Christ bezeichnet, aber sich nicht für freiwillige Armut auf jeder Ebene einsetzt, wie kann ein solcher ein Christ sein? Ich würde es nie wagen, mich als Christ zu bezeichnen, bevor ich nicht geflissentlich in die Tat umgesetzt habe, was Christus geheißen hat zu tun. Ich kenne persönlich fast keinen Christen, außer ein paar Kinder. Ich bin auch selber kein Christ. Aber ich würde gerne einer sein.  
+Und jemand, der sich als Christ bezeichnet, aber sich nicht für freiwillige Armut auf jeder Ebene einsetzt, wie kann ein solcher ein Christ sein? Ich würde es nie wagen, mich als Christ zu bezeichnen, bevor ich nicht geflissentlich in die Tat umgesetzt habe, was Christus geheißen hat zu tun. Ich kenne persönlich fast keinen Christen, außer ein paar Kinder. Ich bin auch selber kein Christ. Aber ich würde gerne einer sein, weil ich für richtig halte was Christus gelehrt hat und weil ich für falsch halte was all die Leute lehren, die in seinem Namen das Gegenteil rechtfertigen. Eine christliche Partei, die Aufrüstung fordert und reichen Firmen und Technokraten dient, eine größere Absurdität ist kaum denkbar. 
+
+
 
 
 
