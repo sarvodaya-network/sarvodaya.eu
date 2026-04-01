@@ -17,3 +17,4 @@ solitude on a daily basis. Many people say that they wish to do it but there are
 Once you get control over your mind and organs, no
 matter where you are, you will be in solitude. (Where Silence Speaks)
 
+> On a daily basis we must sit in solitude, detaching ourselves from the mind. We should be able to observe the mind as a witness would. This practice should not be longer than two ghatikas (48 minutes). (Where Silence Speaks)
