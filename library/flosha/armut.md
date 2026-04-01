@@ -140,6 +140,8 @@ Eine Familie, die nicht teilt und sich nicht um das Wohl Aller ihrer Kinder sorg
 
 In einer solchen Familie will ein Mensch nicht leben. Wieso sollten wir dann in einer solchen Welt leben wollen? Ich will das nicht.  
 
+Wer das alles versteht, der wird auch verstanden haben, wieso freiwillige Armut etwas Heiliges ist, etwas, dass die Welt zu heilen imstande ist. Und jemand, der sich als Christ bezeichnet und sich nicht für freiwillige Armut einsetzt, der kann per Definition keiner sein. 
+
 
 
 
