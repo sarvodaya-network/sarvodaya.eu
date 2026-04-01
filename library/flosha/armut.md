@@ -102,13 +102,20 @@ Bei Armut geht es darum sich freiwillig von allem frei zu machen, was zu haben n
 
 Freiwillige (äußere) Armut ist ein ganz einfaches und einleuchtendes Prinzip. Diese Armut, also Armut im Hinblick auf Besitztümer und Geld, hat zwei Bestandteile, einen äußeren, sichtbaren Ausdruck und eine innere Haltung und Bereitschaft. Es gibt auch eine innere Armut und Besitzlosigkeit, eine Armut auf geistiger Ebene, die noch wichtiger ist als die Armut auf materieller Ebene, aber das ist ein anderes Thema, von dem wir jetzt nicht sprechen wollen. 
 
-Der äußere, sichtbare Ausdruck der Armut ist die Genügsamkeit. Die innere Haltung und Bereitschaft der Armut ist die Treuhänderschaft. 
 
-Jed
+## Die zwei Bestandteile der Armut
+
+Der äußere, sichtbare Ausdruck der Armut ist alles loszuwerden, was zu viel ist. Das heißt, alles was mehr als genug ist. Darum könnem wir es Genügsamkeit nennen. Epikur sagte: "Nichts genügt dem, für den genug zu wenig ist." 
+
+Wenn man nicht erkennen kann, was man wirklich braucht und was genügt, nimmt das Haben, nimmt die Akkumulation kein Ende. Wenn aber meine Akkumulation kein Ende nimmt, wird was ich zu viel habe notwendigerweise bedingen, dass andere zu wenig haben. Gandhi drückte das so aus: "Die Welt hat genug für die Bedürfnisse aller, aber nicht genug für die Wünsche aller." Weil die Bedürfnisse begrenzt sind wie auch die Welt, die Wünsche aber sich unbegrenzt vermehren. 
+
+Wenn ich nur habe was ich brauche, wenn ich mir damit genüge, was benötigt wird, trage ich nicht dazu bei, dass andere nicht haben können, was sie benötigen. Und wenn es insgesamt zu wenig gibt für alle, dann bin ich ein Verbrecher wenn ich an mich reiße, was auch andere brauchen. Wenn es für alle zu wenig gibt, dann leiden eben alle Mangel. Wer gibt mir das Recht, weil ich keinen Mangel leiden will, anderen ihren Anteil wegzunehmen, so dass ich keinen Mangel leiden muss, sie aber einen größeren Mangel leiden müssen? Niemand gibt mir dieses Recht. Dieses Recht aber nehmen sich Menschen heraus und dieses Recht nehmen sich auch Staaten heraus. Sie nennen es Gemeinwohl, wenn sie zum Wohle der eigenen Bevölkerung anderen etwas wegnehmen. Das hat mit Gemeinwohl nichts zu tun. 
+
+Die innere Haltung und Bereitschaft der Armut ist wichtiger. Sie ist äußerlich nicht zu erkennen, man kann viel haben oder wenig, sondern sie drückt sich in der inneren Einstellung zu dem aus, was man hat - dass man die Dinge zwar hat, dass man aktuell darüber verfügt, nicht aber denkt, dass man sie besitzt. Und zweitens in der Bereitschaft, die Dinge aufzugeben, weiterzugeben, zu teilen, wann immer andere sie nötiger haben als ich. Darum nennen wir diesen Aspekt der Armut "Treuhänderschaft". Ich besitze was ich habe nicht, sondern ich bin Treuhänder der Dinge, die ich habe. Ich bin für diese Dinge verantwortlich, ich verwahre sie, halte sie instand, kümmere mich darum. Wenn aber jemand kommt, der sie dringender braucht als ich, dann bin ich bereit sie abzugeben und zu teilen, denn sie gehören mir nicht. Weil dieser Aspekt wichtiger ist als der äußere Aspekt, ist es nicht absolut und für jeden notwendig, eine äußere, sichtbare Armut zu praktizieren und das mag auch nicht jedem möglich sein. Äußerlich mag er viele Dinge haben, viel Geld oder viel Land. Aber innerlich ist er arm, wenn er sich nicht als Eigentümer, sondern als Treuhänder dieser Dinge betrachtet, sie nicht auf Kosten anderer noch weiter vermehrt und jederzeit bereit ist, sie zu teilen, wenn das Bedürfnis entsteht und eine Lücke gefüllt werden muss. So wie Wasser, wenn man es irgendwo heraus nimmt, sofort die so entstehende Lücke auffüllt und alles wieder ins Gleichgewicht bringt, genauso verhält sich der Treuhänder, um die Gesellschaft im Gleichgewicht zu halten und dabei zu helfen, dass niemand Mangel leiden muss. 
 
 ...
 
-Weiter mit äußere Armut im Sinne der Genügsamkeit, innere Armut im Sinne der Treuhänderschaft. 
+
 
 
 
