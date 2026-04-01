@@ -115,9 +115,30 @@ Die innere Haltung und Bereitschaft der Armut ist wichtiger. Sie ist äußerlich
 
 ...
 
+Anfangs wurde die Frage gestellt "woran man arm sein soll und woran man reich sein soll", "was man haben wollen sollte und was man nicht haben wollen sollte". 
 
+Man sollte arm sein an allem, was schlecht ist und reich sein an allem, was gut ist. Wenn ich so viel habe, dass andere zu wenig haben, dann ist das schlecht und dann ist das in genau dem Maße schlecht, in dem was ich habe den Mangel anderer bedingt. Darum sollte ich logischerweise arm sein wollen in diesem selben Maße, dass was ich habe nicht schlecht ist für andere, die davon zu wenig haben. 
 
+Reichtum ist nicht schlecht. Schlecht ist, wenn ich reich bin und andere arm sind weil ich reich bin, wenn mein Reichtum andere arm macht, wenn mein Reichtum andere in Armut hält, wenn ich mich an anderen bereichere, wenn mein Überfluss anderen Mangel verursacht. Und es gibt eine ganz simple Lösung, die dieses Problem an der Wurzel ausreißt. Auch diese Lösung findet man im Evangelium. Sie findet sich in der Beschreibung der Lebensweise der Christen, von denen geschrieben steht: "Sie hatten alles gemeinsam." 
 
+Manche Leute finden das absurd und geraten in Panik, weil es sie an totalitäre Staaten denken lässt, in denen man den Leuten weggenommen hat, was sie hatten, um es zu verstaatlichen. Verstaatlichung bedeutet aber, dass alles dem Staat gehört. Das hat nichts damit zu tun, alles gemeinsam zu haben. Der Staat ist nicht die Menschen. Er ist ein zentralisiertes System mit Macht über Menschen.   
+Dieselben Leute finden es jedoch nicht absurd und geraten nicht in Panik, wenn sie an ihre Familie denken, in der sie alles miteinander teilen. In der Familie ist es normal, dass man alles gemeinsam hat. Das Kind hat nicht zu wenig, während der Vater zu viel hat, sondern sie haben alles in ihrem Haushalt, was alle darin brauchen und geben jedem was er braucht. 
+
+Wenn die Familie reich ist, dann ist das nicht schlecht für niemanden in der Familie, aber jeder würde zustimmen, dass es schlecht ist, wenn ein Familienmitglied reich ist und andere arm sind und zu wenig haben. Eine gesunde Familie lässt das nicht zu, dass ein Teil Mangel leidet und ein anderer Teil im Überfluss lebt. Was wäre das denn für eine Familie? Es wäre gar keine Familie. Es wäre nur eine Anzahl von isolierten Personen, die unter einem Dach leben, unter dem jeder nur seinem eigenen Interesse dient. Wie schrecklich wäre diese Familie? 
+
+Ebenso ist es in einer Gemeinde und in jeder anderen Gemeinschaft bis hin zur Weltgemeinschaft. Wieso sollte es hier anders sein? Es ist genau das gleiche. Also wenden wir dieselbe Logik an: 
+
+Wenn eine Gemeinde reich ist, dann ist das nicht schlecht für keine Familie in der Gemeinde, aber jeder sollte zustimmen, dass es schlecht ist, wenn eine Familie reich ist und andere arm sind und zu wenig haben. Eine gesunde Gemeinde lässt das nicht zu, dass ein Teil der Familien Mangel leidet und ein anderer Teil im Überfluss lebt. Was wäre das auch für eine Gemeinde? Es wäre gar keine Gemeinde. Es wäre nur eine Anzahl von isolierten Familien, die in einem Bereich leben, in dem jede nur ihren eigenen Interessen dient. Wie schrecklich wäre diese Gemeinde?  
+
+Und wenn eine ganze Nation reich ist, dann ist das nicht schlecht für keine Gemeinde in dieser Nation, aber jeder sollte zustimmen, dass es schlecht ist, wenn eine Gemeinde im Land reich ist und andere arm sind und zu wenig haben. Eine gesunde Nation lässt das nicht zu, dass ein Teil der Gemeinden Mangel leidet und ein anderer Teil im Überfluss lebt. Was wäre das auch für eine Nation? Es wäre gar keine Nation. Es wäre nur eine Anzahl von isolierten Gemeinden, die in einem Land leben, in dem jede Gemeinde nur ihren eigenen Interessen dient. Wie schrecklich wäre diese Nation?  
+
+Und wenn die Weltgemeinschaft reich ist, dann ist das nicht schlecht für keine Nation in dieser Welt, aber jeder sollte zustimmen, dass es schlecht ist, wenn eine Nation reich ist und andere arm sind und zu wenig haben. Eine gesunde Weltgemeinschaft lässt das nicht zu, dass ein Teil der Nationen Mangel leidet und ein anderer Teil im Überfluss lebt. Was wäre das auch für eine Weltgemeinschaft? Es wäre gar keine Weltgemeinschaft. Es wäre nur eine Anzahl von isolierten Nationen, die in einemr Welt leben, in der jede nur ihren eigenen Interessen dient. Wie schrecklich wäre diese Welt? 
+
+Aber es ist genau eine solche Welt, in der wir leben, weil wir unfähig und unwillig sind die grundlegendsten Prinzipien, die jedes Kind versteht, auf irgendeinen Bereich jenseits unserer Familie anzuwenden. 
+
+Eine Familie, die nicht teilt und sich nicht um das Wohl Aller ihrer Kinder sorgt, ist eine kranke Familie. Eine Gemeinde, die nicht teilt und sich nicht um das Wohl Aller ihrer Familien sorgt, ist eine kranke Gemeinde. Eine Nation, die nicht teilt und sich nicht um das Wohl Aller ihrer Gemeinden sorgt, ist eine kranke Nation. Und eine Welt, in der Nationen nicht teilten und man sich nicht um das Wohl Aller Nationen sorgt, ist eine kranke Welt. 
+
+In einer solchen Familie will ein Mensch nicht leben. Wieso sollten wir dann in einer solchen Welt leben wollen? Ich will das nicht.  
 
 
 
