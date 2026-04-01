@@ -100,7 +100,11 @@ Wenn also solche Menschen wie Jesus und Buddha zu den Menschen sagen, dass sie a
 Jedes Tier ist arm und doch verhungert es in der Regel nicht. Mönche sind arm und verhungern in der Regel nicht und Kinder sind auch alle arm, ohne eigenen Besitz, und verhungern in der Regel nicht. Bei Armut geht es nicht darum, jemanden von allem Guten und Schönen zu berauben, und ihm schwere Entbehrungen aufzuerlegen; das wäre Elend.   
 Bei Armut geht es darum sich freiwillig von allem frei zu machen, was zu haben nichts nützt und was zu haben anderen schadet. 
 
-Das ist ein ganz einfaches und einleuchtendes Prinzip. Armut im Hinblick auf Besitztümer und Geld hat zwei Bestandteile, einen inneren und einen äußeren Bestandteil. Genügsamkeit ist der äußere Bestandteil, Treuhänderschaft ist der innere Bestandteil. 
+Freiwillige (äußere) Armut ist ein ganz einfaches und einleuchtendes Prinzip. Diese Armut, also Armut im Hinblick auf Besitztümer und Geld, hat zwei Bestandteile, einen äußeren, sichtbaren Ausdruck und eine innere Haltung und Bereitschaft. Es gibt auch eine innere Armut und Besitzlosigkeit, eine Armut auf geistiger Ebene, die noch wichtiger ist als die Armut auf materieller Ebene, aber das ist ein anderes Thema, von dem wir jetzt nicht sprechen wollen. 
+
+Der äußere, sichtbare Ausdruck der Armut ist die Genügsamkeit. Die innere Haltung und Bereitschaft der Armut ist die Treuhänderschaft. 
+
+Jed
 
 ...
 
