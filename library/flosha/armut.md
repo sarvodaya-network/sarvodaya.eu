@@ -158,7 +158,7 @@ Aber es ist genau diese Welt, in der wir leben, weil wir unfähig und unwillig s
 Deshalb hat Jesus gesagt:  
 > Diese Welt hasst mich, weil ich die Schlechtigkeit ihrer Werke bezeuge.
 
-Was er bezeugt hat und was das Kreuz bezeugt ist die Gewalt der Welt, die Gewalt, die alle Bereiche der von uns geschaffenen Welt durchdringt. Das Geld und seine Logik des Profitstrebens ist die Gewalt im Bereich der Ökonomie. 
+Was er bezeugt hat und was das Kreuz bezeugt ist die Gewalt der Welt, die systematische Gewalt, die alle Bereiche der von uns geschaffenen Welt durchdringt. Das Geld und seine Logik des Profitstrebens ist die systematische Gewalt im Bereich der Ökonomie. 
 
 Eine Familie, die nicht teilt und sich nicht um das Wohl aller ihrer Kinder sorgt, ist eine kranke Familie. Eine Gemeinde, die nicht teilt und sich nicht um das Wohl aller ihrer Familien sorgt, ist eine kranke Gemeinde. Eine Nation, die nicht teilt und sich nicht um das Wohl aller ihrer Gemeinden sorgt, ist eine kranke Nation. Und eine Welt, in der Nationen nicht teilen und man sich nicht um das Wohl aller Nationen sorgt, ist eine kranke Welt. 
 
@@ -166,7 +166,7 @@ In einer solchen Familie will ein Mensch nicht leben. Wieso sollten wir dann in 
 
 Wer das alles versteht, der wird auch verstanden haben, wieso freiwillige Armut etwas Heiliges ist, etwas, dass die Welt zu heilen imstande ist. 
 
-Und wer das alles ganz unpraktisch findet und für unpraktikable Theorie, der möge sich mit Satyagraha beschäftigen, jener Lebenspraxis, die Sarvodaya zum Ziel hat, das Wohl Aller. Alle Bestrebungen, die nicht auf das Wohl Aller abzielen, sind offenkundig schädlich. 
+<!-- Und wer das alles ganz unpraktisch findet und für unpraktikable Theorie, der möge sich mit Satyagraha beschäftigen, jener Lebenspraxis, die Sarvodaya zum Ziel hat, das Wohl Aller. Alle Bestrebungen, die nicht auf das Wohl Aller abzielen, sind offenkundig schädlich. -->
 
 
 
