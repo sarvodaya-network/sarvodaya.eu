@@ -13,9 +13,11 @@ Das bedeutet, dass weder Armut noch Reichtum gut oder schlecht sind, sondern es 
 
 Es stellt sich also vielmehr die Frage, woran man arm sein soll und woran man reich sein soll, es stellt sich die Frage, was man haben sollen wollte und was man nicht haben sollen wollte. Und diese Frage beantworten die Menschen sehr unterschiedlich.
 
-Aber diejenigen edlen Menschen, die man als *Heilige" bezeichnet, in allen Kulturen dieser Welt, hatten immer eine etwas andere Antwort auf diese Frage als die meisten Menschen. Ihre Antwort auf diese Frage war sogar oft das Gegenteil von dem, was die meisten Menschen darauf antworten. Vieles was die meisten Menschen erstrebenswert finden, fanden diese Heiligen nicht erstrebenswert und vieles, was die Heiligen nicht erstrebenswert fanden, finden die meisten Menschen sehr erstrebenswert. Wie kann das sein? 
+Diejenigen edlen Menschen, die man als *Heilige" bezeichnet, in allen Kulturen der Welt, hatten immer eine ganz andere Antwort auf diese Frage als die meisten anderen Menschen. Ihre Antwort auf diese Frage war sogar oft das Gegenteil von dem, was die meisten anderen Menschen darauf antworten. 
 
-Die Heiligen würden argumentieren, dass das ein Irrtum ist. Sie würden sagen, dass die meisten Menschen eigentlich vieles von dem, was sie für gut halten und was sie wollen, nur aufgrund von einem Irrtum wollen, dass sie eigentlich etwas anderes wollen und für gut halten, wofür dieser Wille nur ein Ersatz ist, aber dass sie das leider nicht erkennen. 
+Vieles was die meisten Menschen erstrebenswert finden, fanden diese Heiligen nicht erstrebenswert und vieles, was die Heiligen nicht erstrebenswert fanden, finden die meisten Menschen sehr erstrebenswert. Wie kann das sein? 
+
+Die Heiligen würden sagen, dass das ein Irrtum ist. Sie würden sagen, dass die meisten Menschen eigentlich vieles von dem, was sie für gut halten und was sie wollen, nur aufgrund von einem Irrtum wollen, dass sie eigentlich etwas anderes wollen und für gut halten, wofür dieser Wille nur ein Ersatz ist, aber dass sie das leider nicht erkennen. 
 
 Zum Beispiel reden heute plötzlich ganz viele Menschen davon, dass sie gerne reich werden wollen, dass sie gerne möglichst viel Geld haben wollen. So viele Menschen reden so, dass sie das selbstverständlich finden. Sie denken, dass das jedem Menschen so gehen müsste, weil es ihnen selbst so geht. Sie denken sogar, dass jeder Mensch, der sagt, er würde nicht reich sein wollen, lügen würde. Sie behaupten auch solche schrecklichen Dinge wie, dass jeder Mensch käuflich wäre und für den richtigen Preis alles tun würde, was nichts anderes bedeutet als dass sie jeden Menschen zu einer Hure und zu einem Auftragsmörder erklären. 
 
@@ -35,10 +37,12 @@ Jesus hat das immer sehr deutlich gesagt und das Neue Testament ist voll davon. 
 
 Es ist also völlig klar, dass nicht jeder reich sein will. Mönche überall auf der Welt legen sogar ein Gelübde der Armut ab, sie wollen also arm sein. 
 
-Wie passt das zusammen?  
-Wieso wollen manche Menschen arm sein und andere Menschen wollen reich sein? Wie gesagt, die Heiligen würden sagen, dass das daran liegt, dass jene Menschen, die reich sein wollen, einem Irrtum. Ein Irrtum worüber?
+Wie passt das zusammen? Wieso wollen manche Menschen arm sein und andere Menschen wollen reich sein? Wie kann es sein, dass so viele Menschen heute jene Leute anhimmeln, die besonders reich sind und am liebsten so leben wollen wie sie, während Jesus dagegen sowas sagt wie: "Eher kommt ein Kamel durch ein Nadelöhr, als dass ein Reicher in den Himmel kommt"?  
+Wie kann es sein, dass viele Menschen das Geld und den Reichtum daran vergöttern, während die Heiligen gerne solche Sachen sagen wie: "Das Geld ist die Scheiße des Teufels"? Für sie ist nichts daran erstrebenswert.
 
-Ein Irrtum darüber, was Reichtum und was Armut bedeuten. Wenn ein Mensch gerne viel Geld hätte, dann will er eigentlich nicht viel Geld haben, denn was soll ihm das nützen? Geld ist nichts. Die Heiligen bezeichnen es manchmal gerne als "die Scheiße des Teufels". 
+Wieso finden es dann offenbar die meisten Menschen erstrebenswert? Die Heiligen würden sagen, dass das daran liegt, dass jene Menschen, die reich sein wollen, einem Irrtum unterliegen.  
+Ein Irrtum worüber?  
+Ein Irrtum darüber, was Reichtum und was Armut bedeuten. Wenn ein Mensch gerne viel Geld hätte, dann will er eigentlich nicht viel Geld haben, denn was soll ihm das nützen? Geld ist nichts. 
 
 Ein Mensch, der viel Geld haben will, will ja eigentlich etwas anderes haben, wovon er denkt, dass Geld ihm das ermöglichen kann. Zum Beispiel will ein Mensch gerne Sicherheit haben, er will gerne immer genug zu essen haben und sich kleiden können und ein Dach über dem Kopf. Er will auch genug für seine Kinder haben, damit auch die nicht hungern oder frieren müssen. Das alles sind sehr nachvollziehbare Wünsche, aber sie haben alle nichs mit Geld zu tun. 
 Das Geld ist nur ein Mittel durch das sie versuchen, das alles sicherzustellen. Sie verlassen sich darauf, dass Geld dazu fähig ist, ihnen das zu geben und weil man scheinbar mit Geld alles haben kann, verwandelt sich das Geld in einen Gott. Plötzlich ist es das Geld selbst, das man will, obwohl das Geld ja eigentlich nichts ist und auch nichts kann. 
