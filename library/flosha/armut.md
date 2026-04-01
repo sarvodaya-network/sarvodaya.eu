@@ -53,8 +53,8 @@ Wieso finden es aber offenbar die meisten Menschen sehr wohl erstrebenswert? Die
 Einem Irrtum worüber?  
 Einem Irrtum darüber, was Reichtum und was Armut bedeuten. Wenn ein Mensch gerne viel Geld hätte, dann will er eigentlich nicht viel Geld haben, denn was soll ihm das nützen? Geld ist nichts. 
 
-Ein Mensch, der viel Geld haben will, will ja eigentlich etwas anderes haben, wovon er denkt, dass Geld ihm das ermöglichen kann. Zum Beispiel will ein Mensch gerne Sicherheit haben, er will gerne immer genug zu essen haben und sich kleiden können und ein Dach über dem Kopf. Er will auch genug für seine Kinder haben, damit auch die nicht hungern oder frieren müssen. Das alles sind sehr nachvollziehbare Wünsche, aber sie haben alle nichs mit Geld zu tun.  
-Das Geld ist nur ein Mittel durch das sie versuchen, das alles sicherzustellen. Sie verlassen sich darauf, dass Geld dazu fähig ist, ihnen das zu geben und weil sie scheinbar durch Geld alles kriegen können, was sie sich wünschen, verwandeln sie das Geld in einen Gott.  
+Ein Mensch, der viel Geld haben will, will ja eigentlich etwas anderes haben, wovon er denkt, dass Geld ihm das ermöglichen kann. Zum Beispiel will ein Mensch gerne Sicherheit haben, er will gerne immer genug zu essen haben und sich kleiden können und ein Dach über dem Kopf. Er will auch genug für seine Kinder haben, damit auch die nicht hungern oder frieren müssen. Das alles sind sehr nachvollziehbare Wünsche, aber sie haben alle nichts mit Geld zu tun.  
+Das Geld ist nur ein Mittel durch das sie versuchen, das alles sicherzustellen. Sie verlassen sich darauf, dass Geld dazu fähig ist, ihnen das zu geben und weil das Geld ihnen also scheinbar alles geben kann, was sie sich wünschen, verwandeln sie das Geld in einen Gott.  
 Wenn man aber so einen Gott hat, der einem alle Wünsche erfüllen kann, dann braucht man sonst keinen Gott mehr. Deswegen ist Liebe zu Geld und Liebe zu Gott vollkommen inkompatibel und deswegen weist das Neue Testament auch überall auf diesen Umstand hin. Zum Beispiel heißt es da: 
 
 > "Man kann nicht Gott dienen und dem Mammon."
