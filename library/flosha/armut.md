@@ -56,16 +56,13 @@ Wieso nicht? Weil Geld diese Bedürfnisse nicht stillen kann, sondern Menschen s
 
 Bei Erwachsenen ist das nicht anders, sie haben sich lediglich in ein System begeben, das diese grundlegende Tatsache verschleiert und überlagert. Die Heiligen brechen genau aus diesem System aus und erklären es für unnötig.
 
+Im Gegensatz zum Kind in einer liebenden Familie ist der Erwachsene wirklich arm dran. Wenn er hungrig ist, gibt ihm niemand was, auch wenn Nahrung im Überfluss da ist, so viel da ist, dass sie weggeworfen werden muss. Aber er muss sie sich kaufen. Wenn er durstig ist, gibt ihm keiner Wasser, auch wenn es im Überfluss da ist, sondern er muss es kaufen. Wenn er friert wärmt ihn niemand einfach so, er muss dafür bezahlen. Wenn er allein ist geht er in eine Bar oder einen Club und bezahlt Eintritt oder für ein betäubendes Getränk, um unter Menschen zu sein. Wenn er ein Bedürfnis nach menschlicher Wärme, Nähe und Intimität hat, aber alleine ist, geht er vielleicht in ein Bordell und kauft sich Intimität. Wenn er nicht alleine und einsam sterben will, aber keinen hat, der sich um ihn kümmert, bezahlt er für Pfleger und ein Hospiz. Wenn er sich vor Gewalt fürchtet und seine Sicherheit garantieren will, kann er eine Sicherheitsfirma bezahlen oder sich eine eigene Privatarmee kaufen. In all dem ist er immer und ohne Ausnahme genauso abhängig von anderen Menschen wie das kleine Kind auch. Aber er fühlt sich ganz mächtig und frei, weil er zauberhaftes Geld besitzt. 
 
+Wenn solche Menschen wie Jesus und Buddha zu den Menschen sagen, dass sie arm sein sollen, wollen sie dann, dass es ihnen schlecht geht, dass sie verhungern? Natürlich nicht. 
 
+...
 
-
-
-
-Wenn solche Menschen wie Jesus und Buddha zu den Menschen sagen, dass sie arm sein sollen, wollen sie dann, dass es ihnen schlecht geht, dass sie verhungern?  
-
-
-
+Weiter mit äußere Armut im Sinne der Genügsamkeit, innere Armut im Sinne der Treuhänderschaft. 
 
 
 
