@@ -21,7 +21,50 @@ Zum Beispiel reden heute plötzlich ganz viele Menschen davon, dass sie gerne re
 
 Die Heiligen bestreiten all das. Es gibt unzählige Menschen, die tagtäglich der lebendige Beweis sind, dass dem nicht so ist, die weder reich sein wollen, noch käuflich sind. Die sogenannten Heiligen gingen noch darüber hinaus und legten ein unerschütterliches und unbestreitbares Zeugnis dafür ab, dass nicht nur nicht jeder käuflich ist, sondern dass man auch nicht jeden zu etwas zwingen kann, egal was man ihm androht oder antut.  
 
-Die Heiligen konnte man nicht zwingen und darum auch nicht bezwingen. Sie waren unerschütterlich in ihrem Glauben, in ihrem Vertrauen und in ihren Prinzipien. Könige haben sie gefangen genommen, gefoltert und getötet. Und sie haben sich trotzdem nicht zwingen lassen. Das ist wirkliche Freiheit. Wenn ich nur dann frei bin, wenn mich jeder frei sein lässt, wenn ich nur dann ungezwungen bin, solange mich keiner zwingen will, welcher Wert liegt in so einer Freiheit und welche Sicherheit? Sie kann jederzeit verschwinden. 
+Die Heiligen konnte man nicht zwingen und darum auch nicht bezwingen. Sie waren unerschütterlich in ihrem Glauben, in ihrem Vertrauen und in ihren Prinzipien. Könige haben sie gefangen genommen, gefoltert und getötet. Und sie haben sich trotzdem nicht zwingen lassen. 
+
+So ging es zum Beispiel allen Jüngern von Jesus, die man heute als die "Apostel" verehrt. Diese Menschen waren immer Vorbilder für alle Christen auf der Welt. Heute kennt man höchstens noch ihre Namen, kommt aber nicht auf die Idee, von ihnen zu lernen. Zum Beispiel wie man wirklich frei sein kann.  
+
+Denn das ist wirkliche Freiheit. Wenn ich nur dann frei bin, wenn mich jeder frei sein lässt, wenn ich nur dann ungezwungen bin, solange mich keiner zwingen will, welcher Wert liegt in so einer Freiheit und welche Sicherheit? Sie kann jederzeit verschwinden, jederzeit kann mir jemand diese Freiheit wegnehmen. Den Heiligen konnte sie keiner wegnehmen.
+
+---
+
+So ähnlich ist es auch mit dem Reichtum an Geld. Wie kann es sein, dass heute scheinbar jeder reich sein will, aber dass alle Religionen sagen, dass man arm sein soll?  
+
+Jesus hat das immer sehr deutlich gesagt und das Neue Testament ist voll davon. Buddha hat das auch sehr deutlich gesagt. Im Hinduismus ist das auch der Fall, hier heißt es *aparigraha* oder *asangraha*, Nicht-Besitzen oder Besitzlosigkeit. Muhammad hat gesagt: "Meine Armut ist mein Stolz." 
+
+Es ist also völlig klar, dass nicht jeder reich sein will. Mönche überall auf der Welt legen sogar ein Gelübde der Armut ab, sie wollen also arm sein. 
+
+Wie passt das zusammen?  
+Wieso wollen manche Menschen arm sein und andere Menschen wollen reich sein? Wie gesagt, die Heiligen würden sagen, dass das daran liegt, dass jene Menschen, die reich sein wollen, einem Irrtum. Ein Irrtum worüber?
+
+Ein Irrtum darüber, was Reichtum und was Armut bedeuten. Wenn ein Mensch gerne viel Geld hätte, dann will er eigentlich nicht viel Geld haben, denn was soll ihm das nützen? Geld ist nichts. Die Heiligen bezeichnen es manchmal gerne als "die Scheiße des Teufels". 
+
+Ein Mensch, der viel Geld haben will, will ja eigentlich etwas anderes haben, wovon er denkt, dass Geld ihm das ermöglichen kann. Zum Beispiel will ein Mensch gerne Sicherheit haben, er will gerne immer genug zu essen haben und sich kleiden können und ein Dach über dem Kopf. Er will auch genug für seine Kinder haben, damit auch die nicht hungern oder frieren müssen. Das alles sind sehr nachvollziehbare Wünsche, aber sie haben alle nichs mit Geld zu tun. 
+Das Geld ist nur ein Mittel durch das sie versuchen, das alles sicherzustellen. Sie verlassen sich darauf, dass Geld dazu fähig ist, ihnen das zu geben und weil man scheinbar mit Geld alles haben kann, verwandelt sich das Geld in einen Gott. Plötzlich ist es das Geld selbst, das man will, obwohl das Geld ja eigentlich nichts ist und auch nichts kann. 
+
+Kann Geld mir ein Dach über dem Kopf geben? Nein. Kann Geld Nahrung wachsen lassen und mir geben? Nein. Kann Geld mich wärmen oder kann es meinen Durst stillen? Nein. Geld kann überhaupt nichts. Es ist eine vollkommen wertlose und unfähige Sache.
+
+Wer kann mir aber das alles geben? Andere Menschen aus ihrer Kraft und ich selbst aus meiner eigenen Kraft können uns das geben. Ein Mensch kann ein Haus bauen, Geld nicht. Ein Mensch kann Nahrung anbauen, Geld nicht. Ein Mensch kann Kleidung herstellen, Geld nicht. 
+
+Und dabei müssen wir auf Ressourcen zurückgreifen, die schon da sind. Wir können absolut nichts aus dem Nichts schaffen. Wir müssen uns der Dinge bedienen, die schon da sind, Dinge, die kein Mensch geschaffen hat und die auch kein Geld gekostet haben. Die Erde zum Beispiel oder das Wasser. Sie kosten kein Geld und gehören natürlich auch niemandem. Wenn Menschen aber behaupten, sie würden jemandem gehören, dann nur deshalb, weil irgendwann ein Mensch eines Tages behauptet hat, dass ihm das gehört. Er hat es nicht von jemand anderem gekauft, er hat es einfach genommen. Das heißt er hat es gestohlen.  
+Heutzutage kaufen Menschen Land von anderen Menschen oder erben es, sie stehlen es also nicht und denken deshalb, dass es ihnen rechtmäßig gehört. Aber der Punkt ist, dass sie es, ohne es zu wissen, über viele Generationen hinweg, von einem Dieb bekommen oder einem Dieb abgekauft haben, der überhaupt kein Anrecht darauf hatte, es zu verkaufen, weil er niemals exklusive Rechte daran hatte. Er hat sie sich einfach genommen. 
+
+Ein kleines Kind will alle diese Dinge auch haben. Es will gerne satt sein, wenn es hungrig ist sein und seinen Durst stillen, wenn es durstig ist. Es will sich gerne wärmen, wenn es friert, es will gerne getröstet werden, wenn es traurig ist, es will gerne besänftigt werden, wenn es sich fürchtet, es würde gerne Gesellschaft haben, wenn es sich allein fühlt, es will gerne geschützt sein vor Gewalt und in Frieden leben. Seine Bedürfnisse unterscheiden sich kaum von den Bedürfnissen eines erwachsenen Menschen und doch käme es nie auf die Idee, dass Geld nötig oder erstrebenswert wäre, um seine Bedürfnisse zu stillen. 
+
+Wieso nicht? Weil Geld diese Bedürfnisse nicht stillen kann, sondern Menschen stillen diese Bedürfnisse. In diesem Fall seine Eltern. Sein gesamter Frieden und seine gesamte Sicherheit hängen also nicht im Vertrauen an Geld, an etwas, das es nicht wert ist Gedanken daran zu verschwenden, sondern es hängt an Menschen.
+
+Bei Erwachsenen ist das nicht anders, sie haben sich lediglich in ein System begeben, das diese grundlegende Tatsache verschleiert und überlagert. Die Heiligen brechen genau aus diesem System aus und erklären es für unnötig.
+
+
+
+
+
+
+
+Wenn solche Menschen wie Jesus und Buddha zu den Menschen sagen, dass sie arm sein sollen, wollen sie dann, dass es ihnen schlecht geht, dass sie verhungern?  
+
+
 
 
 
