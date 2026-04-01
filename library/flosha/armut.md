@@ -1,4 +1,4 @@
-# Über Armut
+# Von der Armut
 
 *Flosha, 01.04.2026*
 
