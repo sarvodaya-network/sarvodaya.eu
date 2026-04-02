@@ -2,8 +2,7 @@
 
 *Flosha, 01.04.2026*
 
-Was bedeutet Armut?   
-Für diejenigen, die Armut geloben und als eine Tugend sehen, bedeutet es jedenfalls nicht das, was man gemeinhin darunter versteht. 
+Was bedeutet Armut oder Besitzlosigkeit, die eines der Gelübde ist? Für diejenigen, die Armut geloben und als eine Tugend sehen, bedeutet es jedenfalls nicht das, was man gemeinhin darunter versteht. 
 
 Wenn man *arm* ist, dann ist man arm an *etwas*. Daran gibt es nichts Negatives. Wenn heute jemand von Armut spricht, denkt erstmal jeder daran, kein Geld zu haben und hält Armut für etwas Schlechtes. Das bedeutet das Wort aber nicht.  
 Wenn ich zum Beispiel arm an Sorgen bin oder arm an Feindseligkeit, dann ist das eine gute Sache, denn wer will schon Sorgen oder Feindseligkeit haben? Es gibt also Dinge, von denen sind eigentlich alle überzeugt, dass es gut ist, wenn man sie nicht hat oder möglichst wenig davon hat, das heißt, wenn man arm daran ist. 
@@ -194,7 +193,7 @@ Eine Familie, die nicht teilt und sich nicht um das Wohl aller ihrer Kinder sorg
 
 In einer solchen Familie will ein Mensch nicht leben. Wieso sollten wir dann in einer solchen Welt leben wollen? Ich will das nicht.  
 
-Wer das alles versteht, der wird auch verstanden haben, wieso freiwillige Armut etwas Heiliges ist, etwas, dass die Welt zu heilen imstande ist. 
+Wer das alles versteht und dem zustimmen kann, der wird auch verstehen und dem zustimmen, dass freiwillige Armut etwas Heiliges ist, etwas das die Welt zu heilen imstande ist. Und das ist der Grund, aus dem wir sie geloben.  
 
 <!-- Und wer das alles ganz unpraktisch findet und für unpraktikable Theorie, der möge sich mit Satyagraha beschäftigen, jener Lebenspraxis, die Sarvodaya zum Ziel hat, das Wohl Aller. Alle Bestrebungen, die nicht auf das Wohl Aller abzielen, sind offenkundig schädlich. -->
 
