@@ -2,7 +2,7 @@
 
 *Flosha, 01.04.2026*
 
-Was bedeutet Armut oder Besitzlosigkeit, die eines der Gelübde ist? Für diejenigen, die Armut geloben und als eine Tugend sehen, bedeutet es jedenfalls nicht das, was man gemeinhin darunter versteht. 
+Was bedeutet Armut oder Besitzlosigkeit, die eines der Gelübde ist? Für diejenigen, die Armut geloben und als eine Tugend sehen, bedeutet sie nicht das, was man gemeinhin darunter versteht. 
 
 Wenn man *arm* ist, dann ist man arm an *etwas*. Daran gibt es nichts Negatives. Wenn heute jemand von Armut spricht, denkt erstmal jeder daran, kein Geld zu haben und hält Armut für etwas Schlechtes. Das bedeutet das Wort aber nicht.  
 Wenn ich zum Beispiel arm an Sorgen bin oder arm an Feindseligkeit, dann ist das eine gute Sache, denn wer will schon Sorgen oder Feindseligkeit haben? Es gibt also Dinge, von denen sind eigentlich alle überzeugt, dass es gut ist, wenn man sie nicht hat oder möglichst wenig davon hat, das heißt, wenn man arm daran ist. 
