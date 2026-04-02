@@ -1,6 +1,7 @@
 # Von der Armut
 
-*Flosha, 01.04.2026*
+*Flosha, 01.04.2026*  
+Fassung: 02.04.2026  
 
 Was bedeutet Armut oder Besitzlosigkeit, die eines der Gelübde ist? Für diejenigen, die Armut geloben und als eine Tugend sehen, bedeutet sie nicht das, was man gemeinhin darunter versteht. 
 
