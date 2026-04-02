@@ -50,7 +50,7 @@ Wie passt das zusammen? Wieso wollen manche Menschen arm sein und andere Mensche
 
 Und wie kann es sein, dass Leute angeblich an diesen Jesus und seine Lehre glauben und ihm "folgen", aber eigentlich das Gegenteil denken und überhaupt nicht so leben wollen wie er? Und stattdessen allerlei Rechtfertigungen und Erklärungen dafür finden, wieso Jesus ja eigentlich das Gegenteil von dem gemeint haben muss was er gesagt hat? Jesus sagt, man muss seine Feinde lieben, der gute Christ sagt aber, man muss jetzt Russland hassen. Jesus sagte, man soll alles verkaufen was man hat und an Arme geben, man soll ohne Geld ausziehen und sich keine Sorgen machen, aber der gute Christ hortet sein Zeug, gibt lieber den Reichen noch mehr Geld statt den Armen und liebt sein Geld und will am liebsten zu den Reichen gehören statt zu den Armen, die er verachtet. Heuchelei durchdringt diese Welt von oben bis unten. 
 
-*Selig sind die Armen.*
+> *Selig sind die Armen.*
 
 Wie kann es sein, dass viele Menschen um uns herum das Geld und den Reichtum daran vergöttern, während die Heiligen gerne solche Sachen sagen wie: "Das Geld ist die Scheiße des Teufels"? Für sie ist nichts daran erstrebenswert.  
 
@@ -116,7 +116,9 @@ Im Gegensatz zum Kind in einer liebenden Familie ist der Erwachsene wirklich arm
 Die einzige echte, innere Sicherheit, die einzige Sicherheit in einem Selbst besteht darin, was man sich selber geben kann und was man in sich selber hat, denn das kann einem niemand nehmen. 
 Und die einzige echte äußere Sicherheit besteht in anderen Menschen, die mit einem teilen, die freiwillig geben. Sicherheit in dieser Welt besteht in den Menschen, die man liebt und die einen lieben. Füreinander da zu sein, das ist die einzige weltliche Sicherheit die existiert und die diesen Namen verdient. 
 
-Geld kann von heute auf morgen wertlos sein und keinen mehr interessieren. In der Vergangenheit ist das schon oft geschehen und es wird immer wieder so sein. Ich kann es auch jederzeit verlieren oder es kann mir gestohlen werden. Und je mehr ich davon habe, desto mehr lade ich Diebe dazu ein, genau das zu tun. Es kann mir keine Sicherheit geben. Aber andere Menschen können das. Wir gegenseitig können uns Sicherheiten geben und das Geld ist kein Bestandteil davon, im Gegenteil stürzt es Menschen in Unsicherheiten, in denen sie gar nicht sein müssten. Aber aus Gründen der Ignoranz und der Manipulation betrachten die Leute jenes System für heilig und halten es für unvermeidlich, obwohl es die Heiligkeit des Lebens zerstört, obwohl alle Heiligen der Welt es angeprangert haben, weil es gegen jede Vernunft verstößt und keine Liebe hat. 
+> Wirke zum Wohl der Gesellschaft unter Aufbringung all deiner körperlichen und geistigen Kräfte. Die Gesellschaft ist die beste und sicherste Bank. Lass all deinen Reichtum in dieser Bank und du kannst dir sicher sein, dass sie dir Hilfe und Schutz bietet, wann immer du sie brauchst. (Vinoba, *Harijan*, 6.2.1954, 391)
+
+Geld kann von heute auf morgen wertlos sein und keinen mehr interessieren. In der Vergangenheit ist das schon oft geschehen und es wird immer wieder so sein. Ich kann es auch jederzeit verlieren oder es kann mir gestohlen werden. Und je mehr ich davon habe, desto mehr lade ich Diebe dazu ein, genau das zu tun. Es kann mir keine Sicherheit geben. Aber andere Menschen können das. Wir gegenseitig können uns Sicherheiten geben und das Geld ist kein Bestandteil davon, im Gegenteil stürzt es Menschen in Unsicherheiten, in denen sie gar nicht sein müssten. Aber aus Gründen der Ignoranz und der Manipulation betrachten die Leute jenes System für heilig und halten es für unvermeidlich, obwohl es die Heiligkeit des Lebens zerstört, obwohl die Heiligen der Welt es angeprangert haben, weil es gegen jede Vernunft verstößt und keine Liebe hat. 
 
 ---
 
