@@ -175,6 +175,23 @@ Sie sehen es nicht wegen der Mauern, die wir angesprochen haben, die die Mensche
 
 Was der gewaltlose Revolutionär will, das ist, dass die Menschen diese ihre Mauern freiwillig dekonstruieren, freiwillig abbauen. Der unfreiwillig Arme ist innerlich nicht arm, er sehnt sich nach dem Reichtum, den andere haben, ist neidisch auf den Reichtum, den andere haben und hält fest an dem Wenigen, das er selber hat mit derselben oder auch einer größeren Vehemenz, als es der Reiche tut. Er mag zwar äußerlich arm erscheinen, aber seine innere Haltung ist die eines Reichen, er hat einen Willen zum Reichtum. Er ist also nicht freiwillig arm. Darum hat solche Armut mit echter, freiwilliger Armut nichts zu tun. Denn die ist ein Wille nur zu dem, was genug ist, ein Widerwille gegen alles, was zu haben mir oder anderen schadet und eine freiwillige Entsagung von allem, was ich nicht benötige, damit es anderen zugute kommt. Damit ist freiwillige Armut nichts anderes als ein vernünftiger Umgang mit den Dingen. 
 
+```
+               Armut oder
+              Besitzlosigkeit
+                     |
+         ____________|____________
+        |                         |
+  Genügsamkeit oder      Vertrauenshaltung        
+  dem Überflüssigen      oder Treuhänderschaft
+  entsagen; äußere       eine innere Haltung,
+  Entsagung.             sich nicht als Eigentümer
+                         zu betrachten.
+
+
+```
+
+Beides ist wichtig. Aber die Treuhänderschaft ist das Wesentliche. Die Leute, selbst gläubige Menschen, pflegen zu sagen, dass die religiösen Ideale wie Armut, Liebe usw. nur etwas für die Heiligen und nur etwas für den privaten Bereich sind, dass sie aber auf die Gesellschaft nicht anwendbar wären, dass sie nicht praktikabel sind. Damit erteilen sie der ganzen Bergpredigt eine Absage und ziehen die Weisen dieser Welt ins Lächerliche. Gandhi, Vinoba und ihre Mitstreiter haben gezeigt, dass sie sehrwohl praktikabel sind. Sie haben gezeigt, dass Gewaltlosigkeit die Konflikte lösen kann, die zu lösen man zuvor nur die Gewalt für fähig hielt. Im Bereich der Ökonomie haben sie gezeigt, wie durch Entsagung und Treuhänderschaft das Ideal der Armut oder Besitzlosigkeit sozial praktikabel und relevant wird und wie man ohne Zwang und Gewalt ökonomische Konflikte lösen und eine wirtschaftliche Revolution auslösen kann. 
+
 --- 
 
 Reichtum ist nicht schlecht. Schlecht ist, wenn ich reich bin und andere arm sind weil ich reich bin, wenn mein Reichtum andere arm macht, wenn mein Reichtum andere in Armut hält, wenn ich mich an anderen bereichere, wenn mein Überfluss anderen Mangel verursacht. Und es gibt eine ganz simple Lösung, die dieses Problem an der Wurzel ausreißt. Auch diese Lösung findet man im Evangelium. Sie findet sich in der Beschreibung der Lebensweise der Christen, von denen geschrieben steht: "Sie hatten alles gemeinsam." 
