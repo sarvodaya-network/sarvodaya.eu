@@ -1,6 +1,6 @@
 # Nonviolent Writing
 
-Nach vielen Jahren Schreiben ist mir erst eine Form von Gewalt in meiner Art zu schreiben bewusst geworden, die ich erst als subtil empfand, die mir jetzt aber gar nicht mehr so subtil erscheint.  
+Nach vielen Jahren Schreiben ist mir eine Form von Gewalt in meiner Art zu schreiben bewusst geworden, die ich erst als subtil empfand, die mir jetzt aber gar nicht mehr so subtil erscheint.  
 Ich habe viele Dinge geschrieben, an denen ich inhaltlich auch heute nichts verändern würde; ich stehe immernoch in vielen Fällen hinter der Richtigkeit dessen, was ich in verschiedenen Texten geschrieben habe. Natürlich nicht hinter allem. Aber es ist mir bewusst geworden, dass *wie* ich es geschrieben habe, oftmals von Gewalt durchdrungen war.  
 
 In welcher Weise? Erstens, ich habe die Tendenz, in einer Weise zu schreiben, die provoziert. Zweitens, ich habe die Tendenz, in dem, was ich schreibe, Menschen Vorwürfe zu machen. Und drittens hatte ich die Tendenz, in einer Weise zu schreiben, die mehr mir selber dient als jemand anderem. 
@@ -17,10 +17,34 @@ Für mich war das gut. Ich habe es als ein Wachrütteln empfunden, als eine Leid
 
 Und mein Gefühl war dieses: Wenn Leute diese Predigten ablehnen und die Prediger abfällig als Moralapostel bezeichnen, dann wollen sie einfach nur nicht mit diesen Dingen konfrontiert werden, auch wenn sie richtig sind. Natürlich ist nicht alles richtig was sie sagen, aber ihre konfrontative, vorwurfsvolle und klare Art macht eine Sache jedenfalls nicht weniger richtig, wenn sie es ist.  
 
+Ich fand solche Predigten nicht nur gut, ich fand sie immer faszinierend, ich habe viel davon gelernt und habe mir darum auch selbst zunächst unbewusst einen solchen Schreibstil angeeignet. 
+
 Savonarola, Luther und andere haben viele Predigten dieser Art. Es gibt auch noch ein anderes Wort, den sogenannten "Liebeszorn", den man den Heiligen oft zugeschrieben hat. Das klingt etwas widersprüchlich. Es ist damit gemeint, dass jemand aus Liebe heraus zornig wird, dass er Zorn zeigt, weil er die Liebe verletzt sieht, sich aus Liebe und um der Liebe willen empört. 
 
 Ein Beispiel dafür wäre Jesus, der, empört über die Händler im Tempel, was er als furchtbares Sakrileg empfand, dass man den Tempel mit Geschäften beschmutzt und entweiht, sie zornig aus dem Tempel gejagt hat. 
 
+---
 
+Das alles lässt mich an eine Analyse von Vinoba denken, die ihn mehrere Jahre lang beschäftigt hat und die er als die größte Tragik im Leben Gandhis empfindet.  
+Es ging um die Teilung Indiens und Pakistans, der Gandhi widerwillig zugestimmt hat, obwohl er im Hinblick auf die Wahrheit, der er sein Leben verschrieben hatte, absolut nicht davon überzeugt war. Aber das Thema ist nicht von Bedeutung, hier relevant ist der Grund, den Vinoba darin sah. Vinoba meinte, Gandhi hat es aus seinem großen Mitgefühl heraus getan, obwohl er die Wahrheit damit verletzt hat. 
+
+Er ist in dieser Situation von der Wahrheit abgewichen, um niemanden zu verletzen, denn hätte er hier auf der Wahrheit beharrt, hätte das, womöglich, schlimme Konsequenzen für seine Freunde gehabt. 
+
+Im Hinblick darauf, wie ich schreibe, und wie diese Prediger schreiben, habe ich den Eindruck, dass hier das Gegenteil passiert. Ich denke, ich habe mich nur um die Wahrheit gekümmert, aber ohne Mitgefühl. Um es übertrieben darzustellen, könnte man sagen, habe ich in etwa so gedacht: 
+"Wenn es die Wahrheit ist, dann ist es die Wahrheit und dann muss man das auch ertragen. Es spielt keine Rolle wie sie formuliert wird, je härter und klarer desto besser, denn dann dringt sie erst richtig durch. Wenn das jemand nicht sehen will, dann ist das sein Problem. Wenn die Wahrheit jemanden verletzt, ist das sein Problem."  
+
+Für mich wurde jedwede Härte in meinen Formulierungen gerechtfertigt dadurch, dass sie inhaltlich wahr waren. Dass ich sie jedenfalls inhaltlich für wahr hielt.  
+
+Für mich war es in etwa so wie wenn z.B. ein Haus in Flammen steht und ich davon ausgehe, dass die Person, der ich das mitteilen will, das eher nicht ernst nimmt und mir nicht glaubt, wenn ich es nicht vehement genug sage. Ich kann sagen: "Hör mal, dein Haus brennt." Ich kann aber auch sagen: "Siehst du denn nicht, dass dein Haus brennt?! Wieso machst du die Augen nicht auf?!" 
+
+Wenn das Haus tatsächlich brennt, sind beide Sätze inhaltich wahr. Der zweite Satz ist aggressiver formuliert, er ist vorwurfsvoll formuliert, aber er enthält die gleiche Grundaussage, die dadurch nicht weniger wahr ist. Es macht den Inhalt der Aussage und die Dringlichkeit des Problems eher eindrücklicher. Nun kann man natürlich darüber streiten, ob die Themen, über die ich schreibe, diese selbe Dringlichkeit beinhalten wie ein brennendes Haus. Nach meinem Empfinden tun sie das. Wenn die Welt am Abgrund steht, wenn man Atombomben baut, was könnte denn da dringlicher sein? 
+
+Vinoba hat geschrieben, es wäre sehr falsch, wenn man Gewaltlosigkeit so deuten würde, wie es manche tun, dass Gewaltlosigkeit ihrem Wesen nach nur sehr langsam Veränderungen in der Welt bewirken kann. Weil es eben diese Dringlichkeit gibt. Gewalt kann in der Welt sehr schnell etwas verändern, darum muss die Gewaltlosigkeit dazu auch in der Lage sein. 
+
+
+
+---
+
+Ich 
 
 
