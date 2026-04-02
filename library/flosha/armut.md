@@ -161,6 +161,8 @@ Und aus diesem Prinzip der freiwilligen Armut ergibt sich keine politische Forde
 
 Sie sehen es nicht wegen der Mauern, die wir angesprochen haben, die die Menschen überall um sich herum errichten; es sind diese Mauern, die verhindern, dass diese elende Welt ein Königreich der Güte wird, wie Vinoba es nannte. 
 
+Und was der gewaltlose Revolutionär will, das ist, dass die Menschen diese ihre Mauern freiwillig dekonstruieren, freiwillig abbauen. Der unfreiwillig Arme ist innerlich nicht arm, er sehnt sich nach dem Reichtum, den andere haben, ist neidisch auf den Reichtum, dem andere haben und hält fest an dem Wenigen, das er selber hat mit derselben oder auch einer größeren Vehemenz, als es der Reiche tut. Er mag zwar äußerlich arm erscheinen, aber seine innere Haltung ist die eines Reichen, er hat einen Willen zum Reichtum. Er ist also nicht freiwillig arm. Darum hat solche Armut mit echter, freiwilliger Armut nichts zu tun. Denn die ist ein Wille nur zu dem, was genug ist, ein Widerwille gegen alles, was zu haben mir oder anderen schadet und eine freiwillige Entsagung von allem, was ich nicht benötige, damit es anderen zugute kommt. Damit ist freiwillige Armut nichts anderes als ein vernünftiger Umgang mit den Dingen. 
+
 --- 
 
 Reichtum ist nicht schlecht. Schlecht ist, wenn ich reich bin und andere arm sind weil ich reich bin, wenn mein Reichtum andere arm macht, wenn mein Reichtum andere in Armut hält, wenn ich mich an anderen bereichere, wenn mein Überfluss anderen Mangel verursacht. Und es gibt eine ganz simple Lösung, die dieses Problem an der Wurzel ausreißt. Auch diese Lösung findet man im Evangelium. Sie findet sich in der Beschreibung der Lebensweise der Christen, von denen geschrieben steht: "Sie hatten alles gemeinsam." 
