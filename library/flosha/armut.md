@@ -30,7 +30,7 @@ Die Heiligen bestreiten all das. Es gibt unzählige Menschen, die tagtäglich ei
 
 Die Heiligen konnte man nicht zwingen und darum auch nicht bezwingen. Sie waren unerschütterlich in ihrem Glauben, in ihrem Vertrauen und in ihren Prinzipien. Könige und Generäle haben die Heiligen gefangen genommen, gefoltert und getötet. Und sie haben sich trotzdem nicht zwingen lassen. 
 
-So ging es zum Beispiel allen Jüngern von Jesus, die man heute als die "Apostel" verehrt. Diese Menschen waren immer Vorbilder für alle Christen auf der Welt. Heute kennt man höchstens noch ihre Namen, kommt aber nicht auf die Idee, von ihnen zu lernen. Zum Beispiel wie man wirklich frei sein kann.  
+So ging es zum Beispiel den Jüngern von Jesus, die man heute "Apostel" nennt und verehrt. Diese Menschen waren immer Vorbilder für alle Christen auf der Welt. Heute kennt man höchstens noch ihre Namen, kommt aber nicht auf die Idee, von ihnen zu lernen. Zum Beispiel wie man wirklich frei sein kann.  
 
 Denn das ist wirkliche Freiheit. Wenn ich nur dann frei bin, wenn mich jeder frei sein lässt, wenn ich nur dann ungezwungen bin, solange mich keiner zwingen will, welcher Wert liegt in so einer Freiheit und welche Sicherheit? Sie kann jederzeit verschwinden, jederzeit kann mir jemand diese Freiheit wegnehmen. Den Heiligen konnte sie keiner wegnehmen.
 
