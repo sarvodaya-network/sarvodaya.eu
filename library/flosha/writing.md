@@ -41,10 +41,24 @@ Wenn das Haus tatsächlich brennt, sind beide Sätze inhaltich wahr. Der zweite 
 
 Vinoba hat geschrieben, es wäre sehr falsch, wenn man Gewaltlosigkeit so deuten würde, wie es manche tun, dass Gewaltlosigkeit ihrem Wesen nach nur sehr langsam Veränderungen in der Welt bewirken kann. Weil es eben diese Dringlichkeit gibt. Gewalt kann in der Welt sehr schnell etwas verändern, darum muss die Gewaltlosigkeit dazu auch in der Lage sein. 
 
-
-
 ---
 
-Ich 
+Aber die Wahrheit ist eben auch, dass, in der Tat, Menschen nicht gerne konfrontiert werden, egal mit was, auch wenn es die Wahrheit ist. Wenn ich die Wahrheit einfach nur aussprechen will, dann ist die Methode, mit der ich das bisher getan habe, vielleicht gerechtfertigt, aber damit zeige ich, dass ich mich eigentlich um anderen nicht kümmere. Was ich schreibe dient ihnen in keiner Weise, wenn es ihnen nicht dabei hilft, irgendeinen Fehler zu einzugestehen und diese Wahrheit zu erkennen. Was ich schreibe mag dann zwar durchaus wahr sein, (und in dieser Wahrheit liegt immer eine Kraft und manche Menschen, die wie ich kein Problem damit haben und es eher gut finden, wenn man sie moralisch in Frage stellt und hart konfrontiert, werden auch in der Lage sein, diese Wahrheit zu erkennen), aber ganz viele Menschen werden nicht dazu in der Lage bzw. nicht willig sein, eine Wahrheit zu erkennen, wenn ich sie solcherart damit konfrontiere.  
+Wenn ich also die Wahrheit, insofern ich irgendeine erkannt habe, nicht nur aussprechen will, sondern auch will, dass möglichst viele Menschen sie ebenfalls erkennen und dem zustimmen, dann muss ich in einer Art und Weise schreiben bzw. reden, dass ich jemanden genau so behutsam, schrittweise und sanft an eine Wahrheit, eine Idee etc. heranführe, wie er das braucht.  
+Und der Punkt ist, dass, wenn ich die Wahrheit liebe, ich genau das eigentlich auch wollen muss, denn wenn ich nichts dafür tue, dass die Wahrheit bei den Menschen ankommt, verschaffe ich ihr keinen Vorschub. Wenn man die Wahrheit liebt, z.B. in Form einer guten Idee, die unser Leben in irgendeiner Weise wahrhaftiger machen könnte als es jetzt ist, genügt man sich ja nicht daran, sie zu kennen und behält sie für sich oder präsentiert sie in einer Weise, in der man schon von vornherein weiß, dass es nur zu Widerstand führt, sondern will sie mitteilen und mit ihr überzeugen. 
+
+Wie kommt das aber, dass manche mit dieser Konfrontation zurechtkommen, sie sogar gut finden, andere aber dadurch zurückschrecken und nichts davon hören wollen? 
+
+Vinoba erklärt das so, dass er die Menschen mit Häusern vergleicht. Das Haus hat eine Mauer. Da kann man dagegen rennen, aber kommt nicht rein. Man muss die Tür finden. 
+
+Ich denke es ist so, dass viele Menschen eine sehr große mentale Mauer um sich herum errichtet haben und die Tür, durch die man zu ihnen durchdringen kann, ist sehr klein. Diese mit einer unangenehmen Wahrheit hart zu konfrontieren führt zu gar nichts. 
+
+Es gibt andere Menschen, die haben gar keine Mauer um sich herun errichtet, sondern sie leben mental wie in einem offenen Zelt. Zu ihnen kann man sehr einfach durchdringen und egal auf welche Weise. Ob man es hart tut oder sanft spielt keine Rolle, sie sind dem Wind ausgesetzt und können Wahrheit akzeptieren egal aus welcher Richtung und mit welcher Härte sie kommt. 
+
+Es hat dies also mit der Offenheit der Menschen zu tun. Manche Menschen sind sehr offen, manche Menschen sind sehr verschlossen. Manche Menschen wirken äußerlich sehr offen, sobald man eine sehr marginale, unangenehme Frage stellt oder eine unangenehme Wahrheit ausspricht, stellen sie sich aber schnell als sehr verschlossen heraus. Und es gibt andere, die wirken äußerlich vielleicht verschlossen, sind mental aber sehr offen. 
+
+Wahrheit auszusprechen, ob sanftmütig oder in aller Härte und provokativ, beides hat einen Wert und mag nicht unnütz sein. Aber, auch wenn mir die Härte gefällt, ist es zu erwarten, dass der sanfte Ansatz effektiver ist. Mit dem sanften Ansatz wird man bei jenen Menschen, die selber verhärtet und verschlossen sind, besser durchdringen. Bei den Menschen, die sehr offen sind und sich aus der Härte nichts machen, wird man mit der Härte vielleicht mehr Aufmerksamkeit kriegen, weil sie diesen Wind besser spüren, aber der sanfte Ansatz sollte in dem Maße, in dem sie offen sind, ebenso gut funktionieren, weil sie in der Lage sind, Wahres zu akzeptieren egal wie es sich ihnen präsentiert. 
+
+
 
 
