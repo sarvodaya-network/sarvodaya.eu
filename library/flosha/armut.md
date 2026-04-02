@@ -12,15 +12,15 @@ Indem ich arm an etwas bin, bin ich automatisch reich an etwas anderem. Und inde
 
 Ebenso mag es wunderbar sein, reich an Nahrung zu sein, aber nur wenn nicht gerade mein Kind verhungert. Wo das der Fall ist, werde ich es gut finden, ärmer zu sein, damit mein Kind etwas reicher sein kann. In dem Moment, in dem ich satt bin, nützt mir mein Überfluss an Nahrung gar nichts, fehlt aber meinem hungernden Kind. Wenn ich mich dann ärmer mache, ist das keine Not, es macht mir sogar Freude, weil ich mein Kind bereichern kann. Alle ökonomischen Probleme in der Welt resultieren daraus, dass die Menschen das selbe Prinzip nicht auf ihre Nachbarschaften ausweiten, Nachbarschaften auf Gemeinden, Gemeinden auf Länder, Länder auf Kontinente und Kontinente auf die Welt. 
 
-Jeder individuelle Reichtum wirkt sich immer auch auf andere aus und jede individuelle Armut wirkt sich immer auch auf andere aus. Wenn ich sehr laut bin, dann bin ich reich an Lautstärke, und ich habe damit alle um mich herum arm an Ruhe gemacht. 
+Jeder individuelle Reichtum wirkt sich immer auch auf andere aus und jede individuelle Armut wirkt sich immer auch auf andere aus. Wenn ich sehr laut bin, dann bin ich reich an Lautstärke, und ich habe damit alle um mich herum arm an Ruhe gemacht, sie um ihre Ruhe gebracht. Scheinbar habe ich etwas hinzugefügt und etwas gewonnen, die Lautstärke, aber ich habe gleichzeitig meine Umgebung um etwas beraubt und ihnen etwas weggenommen – ihre Ruhe. Ebenso ist es mit aller Ansammlung von Reichtum. Sie ist niemals ohne Auswirkungen auf andere. Was dem einen Gewinn ist kann dem anderen Verlust sein. Was dem einen Überfluss ist, kann dem anderen Not verursachen. Was den einen reich hält, kann den anderen arm halten. 
 
 So wie also arm an etwas sein keineswegs etwas Schlechtes sein muss, so ist viel zu haben, das also, was man unter Reichtum versteht, keineswegs an sich eine gute Sache. Wenn ich zum Beispiel viele Sorgen habe, wenn ich also reich an Sorgen bin, was soll daran gut sein?  
 
-Das bedeutet, dass weder Armut noch Reichtum gut oder schlecht sind, sondern es kommt darauf an, woran man arm und woran man reich ist. Tatsächlich will jeder Mensch gerne arm sein an allem, was er schlecht findet und will reich sein an allem, was er gut findet. 
+Das bedeutet, dass weder Armut noch Reichtum gut oder schlecht sind, sondern es kommt darauf an, woran man arm und woran man reich ist und in welcher Situation und wie sich das auswirkt. Tatsächlich will jeder Mensch gerne arm sein an allem, was er schlecht findet und will reich sein an allem, was er gut findet. 
 
 --- 
 
-Es stellt sich also vielmehr die Frage, woran man arm sein soll und woran man reich sein soll, es stellt sich die Frage, was man haben wollen sollte und was man nicht haben wollen sollte und zu welcher Zeit und in welcher Situation. Und diese Frage beantworten die Menschen sehr unterschiedlich.
+Es stellt sich also vielmehr die Frage, woran man arm sein soll und woran man reich sein soll, es stellt sich die Frage, was man haben wollen sollte und was man nicht haben wollen sollte und in welcher Weise und in welcher Situation. Und diese Frage beantworten die Menschen sehr unterschiedlich.
 
 Diejenigen edlen Menschen, die man als "Heilige" bezeichnet, in allen Kulturen der Welt, hatten immer eine ganz andere Antwort auf diese Frage als die meisten anderen Menschen. Ihre Antwort auf diese Frage war sogar oft das Gegenteil von dem, was die meisten anderen Menschen darauf antworten. 
 
