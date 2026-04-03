@@ -1,7 +1,10 @@
-# Dharma according to Vinoba 
+# (Von den) Prinzipien 
+
+Oder der "Dharma according to Vinoba"
 
 
-## Harmony between Moral and Spiritual Life
+## The principal bridge 
+or The harmony of Moral and Spiritual life
 
 > I don't differentiate between moral and spiritual planes. <!--Spiritual plane is higher, but the moral plane is not lower. It is nearer to humanity. ...--> One is the ladder, the other, the destination. It is not possible for a man to be a spiritual being without first being a moral being. (*The Sarvodaya*, an English Monthly, 1953 onwards, Jan. 1958, 201-202)  
 
@@ -23,7 +26,8 @@ To not differentiate between moral and spiritual planes and thus not between a m
 Morality derives its sense from spirituality, it *is* spiritual at the source; the spiritual source is the *source* of the "power", that virtues (from viril... power) are; at the same time it needs this power, as it drives us forward on that path, through that river, into the ocean. 
 
 
-## Kriterion of Virtue or: From Principle to Action
+## From Principle to Action
+or: Kriterion of Virtue
 
 > The criterion which is applied in the science of ethics for determining whether from the point of view of morals a principle is right or wrong, and whether from a practical point of view it is advantageous or disadvantageous, is to extend it to apply to all men and see what the result is. A principle which when thus extended tends to vanish, or not to hold good, or to destroy itself, should undoubtedly be regarded as invalid, both from the moral and practical points of view. (Swaraj Shastra, 60)  
 
@@ -33,11 +37,13 @@ Vinoba akzeptiert damit die Idee, die Kant den kategorischen Imperativ nannte, d
 
 Für Kant, mögen wir sagen (und man möge mich berichtigen), ist es ein Imperativ zur Erkenntnis der notwendigen Richtigkeit einer Maxime. Ich bevorzuge, es in Vinobas Worten als Kriterium zu beschreiben. Ein Kriterium zur Bestimmung der Richtigkeit (Wahrheit) oder Falschheit (Unwahrheit) eines Prinzips. Da es immer um die Bestimmung geht, ob etwas richtig oder falsch, also gleich wahr oder unwahr ist, ist die Wahrheit notwendigerweise das Prinzip aller Prinzipien, dessen Richtigkeit keines Beweises bedarf, weil sie Richtigkeit an sich ist. Sie ist die Grundlage aller Richtigkeit, sie ist das höchste Prinzip.  
 
-Wenn es keine Wahrheit gäbe, bräuchten wir nicht nach der Wahrheit oder Richtigkeit einer Sache zu fragen. Die Wahrheit wird von allen vorausgesetzt; niemand leugnet sie. Wer die Wahrheit an sich leugnen würde, würde zugleich seine eigene Leugnung verleugnen, weil seine Leugnung dann auch nicht wahr, nicht richtig sein könnte. Wenn darum, in Gandhis Worten, Wahrheit = Gott ist, also Gott nichts anderes meint als Wahrheit, dann gibt es in dieser Welt niemanden, der wahrhaft "Gott" verleugnen würde. Alle glauben und bezeugen die Wahrheit. Nur erkennen, was wahr ist und was nicht, die Wahrheit zu verstehen, daran scheitern wir. 
+Wenn es keine Wahrheit gäbe, bräuchten wir nicht nach der Wahrheit oder Richtigkeit einer Sache zu fragen. Die Wahrheit wird von allen vorausgesetzt; niemand leugnet sie. Wer die Wahrheit an sich leugnen würde, würde zugleich seine eigene Leugnung verleugnen, weil seine Leugnung dann auch nicht wahr, nicht richtig sein könnte. Wenn darum, in Gandhis Worten, Wahrheit = Gott ist, also Gott nichts anderes meint als Wahrheit, dann gibt es in dieser Welt niemanden, der wahrhaft "Gott" verleugnen würde. Alle glauben und bezeugen die Wahrheit. Nur erkennen, was wahr ist und was nicht, die Wahrheit zu verstehen, daran scheitern wir.  
+
+Wer eine Wahrheit nicht akzeptieren kann, obwohl sie wahr ist, der hält sie nicht für wahr, aber er hält etwas anderes für wahr; und könnte man ihn davon überzeugen, dass er sich im Hinblick auf die Wahrheit irrt, würde er die Wahrheit akzeptieren. 
 
 Wir betrachten darum niemanden als gottlos nach dem Willen; denn niemand ist freiwillig im Irrtum; wir sind allenfalls unfreiwillig im Irrtum. Wir erkennen etwas, das wahr ist, nicht, oder halten etwas für wahr, was es schlechthin nicht ist, weil wir uns irren. 
 
-Die Aufgabe der sogenannten "Moral" ist es, uns aus diesem Irrtum herauszuführen; aber was wir hier mit Moral meinen, ist die Praxis, die Realisierung wahrer Prinzipien. Diese wahren Prinzipien praktisch zu realisieren, das ist, was man ein "tugendhaftes Leben" nennt.  
+Die Aufgabe der sogenannten "Moral" ist es, uns aus diesem Irrtum herauszuführen; was wir hier mit Moral meinen, ist die Praxis, die Realisierung wahrer Prinzipien. Diese wahren Prinzipien praktisch zu realisieren, das ist, was man ein "tugendhaftes Leben" nennt. Die Theorie lehrt uns, was diese Prinzipien sind und worin dieses Leben besteht. 
 
 Für Vinoba besteht "Moral" aus solchen absoluten Prinzipien, angefangen mit der Wahrheit. Alle anderen Prinzipien sind aus ihr abgeleitet. Sie sind in der Wahrheit mit enthalten und wir müssten sie nicht getrennt von ihr behandeln, aber in dem Maße, in dem sie wahr sind, helfen sie uns, die Wahrheit zu verstehen. 
 
@@ -46,6 +52,24 @@ Eine Maxime ist weniger und geringer als ein Prinzip, eine Maxime kann aus Prinz
 Das Prinzip ist die Essenz daraus ableitbarer Maximen, Maximen nur mehr Extrakt der Prinzipien. Es bricht alle möglichen und denkbaren Maximen auf ihren Kern herunter, konzentriert sie in einem einzigen Wort, das zum Gelübde wird. Das Prinzip ist so offensichtlich richtig, dass jeder es geloben will, der seine Richtigkeit erkennt. 
 
 Das Gelübde ist die Hingabe zu einem als richtig erkannten Prinzip und die Verpflichtung zu seiner praktischen Verwirklichung, in sich und in der Welt. 
+
+
+## Bestimmung der ewigen Prinzipien
+
+Wir haben gesagt, dass alle anderen Prinzipien in der Wahrheit mit enthalten sind und aus ihr abgeleitet werden. Sie sind ebenso offenkundig wie die Wahrheit selbst. 
+
+Eines dieser Prinzipien ist die Güte. Ein jeder hält die Wahrheit für gut. Niemand hält die Wahrheit für schlecht. Sie ist die Grundlage aller Güte. Auch will jeder gut sein und ein jeder hat eine Vorstellung davon, was gut sei; diese Vorstellung mag durch Irrtum verworren sein und sich so in Schlechtigkeit verkehren, aber selbst diese Schlechtigkeit entspringt einem grundlegenden, verirrten Willen zum Guten.  
+
+Eines dieser Prinzipien ist die Einheit. 
+Es ist die Frage, wie sich innerhalb der Wahrheit alles zueinander verhält. 
+Liebe ist, wie sich innerhalb der Wahrheit alles zueinander verhält.   
+
+Eines dieser Prinzipien ist die Liebe. Ein jeder liebt die Wahrheit. Niemand hasst die Wahrheit; Wahrheit hassen ist absurd und beraubt den Hass automatisch aller Richtigkeit.  Auch will jeder lieben und geliebt werden. Und auch diese Liebe mag durch Irrtum verworren sein und sich so in Hass und Verlangen verkehren, aber sie entspringt einem grundlegenden, veirrten Willen zur Liebe.  
+Liebe ist Wille zur Einung. In dem Maße, in dem alles Leben "Yoga" ist, also Streben nach Einung, ist alles Leben Liebe. Darum ist Liebe nicht nur Wille zur Wahrheit, sie ist der Wille der Wahrheit. In religiösen Begriffen, Liebe ist der Wille Gottes. Liebe ist, was die Wahrheit will, der Wille der Wahrheit zu sich selbst. Im Verhältnis des Einzelnen zum anderen ist sie die Liebe zur Wahrheit im anderen. Indem Liebe Wille zur Einung ist, ist die Liebe im Einzelnen die Liebe zum Einzigen, ein Wille zur individuellen Einheit mit sich selbst, zur kollektiven Einheit mit den anderen und zur ultimativen Einheit mit der Wahrheit. 
+
+Eines dieser Prinzipien ist das Mitgefühl. Jeder fühlt oder zumindest erkennt, zu einem größeren oder geringeren Grad, die Gefühle auch von anderen. Und die Gefühle der anderen, die ich in anderen erkenne, lehren mich die grundlegende Wahrheit über die anderen: dass sie im Wesentlichen sind wie ich; und indem ich meine Gefühle für wahr halte, muss ich auch den Gefühlen der anderen eine Wahrheit zuschreiben, die unbedingte Gültigkeit hat. 
+
+
 
 
 

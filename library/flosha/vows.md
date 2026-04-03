@@ -7,10 +7,10 @@ By this formulation, "not in consonance with the thinking of those persons who t
 
 > The number of the observances can be less ore more and it does vary, but nonviolence, truth and some others are eternal. (VP no. 422 of 1957)
 
-> They (the vows) have the capacity of protecting men and society. As a result of their observance, an individual like Bapu (Gandhiji) became a Mahatma. They embody the quintessence of the lives of all saints. They are not only meant for a recluse. They are for him and for the whole society. (VP, 17.2.1959)  
+> They (the vows) have the capacity of protecting men and society. As a result of their observance, an individual like Bapu (Gandhiji) became a Mahatma. *They embody the quintessence of the lives of all saints*. They are not only meant for a recluse. They are for him and for the whole society. (VP, 17.2.1959)  
 
 > It is said these days that 'vows' constitute a bondage, but it is a misleading idea.  
 > The vows do not give trouble. ... They form a good straight path. When the road is good, we do not worry. Vows imply treading a straight path. They make it easy, they make men free. (MA, 28)
 
-
+> 
 

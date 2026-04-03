@@ -41,9 +41,11 @@ Moralische Wahrheit ist also definierbar, ist beschreibbar. Wie kann man sie bes
 > The world is sustained by truth. It subsists because there is more truth in the world than untruth. If untruth acquires predominance over truth, the world would come to an end. (*Harijan*, 25.8.1951, 222) 
 
 > Truth is the highest principle of morality, while all others are secondary to it.  
-> Truth here means the triple truth of thought, word and deed, not of the world alone. (VP, 26.2.1959)  
+> Truth here means the triple truth of thought, word and deed, not of the word alone. (VP, 26.2.1959)  
 
 > Truth is that which makes us realize the existence of conscience and brings satisfaction to it. When the conscience does not feel satisfied or is shocked, there is untruth. (VC no. 7, 22-23) 
+
+--> from this experience derives the nature of truth as "bliss" (ananda). which is simply a deep satisfaction, contentment, ease. 
 
 > There is a sense of evenness in truth. This is the second identifying characteristic. There is balance in it, no inclination this way or that. In truth all are looked upon with the same eye, there is contentment, there is inner satisfaction. (VC no. 7, 22-23)  
 
