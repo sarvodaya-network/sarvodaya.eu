@@ -1,50 +1,51 @@
 # Dharma according to Vinoba 
 
 
-> I don't differentiate between moral and spiritual planes. Spiritual plane is higher, but the moral plane is not lower. It is nearer to humanity. ... One is the ladder, the other, the destination. It is not possible for a man to be a spiritual being without first being a moral being. (*The Sarvodaya*, an English Monthly, 1953 onwards, Jan. 1958, 201-202)  
+## Harmony between Moral and Spiritual Life
 
-What Vinoba argues here is fully in accordance with the buddhist teaching too, that virtue ist the basis. We must practice and develop virtue first; this practice of virtue is a path to spiritual liberation, and it never stops and is not optional. The practice of virtue is very rough and external at first, it is about actions to avoid and so forth, it is very visible. But it becomes more and more subtle, in a gradual process, so that what started as rules of particular actions to avoid and external things to free oneself from, later evolves into subtle mental planes invisible to others and finally spiritual planes of liberation. 
+> I don't differentiate between moral and spiritual planes. <!--Spiritual plane is higher, but the moral plane is not lower. It is nearer to humanity. ...--> One is the ladder, the other, the destination. It is not possible for a man to be a spiritual being without first being a moral being. (*The Sarvodaya*, an English Monthly, 1953 onwards, Jan. 1958, 201-202)  
 
-It therefore makes no sense to deal with "morality" and "spirituality" in separation, as morality is the basis of spirituality. Not morality as it may be understood in the modern West; but in the sense of sense restraint and virtue. 
+What Vinoba argues here is fully in accordance with the buddhist teaching too of virtue as the basis. We must practice and develop virtue first. <!--This practice of virtue is a path to spiritual liberation, and it never stops and is not optional. The practice of virtue is very rough and external at first, it is about actions to avoid and so forth, it is very visible. But it becomes more and more subtle, in a gradual process, so that what started as rules of particular actions to avoid and external things to free oneself from, later evolves into subtle mental planes invisible to others and finally spiritual planes of liberation.-> 
+
+It therefore makes no sense to deal with "morality" and "spirituality" in separation, as morality is the basis of spirituality. Not morality as it may be understood in the modern West; but in the sense of sense restraint and virtue. The indian term for "moral" and morality is [???], it would thus be better to translate it as such:  
+"I don't differentiate between virtuous and spiritual planes. (...) It is not possible for a man to be a spiritual being without first being a virtuous being."  
+
+It is thus no wonder, that he also said:
+
+> Dhammapad outlines the science of ethics. Dhammapad is the best as far as ethics is concerned. It can generate spiritual hunger. That is its purpose. The Gita begins where the Dhammapad ends. But she also compiles moral ideas in a compact manner. The sum and substance of the Gita’s ethics is that one should achieve liberation from desire, anger, greed and temptation. (Vinoba, Reflections on the Gita)
+
+Since, as he claims, the Dhammapada is the "best as far as ethics is concerned", it may be valuable to study the [ethics of the dhammapada](dhammapada-ethics), as I have done in my text of the same name, in which I have tried to condense its teachings. But we may summarise the ethics of the dhammapada, the best and most profound of all, very shortly as follows:  
+
+...
+
+To not differentiate between moral and spiritual planes and thus not between a moral and spiritual life, also points at something very essential: Spiritual liberation is what moral principles lead to; while at the same time spirituality delivers the metaphysical basis of these moral principles; the moral principles are derived from the ideal of unity and equality of life, and are at the same time necessary to attain the ideal of unity and equality of life. 
+
+Morality derives its sense from spirituality, it *is* spiritual at the source; the spiritual source is the *source* of the "power", that virtues (from viril... power) are; at the same time it needs this power, as it drives us forward on that path, through that river, into the ocean. 
+
+
+## Kriterion of Virtue or: From Principle to Action
 
 > The criterion which is applied in the science of ethics for determining whether from the point of view of morals a principle is right or wrong, and whether from a practical point of view it is advantageous or disadvantageous, is to extend it to apply to all men and see what the result is. A principle which when thus extended tends to vanish, or not to hold good, or to destroy itself, should undoubtedly be regarded as invalid, both from the moral and practical points of view. (Swaraj Shastra, 60)  
 
 > A law of *dharma*, morality, to be true must be applicable to all. Any such rule which is applicable to some and not to others, is no *dharma* at all. To speak truth, to love all mankind, to be compassionate, all these rules are applicable to all. (Prarthana Pravachan in the *Vinoba Pravachan*, 29.4.1957)  
 
-Vinoba akzeptiert damit die Idee vom kategorischen Imperativ, der zwar von Kant formuliert wurde, im Grunde genommen aber in der christlichen Lehre ebenso enthalten war, in der Forderung: "Was du willst, dass die Menschen dir tun, dass tu auch ihnen." Das Prinzip wurde nur nicht konsequent angewandt. 
+Vinoba akzeptiert damit die Idee, die Kant den kategorischen Imperativ nannte, der zwar von Kant in verschiedenen Formen formuliert wurde, im Grunde genommen aber in der christlichen Lehre ebenso enthalten war, in der Forderung: "Was du willst, dass die Menschen dir tun, dass tu auch ihnen." [OB-ES-AUCH-EIN-INDISCHES-ÄQUIVALENT-GIBT?] Dieses christliche Prinzip wurde aber nicht konsequent angewandt, nicht konsequent genug durchdacht. Und ich meine, dass auch Kant selbst sein Prinzip nicht konsequent angewandt hat. Zur Kritik am kategorischen Imperativ, habe ich einen eigenen Aufsatz geschrieben. 
 
-In Vinobas Verständnis, wenn dieses Kriterium der Morallehre richtig ist, und er hält es für richtig, dann ist vollkommen klar, dass Gewalt kategorisch falsch sein muss. Denn wenn wir sagen können: "Willst du, dass man dir Gewalt tut?" und wir darauf mit "nein" antworten oder wenn wir sagen: "Wenn alle einander Gewalt tun würden, wäre das dann immernoch zu rechtfertigen?" und ebenfalls mit "nein" antworten müssen, dann müssen wir der Gewalt immer und kategorisch mit nein antworten.  
-Es sind hier keine differenzierteren Überlegungen anzustellen, um sich ein Szenario auszudenken, in dem die Anwendung von Gewalt gerechtfertigt sein könnte. Wenn Gewalt an sich nicht zu rechtfertigen ist und dieser generellen Frage nicht standhalten kann, dann ist sie in allen denkbaren mehr spezifischen Szenarien ebensowenig zu rechtfertigen.  
-Unwahrheit, Neid, Hass, Gier, alle diese Dinge, sind auf diese Weise nicht zu rechtfertigen. 
+Für Kant, mögen wir sagen (und man möge mich berichtigen), ist es ein Imperativ zur Erkenntnis der notwendigen Richtigkeit einer Maxime. Ich bevorzuge, es in Vinobas Worten als Kriterium zu beschreiben. Ein Kriterium zur Bestimmung der Richtigkeit (Wahrheit) oder Falschheit (Unwahrheit) eines Prinzips. Da es immer um die Bestimmung geht, ob etwas richtig oder falsch, also gleich wahr oder unwahr ist, ist die Wahrheit notwendigerweise das Prinzip aller Prinzipien, dessen Richtigkeit keines Beweises bedarf, weil sie Richtigkeit an sich ist. Sie ist die Grundlage aller Richtigkeit, sie ist das höchste Prinzip.  
 
-Zu bedenken ist hier, dass Vinoba in diesem Kontext von *dharma* spricht. Er sagt, nur das, was unter Anwendung des kategorischen Imperativs noch als wahr gelten kann, das ist *dharma*; alles andere ist "no *dharma* at all. Dieses selbe Prinzip ist demnach auch auf *dharma* im Sinne der "Religion" anzuwenden. Auch in der Religion würde Vinoba dasselbe Prinzip anwenden: Wenn hier irgendetwas nicht wahr ist und diesem Test nicht statthalten kann, sollte man es nicht als Teil des Dharma betrachten. 
+Wenn es keine Wahrheit gäbe, bräuchten wir nicht nach der Wahrheit oder Richtigkeit einer Sache zu fragen. Die Wahrheit wird von allen vorausgesetzt; niemand leugnet sie. Wer die Wahrheit an sich leugnen würde, würde zugleich seine eigene Leugnung verleugnen, weil seine Leugnung dann auch nicht wahr, nicht richtig sein könnte. Wenn darum, in Gandhis Worten, Wahrheit = Gott ist, also Gott nichts anderes meint als Wahrheit, dann gibt es in dieser Welt niemanden, der wahrhaft "Gott" verleugnen würde. Alle glauben und bezeugen die Wahrheit. Nur erkennen, was wahr ist und was nicht, die Wahrheit zu verstehen, daran scheitern wir. 
 
-Um es noch etwas auszuführen und damit auch den kategorischen Imperativ näher zu beschreiben: Diesem "Test" standhalten kann nur all das, was keinen Umständen unterworfen ist, es hat unbedingte Geltung; seine Geltung ist nicht abhängig von irgendeinem Eigenwillen, es geht darum, um es in Vinobas Worten zu sagen, um "ewige Prinzipien". Um Prinzipien absoluter Gültigkeit. Nur diese Prinzipien konstituieren den *Dharma*. 
+Wir betrachten darum niemanden als gottlos nach dem Willen; denn niemand ist freiwillig im Irrtum; wir sind allenfalls unfreiwillig im Irrtum. Wir erkennen etwas, das wahr ist, nicht, oder halten etwas für wahr, was es schlechthin nicht ist, weil wir uns irren. 
 
-Kant formuliert das sehr viel komplizierter so:
-> „… da der Imperativ außer dem Gesetze nur die Notwendigkeit der Maxime enthält, diesem Gesetze gemäß zu sein, das Gesetz aber keine Bedingung enthält, auf die es eingeschränkt war, so bleibt nichts als die Allgemeinheit eines Gesetzes überhaupt übrig, welchem die Maxime der Handlung gemäß sein soll, und welche Gemäßheit allein der Imperativ eigentlich als notwendig vorstellt.
+Die Aufgabe der sogenannten "Moral" ist es, uns aus diesem Irrtum herauszuführen; aber was wir hier mit Moral meinen, ist die Praxis, die Realisierung wahrer Prinzipien. Diese wahren Prinzipien praktisch zu realisieren, das ist, was man ein "tugendhaftes Leben" nennt.  
 
-Der kategorische Imperativ als ethische Regel ist sehr leicht mit der Sarvodaya Philosophie zu vereinbaren. Wie Sarvodaya auch, ist der Imperativ automatisch eine Absage an den Utilitarismus. Im Regel-Utilitarismus wird das als moralisch betrachtet, was nützlich ist, was möglichst für die größtmögliche Zahl an Menschen nützlich ist. Im Handlungs-Konsequentialismus geht es dann darum, welche Folgen eine Handlung hat, und nur danach wird die Richtigkeit einer Handlung bewertet. Beides ist sehr einseitig. Der Konsequentialismus zieht die Absicht oder Intention gar nicht als relevant in Betracht und auch das Mittel wird nicht erwogen; denn es könnte ja aus irgendeinem Grunde (scheinbar) sein, dass ein schlechtes Mittel zu einem guten Resultat führt; die Handlung wäre dann moralisch gut. Auch dem erteilt Sarvodaya eine Absage, weil eine unbedingte Übereinstimmung zwischen Mittel und Zweck bestehen muss; aus einem bösen Mittel kann kein gutes Resultat hervorgehen. Und aus einem guten Mittel wird automatisch ein gutes Resultat hervorgehen. Das Mittel ist aber eben gerade so gut, wie die Intention dahinter. Gewalt etwa kann man mit wirklich reiner, guter Intention nicht üben. 
+Für Vinoba besteht "Moral" aus solchen absoluten Prinzipien, angefangen mit der Wahrheit. Alle anderen Prinzipien sind aus ihr abgeleitet. Sie sind in der Wahrheit mit enthalten und wir müssten sie nicht getrennt von ihr behandeln, aber in dem Maße, in dem sie wahr sind, helfen sie uns, die Wahrheit zu verstehen. 
 
-Der Imperativ konzentriert sich daher auf eine Pflicht und auf die Intention. Das ist in Übereinstimmung mit der Lehre Buddhas, der sich ebenso auf die Intention konzentiert. 
+Eine Maxime ist weniger und geringer als ein Prinzip, eine Maxime kann aus Prinzipien abgeleitet werden, aber die Prinzipien sind das Wesentliche. Die Bestimmung wahrer Prinzipien ist darum wichtiger als die Entwicklung von Handlungsmaximen, denn die können nur auf Basis dieser Prinzipien stehen. 
 
-„Es ist überall nichts in der Welt, ja überhaupt auch außer derselben zu denken möglich, was ohne Einschränkung für gut gehalten werden könne, als allein ein guter Wille.“ (Kant)
+Das Prinzip ist die Essenz daraus ableitbarer Maximen, Maximen nur mehr Extrakt der Prinzipien. Es bricht alle möglichen und denkbaren Maximen auf ihren Kern herunter, konzentriert sie in einem einzigen Wort, das zum Gelübde wird. Das Prinzip ist so offensichtlich richtig, dass jeder es geloben will, der seine Richtigkeit erkennt. 
 
-> Hätte die Vernunft das Vermögen, den Willen vollständig zu bestimmen, das heißt wäre sie alleiniger Ursprung der Prinzipien, nach welchen sich der Wille bestimmt, wie es für reine Vernunftwesen gilt, so wäre das von der Vernunft objektiv (für alle vernünftigen Wesen notwendige) für moralisch gut Erkannte auch das, was jedes Vernunftwesen subjektiv für sich als moralisch gut erkennen und auch wollen würde. (Wiki)
-
-> Der Mensch jedoch schöpft die Bestimmungsprinzipien seines Willens nicht allein aus Vernunft, er ist kein rein vernünftiges Wesen, sondern ein teilvernünftiges, ein mit einem sinnlich-affizierten Willen ausgestattetes partielles Vernunftwesen. Das, was außer der Vernunft noch seinen Willen bestimmt, sind nach Kant die Neigungen, Komponenten unserer sinnlichen Veranlagung, die auf dem „Gefühl der Lust und Unlust beruhen“ (Immanuel Kant: AA IV, 427)
-
-Diese Beschreibung könnte man so auch in Vinobas Kommentar zur Immerwährenden Weisheit finden, Stithaprajna Darshan. Nur dass es eben gemäß der Gita möglich ist, alles "sinnlich-affizierte" zu überwinden und so diesen reinen Intellekt hervorzubringen, das geläuterte "Chitta". Je geläuterter das Chitta, desto "moralischer" wird der Mensch automatisch handeln, weil es seine Intentionen ebenso bereinigt, sie in Übereinstimmung mit der Vernunft bringt, die durch keine sinnlichen Affekte mehr beeinflusst werden. 
-
-
-Wenn Hegel z.B. behauptet, dass man mit dem kategorischen Imperativ sowohl Eigentum als auch Nicht-Eigentum rechtfertigen könnte etc., dann liegt das einfach an einer unsachgemäßen Anwendung des kategorischen Imperativs, ebenso wie mit dem Beispiel des Lügens. 
-
-> Ihm zufolge ist der verfehlte kantsche Rigorismus aber keine notwendige Folge aus dem Kategorischen Imperativ. Wenn meine Handlungsmaxime ist, notfalls auch zu lügen, wenn ich dadurch die Ermordung Unschuldiger verhindern kann, so kann ich ohne Probleme wollen, dass diese Maxime zu einem allgemeinen Gesetz erhoben wird. Die Gefahr, dass durch diese Erlaubnis zum Lügen niemand mehr darauf vertrauen kann, dass ihn ein anderer nicht anlügt, ist hier nicht gegeben. (Wiki)
-
-Wenn man also ein solches Dilemma hat, dann ist das nur solange da, wie man noch nicht die richtige Frage gefunden hat, die man stellen muss, um einwandfrei zu klären, unter welchen Bedingungen die Sache eben nicht als allgemeines Gesetz gelten kann oder doch. 
-
-Das heißt: Der Imperativ, ich nenne, der "Test", funktioniert gut. Aber er funktioniert abhängig von Fragestellungen, so, dass man zunächst zu einem vorläufigen Ergebnis kommt, einer Maxime, die man erst einmal für richtig halten und danach handeln kann. Man muss diese Maxime aber auch weiterhin in Frage stellen und sehen, ob es nicht eine Frage gibt, die sie zu Fall bringt und aus der man dann eine richtigere Maxime ableiten kann. 
-
+Das Gelübde ist die Hingabe zu einem als richtig erkannten Prinzip und die Verpflichtung zu seiner praktischen Verwirklichung, in sich und in der Welt. 
 
 
 
@@ -150,6 +151,16 @@ In any way, the word becomes confusing, if we look at how many dharmas Vinoba is
 
 > "How then, is *svadharma* to be determined?" If someone asks this, the easy answer would be, "It comes naturally, of itself." It is born into the world with us. The very idea of going in search of it is strange. When a man is born, his *svadharma* too is born with him. As a child has no need to go in search of his mother, no one need go in search of *svadharma*. It is ours, right from the beginning. The world was there before we were born; it will be there when we are no more... The service of the parents to whom I was born, the service of the neighbours amongst whom I find myself, these duties come to me naturally. Then, my other obligations are matters of everyday experience. I feel hungry, I feel thirsty. So, to give food to the hungry and drink to the thirsty becomes my duty by nature. Hence, it is never necessary to go in search of the *svadharma*, of some form of service of compassion. (Gita, 205-206) 
 
+---
+
+## Ethics of Action
+
+> The Gita has cast morality in a new mould. In the field of ethics, desirability of karma (action) always becomes a matter of dispute. Ethicists then propose one or the other value as a yardstick. The Gita did not do this. It changed the very yardstick of judging the desirability of action. What action is desirable? That action, which does not cause turbulence in the mind and which does not bind the doer to the fruit. [...] The Gita’s skill lies in not taking the side of anyone and changing the yardstick of the desirability of action. It has thus risen above conventional ethics. (Vinoba, Reflections on the Gita, P.20)
+
+
+---
+
+
 
 
 Life is defined as self-realization.
@@ -203,3 +214,8 @@ bhakti-yoga + karma yoga, that is some kind of yoga in which devotion meets acti
 
 
 and all three together - that is samyayoga. 
+
+> The path of devotion based itself on the solid foundation of the principle that discrimination between human beings is wrong. The religion that was based on meditation alone was imbued with the spirit of dedication to the Lord, and culminated into service coupled with sacrifice of the fruit of action. (Vinoba, Reflections on the Gita, p. 81)
+
+
+> Self-awareness should not be confused with physical consciousness. When one becomes aware of the transience of the body, death ceases to have importance. Then one virtually dies before physical death. (Vinoba, Reflections on the Gita, p. 58)
