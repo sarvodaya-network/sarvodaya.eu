@@ -2,6 +2,14 @@
 
 Or: Khadi: Why and how? 
 
+ToDo: 
+* Add images showing handmade cloth vs. machine made cloth. Showing steps in production vs. mill made cloth, dying in India, sewing etc.
+* show child labour and the waste heaps of bangladesh, the holy ganges
+* Lanza in self-made cloth, Vinoba in Khadi.
+* Add section explaining the spinning wheel and why it stands for revolution.
+* Also show the heaps of garbage in africa, what happens with our cloth when we throw it away. 
+
+
 by Flosha
 
 An application of Satyagraha and a demonstration of the Constructive Programme in regard to Khadi in action, in the context of a western, industrial environment.  
@@ -34,7 +42,7 @@ Option 2: The most impure and violent one. One sister is making cloth, the other
 
 Option 3: One sister is making or having cloth, the other sister isn't and hasn't. One sister is freezing or half naked and ashamed, since she lacks cloth to cover herself and doesn't make it, may not be able to make it. The other sister has clothing in abundance, covering her in two layers, while one would suffice at least for her bare necessaties. Or she is producing cloth, and has produced more than needed for herself. She could give one of the layers to her sister, but she doesn't. Instead she demands something in return. If the sister has something that she can give in return, that trade may work. If she has nothing to give in return or not enough of what her sister wants, she will keep freezing and being ashamed, for no other reason than her sisters demand for payment.  
 
-If one finds this situation to be absurd between two sisters, if one considers this to be almost an abusive way of handling this situation, then I tell you, that this for sure and obviously abusive way of dealing with this situation is what people consider to be normal in regard to every kind of situation as soon as it concerns others beyond their family. Since we want to become non-violent, this of course is not as we want to act, so the third option is out of question as well. 
+If one finds this situation to be absurd between two sisters, if one perhaps even considers this to be an abusive way of handling this situation, then I tell you, that this obviously abusive way of dealing with this situation is what people consider to be normal as soon as it concerns others beyond their family. Since we want to become non-violent, this of course is not as we want to act, so the third option is out of question as well. 
 
 --- 
 
@@ -43,9 +51,12 @@ Thus: If I want to satisfy my need for clothing in a non-violent way, only three
 * To have others make it for me deliberately.
 * To use cloth discarded by others.  
 
-Finding discarded cloth by others, as the early buddhist monks were doing, is in a way, and as long as it is a possible option, the best of all ways. In that case I have something to wear, I neither had to produce it anew nor had others to produce it anew for me and I can patch it forever. Therefore it is the most noble and most decent of ways; it is also the most humble option with the least pride involved. And as such it is diametrically opposed to what the civil man considers to be most decent - that which is new and without any sign of wear and tear; so much so that he is ashamed of repairing his cloth! Shame be on those who consider as a sign of poverty, what is nothing but a sign of rationality.  
+Finding discarded cloth by others, as the early buddhist monks were doing, is in a way, and as long as it is a possible option, the best of all ways. In that case I have something to wear, I neither had to produce it anew nor had others to produce it anew for me and I can patch it forever. Therefore it is the most noble and most decent of ways; it is also the most humble option with the least pride involved. And as such it is diametrically opposed to what the civil man considers to be most decent - that which is new and without any sign of wear and tear; so much so that he is ashamed of repairing his cloth! Shame be on those who consider as a sign of poverty what is nothing but a sign of rationality.  
 
-But disposed cloth will, at least in theory, never be possible to be chosen by everyone at every time, because whether it is sold or given or found, every kind of cloth has at some point to be made, ere it gets discarded.
+But disposed cloth will, at least in theory, never be possible to be chosen by everyone at every time, because whether it is sold or given or found, new, reused or recycled, every kind of cloth has at some point to be made, ere it gets discarded.
+
+
+### When I have clothing
 
 I also may have enough cloth already. If so, I need no additional cloth, and as long as I don't, others don't have to produce new cloth on my behalf. I am thus, to that degree, no burden on others. If I already have cloth, then I can keep it and if it breaks down I can patch it forever; there would then arise no need at any point for new clothing to be made for me. But even if I choose this noble path of patching my cloth infinitely, which sooner or later amounts to over-patching it, this will not be possible without other cloth in form of patches to be used for the patching. If all people would choose to go this path, soon patches would be lacking, then, at the least, new cloth is needed and has to be made. There is therefore no way to completely ommit responsibility for how clothing is made.   
 
@@ -214,4 +225,10 @@ What we can do:
 * Learning a craft like sewing, weaving, knitting, spinning, cardening or several of those (sewing and spinning should be absolute basics that everyone should be able to do).
 * Keeping sheep and learning about working with the wool and how to simplify this process. 
 * Cultivating flax and learning about simplifying processes to prepare the flax for spinning.
-* Opening local workshops for rap
+* Open local workshops for repair/patching and recycling of cloth.
+* Open local workshops to learn handcraft together or to invent and build small local technology for simplifying processes.
+* Inform others about the problems of cloth and about possible solutions to the problem, as with this text.
+* Create smaller flyers that are easier to digest for people and that point out smaller and easier to understand aspects of the vaster and complex issues mentioned here.
+* Get in touch with others who still can do some craft or are interested in learning one, support local craftsmen. 
+* Express the change you want to see, by shamelessly wearing patched or self-made clothing, beginning with yourself and your family and friends.
+* If you feel so inclined, *after* doing at least some of the above, which is the necessary foundation, go beyond your personal environment and start a campaign. For instance it may well be possible to initiate an individual or collective Satyagraha in front of fast-fashion shops, e.g. by handspinning in front of them and by offering flyers, presenting a message on a card board or taking similar inobtrusive measures to protest against the injustice of the industry. There is no need to annoy anyone by directly talking to people unasked. It suffices to offer a new perspective, to be there and to bear witness silently.  
