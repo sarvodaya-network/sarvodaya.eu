@@ -1,9 +1,12 @@
 # Revolt against Fashion
 or Gradual Self-Sufficiency in Clothing
 
-Revolte wider die Mode?
+DE: 
+Revolte wider die Mode?  
+Anti-Fashion Revolte?
+Anti-Fashion
 
-
+```
 ToDo: 
 * Add images showing handmade cloth vs. machine made cloth. Showing steps in production vs. mill made cloth, dying in India, sewing etc.
 * show child labour and the waste heaps of bangladesh, the holy ganges
@@ -13,7 +16,7 @@ ToDo:
 * add automatic dark mode to lib and index
 * Add at the top some infos about what the fashion industry worldwide means, what its doing and how much harm it is causing. 
 * search clothes of lanza in könig der armen and in vier geißeln etc., search gandhis spinning wheel and khadi clothes, read gandhis khadi book(s)
-
+```
   
 by Flosha
 
