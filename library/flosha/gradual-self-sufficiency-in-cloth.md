@@ -27,7 +27,8 @@ An application of Satyagraha and a demonstration of the Constructive Programme i
 * How to start?
   * Discarded Cloth
 * Clothing as Expression
-* Brands have to be abandoned
+  * Clothing Styles
+  * Brands have to be abandoned
 * Suffering Woven in Cloth
 * Manufactured Sorrow
 * Revolution of the Spindle
@@ -127,6 +128,19 @@ It might for sure not be the *most* important area in which I should strive to e
 If I choose to *buy* cloth instead, which would be the worst of the options (as trade has no place in a family and when we want a nonviolent society, then there can be no trade anymore at some point), then this applies even more so, as I then not only represent and express the practices behind the clothing production with what I wear, but actively support these practices with money by buying it, which is an active vote in support of these violent practices, justifying and maintaining them.  
 
 We must therefore consider the possible ways in which clothing is made, which kind of clothing we can therefore choose to wear and thereby support and express what the clothing contains. 
+
+
+## Clothing Styles
+
+Fashion is by definition a momentary, short-timed expression, opposed to anything of timeless value. Fashion is a constant promotion and enforcement of trends for profit. In order to sell, the public is manipulated by means of idol worship and advertisement missionaries to prefer one thing over another. Of course it always has to be a different thing than before in order to create a reason to buy something again that one hasn't already. 
+
+Among these promoted styles there is something that is commonly described as "classic". These classics are glorified as something "timeless", something that can always be worn. If these styles are timeless and can always be worn we would expect to find them everywhere in the long history of humanity or at least in the history of the culture that we live in. Little knowledge in the development of clothing is needed to see the falsehood of such an expectation and thus the falsehood of said claim.  
+When these so called timeless styles haven't been worn by anyone even just a hundred years ago in our own culture, then there is nothing timeless about them. 
+
+If a woman would want to wear something timeless, then she may have to choose a Sari, a cloth that is now worn for thousands of years. If a man wants to wear something truly timeless he would have to choose a tunic, a cloth that as well has been worn now for thousands of years and around the world, in the West as well as in the East.  
+Thus, very little thinking suffices to recognise the vanity of all the claims brought forth by the fashion industry to promote whatever new style they come up with in order to invent some reason to buy new cloth.  
+
+
 
 
 ## Brands have to be abandoned
