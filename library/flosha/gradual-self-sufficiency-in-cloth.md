@@ -306,4 +306,21 @@ What we can do:
 Possible slogans on a cardboard: 
 > "I don't want money. I want that you stop to finance suffering by buying there."
 
-> 
+
+
+## Revolution of the Spindle
+
+When Gandhi rejected foreign made cloth, he did so to gain the independence of the people of India who were under the foreign rule of Britain. He did not do so because he had something against the British. He simply didn't want them to rule and to abuse them. But there is much more to Gandhis rebellion against foreign made cloth, just as there was much more to his struggle for independence. 
+
+Political independence of his nation was an important step, but a minor step in comparison to his vision. He did not just want to get rid of foreign-rule of another nation over the people, nor did he just want to get rid of economical abuse from outside. He wanted to get rid of any kind of foreign-rule, of any kind of rule of people over others and of any kind of abuse. 
+
+The spinning wheel is not just a symbol of national independence. The spinning wheel is a symbol of economical independence of the people, it is a symbol for freedom from abuse. 
+
+Any true freedom must be based on economical independence. Every woman knows this and has therefore fought a struggle for emancipation, because they have been dependent on man. Such a dependence, as we know, isn't necessarily violent. It can be deliberate and the abuse that can occur is not necessarily given. But every woman knows that this systematic dependence contains a lot of *potential* abuse, it contains a constant fragility. In order to overcome this systematic dependence women have started to work like men. But so far they have only imitated men, as if the systems build by men and their ways of living are worth to replicate. The same systems of dependence with the same inherent abuse are now happily maintained in other forms and accepted by men and women alike, such as in the employer-employee relationship, in the relationship between rich and poor men or in the relationship between rich and poor countries. 
+
+True emancipation includes to transcend above all of these abusive dependencies in which the weaker will always suffer. The spinning wheel is the symbol of the non-violent revolution that brings this about, it is a symbol of a revolution for the good of all, a revolution that no one has to fear, that is against none and for all; it is only opposed to everything and strongly standing against anyone who tries to maintain an order that perpetuates suffering, in which a conflict of interest is summoned into existence that has no basis in reality.  
+The good of all is contained in the good of each and the good of each in the good of all. There is no conflict of interests. There is a conflict of interests only as long as I consider another to be of less value and meaning than myself and my own, as long as I turn a blind eye to the well-being or suffering of others. And this is a crime against humanity. Our whole current economical system is such a crime against humanity and the spinning wheel will overcome it, sooner or later. 
+
+
+
+
