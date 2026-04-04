@@ -130,25 +130,31 @@ If I choose to *buy* cloth instead, which would be the worst of the options (as 
 We must therefore consider the possible ways in which clothing is made, which kind of clothing we can therefore choose to wear and thereby support and express what the clothing contains. 
 
 
-## Clothing Styles
+## Style and the Vanity of Trends
 
-Fashion is by definition a momentary, short-timed expression, opposed to anything of timeless value. Fashion is a constant promotion and enforcement of trends for profit. In order to sell, the public is manipulated by means of idol worship and advertisement missionaries to prefer one thing over another. Of course it always has to be a different thing than before in order to create a reason to buy something again that one hasn't already. 
+Fashion is by definition a momentary, short-timed system of trends, opposed to anything of timeless value. Fashion is a constant promotion and enforcement of trends for profit. In order to sell, the public is manipulated by means of idol worship and advertisement missionaries to prefer one thing over another. Of course it always has to be a different thing than before in order to create a reason to buy something again that one hasn't already. 
 
 Among these promoted styles there is something that is commonly described as "classic". These classics are glorified as something "timeless", something that can always be worn. If these styles are timeless and can always be worn we would expect to find them everywhere in the long history of humanity or at least in the history of the culture that we live in. Little knowledge in the development of clothing is needed to see the falsehood of such an expectation and thus the falsehood of said claim.  
 When these so called timeless styles haven't been worn by anyone even just a hundred years ago in our own culture, then there is nothing timeless about them. 
 
-If a woman would want to wear something timeless, then she may have to choose a Sari, a cloth that is now worn for thousands of years. If a man wants to wear something truly timeless he would have to choose a tunic, a cloth that as well has been worn now for thousands of years and around the world, in the West as well as in the East.  
+If a woman would want to wear something timeless, then she may have to choose a Sari, a cloth that is now worn by females for thousands of years. If a man wants to wear something truly timeless he would have to choose a tunic or a buddhist monk robe; male attire that as well has been worn now for thousands of years and around the world, in the West as in the East.  
 Thus, very little thinking suffices to recognise the vanity of all the claims brought forth by the fashion industry to promote whatever new style they come up with in order to invent some reason to buy new cloth.  
 
 If their clothing would be truly timeless, then it would be the same this year as the year before and ten years ago, the same today as tomorrow and ten years later. And on behalf of its timelessness it would hold up for years, it would be made durable and sturdy and when torn and worn it would be repaired, to give you no reason to buy anew what you have chosen for its timeless value. And if that would be the case, there would be no need to advertise it. Timeless cloth needs no advertisement. What it needs are people that don't care about advertisement. 
 
-Styles that you like today and are ashamed of in a few years or that others would have been ashamed of a few years ago, have no value. 
+What value is there in a style that you like today and are ashamed of in a few years or that others would have been ashamed of a few years ago? 
+<!-- What once has been considered typical clothing of a prostitute is now being promoted as regular clothing for women and girls. Nothing timeless about it. -->
 
+Choose a style that you like. But recognise that the very existence of a sense of "fashion" and the very existence of fashion trends is fundamentally opposed to any idea of true sustainability as well as to any true economy.  
+There was never and is nothing economic about waste. Neither is it economical to waste natural ressources nor is it economical to waste peoples time that are producing waste in form of clothing. Their time and health are sacrificed for the production of clothing, natural ressources are sacrificed for the production of clothing. For clothing that is valued so little by those buying and wearing it that it is thrown around like leaves of a tree. But the leaves of a tree are not wasted. They serve as valuable compost for the earth underneath and remain were they are. But wasted is all cloth that the people buy today and throw away tomorrow, that serve no purpose but to feed our desire, deflating our ego until it explodes. Ending up on literal mountains of garbage in Africa. 
+
+For no other reason than the greed of those who aren't satisfied with what they have.   
+For no other reason than the little satisfaction of buying something new to wear and presenting ourselves in a piece of cloth that we truly value as little as we value the human beings that are making it for us.
 
 
 ## Brands have to be abandoned
 
-One of the first thing that may cross our mind when thinking about which clothing to choose, are the various different "brands" we can choose from.
+Another thing that may cross our mind when thinking about which clothing to choose, are the various different "brands" we can choose from.
 
 At first it has to be stressed that the price of clothing says nothing at all about the conditions of its production (nor the quality). Many so called luxury brands are producing their clothing in the very same way, under the very same violent and abusive conditions as others. 
 
