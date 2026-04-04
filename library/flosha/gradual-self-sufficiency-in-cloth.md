@@ -195,16 +195,25 @@ In the former way of buying cloth from abroad, I *need* to take responsibility j
 
 This is what the precept of *Swadeshi* means, that is one of the vows of those who believe in Sarvodaya, the Good of All. It amounts to a self-sufficiency, a form of local or regional autarky in the service of our neighbours, on behalf of the interests and needs of all, an economy for humans, not for profit. 
 
+When we stand in for self-sufficiency, when we stand in for local or regional autarky, when we prefer to support our neighbour over those further away, then this implies in no way whatsoever despising the people further away. It is the very opposite: We refuse to abuse people at the other side of the world, we refuse to depend on them and make them dependent on us and we refuse a system in which such abusive interdependencies can occur and be hidden from our view.  
+It is for the love of all that we focus on those nearest to us. It is for the love of all that we want to restrict our burden on others; it is for the love of all that we want to satisfy our needs within our own region. It is for the love of the indian girl that I do not want her to carry the burden of my needs. She must not be responsible for what I wear. We have to carry this responsibility ourselves. 
+
 ---
 
 ## Gradual-Self Sufficiency
 
-Self-Sufficiency in clothing must not mean, that I have to do it all on my own and all by hand. What we mean is local or, where necessary, regional self-sufficiency for the reasons explained above, for an anti-fragile fullfilment of our needs without abuse.  
+Self-Sufficiency in clothing does not mean, that I have to do it all on my own and all by hand. What we mean is local or, where necessary, regional self-sufficiency for the reasons explained above, for an anti-fragile fullfilment of our needs without abuse.  
 
 When the non-violent revolutionary does it by hand that does not mean that he is necessarily of the view that local or regional self-sufficiency must be accomplished by handcraft only for principal reasons. He may do it because he currently has no other choice, because there is no local or regional, non-violent option now within the region.  
-He may as well do it in order to learn and to understand the processes. In the way of education in that we trust, who believe in the Good of All, we learn and teach through craft. Since I haven't received such an education, I have to educate myself. 
+He may as well do it in order to learn and to understand the processes. In *Nai Talim*, the way of education in that we trust, we learn and teach through craft. Since I haven't received such an education, I have to educate myself. 
 
-Local or regional self-sufficiency in cloth can be realised with the help of technology. It just must be non-violent technology. 
+Local or regional self-sufficiency in cloth *can* be realised with the help of technology. It just must be technology that is *non-violent*, that helps us being self-sufficient and does not in any way harm the self-sufficiency of any other region or locality.  
+For this purpose the technology must be open source, it must be small enough, it must not cause dependence and additional potential for abuse; thus it must ideally be possible to be build in every region or it must at the very least be possible to be build in ones land, be affordable for every region or ideally every locality. It must be designed in a way that it can be independently repaired in the region and is not causing dependence in that regard. It must also not cause any external dependence from ressources unavailable in the region; oil and gas, apart from bio-gas produced in the region, is thus out of question.  
+If a technology can meet all these standards, we can regard it as non-violent technology. An example for such non-violent technology is the singer sewing machine that helped individuals to simplify sewing. Another example is the gandhian invention of the *Ambhar Charkha*, a multi-spindle spinning wheel that simplifies the process of spinning greatly, in a similar way as the sewing machine has simplified sewing. It is a new technology that does not even require any external power supply, and yet makes spinning much more efficient than ancient or medieval ways of spinning.  
+
+These kinds of inventions show, that technology *can* be developed into completely different directions than it has been done so far, if there is a will to do so. The major problem with technology is not technology itself, it the servitude of technology under money. The vast majority of technological inventions have not been made with the wellbeing of people in mind, they have not being made in order to serve you, your friends or your children. They have been made for money, on behalf of money and in service of money.   
+Technology today is bad, because it is not serving the interests of people. It is solely serving the interests of profit. People wrongly assume that increased profit gained is good for them, that it is automatically serving them too, if more profit is made. But this is wrong. And this wrong assumption is rooted in an inhumane ideology that is currently prevailing in our society. (It has to be overcome by a new, humane philosophy of life, such as Sarvodaya).  
+This ideology has shaped the very form in which technology has so far appeared to us in the modern world. This form must cease. But there are other forms of technology that serve the people instead of serving money. This kind of technology we can appreciate, as it causes us no harm.  
 
 
 
