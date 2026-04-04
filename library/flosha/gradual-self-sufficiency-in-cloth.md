@@ -104,17 +104,24 @@ Truly blameless is the cloth that is truly valued by considering it worthy of re
 
 The poor peasants of old Japan used to patch their clothing so much that it sometimes ended up completely overpatched, being handed down for generations, as they could not afford anything new. This same clothing that the rich of their time have looked down upon is now shown in Museums and sold to the rich of today. 
 
-A result of utmost poverty has now become valuable
+[Show Boro cloth]
 
-But disposed cloth will, at least in theory, never be possible to be chosen by everyone at every time, because whether it is sold or given or found, new, reused or recycled, every kind of cloth has at some point to be made, ere it gets discarded for me to be used. When it breaks down I can patch it, but only as long as cloth for patching is available. 
+This Boro cloth, a result of utmost poverty and a cloth with little value has become highly valuable simply due to the poor people valueing their cloth and patching it. It is in this way that poverty turned into dignity. The simple rational decision to patch their cloth contineously out of bare necessity has turned it into art. It has thereby been raised in value simply because someone has valued it so much. 
 
-The same applies to cloth I have already. I may have enough cloth already. If so, I need no additional cloth, and as long as I don't, others don't have to produce new cloth on my behalf. I am thus, to that degree, no burden on others. If I already have cloth, then I can keep it and if it breaks down I can patch it infinitely; there would then arise no need at any point for new clothing to be made for me. But even if I choose this noble path of patching my cloth infinitely, which sooner or later amounts to over-patching it, this will not be possible without other cloth in form of patches to be used for the patching. If all people would choose to go this path, patches would be lacking soon, and then, at the least, new cloth is needed and has to be made. There is therefore no way to completely ommit responsibility for how clothing is made.   
+Our clothing is so valueless because we do not value it. We do not value it to be worn even for a few years or have so much and change it so much that we do not even reach the point of wearing anything out and requiring it to be patched. Some people throw their cloth away even before it reaches that point. Patching it doesn't even cross their mind. 
+
+But as noble as the usage of disposed cloth and patching may be, at least in theory it will not be possible to be chosen by everyone at every time. Since whether it is sold or given or found, if it is new, reused or recycled, every kind of cloth has at some point to be made, ere it gets discarded for me to be used. When it breaks down I can patch it, but only as long as cloth for patching is available. 
+
+The same applies to cloth I have already. I may have enough cloth already. If so, I need no additional cloth, and as long as I don't, others don't have to produce new cloth on my behalf. I am thus, to that degree, no burden on others.  
+If I already have cloth, then I can keep it and if it breaks down I can patch it infinitely; there would then arise no need at any point for new clothing to be made for me. But even if I choose this noble path of patching my cloth infinitely, which sooner or later amounts to over-patching it, this will not be possible without other cloth in form of patches to be used for the patching. If all people would choose to go this path, patches would be lacking soon, and then, at the least, new cloth is needed and has to be made. There is therefore no way to completely ommit responsibility for how clothing is made. 
+
+It may be possible individually, but it is not possible collectively. And since there is also a collective responsibility of the individual, we ought to consider the conditions of clothing production regardless of whether we will ever buy new clothing or not. 
 
 ---
 
 ## Clothing as Expression
 
-But there is more to clothing than just its function of covering and warming the body. It is also expression and representation. In that I wear cloth, in that I cover my body with cloth, I express a preference of one thing over another as I chose to wear it over other options that I do not wear. This matters in two regards: (1) The process of cloth-making or production involved in it and (2) the beauty or lack thereof expressed by it. 
+There is more to clothing than just its function of covering and warming the body. It is also expression and representation. In that I wear cloth, in that I cover my body with cloth, I express a preference of one thing over another as I chose to wear it over other options that I do not wear. This matters in two regards: (1) The process of cloth-making or production involved in it and (2) the beauty or lack thereof expressed by it. 
 
 The cloth chosen may express beauty or do so less. Nonviolence is truth in action. And beauty is truth in form. There is no action without form and there is no form without action. Action creates form.  
 
