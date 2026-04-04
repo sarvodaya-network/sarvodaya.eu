@@ -144,7 +144,6 @@ In the former way of buying cloth from abroad, I *need* to take responsibility j
 
 This is what the precept of *Swadeshi* means, that is one of the vows of those who believe in Sarvodaya, the Good of All.
 
-
 ---
 
 
@@ -158,12 +157,12 @@ At first I have to point out the obvious:
 * The further I go back in the process, even just in order to let others do it for me, the more I have to learn about everything involved in the making of cloth and the more I can teach others about it.
 * The more of the processing steps I am able to do by myself, the less I depend on others and the better I can help others to do the same.  
 
-I may not be able to do everything. I may be able to weave and to sew, but not to spin; or I may be able to spin and to weave, but not to sew; all this is better than nothing. Doing even just one of the steps by myself is a gain already and a part of what we call the "precept of bread labour". But we have to start somewhere. 
+I may not be able to do everything. I may be able to weave and to sew, but not to spin; or I may be able to spin and to weave, but not to sew; all this is better than nothing. Doing even just one of the steps by myself is a gain already and a part of what is the "precept of physical labour". But we have to start somewhere. 
 
 
 ### Starting from the end 
 
-If I start at the end, I start with sewing my clothing on my own or letting someone I know sew my clothing. By doing so, I purify *one* aspect of the clothing production and remove violence from one processing step. If I sew my clothing by myself, no other has to sew it for me. I thereby relieve the burden on others. By letting someone I know sew my clothing, I do not relieve the burden on others, but I at least can make sure that the one sewing my clothing is doing so deliberately, that he is not abused in the process and adds a little degree of love, beauty and dignity to my clothing. But if by sewing I use (or let the tailor use) cheap fabric produced under abusive conditions, I may not end up doing much less harm. Thus, the natural next step would be to use (or ask the tailor to use) fabric woven under nonviolent conditions, ideally by a weaver nearby (if I cannot weave it myself). Then much would have been achieved already! The next step would be to make sure that I only weave (or only let someone weave) with yarn produced under nonviolent conditions as well, then I go on to purify the processing of the yarn and finally the flax cultivation or sheep farming. In this way I can proceed from the end to the beginning and purify it from top to bottom.  
+If I start at the end, I may start with sewing my clothing on my own or letting someone I know sew my clothing. By doing so, I purify *one* aspect of the clothing production and remove violence from one processing step. If I sew my clothing by myself, no other has to sew it for me. I thereby relieve the burden on others. By letting someone I know sew my clothing, I do not relieve the burden on others, but I at least can make sure that the one sewing my clothing is doing so deliberately, that he is not abused in the process. It adds a little degree of love, beauty and dignity to my clothing. But if by sewing I use (or let the tailor use) cheap fabric produced under abusive conditions, I do not end up doing much less harm. Thus, the natural next step would be to use (or ask the tailor to use) fabric woven under nonviolent conditions, ideally by a weaver nearby (if I cannot weave it myself). Then much would have been achieved already! The next step would be to make sure that I only weave (or only let someone weave) with yarn produced under nonviolent conditions as well, then I go on to purify the processing of the yarn and finally the flax cultivation or sheep farming. In this way I can proceed from the end to the beginning and purify it from top to bottom.  
 
 
 ### Starting from the beginning
@@ -188,3 +187,10 @@ How do my individual experiments and interests relate to the interests of others
 I started with my own personal need for cloth. I analysed the problem, developed a vision and thus a direction into which I want to go and made first steps on the path. I know that others need cloth too. My need is just as well the need of others. Therefore it would not be in vain to share my findings thus far with others (1) to even make them aware of the problem, to let them reflect about their own needs, (2) to remove their ignorance in regard to clothing production and the violence involved. For some this would be worthwile, eye-opening and motivating; if such people are found, we may be able to experiment together, some individuals can focus on other aspects and inform others about their findings and thus proceed further. But I cannot count on others for doing the necessary thing. If others do not want to work on this, I must work on it alone. And the most important thing in this regard is for myself to become more self-sufficient in every regard. No text will be comparable to a living example. If I can show that it is possible to be self-sufficient in clothing and to purify cloth-making and *how* it is possible and if I can express the beauty through cloth that is the inevitable consequence of non-violent cloth-making, and if, due to my own experience gained, I can offer detailed advise and guidance about how to do every bit of it, people will have a much easier time to start working on this themselves.  
 
 
+---
+
+Summary:  
+* Producing and buying sustainable, fair-trade is less harmful than producing and buying non-sustainable, unfairly produced clothing, but it is still highly problematic, uneconomic and contains high potential of abuse. 
+* Producing and buying locally produced clothing is much less harmful, much more economic and comes with much lower potential of abuse.  
+* Sharing, offering for free and reusing is much less harmful than buying, if something must be replaced.
+* Recycling by oneself or in the neighbourhood and repairing/patching is much less harmful than replacing.
