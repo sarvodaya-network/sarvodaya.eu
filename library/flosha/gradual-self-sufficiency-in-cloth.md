@@ -1,10 +1,10 @@
 # Revolt against Fashion
 or Gradual Self-Sufficiency in Clothing
 
-DE: 
-Revolte wider die Mode?  
-Anti-Fashion Revolte?
-Anti-Fashion
+DE Vorschläge: 
+* Revolte wider die Mode
+* Anti-Fashion Revolte
+* Anti-Fashion
 
 ```
 ToDo: 
@@ -26,6 +26,7 @@ An application of Satyagraha and a demonstration of the Constructive Programme i
 * Introduction
 * How to start?
   * Discarded Cloth
+  * Clothing that I have
 * Clothing as Expression
   * Clothing Styles
   * Brands have to be abandoned
@@ -91,18 +92,23 @@ Thus: If I want to satisfy my need for clothing in a non-violent way, only three
 * To use cloth discarded by others.  
 
 
-### Discarded Cloth
+### Discarded Cloth, Reusing Cloth and the noble practice of infinite patching
 
 [Image of a Monk]
 
-Finding discarded cloth by others, as the early buddhist monks were doing, is in a way, and as long as it is a possible option, the best of all ways. In that case I have something to wear, I neither had to produce it anew nor had others to produce it anew for me and I can patch it forever. Therefore it is the most noble and most decent of ways; it is also the most humble option with the least pride involved. And as such it is diametrically opposed to what the civil man considers to be most decent - that which is new and without any sign of wear and tear; so much so that he is ashamed of repairing his cloth! Shame be on those who consider as a sign of poverty what is nothing but a sign of rationality.  
+Finding discarded cloth by others, as the early buddhist monks were doing, is in a way, and as long as it is a possible option, the best of all ways. In that case I have something to wear, I neither had to produce it anew nor had others to produce it anew for me and I can patch it forever. Therefore it is the most noble and most decent of ways; it is also the most humble option with the least pride involved. And as such it is diametrically opposed to what the civil man considers to be most decent - that which is new and without any sign of wear and tear; so much so that he is ashamed of repairing his cloth! Shame be on those who consider as a sign of poverty what is nothing but a sign of rationality. 
 
-But disposed cloth will, at least in theory, never be possible to be chosen by everyone at every time, because whether it is sold or given or found, new, reused or recycled, every kind of cloth has at some point to be made, ere it gets discarded for me to be used. 
+That cloth that for the civil man might be blameless due to its external "purity" and "integrity", is full of blame, impurity and disintegrity for those who care about causality and the suffering of others. 
 
+Truly blameless is the cloth that is truly valued by considering it worthy of repair. 
 
-### When I have clothing
+The poor peasants of old Japan used to patch their clothing so much that it sometimes ended up completely overpatched, being handed down for generations, as they could not afford anything new. This same clothing that the rich of their time have looked down upon is now shown in Museums and sold to the rich of today. 
 
-I also may have enough cloth already. If so, I need no additional cloth, and as long as I don't, others don't have to produce new cloth on my behalf. I am thus, to that degree, no burden on others. If I already have cloth, then I can keep it and if it breaks down I can patch it infinitely; there would then arise no need at any point for new clothing to be made for me. But even if I choose this noble path of patching my cloth infinitely, which sooner or later amounts to over-patching it, this will not be possible without other cloth in form of patches to be used for the patching. If all people would choose to go this path, patches would be lacking soon, and then, at the least, new cloth is needed and has to be made. There is therefore no way to completely ommit responsibility for how clothing is made.   
+A result of utmost poverty has now become valuable
+
+But disposed cloth will, at least in theory, never be possible to be chosen by everyone at every time, because whether it is sold or given or found, new, reused or recycled, every kind of cloth has at some point to be made, ere it gets discarded for me to be used. When it breaks down I can patch it, but only as long as cloth for patching is available. 
+
+The same applies to cloth I have already. I may have enough cloth already. If so, I need no additional cloth, and as long as I don't, others don't have to produce new cloth on my behalf. I am thus, to that degree, no burden on others. If I already have cloth, then I can keep it and if it breaks down I can patch it infinitely; there would then arise no need at any point for new clothing to be made for me. But even if I choose this noble path of patching my cloth infinitely, which sooner or later amounts to over-patching it, this will not be possible without other cloth in form of patches to be used for the patching. If all people would choose to go this path, patches would be lacking soon, and then, at the least, new cloth is needed and has to be made. There is therefore no way to completely ommit responsibility for how clothing is made.   
 
 ---
 
