@@ -14,6 +14,18 @@ by Flosha
 
 An application of Satyagraha and a demonstration of the Constructive Programme in regard to Khadi in action, in the context of a western, industrial environment.  
 
+
+* Introduction
+* How to start?
+  * Discarded Cloth
+* Clothing as Expression
+* Suffering Woven in Cloth
+* Manufactured Sorrow
+* Revolution of the Spindle
+* Gradual-Self Sufficiency
+* Constructive Programme
+
+
 ---
 
 
