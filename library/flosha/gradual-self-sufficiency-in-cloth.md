@@ -1,5 +1,8 @@
-# A Rebellion against Fashion
+# Revolt against Fashion
 or Gradual Self-Sufficiency in Clothing
+
+Revolte wider die Mode?
+
 
 ToDo: 
 * Add images showing handmade cloth vs. machine made cloth. Showing steps in production vs. mill made cloth, dying in India, sewing etc.
