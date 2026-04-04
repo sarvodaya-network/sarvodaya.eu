@@ -1,6 +1,5 @@
-# Gradual Self-Sufficiency in Cloth
-
-Or: Khadi: Why and how? 
+# Khadi - A Rebellion against Fashion
+or Gradual Self-Sufficiency in Clothing
 
 ToDo: 
 * Add images showing handmade cloth vs. machine made cloth. Showing steps in production vs. mill made cloth, dying in India, sewing etc.
@@ -8,15 +7,22 @@ ToDo:
 * Lanza in self-made cloth, Vinoba in Khadi.
 * Add section explaining the spinning wheel and why it stands for revolution.
 * Also show the heaps of garbage in africa, what happens with our cloth when we throw it away. 
-
-
+* add automatic dark mode to lib and index
+  
 by Flosha
 
 An application of Satyagraha and a demonstration of the Constructive Programme in regard to Khadi in action, in the context of a western, industrial environment.  
 
 ---
 
-## The Problem
+When anything that concerns my body is out of balance, I am responsible for seeking to re-establish balance. If anything that concerns my family is out of balance, I am responsible for seeking to re-establish balance, because I am part of this family. When anything that concerns my environment is out of balance, I am responsible for seeking to re-establish balance, because I am part of the environment. When anything that concerns my society is out of balance, I am responsible for seeking to re-establish balance, because I am part of this society. In short: If there is a problem, I am responsible to fix it. 
+
+Today there is a problem with our cloth. There is a fundamental problem with fashion. I am wearing cloth, thus I am part of the problem. I am responsible for the problem. I am not responsible for it alone, but I am responsible to a degree. And it is the absolute minimum that I take responsibility to this degree. 
+
+[TODO] 
+Describe the problem and show some of it. 
+
+I am a part of this problem, to the degree that I partake in it by buying and wearing cloth. In order to take responsibility, I must start with myself and seek for constructive solutions. We call this the development of a constructive programme. 
 
 The constructive programme always starts on the individual level. In this case it starts with the recognition of a need: I need clothing.  
 I need clothing for reasons of decency, but also in order for my body not to freeze in the climate in which I live.  
@@ -232,3 +238,10 @@ What we can do:
 * Get in touch with others who still can do some craft or are interested in learning one, support local craftsmen. 
 * Express the change you want to see, by shamelessly wearing patched or self-made clothing, beginning with yourself and your family and friends.
 * If you feel so inclined, *after* doing at least some of the above, which is the necessary foundation, go beyond your personal environment and start a campaign. For instance it may well be possible to initiate an individual or collective Satyagraha in front of fast-fashion shops, e.g. by handspinning in front of them and by offering flyers, presenting a message on a card board or taking similar inobtrusive measures to protest against the injustice of the industry. There is no need to annoy anyone by directly talking to people unasked. It suffices to offer a new perspective, to be there and to bear witness silently.  
+
+--- 
+
+Possible slogans on a cardboard: 
+> "I don't want money. I want that you stop to finance suffering by buying there."
+
+> 
