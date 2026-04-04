@@ -140,6 +140,9 @@ When these so called timeless styles haven't been worn by anyone even just a hun
 If a woman would want to wear something timeless, then she may have to choose a Sari, a cloth that is now worn for thousands of years. If a man wants to wear something truly timeless he would have to choose a tunic, a cloth that as well has been worn now for thousands of years and around the world, in the West as well as in the East.  
 Thus, very little thinking suffices to recognise the vanity of all the claims brought forth by the fashion industry to promote whatever new style they come up with in order to invent some reason to buy new cloth.  
 
+If their clothing would be truly timeless, then it would be the same this year as the year before and ten years ago, the same today as tomorrow and ten years later. And on behalf of its timelessness it would hold up for years, it would be made durable and sturdy and when torn and worn it would be repaired, to give you no reason to buy anew what you have chosen for its timeless value. And if that would be the case, there would be no need to advertise it. Timeless cloth needs no advertisement. What it needs are people that don't care about advertisement. 
+
+Styles that you like today and are ashamed of in a few years or that others would have been ashamed of a few years ago, have no value. 
 
 
 
