@@ -193,9 +193,19 @@ But most importantly: I am capable to have a personal connection to the cloth an
 
 In the former way of buying cloth from abroad, I *need* to take responsibility just as well, I *am* responsible just as well, but everything is done to make me incapable of taking responsibility and to hide from me anything that would let me start to think twice about whether it is a good idea to buy the abusive rubbish that they sell. If we want to become nonviolent, if we want to live in a nonviolent world, we will not buy such things from corporations. We will buy from individuals. This is the cornerstone of trust. And this is how the maxime of loving each other applies to the economical sphere through the principle of "support of the nearest". 
 
-This is what the precept of *Swadeshi* means, that is one of the vows of those who believe in Sarvodaya, the Good of All.
+This is what the precept of *Swadeshi* means, that is one of the vows of those who believe in Sarvodaya, the Good of All. It amounts to a self-sufficiency, a form of local or regional autarky in the service of our neighbours, on behalf of the interests and needs of all, an economy for humans, not for profit. 
 
 ---
+
+## Gradual-Self Sufficiency
+
+Self-Sufficiency in clothing must not mean, that I have to do it all on my own and all by hand. What we mean is local or, where necessary, regional self-sufficiency for the reasons explained above, for an anti-fragile fullfilment of our needs without abuse.  
+
+When the non-violent revolutionary does it by hand that does not mean that he is necessarily of the view that local or regional self-sufficiency must be accomplished by handcraft only for principal reasons. He may do it because he currently has no other choice, because there is no local or regional, non-violent option now within the region.  
+He may as well do it in order to learn and to understand the processes. In the way of education in that we trust, who believe in the Good of All, we learn and teach through craft. Since I haven't received such an education, I have to educate myself. 
+
+Local or regional self-sufficiency in cloth can be realised with the help of technology. It just must be non-violent technology. 
+
 
 
 ## From the vision to practice
