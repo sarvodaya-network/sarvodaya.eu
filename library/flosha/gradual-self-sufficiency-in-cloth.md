@@ -43,12 +43,13 @@ Thus: If I want to satisfy my need for clothing in a non-violent way, only three
 * To have others make it for me deliberately.
 * To use cloth discarded by others.  
 
-Finding discarded cloth by others, as the early buddhist monks were doing, is in a way, and as long as it is a possible option, the best of all ways. In that case I have something to wear, I neither had to produce it anew nor had others to produce it anew for me and I can patch it forever. Therefore it is the most noble and most decent of ways; it is also the most humble option with the least pride involved. And as such it is diametrically opposed to what the civil man considers to be most decent - that which is new and without any sign of wear and tear; so much so that he is ashamed of repairing his cloth! Shame be on those who consider as a sign of poverty, what is nothing but a sign of rationality.   
+Finding discarded cloth by others, as the early buddhist monks were doing, is in a way, and as long as it is a possible option, the best of all ways. In that case I have something to wear, I neither had to produce it anew nor had others to produce it anew for me and I can patch it forever. Therefore it is the most noble and most decent of ways; it is also the most humble option with the least pride involved. And as such it is diametrically opposed to what the civil man considers to be most decent - that which is new and without any sign of wear and tear; so much so that he is ashamed of repairing his cloth! Shame be on those who consider as a sign of poverty, what is nothing but a sign of rationality.  
+
 But disposed cloth will, at least in theory, never be possible to be chosen by everyone at every time, because whether it is sold or given or found, every kind of cloth has at some point to be made, ere it gets discarded.
 
 ---
 
-## Clothing is Expression
+## Clothing as Expression
 
 But there is more to clothing than just its function of covering the body. It is also expression and representation. In that I wear cloth, in that I cover my body with cloth, I express a preference of one thing over another as I chose to wear it over other options that I do not wear. This matters in two regards: (1) The process of cloth-making or production involved in it and (2) the beauty or lack thereof expressed by it. 
 
