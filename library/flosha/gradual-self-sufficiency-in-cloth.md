@@ -9,6 +9,8 @@ ToDo:
 * Also show the heaps of garbage in africa, what happens with our cloth when we throw it away. 
 * add automatic dark mode to lib and index
 * Add at the top some infos about what the fashion industry worldwide means, what its doing and how much harm it is causing. 
+* search clothes of lanza in könig der armen and in vier geißeln etc., search gandhis spinning wheel and khadi clothes, read gandhis khadi book(s)
+
   
 by Flosha
 
