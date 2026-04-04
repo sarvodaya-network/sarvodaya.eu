@@ -24,6 +24,7 @@ An application of Satyagraha and a demonstration of the Constructive Programme i
 * How to start?
   * Discarded Cloth
 * Clothing as Expression
+* Brands have to be abandoned
 * Suffering Woven in Cloth
 * Manufactured Sorrow
 * Revolution of the Spindle
@@ -123,6 +124,26 @@ It might for sure not be the *most* important area in which I should strive to e
 If I choose to *buy* cloth instead, which would be the worst of the options (as trade has no place in a family and when we want a nonviolent society, then there can be no trade anymore at some point), then this applies even more so, as I then not only represent and express the practices behind the clothing production with what I wear, but actively support these practices with money by buying it, which is an active vote in support of these violent practices, justifying and maintaining them.  
 
 We must therefore consider the possible ways in which clothing is made, which kind of clothing we can therefore choose to wear and thereby support and express what the clothing contains. 
+
+
+## Brands have to be abandoned
+
+One of the first thing that may cross our mind when thinking about which clothing to choose, are the various different "brands" we can choose from.
+
+At first it has to be stressed that the price of clothing says nothing at all about the conditions of its production (nor the quality). Many so called luxury brands are producing their clothing in the very same way, under the very same violent and abusive conditions as others. 
+
+Secondly we have to point out the obvious: There is little that we should consider to be more shameful in regard to clothing than openly wearing such brands. The public display of luxury brands for showing off is in direct proportion to the vanity of a persona. By wearing such clothing not with shame, but with pride, means outing oneself as being superficial beyond believe. The more fancy and luxurious the clothing, the more spiritually poor one is declined to deem those wearing it. How can one show pride in a piece of clothing that is costlier than others while produced under the same ugly conditions? 
+
+By publicly showing off such a brand in form of printed clothing, brand emblems, brand embroidery and so forth, you actively promote vanity. You advertise to waste money and pay more for the same abusive conditions of production. 
+
+The very minimum that we can do is to not wear clothing with the logos of any company on them, which practices we can not morally support, because none of these logos are a sign of virtue, they are all just signs of vice. 
+
+If you truly find a brand that makes clothing in virtuous ways and it comes with a logo that you wish to promote, then wear it by all means. But don't be so miserable to promote what is clearly vice for the reason of others mispresenting it as virtue. Never be so reliant on others that you do stuff for no other reason than that "others do it too". You imagine the beggars on the street to be ashamed for their torn up and dirty clothing. And you dare to make fun of them, for their incapability to wash them due to their misery. As far as I am concerned I can see nothing to be ashamed about there. But I can see much to be ashamed about and much moral misery in feeling superior for reasons of what one wears and for seeking popularity, acceptance or fame, by making themselves a wandering advertisement. 
+
+So fuck brands. Why would one care about them? It is individuals about which we care. Care for the girl who makes the shirt and not for the garbage written on it. 
+
+If we already have such clothing with visible brands on them, there is no need to throw them away. We can at the very least remove patched-on emblems, overpatch prints and cut labels off and choose not to buy anew such clothing when possible. Our body is not a living  
+
 
 
 ## Suffering woven in Cloth
