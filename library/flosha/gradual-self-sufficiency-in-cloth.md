@@ -27,6 +27,7 @@ An application of Satyagraha and a demonstration of the Constructive Programme i
 * Suffering Woven in Cloth
 * Manufactured Sorrow
 * Revolution of the Spindle
+* Non-violent technology
 * Gradual-Self Sufficiency
 * Constructive Programme
 
