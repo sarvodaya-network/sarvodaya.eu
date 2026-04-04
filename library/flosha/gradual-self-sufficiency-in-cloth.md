@@ -1,4 +1,4 @@
-# Khadi - A Rebellion against Fashion
+# A Rebellion against Fashion
 or Gradual Self-Sufficiency in Clothing
 
 ToDo: 
@@ -8,6 +8,7 @@ ToDo:
 * Add section explaining the spinning wheel and why it stands for revolution.
 * Also show the heaps of garbage in africa, what happens with our cloth when we throw it away. 
 * add automatic dark mode to lib and index
+* Add at the top some infos about what the fashion industry worldwide means, what its doing and how much harm it is causing. 
   
 by Flosha
 
@@ -18,14 +19,19 @@ An application of Satyagraha and a demonstration of the Constructive Programme i
 
 ## Introduction
 
-When anything that concerns my body is out of balance, I am responsible for seeking to re-establish balance. If anything that concerns my family is out of balance, I am responsible for seeking to re-establish balance, because I am part of this family. When anything that concerns my environment is out of balance, I am responsible for seeking to re-establish balance, because I am part of the environment. When anything that concerns my society is out of balance, I am responsible for seeking to re-establish balance, because I am part of this society. In short: If there is a problem, I am responsible to fix it. 
+When anything that concerns my body is out of balance, I am responsible for seeking to re-establish balance. Who should do it if not me? If anything that concerns my family is out of balance, I am responsible for seeking to re-establish balance, because I am part of this family. When anything that concerns my environment is out of balance, I am responsible for seeking to re-establish balance, because I am part of the environment. When anything that concerns my society is out of balance, I am responsible for seeking to re-establish balance, because I am part of this society. In short: If there is a problem, I am responsible to fix it. 
 
-Today there is a problem with our cloth. There is a fundamental problem with fashion. I am wearing cloth, thus I am part of the problem. I am responsible for the problem. I am not responsible for it alone, but I am responsible to a degree. And it is the absolute minimum that I take responsibility to this degree. 
+Today there is a problem with our cloth. There is a fundamental problem with fashion. I am wearing cloth, thus I am part of the problem. I am responsible for the problem. I am not responsible for it alone, but I am responsible to a degree. And it is my duty, the minimum, that I take responsibility to this degree. 
 
 [TODO] 
 Describe the problem and show some of it. 
 
-I am a part of this problem, to the degree that I partake in it by buying and wearing cloth. In order to take responsibility, I must start with myself and seek for constructive solutions. We call this the development of a constructive programme. 
+I am a part of this problem, to the degree that I partake in it by buying and wearing cloth. In order to take responsibility, I must start with myself and seek for solutions. 
+
+If I am aware of this, I must rebel against it. But a destructive rebellion is worthless. It will destroy something without building up anything else. Our rebellion is not of this kind. Ours is a constructive rebellion. 
+
+There is little use and value in pointing out a problem without offering solutions. If I am sick because I eat a particular food, then it doesn't help me much that someone points this out to me, if I already know it. I may eat that food because I have no other choice. I may know what the problem is, but I do not know what to do instead and how to fix it.  
+The problem behind the fashion industry is no secret. Many know about it, but not many care. It is good to make it known more and more, but the most essential thing is to offer constructive solutions. In our non-violent tradition we call this the development of a constructive programme. 
 
 
 ## How to start? 
