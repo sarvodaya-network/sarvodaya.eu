@@ -1,4 +1,4 @@
-# Lokniti
+# Lokatik / Lokniti
 
 Lokniti is opposed to rajniti (the indian name for politics) and meant to overcome it. lok refers to the people, while raj refers to "rule". 
 
@@ -34,5 +34,14 @@ Lokalwille statt Staatswille.
 Lokalfriede statt Staatsgewalt.  
 
 But does that work in action?  
+
+Politics is broken by design. Politics means that people from the bottom with no perceived power bring people into power in order to organise their life and handle their affairs. When anything is wrong they plead to the people at the top to fix it.
+
+It is true that in a so-called democracy, in theory, the people should not feel powerless and that the people at the top, in theory, should only receive their power and remain in power by will of the people. They are, in theory, meant to do nothing but to serve the people. But in practice this is not the case at all and it is so by design. It lies in the very nature of party and power politics and representative democracy. 
+
+
+
+
+
 
 
