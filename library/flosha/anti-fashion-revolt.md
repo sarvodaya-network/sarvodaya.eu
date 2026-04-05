@@ -43,7 +43,9 @@ An application of Satyagraha and a demonstration of the Constructive Programme i
 
 ## Introduction
 
-When anything that concerns my body is out of balance, I am responsible for seeking to re-establish balance. Who should do it if not me? If anything that concerns my family is out of balance, I am responsible for seeking to re-establish balance, because I am part of this family. When anything that concerns my environment is out of balance, I am responsible for seeking to re-establish balance, because I am part of the environment. When anything that concerns my society is out of balance, I am responsible for seeking to re-establish balance, because I am part of this society. In short: If there is a problem, I am responsible to fix it. 
+When anything that concerns my body is out of balance, I am responsible for seeking to re-establish balance. Who should do it if not me? If anything that concerns my family is out of balance, I am responsible for seeking to re-establish balance, because I am part of this family. When anything that concerns my environment is out of balance, I am responsible for seeking to re-establish balance, because I am part of the environment. When anything that concerns my society is out of balance, I am responsible for seeking to re-establish balance, because I am part of this society. In short: If there is a problem, I am responsible to fix it. Who should do it if not me?
+
+It must be me, because everyone thinks, that it's the responsibility of others. Wherever that is the case, we must say: It is mine. I am responsible.
 
 Today there is a problem with our cloth. There is a fundamental problem with fashion. I am wearing cloth, thus I am part of the problem. I am responsible for the problem. I am not responsible for it alone, but I am responsible to a degree. And it is my duty, the minimum, that I take responsibility to this degree. 
 
@@ -54,13 +56,13 @@ I am a part of this problem, to the degree that I partake in it by buying and we
 
 If I am aware of this, I must rebel against it. But a destructive rebellion is worthless. It will destroy something without building up anything else. Our rebellion is not of this kind. Ours is a constructive rebellion. 
 
-There is little use and value in pointing out a problem without offering solutions. If I am sick because I eat a particular food, then it doesn't help me much that someone points this out to me, if I already know it. I may eat that food because I have no other choice. I may know what the problem is, but I do not know what to do instead and how to fix it.  
+<!-- There is little use and value in pointing out a problem without offering solutions. If I am sick because I eat a particular food, then it doesn't help me much that someone points this out to me, if I already know it. I may eat that food because I have no other choice. I may know what the problem is, but I do not know what to do instead and how to fix it.  -->
 The problem behind the fashion industry is no secret. Many know about it, but not many care. It is good to make it known more and more, but the most essential thing is to offer constructive solutions. In our non-violent tradition we call this the development of a constructive programme. 
 
 
-## How to start? 
+## My part in it
 
-The constructive programme always starts on the individual level. In this case it starts with the recognition of a need: I need clothing.  
+Nonviolent action starts with the recognition of my responsibility, of my part in the problem, and so the constructive programme always starts on the individual level. In this case it starts with the recognition of my own need: I need clothing.  
 I need clothing for reasons of decency, but also in order for my body not to freeze in the climate in which I live.  
 Upon recognising this need, I go on to ask: *How can I get clothing?* There are only three options:  
 * I can make it myself.  
@@ -72,13 +74,13 @@ If I choose the first or third option, I may not be a burden on others. But if I
 If I let others make it for me, there are only three options that arise in regard to it:  
 1. Either others do it deliberately and give it to me deliberately, without expecting anything in return.   
 2. Or others do it non-deliberately, being forced to do it and forced to give it.
-3. Or others may do it deliberately (as they could as well not do it) or non-deliberately (as they cannot afford not to do it), but do not give it deliberately, expecting something in return.
+3. Or others may do it deliberately (when they could as well not do it) or non-deliberately (when they cannot afford not to do it), but do not give it deliberately, expecting something in return.
 
 Of these three options, the first option is the purest and most non-violent one. The second option is impure and violent. The third option has some degree of violence and some degree of non-violence to it. It is more violent in regard to the relation of others to themselves, when they are forced to do it, as they need the money they demand in return to survive, it is less violent in regard to the relation of others to themselves, when they are free to do it, as they do not necessarily need whatever they demand in return, which makes it more violent in regard to me, as they force me to pay for something I need while they don't need it. 
 
 If comparing this to a family, - with which we will always compare any economical and political issue, since any system is only as good and nonviolent as the degree to which it works like a harmonious family - this is comparable to two sisters. 
 
-Option 1: The most pure and non-violent one. One sister is making cloth, the other sister isn't. This may be because the other sister hasn't learned to do it yet, or because she may for other reasons be unable to do it. She also may be the younger one and be not yet as productive, still in the process of learning the basics. She may as well do other things, which are beneficial to her sister. But in any way, she doesn't make cloth. Therefore her sister is making the cloth for her deliberately and gives it to her deliberately.
+Option 1: The most pure and non-violent one. One sister is making cloth, the other sister isn't. This may be because the other sister hasn't learned to do it yet, or because she may for other reasons be unable to do it. She also may be the younger one and be not yet as productive, still in the process of learning the basics. She may as well do other things, which are beneficial to her sister. But in any way, she doesn't make cloth. Therefore her sister is making the cloth for her deliberately and gives it to her for free.  
 
 Option 2: The most impure and violent one. One sister is making cloth, the other sister isn't. The sister that isn't making cloth, forces the other to do it for her and to hand it over to her. This option is out of question.  
 
@@ -88,7 +90,7 @@ If one finds this situation to be absurd between two sisters, if one perhaps eve
 
 Thus: If I want to satisfy my need for clothing in a non-violent way, only three options remain:  
 * To make it myself.
-* To have others make it for me deliberately and give it to me deliberately.
+* To have others make it for me deliberately and give it to me for free. 
 * To use cloth discarded by others.  
 
 
@@ -102,6 +104,8 @@ That cloth that for the civil man might be regarded to be blameless due to its e
 
 Truly blameless is the cloth that is truly valued by considering it worthy of repair. 
 
+Not only the buddhist monks have chosen this practice. The old sufis of Islam used to have patchwork robes as well and the clothing of saints like Francis can be assumed to have been heavily patched simply due to the radicality of his voluntary poverty and the need of repair. 
+
 The poor peasants of old Japan used to patch their clothing so much that it sometimes ended up completely overpatched, being handed down for generations, as they could not afford anything new. This same clothing that the rich of their time have looked down upon is now shown in Museums and sold to the rich of today. 
 
 [Show Boro cloth]
@@ -113,9 +117,9 @@ Our clothing is valueless because we do not value it. We do not value it to be w
 But as noble as the usage of disposed cloth and patching may be, it will not be possible to be chosen by everyone at every time. Whether it is sold or given or found, if it is new, reused or recycled, every kind of cloth has at some point to be made, ere it gets discarded. When it breaks down I can patch it, but only as long as cloth for patching is available. 
 
 The same applies to cloth I have already. If I have enough already, I need no additional cloth, and as long as I don't, others don't have to produce new cloth on my behalf. I am thus, to that degree, no burden on others.  
-If I already have cloth, then I can keep it and if it breaks down I can patch it infinitely; there would then arise no need at any point for new clothing to be made for me. But even if I choose this noble path of patching my cloth infinitely, which sooner or later amounts to over-patching it, I need cloth in form of patches to be used for the patching. If all people would choose to go this path, patches would be lacking soon, and then, at the least, new cloth is needed and has to be made. 
+If I already have cloth, then I can keep it and if it breaks down I can patch it infinitely; there would then arise no need for new clothing to be made for me. But even if I choose this noble path of patching my cloth infinitely, which sooner or later amounts to over-patching it, I need cloth in form of patches to be used for the patching. If all people would choose to go this path, patches would be lacking soon, and then, at the least, new cloth is needed and has to be made. 
 
-There is therefore no way to completely ommit responsibility for how clothing is made. It may be possible individually, but it is not possible collectively. Since there is also a collective responsibility of the individual, we ought to consider the conditions of clothing production regardless of whether we personally will ever buy new clothing or not. 
+There is therefore no way to completely ommit responsibility for how clothing is made. It may be possible individually, but it is not possible collectively. There is a collective responsibility of the individual too and we ought to consider the conditions of clothing production regardless of whether we personally will ever buy new clothing or not. 
 
 ---
 
@@ -132,7 +136,7 @@ The cloth chosen can be a result of and give expression to nonviolent cloth-maki
 
 I cannot wear cloth without this cloth being produced. It is true: If the cloth has been discarded and I haven't paid for it, then I do not actively support any practice behind its production and may not have any unwholesome intention. Intention was all the Buddha cared about and at the time there was nothing to blame about wearing discarded clothing. But we also must be aware that at the time of the Buddha there did not exist any clothing produced under conditions even remotely comparable to the conditions of today. Every cloth was produced with at least a basic amount (most often and most likely a high amount) of dignity of the labour involved. Discarded cloth collected from cremation grounds and battlefields, as the monks were doing, was no exception from this rule; it was pure to that degree.   
 
-If one is shocked in this regard, that they have chosen to wear the cloth found on cremation grounds, one be reminded of the fact that christian monks follow the same ideal: The younger monks are wearing the "last shirt" of a former monk who died. 
+If one is shocked in this regard, that they have chosen to wear the cloth found on cremation grounds, one be reminded of the fact that in christianity the same ideal is followed, in that younger monks are wearing the "last shirt" of a former monk who died. The clothing of the monk thus turns not into a glorification of ones body, as clothing so often becomes, but a reminder of mortality. 
 
 Any clothing we can find has been produced in particular ways, by particular men or by machines, under particular conditions. And when I choose to wear it, I am choosing to wear cloth made under these particular conditions over other cloth made under other conditions. And by wearing it I give expression to these conditions and make myself a representative of these conditions. The conditions under which the cloth has been made that I wear, is not beyond my responsibility. It is within my responsibility, because I wear it. If I know about the conditions, my intention can no longer be pure. And if I don't know about these conditions, I choose to be ignorant. But my ignorance is within my responsibility too.  
 
@@ -140,21 +144,23 @@ Therefore, when I want to be non-violent and if I want to express nonviolence in
 
 It might for sure not be the *most* important area in which I should strive to express nonviolence, but I should strive to express it in every area. And it is nonetheless an important one, as cloth is a fundamental need in life and one of the most obvious ways in which I can express and promote nonviolence or the lack thereof. 
 
-If I choose to *buy* cloth instead, which would be the worst of the options (as trade has no place in a family and when we want a nonviolent society, then there can be no trade anymore at some point), then this applies even more so, as I then not only represent and express the practices behind the clothing production with what I wear, but actively support these practices with money by buying it, which is an active vote in support of these violent practices, justifying and maintaining them.  
+If I choose to *buy* cloth instead, which would be the worst of the options (as trade has no place in a family and when we want a nonviolent society, then, at some point, we can have no trade anymore), then this applies even more so, as I then not only represent and express the practices behind the clothing production with what I wear, but actively support these practices with money by buying it, which is a direct vote in support of these violent practices, justifying and maintaining them.  
 
-We must therefore consider the possible ways in which clothing is made, which kind of clothing we can therefore choose to wear and what we thereby support and express what the clothing contains. 
+We must therefore consider the possible ways in which clothing is made, which kind of clothing we can therefore choose to wear and what we thereby support and express through the clothing – what the clothing implies and contains. 
 
 
 ## Style and the Vanity of Trends
 
-Fashion trends are one of the most prominent factors, that influence the clothing choice of people in modern industrial societies, most often with no regard whatsoever of how the clothing is made. It only matters how it looks. 
+Fashion trends are one of the most prominent factors, that influence the clothing choice of people in modern industrial societies, most often with no regard whatsoever to how the clothing is made. It only matters how it looks. 
 
 Fashion is by definition a momentary, short-timed system of trends, opposed to anything of timeless value. Fashion is a constant promotion and enforcement of trends for profit. In order to sell, the public is manipulated by means of idol worship and advertisement missionaries to prefer one thing over another. Of course it always has to be a different thing than before in order to create a reason to buy something again that one hasn't already. 
 
 Among these promoted styles there is also something that is commonly described as "classic". These classics are glorified as something "timeless", something that can always be worn. If these styles are timeless and can always be worn we would expect to find them everywhere in the long history of humanity or at least in the history of the culture that we live in. Little knowledge in the development of clothing is needed to see the falsehood of such an expectation and thus the falsehood of said claim.  
-When these so called timeless styles haven't been worn by anyone even just a hundred years ago in our own culture, then there is nothing timeless about them. 
+When these so called timeless styles haven't been worn by anyone even just a hundred years ago in our own culture, what is nothing timeless about? 
 
-If a woman would want to wear something timeless, then she may have to choose a Sari, a cloth that is now worn by females for thousands of years. If a man wants to wear something truly timeless he would have to choose a tunic or a buddhist monk robe; male attire that as well has been worn now for thousands of years and around the world, in the West as in the East.  
+The only possible case in which there would be some value to that claim is when any actually *functional* new inventions would have been made, which improve the function of cloth compared to former clothing styles. 
+
+If a woman truly wants to wear something timeless, then she may have to choose a Sari, a cloth that is now worn by females for thousands of years. If a man wants to wear something truly timeless he would have to choose a tunic or a buddhist monk robe; male attire that as well has been worn now for thousands of years around the world, in the West as in the East.  
 Thus, very little thinking suffices to recognise the vanity of all the claims brought forth by the fashion industry to promote whatever new style they come up with in order to invent some reason to buy new cloth.  
 
 If their clothing would be truly timeless, then it would be the same this year as the year before and ten years ago, the same today as tomorrow and ten years later. And on behalf of its timelessness it would hold up for years, it would be made durable and sturdy and when torn and worn it would be repaired, to give you no reason to buy anew what you have chosen for its timeless value. And if that would be the case, there would be no need to advertise it. Timeless cloth needs no advertisement. What it needs are people that don't care about advertisement. And truly timeless cloth isn't fashionable, it is the opposite of fashion. It is anti-fashion.
