@@ -86,26 +86,33 @@ Every local can set it into motion at any time and without asking anyone for per
 
 ### Councils and Advisors
 
-* Every core family forms a council selecting one servant, one "minister" in the best sense of the term, an advisor, from their family by consent. <!-- in order to serve their interests and to express their concerns and ideas. -->
+* Every core family forms a council selecting one servant, one "minister" in the best sense of the term, an advisor, from their family by consent.
 * These family representives and individuals meet with others from a specific neighbourhood, forming a neighbourhood council. That may be a street, it may be a couple of streets, a small settlement or an entire village council. They also select one minister from among themselves by consent.
 * The ministers of the neighbourhood or village council meet with other ministers of their region or dorfverband or city and select one minister of their region or dorfverband or city from among themselves by consent. 
 * The ministers of the villages, the cities or the regions meet with others in a land council and select one minister from among themselves of their land by consent. 
 * Those ministers of the lands select one minister of the country by consent in the country council. 
 * Those ministers of the countries select one minister of the continent by consent, the continental council. 
-* Those ministers of the continents select one minister of the world by consent, in the world council. 
-* This last minister selected by consent in the world council, by the very definition, is the *last* and lowest of them all, because he serves all. 
+* Those ministers of the continents select may or may not select one minister of the world by consent, in the world council. 
+* This last minister selected by consent in the world council, by the very definition, is the *last* and lowest of them all, because he serves all and has of all the least authority. He only has moral authority.  
 
 
 ### Decision-Making
 
-The process goes as follows:
-* The lowest minister, which is the one of the world, raises questions to be answered by the world council formed by the continental ministers. 
-* The continental ministers discuss these questions among themselves and have to find a common position or common questions that they agree on by consent; it can as well be a diverse position in form of a small paper that shows their approaches, suggestions, possibilities and uncertainties and raises questions to the countries. 
-* This continental paper of consent is send to the continental council of the ministers of the countries. The country ministers discuss the questions, possibilities, suggestions, uncertainties provided by the world council in their respective continental councils. The results are send back to the world council by which e.g. agreements by consent can be found between two or more continents to find a common solution.
-* The questions, suggestions, uncertainties, possibilities etc. summarised by the continental council are then send to the country councils of that continent, consisting of the land ministers.
-* What they come up with again by consent is send to the land councils consisting of the region ministers. 
-* What they come up with again by consent is send to the region councils consisting of the village/city ministers. 
-* From the bottom (which is the world level) it goes back to the top where the decisions are finally decided at the individual level of highest authority within families and from the families it goes back at the bottom to the world council level with the least authority and so forth. 
+The process goes as follows.
+It is a constant cycle from the top (individual level) to the bottom (world council) and from the bottom back to the top (individual level). 
+
+* Individuals, the locals, hold a council within their families, within their friend circles, their households or within their house in order to formulate their interests and find a common resolution agreed on by every householder. In their resolution they express their thoughts and ideas, their opinion, problems, wishes and concerns in regard to their neighbourhood and what they would wish it to be. If there are topics upon which no consent can be achieved, that is noted down as well and left undecided for the moment being. Focus is laid on what *can* be agreed on by consent. What cannot yet be agreed on requires further common thought and effort.
+
+* This family or individual resolution by every household is brought into the neighbourhood or village council. Here decisions are made by consent in regard to the neighbourhood/village on the basis of the household resolutions; this way all decisions concerning the neighbourhood/village and all interests of the families in regard to it are made most effectively and on the spot; that means all *internal affairs* are autonomously dealt with internally. But there will be many areas that are not concerning the neighbourhood or village alone, external topics that concern the wider city that the neighbourbood is a part of or the village federation that the village is a part of. Thus a resolution is made regarding all external concerns. 
+
+* This same process is then applied in the city or village-federation councils internally, and externally towards the regional councils. It is applied by the regional councils internally, and externally towards the land councils. It is applied by the land councils internally, and externally towards the country councils. It is applied by the country councils internally, and externally applied towards the continental councils. It is applied by the continental councils internally, and externaly towards the world council. It is applied by the world council internally and then the process is reversed.  
+
+The lowest minister, which is the one of the world, raises questions to be answered by the world council formed by the continental ministers. The continental ministers discuss these questions among themselves in the world council and have to find a common position or common questions that they agree on by consent; it can as well be a diverse position in form of a small paper that shows their approaches, suggestions, possibilities and uncertainties and raises questions to the countries.  
+The continental paper of consent is send to the continental council of the ministers of the countries. The country ministers discuss the questions, possibilities, suggestions, uncertainties provided by the world council in their respective continental councils. The results are send back to the world council by which e.g. agreements by consent can be found between two or more continents to find a common solution.  
+The questions, suggestions, uncertainties, possibilities etc. summarised by the continental council are then send to the country councils of that continent, consisting of the land ministers.What they come up with again by consent is send to the land councils consisting of the region ministers.  
+What they come up with again by consent is send to the region councils consisting of the village/city ministers. 
+
+From the bottom (which is the world level) it goes back to the top where the decisions are finally decided at the individual level of highest authority within families. From the families it goes back at the bottom to the world council level with the least authority and so forth. 
 
 That means solutions are found in a constant exchange from the lowest to the highest level and vice versa, where the highest level is the individual; in total opposition to the coercive and violent system we are now living in.
 
@@ -141,12 +148,14 @@ Authority
 ```
 
 
-It is the very opposite to a system in which the individual is the lowest in authority, and in which the ministers of a given parlament are not anymore bound to the servitude of the lower levels that they are coming from; they are on that very level at which they make decisions, whereas in our non-violent scheme they remain at the *higher* (in old thinking "lower") level which they are bound to serve and only come together regularly in the council to carry out the orders that they receive from the higher level that is closer to the individual (in old thinking: receive from the "lower level".
+It is the very opposite to a system in which the individual is the lowest in authority, and in which the ministers of a given parlament are not anymore bound to the servitude of the lower levels that they are coming from; they are on that very level at which they make decisions, whereas in our non-violent scheme they remain at the *higher* (in old thinking "lower") level which they are bound to serve and only come together regularly in the council to carry out the orders that they receive from the higher level that is closer to the individual (in old thinking: receive from the "lower level").  
 
 In this way, there is no top-down hierarchy from the perspective of the *centre*, which in this case is the world council. From the perspective of the centre there is a bottom-up hierarchy. But from the perspective of the individuals, which live at the most decentralised level, there is a top-down hierarchy, starting by *them*. It is only in this way that self-rule can be realised, and the only way by which a true "rule of rule" can find expression that deserves the name. 
 
-It goes way beyond the petty and nominal democracy of today and very importantly: In many ways it is able to reconcile the now conflicting interests of those who take more of a socialist position, as well as of those who take more of a liberalist position. 
+It goes way beyond the petty and nominal democracy of today and very importantly: In many ways it is able to reconcile the now conflicting interests of those who take more of a socialist position, as well as of those who take more of a liberalist position.  
 Because it is only by this scheme, that the interests of all are to the least possible degree taking precedence to the interests of the individual and in which the interests of the individual harm to the least possible degree the interests of all. 
+
+The prevailing delusional conflicts of interests and the ideological conflicts between many so-called left and right positions arise only on the basis of the political process, while they would dissolve in a locatical process. They are consequences of a disharmony brought about by a political order that is disharmonious by design.  
 
 
 
