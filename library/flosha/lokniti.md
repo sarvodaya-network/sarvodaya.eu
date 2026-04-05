@@ -55,7 +55,7 @@ Long story short: Such elections are a farce.
 And it cannot be anything but a farce as long as party politics exist. 
 
 
-## The Rule of the Locals
+## (Il)legitimacy of Authority
 
 What else could be done? What would be a *true* rule of the people? It would be the rule of the locals, brought about by something else than politics, the art of the state and the art of guaranteeing the sovereignty of the state. It is brought about by *locatics*, the art of local autonomy and the art of guaranteeing the sovereignty not of the local; the sovereignty of the individual, which alone can truly signify what we call "omniarchy", the rule of all, which is the positive side of what in negative terms has been coined "anarchy", non-rule. It is a rule of all, because everyone has power and does not feel powerless. And it is a rule of none, because none exercises power over others and none feels overpowered. It is therefore true *self-rule*, which consists in: Let us rule ourselves and no other, on an individual basis.  
 
@@ -70,21 +70,33 @@ It is not that it exercises power. A parent does that too and it may sometimes b
 
 Where a state is not proclaiming this very goal and actively working towards it, there it fully undermines its own justification. 
 
-There is no need to ommit the state ere the people are capable to govern themselves and when the state is actively supporting them in doing so. But a state that does not even *want* that people govern themselves and doesn't supporting them doing so, is like a parent who strives to hold its children in dependence, who wants its children to rely on them forever. Where this is the case, a child is better off without such a parent. Where this is the case, citizens are better of with no state. 
+There is no need to ommit the state ere the people are capable to govern themselves and when the state is actively supporting them in doing so. But a state that does not even *want* that people govern themselves and doesn't supporting them doing so, is like a parent who strives to hold its children in dependence, who wants its children to rely on them forever. Where this is the case, a child may be better off without such a parent. Where this is the case, citizens may be better of with no state. 
+
+This is the fundamental test by which the legitimaticy of a state and a government can be tested: Do they want and actively support the local people to govern themselves and to overcome the need of a central state authority or not? The authority of a parent is legitimate to exactly that degree to which it wants and tries to remove its own need from the child, so that the child can rely on its own. And the authority of a state is legitimate to exactly that degree to which it wants and tries to remove its own need from the population, so that the population can rely on its own. 
+
+So, how does that work in practice? 
 
 
+## The Rule of the Locals
 
-How does this work
+How it works is the locatical process, in which there is a gradual development of local autonomy. The locatical process is independent of (though not necessarily unbound by) political processes that may go on simultaneously, with the eventual goal to gradually make politics redundant and to gradually overcome the state.  
 
-* Every family selects one servant, one "minister" in the best sense of the term, from their family by consent in order to serve their interests. 
-* The minister meets with the other ministers from a specific neighbourhood. That may be a street, it may be a a couple of streets, a small settlement or an entire village and select one minister from among themselves by consent. 
-* The ministers of the neighbourhoods or villages meet with other ministers of their region or dorfverband or city and select one minister of their region or dorfverband or city from among themselves by consent. 
-* The ministers of the villages, the cities or the regions meet with others and select one minister from among themselves of their land by consent. 
-* Those ministers of the lands select one minister of the country by consent. 
-* Those ministers of the countries select one minister of the continent by consent. 
-* Those ministers of the continents select one minister of the world by consent. This minister, by the very definition, is the lowest of them all, because he serves all. 
+Every local can set it into motion at any time and without asking anyone for permission. It works through councils and resolutions, by decision-making through consensus and by the unanimous selection of advisers.  
 
----
+
+### Councils and Advisors
+
+* Every core family forms a council selecting one servant, one "minister" in the best sense of the term, an advisor, from their family by consent. <!-- in order to serve their interests and to express their concerns and ideas. -->
+* These family representives and individuals meet with others from a specific neighbourhood, forming a neighbourhood council. That may be a street, it may be a couple of streets, a small settlement or an entire village council. They also select one minister from among themselves by consent.
+* The ministers of the neighbourhood or village council meet with other ministers of their region or dorfverband or city and select one minister of their region or dorfverband or city from among themselves by consent. 
+* The ministers of the villages, the cities or the regions meet with others in a land council and select one minister from among themselves of their land by consent. 
+* Those ministers of the lands select one minister of the country by consent in the country council. 
+* Those ministers of the countries select one minister of the continent by consent, the continental council. 
+* Those ministers of the continents select one minister of the world by consent, in the world council. 
+* This last minister selected by consent in the world council, by the very definition, is the *last* and lowest of them all, because he serves all. 
+
+
+### Decision-Making
 
 The process goes as follows:
 * The lowest minister, which is the one of the world, raises questions to be answered by the world council formed by the continental ministers. 
@@ -97,7 +109,37 @@ The process goes as follows:
 
 That means solutions are found in a constant exchange from the lowest to the highest level and vice versa, where the highest level is the individual; in total opposition to the coercive and violent system we are now living in.
 
-And very importantly: Every "lower" council (that means, from the individual down), consists of "higher" level ministers that are bound to the servitude of the higher level closer towards the individual. 
+Every "lower" council (that means, from the individual down), consists of "higher" level ministers that are bound to the servitude of the higher level closer towards the individual. 
+
+```
+Highest                
+Authority
+
+            Locals /
+            Individuals
+                 |
+            Family Councils
+                 |
+            Village Councils
+                 |
+            Regional Councils
+                 |
+            Land Councils
+                 |
+            Country Council
+                 |
+            Continental Council
+                 |
+            World Council
+                 |
+            last servant
+
+Mere Moral
+Authority
+
+
+```
+
 
 It is the very opposite to a system in which the individual is the lowest in authority, and in which the ministers of a given parlament are not anymore bound to the servitude of the lower levels that they are coming from; they are on that very level at which they make decisions, whereas in our non-violent scheme they remain at the *higher* (in old thinking "lower") level which they are bound to serve and only come together regularly in the council to carry out the orders that they receive from the higher level that is closer to the individual (in old thinking: receive from the "lower level".
 
