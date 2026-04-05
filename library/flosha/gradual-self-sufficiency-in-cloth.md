@@ -88,7 +88,7 @@ If one finds this situation to be absurd between two sisters, if one perhaps eve
 
 Thus: If I want to satisfy my need for clothing in a non-violent way, only three options remain:  
 * To make it myself.
-* To have others make it for me deliberately.
+* To have others make it for me deliberately and give it to me deliberately.
 * To use cloth discarded by others.  
 
 
@@ -98,7 +98,7 @@ Thus: If I want to satisfy my need for clothing in a non-violent way, only three
 
 Finding discarded cloth by others, as the early buddhist monks were doing, is in a way, and as long as it is a possible option, the best of all ways. In that case I have something to wear, I neither had to produce it anew nor had others to produce it anew for me and I can patch it forever. Therefore it is the most noble and most decent of ways; it is also the most humble option with the least pride involved. And as such it is diametrically opposed to what the civil man considers to be most decent - that which is new and without any sign of wear and tear; so much so that he is ashamed of repairing his cloth! Shame be on those who consider as a sign of poverty what is nothing but a sign of rationality. 
 
-That cloth that for the civil man might be blameless due to its external "purity" and "integrity", is full of blame, impurity and disintegrity for those who care about causality and the suffering of others. 
+That cloth that for the civil man might be regarded to be blameless due to its external "purity" and "integrity", is regarded to be full of blame due to its internal impurity and disintegrity by those who care about causality and the suffering of others. 
 
 Truly blameless is the cloth that is truly valued by considering it worthy of repair. 
 
