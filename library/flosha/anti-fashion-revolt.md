@@ -188,6 +188,11 @@ Another thing that may cross our mind when thinking about which clothing to choo
 
 At first it has to be stressed that the price of clothing says nothing at all about the conditions of its production (nor the quality). Many so called luxury brands are producing their clothing in the very same way, under the very same violent and abusive conditions as others and often they aren't more sturdy the least. 
 
+Nor does the price of clothing say anything about how much you value it. That one is willing to pay ten times more for anything includes in no way that he values it any more. It tells us nothing about how well he will treat it, how good he will care for it or how much he likes it.  
+The readyness to pay a higher price (if able to) *can* include valueing it more. But most often the only thing it tells us is that the person paying the price has more money at his disposal. He may care as little about that costly piece of cloth as poorer people care about the cheap one. Since they have enough they can easily replace it and will as well throw it away when showing any signs of wear and tear. 
+
+If on the other hand they value it much they will not wear it at all in order to prevent such wear and tear. They then have clothing to hang it on the wall or to be happy about it lying in their closet. In other words: They are collecting garbage. But its rare garbage. And since there is a market for rare garbage, luxury brands aren't getting tired to release one rare thing after another for the garbage connaisseurs. 
+
 Secondly we have to point out the obvious: There is little more shameful in regard to clothing than openly wearing such brands. The public display of luxury brands for showing off is in direct proportion to the vanity of a persona. By wearing such clothing not with shame, but with pride, means outing oneself as being superficial beyond believe. The more fancy and luxurious the clothing, the more spiritually poor one is declined to deem those wearing it. How can one show pride in a piece of clothing that is costlier than others while being produced under the same ugly conditions? 
 
 By publicly showing off such a brand in form of printed clothing, brand emblems, brand embroidery and so forth, we actively promote vanity. We advertise to waste money and pay more for the same abusive conditions of production. 
