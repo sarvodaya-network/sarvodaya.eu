@@ -44,6 +44,8 @@ An application of Satyagraha and a demonstration of the Constructive Programme i
 * Constructive Programme
 
 
+Add Lanzas ideas in quatre fleux etc. and coomaraswamy.
+
 ---
 
 
