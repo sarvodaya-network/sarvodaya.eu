@@ -474,38 +474,53 @@ On such an individual program a mass-scale rebellion can easily be based, but th
 
 ### Points of the Program
 
-Minimum steps to take responsibility on the individual level:   
-* I will have to completely stop to buy clothing when we have no fully locally or regionally produced clothing available. 
-* I will repair and recycle my clothing.
+There are minimum steps required to take responsibility on the individual level:  
+
+* I must discern actual need and rational usage of cloth from delusional demands and get rid of the the latter. 
+* I will have to completely stop to buy clothing as long as we have no locally or regionally produced clothing available. 
+* I will repair and recycle my clothing (e.g. sewing new clothing from old, unused pieces, sewing cloth from old linnen etc.).
 * If I need to buy new clothing for whatever reason I should buy used clothing.
-* I should learn a craft like sewing, weaving, knitting, spinning, cardening or several of those (among these sewing and spinning should be absolute basics that everyone should be able to do as a part of basic education).
+* I should learn a craft like sewing, weaving, knitting, spinning, cardening or several of those (among these we consider sewing and spinning to be absolute basics that everyone should be able to do as a part of basic education).
 
-Additional steps on an individual level that can set an example: 
-* One may sew clothing from old linnen.
-* One may try to dye clothing naturally by hand.
-
-Steps to be taken in service of others as soon as possible; someone will have to take these sooner or later (parts ot these).
-
-One may...   
-* choose to keep sheep and to learn about working with the wool.
-* One may choose to get wool and learn how to wash it and prepare it for spinning. 
-* One may start cultivating flax and learn about the processes to prepare the flax for spinning and how to simplify them on a local, small manufactural level.
+There are steps to be taken in service of others as soon as possible; someone will have to take them, one or several of them if he wants to work on the gradual liberation from economical abuse in regard to clothing. On this end, one may... 
+   
+* Choose to keep sheep and experiment with how to sheer them in nonviolent ways by gradual training. One should also at least consider if there may not be other methods too. Sheep like to be petted like other animals if they're used to humans. There may be ways to get wool by tousling + cutting wool directly on the sheep; a partial removal and thinning, not necessarily complete sheering. The wool acquired in this way would then not be as high in quantity and the process would have to be done more often, but with deliberately less need, more value for the wool used and a focus on the wellbeing of everyone involved, there might be a good solution to be found along these lines of thinking.   
+* choose to get wool and learn how to wash it and prepare it for spinning. 
+* start cultivating flax and learn about the processes to prepare the flax for spinning and how to simplify them on a local, small manufactural level.
+* experiment with natural dye for colouring cloth in sustainable ways and offer such a service to others. 
 * open local workshops for repair/patching and recycling of clothing.
-* Open local workshops to learn handcraft together or to invent and build small local technology to simplify processes.
-* Inform others about the problems of cloth and about possible solutions to the problem, as with this text.
-* Create smaller flyers that are easier to digest for people and that point out smaller and easier to understand aspects of the vaster and more complex issues mentioned here.
-* Get in touch with others who still can do some craft or are interested in learning one.
-* Support local craftsmen. 
-* Express the change you want to see, by shamelessly wearing patched or self-made clothing, beginning with yourself, your family and friends.
-* If you feel so inclined, *after* doing at least some of the above, which is the necessary foundation, go beyond your personal environment and start a campaign. For instance it may well be possible to initiate an individual or collective Satyagraha in front of fast-fashion shops, e.g. by handspinning in front of them and by offering flyers, presenting a message on a card board or taking similar inobtrusive measures to protest against the injustice of the industry. There is no need to annoy anyone by directly talking to people unasked. It suffices to offer a new perspective, to be there and to bear witness silently.  
+* open local workshops to learn handcraft together or to invent and build small local technology to simplify processes.
+* inform others about the problems of cloth and about possible solutions to the problem, as with this text.
+* create smaller flyers that are easier to digest for people and that point out smaller and easier to understand aspects of the vaster and more complex issues mentioned here.
+* get in touch with others who still can do some craft or are interested in learning one and connect them, as is already done by initiatives such as... [link]
+* support local craftsmen. 
+* express the change you want to see, by shamelessly wearing patched or self-made clothing, beginning with yourself, your family and friends.
 
---- 
 
-Possible slogans on a cardboard: 
-> "I don't want money. I want that you stop to finance suffering by buying there."
+### Individual Satyagraha in the Public
+
+If you feel so inclined, *after* doing at least some of the above, which is the necessary foundation, go beyond your personal environment and start a campaign. For instance it may well be possible to initiate an individual or collective Satyagraha in front of fast-fashion shops, e.g. by handspinning in front of them and by offering flyers, presenting a message on a card board or taking similar inobtrusive measures to protest against the injustice of the industry. There is no need to annoy anyone by directly talking to people unasked. It suffices to offer a new perspective, to be there and to bear witness silently.  
+
+We may offer slogans for such a campaign, but no ready-made material to be bought. If you want to present a slogan, then write it on old cardboard or stitch it on flags from old and unused fabric.  
+
+Possible slogans: 
+
+> When sitting on the ground in front of a fast fashion shop: "I don't want money. I want that you stop to finance suffering by buying here."
+
+> Children pay the price that you save.
+
+> If you could see how this clothing is made, you would never buy it. 
+
+> See behind the Clothing. You pay for Suffering.
+
+> Buying Clothing made through Abuse, is Abuse.
+
+> There is Suffering Woven into your cloth. 
+> Not buying is the least you can do. 
+
 
 ---
 
-Initially we wrote, that the words here written are destined to show how to work for the liberation from systematic economical abuse according to the philosophy of Sarvodaya. The fashion industry and how it abuses our cloth, how it abuses human beings for our cloth and how it turns something that could sanctity and beautify our life into vice which uglyness is getting hidden from our view but hard to endure for anyone looking behind, is merely one example that I have chosen to reflect on what is pervading as well all other economical areas of our life. The current nightmare of economical abuse is systemic, rooted in the system. Who wants to overcome it must uproot the system. Sarvodaya is determined to do that, with pure means, with nonviolence, with love. To restore the dignity of labour and the dignity of man. 
+Initially we wrote, that the words here written are destined to show how to work for the liberation from systematic economical abuse according to the philosophy of Sarvodaya. The fashion industry is merely one example. How it abuses our cloth, how it abuses human beings for our cloth and how it turns something that could sanctify and beautify our life into vice; into suffering hidden from our view. What is so easy for you to buy is hard to endure for anyone looking behind. But it is merely one example that I have chosen to reflect on what is pervading as well all other economical areas of our life. The current nightmare of economical abuse is systemic, rooted in the system. Who wants to overcome it must uproot the system. Sarvodaya is determined to do that, with pure means, with nonviolence, with love. To restore the dignity of labour and the dignity of man. 
 
 Take care! 
