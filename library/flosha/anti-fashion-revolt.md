@@ -1,5 +1,10 @@
-# Revolt against Fashion
+# Anti-Fashion Revolt 
 or Gradual Self-Sufficiency in Clothing
+
+EN:  
+* Revolt against Fashion
+* Anti-Fashion Revolt
+* Khadi for All. On the Liberation from Systematic Economical Abuse at the Example of the Fashion Industry. 
 
 DE Vorschläge: 
 * Revolte wider die Mode
@@ -495,13 +500,8 @@ One may...
 Possible slogans on a cardboard: 
 > "I don't want money. I want that you stop to finance suffering by buying there."
 
+---
 
+Initially we wrote, that the words here written are destined to show how to work for the liberation from systematic economical abuse according to the philosophy of Sarvodaya. The fashion industry and how it abuses our cloth, how it abuses human beings for our cloth and how it turns something that could sanctity and beautify our life into vice which uglyness is getting hidden from our view but hard to endure for anyone looking behind, is merely one example that I have chosen to reflect on what is pervading as well all other economical areas of our life. The current nightmare of economical abuse is systemic, rooted in the system. Who wants to overcome it must uproot the system. Sarvodaya is determined to do that, with pure means, with nonviolence, with love. To restore the dignity of labour and the dignity of man. 
 
-
-
-
-
-
-
-
-
+Take care! 
