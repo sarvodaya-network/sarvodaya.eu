@@ -113,7 +113,7 @@ Not only the buddhist monks have chosen this practice. The old sufis of Islam us
 
 The poor peasants of old Japan used to patch their clothing so much that it sometimes ended up completely overpatched, being handed down for generations, as they could not afford anything new. This same clothing that the rich of their time have looked down upon is now shown in Museums and sold to the rich of today. 
 
-[Show Boro cloth]
+![Boro textile](library/flosha/anti-fashion-revolt/Boro_textile_from_Japan,_with_sashiko.jpg)
 
 A result of utmost poverty and a cloth with little value has become highly valuable simply due to the poor people valueing and patching it. Poverty turned into dignity. The simple rational decision to patch their cloth contineously out of bare necessity has turned it into art. It has thereby been raised in value simply because someone has valued it so much. 
 
