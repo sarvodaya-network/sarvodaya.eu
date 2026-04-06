@@ -35,6 +35,7 @@ An application of Satyagraha and a demonstration of the Constructive Programme i
 * Clothing as Expression
   * Clothing Styles
   * Brands have to be abandoned
+* Clothing in Tradition
 * Suffering Woven in Cloth
 * Manufactured Sorrow
 * Revolution of the Spindle
