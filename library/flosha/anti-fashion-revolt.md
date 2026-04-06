@@ -3,7 +3,7 @@ or Gradual Self-Sufficiency in Clothing
 
 EN:  
 * Revolt against Fashion
-* Anti-Fashion Revolt
+* Anti-Fashion Revolt/Rebellion
 * Khadi for All. On the Liberation from Systematic Economical Abuse at the Example of the Fashion Industry. 
 
 DE Vorschläge: 
@@ -352,6 +352,8 @@ Women, no longer being dependent on men, instead became dependent *like* men; no
 
 Just as we have cheap clothing only because others pay the price, we also have our apparent economical freedom only because we indirectly enslave others. We have no slaves more here, but there are human beings in other countries working like slaves for us and there is nothing that justifies this state of affairs.  
 This misery that *we cause* is easy not to feel bad about when it is so far away that it cannot be seen. But there will be a time that reasonable human beings will judge us for this deliberate blindness. 
+
+![Old photo of western child labour (miners)](/library/flosha/anti-fashion-revolt/child-miners-12.jpg)
 
 In the beginning of industrialisation our western lands were full of children working in the factories under terrible conditions. Now we pride ourselves to have overcome this condition. But in truth we have only put the burden onto others, such as onto the slums of Bangladesh or the mines of Africa. Our way of living and our perpetual decadence still does not get along without child labour and gigantic economical abuse. Nothing has changed. We only found ways to hide all the most ugly and revolting aspects of that which is necessary for the maintenance of our delusional lifestyle. 
 
