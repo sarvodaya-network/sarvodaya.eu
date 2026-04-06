@@ -354,7 +354,6 @@ The good of all is contained in the good of each and the good of each in the goo
 Khadi is the answer. The spinning wheel is the means. And we are the ones who have to set the wheel into motion. Everyone of us. The wheel that turns the spindle, the wheel of the eternal Dharma, and the wheel of the non-violent revolution that we must bring about. 
 
 
-
 ## Gradual Self-Sufficiency of Cloth or from the vision to practice 
 
 By analysing the problem I have arrived at an understanding of (1) how things are, by not closing my eyes before the violent conditions involved in the production of clothing and (2) how I want things to be instead. What has started as my own personal problem (the problem of: "I need clothing"), by reflecting upon it, has turned out to be of international relevance; it turned out to be of relevance for everyone else just as well as for me (because they need clothing too); but I have to start with me and where I am. 
@@ -411,7 +410,7 @@ In my case, I am confronted with the following situation:
 * Personal needs: For my own current needs no additional clothing is needed, I can use what I have and repair it as long as I can; I have fabric for patching available from old clothing, which will last me for years to come. 
 
 
-### Constructive Program of Khadi
+## The Empowerment of the Constructive Program
 
 From our individual experiments we arrive at the constructive program. which in regard to cloth is summarised under the term *Khadi*. 
 
@@ -421,34 +420,68 @@ I started with my own personal need for cloth. I analysed the problem, developed
 
 For some this would be worthwile, eye-opening and motivating; if such people are found, we may be able to experiment together, some individuals can focus on other aspects and inform others about their findings again and thus proceed further. 
 
-But one cannot count on others for doing what is necessary to be done. If others do not want to work on this, I must work on it alone. This is another fundamental aspect of the constructive program. We are dependent on each other and we will have to work on this together, and it is conventionally true that one alone can not change the world. But it is fundamentally untrue, because who will start doing anything if not *one*? It may need many to move something on a large-scale. But it only needs a single individual to initiate a movement.  
-The initiation of movement (in every regard) is the most difficult. It is the step that requires the most trust and power. But when it has been initiated, the initially invested power will push the movement forward by translation or rotation. The force behind this translation and rotation depends on the initially given power, on the right movement technique and on the absolute preservence of the *core* strength around which all movement is going. The *initial power* or lack thereof is the degree of our own love and devotion and our yearning for peace and the movement will prevail to the degree of us continueing to nourish it; the right technique is *Satyagraha*, the art of living truthfully in adherence to eternal principles like truth, nonviolence and compassion, and the *core* strength that preserves our power and doesn't waste it outside, is our own internal depth, our deep grounding in the *internal life*.
+But one cannot count on others for doing what is necessary to be done. If others do not want to work on this, I must work on it alone. This is another fundamental aspect of the constructive program. We are dependent on each other and we will have to work on this together, and it is conventionally true that one alone can not change the world. But it is fundamentally untrue, because who will start doing anything if not *one*?  
+The one who starts doesn't have to be chosen. He has to *chose*. If you are the one, then not because you are or deem yourself to be better than any other, but simply because you recognise that it is necessary to be done and that no one else is doing it yet. If something is needed and it isn't done and I see no other trying to, it is a call.  
+
+It may need many to move something on a large-scale. But it only needs a single individual to initiate a movement.  
+The initiation of movement (in every regard) is the most difficult. It is the step that requires the most trust and power. But when it has been initiated, the initial power put into it will push the movement forward by translation or rotation. The force behind this translation and rotation depends on the initially given power, on the right movement technique and on the absolute preservence of the *core* strength around which all movement is going.  
+The *initial power* or lack thereof is the degree of our own love and devotion and our yearning for peace; and the movement will prevail to the degree to which we are consistently nourishing it. The right technique is *Satyagraha*, the art of living truthfully in adherence to eternal principles like truth, nonviolence and compassion. And the *core* strength that preserves our power and doesn't waste it outside, is the internal depth of our Self, our deep grounding in the *internal life*.
+
+The constructive program is empowering like no other, because it gives *you* the opportunity to act, to start, without the need of any other. So we don't have to despair. Neither do we need anyone to begin with, nor do we have to ask anyone for permission. Others will accuse you of pride and delusion for doing what you do, they may laugh at you for thinking that what you do would have any effect within the current conditions; while they who say so are the very reason for these conditions by accepting them. Your start, when driven by the right intentions and carried out by the right means, is a humble beginning. 
+
+The constructive program is empowering you and by carrying it out regardless of loneliness you will empower others. Everyone feels powerless because of their loneliness and thus unable to act; but their loneliness and their perceived powerlessness are each others cause, one is nourishing the other, which is not possible; they are nourished by nothing and are therefore nothing. You feel lonely only because you are disconnected from yourself. This connection is found within and it connects you to all. Power is within and always there. You just have to turn inside. 
+
+Satyagraha is for this very reason not only more effective when practiced on a spiritual basis, it is impossible to practice it without. What people for the most part used to do in the West is merely copying outside aspects of nonviolent resistance. This has nothing to do with Satyagraha, when the very basis of action is lacking. 
+
+If I want to empower myself and others, then the most powerful thing I can do in this regard is for myself to become more self-sufficient in every regard. Because no text is comparable to a living example. 
+
+If one can show that it is possible to be self-sufficient in clothing, to purify cloth-making and *how* it is possible and if one can express the beauty through cloth that is the inevitable consequence of non-violent cloth-making, and if, due to ones own experience gained, one can offer detailed advise and guidance about how to do every bit of it, people will have a much easier time to start working on this themselves too.  
+
+We need to do the hard stuff for others to have it easy; there is no other way. So this is what I should do. 
+
+
+### Hindrances on the Path
+
+On this path I will for sure stumble upon problems that I cannot solve by myself. <!-- as may be the case with my spinning and weaving that I have to refine to the necessary degree to become actually useable in regard to non-violent clothing production. --> If so, then this again is a call, this is the time to connect with others as it becomes necessary to do so on our path. But we have to start treading it to receive these natural calls that show us where to go and what to do. We will of course need to learn from and cooperate with others, but we cannot constantly justify with our own incapabilities, imperfections and shame our own inaction, while we clearly see the necessity to act.  
 
 
 
-The most important thing in this regard is for myself to become more self-sufficient in every regard. Because no text is comparable to a living example. If I can show that it is possible to be self-sufficient in clothing and to purify cloth-making and *how* it is possible and if I can express the beauty through cloth that is the inevitable consequence of non-violent cloth-making, and if, due to my own experience gained, I can offer detailed advise and guidance about how to do every bit of it, people will have a much easier time to start working on this themselves. So this is what I should do. 
+## Individual Program 
 
-If on this path I stumble upon problems that I cannot solve all by myself, as may be the case with my spinning and weaving that I have to refine to the necessary degree to become actually useable in regard to non-violent clothing production, then I need to learn from and cooperate with others, which I have to find. 
+Based on everything written before, I can provide myself and others with a simple and effective individual programme and a guideline that we can follow and develop futher in order to gradually proceed on the path to self-sufficiency in clothing, summarised as *Khadi* or nonviolent cloth.  
 
-Until then I can, based on everything written before, provide myself and others with a simple and effective programme and a guideline that we can follow in order to gradually proceed on the path to self-sufficiency in clothing. 
+On such an individual program a mass-scale rebellion can easily be based, but the program doesn't start there, it starts with us, with these little and lonely beings revolting in themselves. 
 
+---
 
-General Guideline:  
+### General Guideline of Conduct
+
 * Producing and buying sustainable, fair-trade clothing is less harmful than producing and buying non-sustainable, unfairly produced clothing, but it is still highly problematic, uneconomic and contains high potential of abuse. 
 * Producing and buying locally produced clothing is much less harmful, much more economic and comes with much lower potential of abuse, but is currently not done almost nowhere; it must be our priority to change that.   
 * Sharing, offering for free and reusing is much less harmful than buying, if something must be replaced.
 * Recycling by oneself or in the neighbourhood and repairing/patching is much less harmful than replacing and is thus the best thing to do next to self-production. 
 
-What we can do:  
-* We may stop to buy clothing when we have no fully locally or regionally produced clothing available. 
-* Repairing and recycling our clothing.
-* Making clothing from old linnen.
-* Dying clothing naturally by ourselves. 
-* If needed buying used clothing.
-* Learning a craft like sewing, weaving, knitting, spinning, cardening or several of those (sewing and spinning should be absolute basics that everyone should be able to do).
-* Keeping sheep and learning about working with the wool and how to simplify the cleaning process or the preparation for spinning.
-* Cultivating flax and learning about simplifying processes to prepare the flax for spinning.
-* Open local workshops for repair/patching and recycling of clothing.
+---
+
+### Points of the Program
+
+Minimum steps to take responsibility on the individual level:   
+* I will have to completely stop to buy clothing when we have no fully locally or regionally produced clothing available. 
+* I will repair and recycle my clothing.
+* If I need to buy new clothing for whatever reason I should buy used clothing.
+* I should learn a craft like sewing, weaving, knitting, spinning, cardening or several of those (among these sewing and spinning should be absolute basics that everyone should be able to do as a part of basic education).
+
+Additional steps on an individual level that can set an example: 
+* One may sew clothing from old linnen.
+* One may try to dye clothing naturally by hand.
+
+Steps to be taken in service of others as soon as possible; someone will have to take these sooner or later (parts ot these).
+
+One may...   
+* choose to keep sheep and to learn about working with the wool.
+* One may choose to get wool and learn how to wash it and prepare it for spinning. 
+* One may start cultivating flax and learn about the processes to prepare the flax for spinning and how to simplify them on a local, small manufactural level.
+* open local workshops for repair/patching and recycling of clothing.
 * Open local workshops to learn handcraft together or to invent and build small local technology to simplify processes.
 * Inform others about the problems of cloth and about possible solutions to the problem, as with this text.
 * Create smaller flyers that are easier to digest for people and that point out smaller and easier to understand aspects of the vaster and more complex issues mentioned here.
