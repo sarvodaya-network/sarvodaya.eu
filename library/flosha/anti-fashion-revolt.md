@@ -101,7 +101,7 @@ Thus: If I want to satisfy my need for clothing in a non-violent way, only three
 
 ### Discarded Cloth, Reusing Cloth and the noble practice of infinite patching
 
-[Image of a Monk]
+![Image of a Buddhist Monk](/library/flosha/anti-fashion-revolt/monk-7537162_1280.jpg)
 
 Finding discarded cloth by others, as the early buddhist monks were doing, is in a way, and as long as it is a possible option, the best of all ways. In that case I have something to wear, I neither had to produce it anew nor had others to produce it anew for me and I can patch it forever. Therefore it is the most noble and most decent of ways; it is also the most humble option with the least pride involved. And as such it is diametrically opposed to what the civil man considers to be most decent - that which is new and without any sign of wear and tear; so much so that he is ashamed of repairing his cloth! Shame be on those who consider as a sign of poverty what is nothing but a sign of rationality. 
 
@@ -113,7 +113,7 @@ Not only the buddhist monks have chosen this practice. The old sufis of Islam us
 
 The poor peasants of old Japan used to patch their clothing so much that it sometimes ended up completely overpatched, being handed down for generations, as they could not afford anything new. This same clothing that the rich of their time have looked down upon is now shown in Museums and sold to the rich of today. 
 
-![Boro textile](library/flosha/anti-fashion-revolt/Boro_textile_from_Japan,_with_sashiko.jpg)
+![Boro textile](/library/flosha/anti-fashion-revolt/Boro_textile_from_Japan,_with_sashiko.jpg)
 
 A result of utmost poverty and a cloth with little value has become highly valuable simply due to the poor people valueing and patching it. Poverty turned into dignity. The simple rational decision to patch their cloth contineously out of bare necessity has turned it into art. It has thereby been raised in value simply because someone has valued it so much. 
 
