@@ -218,6 +218,15 @@ But it wasn't enough; people offered their very bodies to these companies and ad
 One day we will return to dignity. One day we will realise that the only thing that we should proudly wear is the cloth made by ourselves or by our neighnours in non-violent ways; and these will need no advertisement on them, as everyone will know what they express and represent. 
 
 
+## Clothing as Tradition
+
+Todo: Show some traditional clothing and how the modern production has destroyed all of it. Not only the craft and knowledge around the craft, but style, diversity, beauty. 
+
+While proclaiming a multi-cultural world, our culture, worldwide, is becoming more uniform than it has ever been. Our economic system is directly destroying tradition and by destroying tradition it is destroying culture. 
+
+Where modern for-profit production appears, there all art and craft, beauty and style disappears. 
+
+
 ## Suffering woven in Cloth
 
 Everything that is made contains the story, the experience, the process, the suffering and happiness involved in its creation. If you face a human being, you shouldn't only see the superficial appearance of this human being, as if it were a mere image with no background and no life. There is a story behind this human being, there are experiences, there is development, there is suffering and happiness within. If you look at a human being, then every sensible and reasonable man can recognise this in every other; at least to a degree one will recognise it.  
