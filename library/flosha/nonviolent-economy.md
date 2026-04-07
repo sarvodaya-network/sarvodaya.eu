@@ -1,5 +1,8 @@
 # Nonviolent Economy
 
+Order of nonviolent economy for a nonviolent economic order.
+(Ein Orden gewaltloser Ökonomie für eine gewaltlose ökonomische Ordnung). 
+
 Idea: The equivalence to the Swaraj Shastra in terms of Economy. 
 
 Nonviolent economy means nonprofit economy. An economy that is nonviolent is a social economy, a for-human economy, that cannot be for-profit. It is also a non-possessive economy and an economy with no money. It is an economy based on work/production as social service, an economy of goods as gifts and of distribution as a sacrifice to god. 
