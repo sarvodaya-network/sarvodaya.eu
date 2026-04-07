@@ -33,24 +33,5 @@ A federation of all the local, regional, over-regional, national and trans-natio
 * International Federation of Sustainable, Solidary Builders
 
 
-Each of these organisations consists of workers, servants, that are devoted to one or more of these and other particular crafts based on real human needs. It is their sole mission to practice their craft as a social service for others. It is their mission to practice their craft, to work non-violently, non-profitable, sustainably, solidary, for the satisfaction of human needs.  
-Each of the associations is committed to each other, as each is required by all. 
-
-The spinning association is directly serving the association of weavers (knitters etc.). The weaving association is directly serving the tailors. The tailors are directly serving every household in a given area. The sheep-farming association, the flax cultivation etc. is directly serving the spinners. The gardeners and agriculture association is directly serving every household. 
-
-In a non-violent, non-profit, for-human economy, everything is so organised that all the goods of all the human crafts that work for the satisfaction of human needs, are considered as gifts that are brought to every household based on *real* demand. 
-
-This demand is approached in a scientific way and with regard to Sarvodaya through Antyodaya; since all have to be served and none can be left out, the production is at first based on a determined *minimum*. Each human being will receive a minimum amount of all goods as gifts from society. And each human being will work honestly and serve society to give back what they can.
-
-This will first be done by determining a minimum for children and a minimum for adults. It will then go on to establish a new minimum for those workers who have to do hard physical labour and are thus requiring more strength and energy. 
-
-When thus the minimum of each and everyone could be met, by the builders of the world providing living rooms for everyone, by the cloth workers of the world providing cloth for everyone, by the peasants and gardeners of the world providing food for everyone, then the next step will be taken, by striving from the minimum towards the optimum.  
-
-A new optimum is defined that is collectively strived for. And when this optimum is reached, there will be no need anymore for any additional growth. It can then be worked on simplifying, beautifying and purifying all of the processes, and all the time left is free to spend on the joy of art and on the art of joy.  
-
-
-
-
-
 
 
