@@ -72,4 +72,40 @@ Cette règle n'exige aucun changement d'occupation ou de manière; et cependant 
 
 ## 2. DE LA VERTICALE : MÉDIUS DROIT.  
 
+Mais revenons à notre main droite, au grand doigt du milieu qui signifie la Verticale, ligne et loi, colonne de l'équilibre, et poussée de la hauteur.  
+La Verticale est la direction de l'homme, la marque impérative de son destin.  
+L'homme se tient debout. Les animaux foncent en avant, tête basse: c'est devant eux, à ras de terre, qu'ils ont leur proie et leur but. L'homme debout est témoin que sa fin est Là-Haut, et qu'il est ici pour faire le lien entre ciel et terre. Les arbres aussi sont debout, mais à l'envers, la bouche enfoncée dans la terre, et le sexe jeté au ciel. L'homme seul est debout et à l'endroit. Y pensons-nous assez?  
+Nous sommes traversés par la ligne verticale. La ligne verticale et les déplacements de la ligne verticale, c'est avec cela qu'on transporte les montagnes (je ne parle pas au figuré ni avec emphase): la mécanique qui change puissamment la face de la terre est en bonne partie un jeu de levier, spéculation sur les déplacements de la Verticale.  
+Et si cette ligne verticale est puissante dans le monde extérieur, elle l'est aussi dans le monde intérieur. On ne médite pas couché; on ne prie pas couché, à moins d'être malade.  
+Il faut se sentir habité par la ligne verticale, la ligne du feu. Mais le feu de vie est une flamme fraîche et verte: un arbre.  
+L'acte spirituel accompli dans la Verticale compose les deux opposés: l'attention et la détente, la vigilance et la paix: ENTRER TOUT ÉVEILLÉ DANS LE SOMMEIL ET TOUT VIVANT DANS LA MORT, VOILA L'ACTE SPIRITUEL.  
+La Verticalité parfaite est un état de repos. Le saviez-vous? Faites l'expérience et vous verrez. Cherchez-la, ajustez les parties de votre corps de manière à ce qu'elles pèsent l'une sur l'autre. Oscillez légèrement et lorsque vous passerez par la Verticale, vous sentirez le repos. Voyez une échelle que soutiennent deux ouvriers: ils essaient, non sans peine, de la dresser, et titubent sous l'effort, mais une fois dressée elle deviendra légère et ils pourront la maintenir du bout du doigt. Les chevaux savent dormir debout. Il n'est pas de meilleur siège et de plus commode, que celui qui nous force à reposer sur nous-même et non sur lui, car il s'agira alors d'un repos vivifiant, non d'un repos pesant et dégradant. Evitez ces instruments orthopédiques qu'on appelle fauteuils, évitez aussi le dossier de la chaise: il est en vous. En marchant, ne perdez pas la Verticale: déplacez-la seulement; en vous asseyant, conservez-la du siège à l'occiput. Pensez à la retrouver si vous l'avez perdue en travaillant et vous éliminerez d'inutiles fatigues. L'homme qui porte sa ligne à travers la journée ne fait pas de bêtises, n'est pas précipité (jeté la tête en avant). Appuyés sur la Verticale, vous verrez les choses avec recul; vous réserverez un instant d'attente avant de répondre: si, de plus, vous prenez une bonne respiration, vous trouverez peut-être quelque chose d'intelligent à répondre.  
+Il est des hommes qui dégagent une certaine majesté: c'est la possession de la Verticale qui la donne. Ils dégagent la paix, on se sent en sûreté auprès d'eux: parce qu'ils se tiennent appuyés sur eux-mêmes, tandis que les gens et les foules vont perpétuellement penchés sur le vide et tombant les uns sur les autres comme vagues sur les vagues.  
+Le doigt du milieu est le pivot de la main, avons-nous dit, la règle de la Verticale est le point d'appui des neuf autres.  
+Rapportez-vous au tableau, et notez:  
 
+``1.`` *Attention*. Oscillez légèrement autour de la Verticale, arrêtez-vous en elle avec exactitude. Dès que vous vous y trouvez suspendu, quelque chose s'ouvre au milieu de vous comme une trappe et la vue, l'ouïe et les autres sens tendent à basculer vers l'intérieur. C'est la condition du Rappel.  
+``2.`` La *Verticale* est la condition de l'équilibre. L'équilibre atteint, tout se met en place de soi-même.  
+``3.`` *Respiration*. La Verticale dégage le thorax du ventre, donne au souffle l'espace et la liberté d'agir.  
+``4.`` *Détente*. La Verticale est position de repos comme l'horizontale, mais l'horizontale est la paix qui convient au sommeil, la Verticale la paix qui convient à la vigilance. Dès qu'on touche du dedans la verticale, on se trouve soulagé de son poids et l'on n'est plus crispé par la crainte de choir et par l'effort de se porter.  
+``5.`` *Méditation*. Que le méditant s'affaise sur son siège et sa concentration s'effondre, faute de centre.  
+``6.`` et ``7.`` *Respect et Dignité*. Une bonne tenue est la marque du respect d'autrui et de soi-même.  
+``8.`` *Rythme*. Jeu de balance dans la mouvement. C'est au sommet de la Verticale qu'il convient d'accrocher la balance.  
+``9.`` *Détachement*. L'homme établi dans la Verticale regarde les choses et les gens passer et tourner autour de lui comme du haut d'une tour.  
+``10.`` *Prière*. Se placer volontairement dans la Verticale, c'est se rattacher à la hauteur. A chacun des prophètes, la première chose que Dieu a dite c'est: "Lève-toi!" Le Musulman lève le doigt, et ce geste, même s'il est couché, mourant, et a perdu la parole, signifie: "Je suis témoin qu'il est!" Celui qui prie debout ne demande rien pour lui, sinon à prendre part à la gloire du Très Haut.  
+
+
+## 3. DE LA RESPIRATION : ANNULAIRE.
+
+Votre souffle est la mesure de votre vie: la poitrine étroite et le souffle petit sont d'un homme craintif, timide, avare peut-être. Le héros se distingue toujours par une belle poitrine. Si le ventre est le lieu du profit, la poitrine est le siège de la brûlure et du sacrifice, donc de tous les sentiments généreux: c'est le point le plus chaud du corps et c'est ce qui environne le cœur de plus près c'est la source du courage, du jaillissement de la vie.  
+La respiration est la seule des fonctions corporelles qu'il soit à notre portée de modifier directement. Toutes les autres fonctions sont instinctives, mais nous pouvons, à volonté, respirer vite ou lentement, volontairement ou involontairement.  
+Si vous respirez involontairement, cette respiration sera médiocre et sujette à toutes vos émotions. En dominant le souffle, vous dominerez tout le reste. Suspendez le souffle quelques minutes et vous en mourrez; c'est dire quelle est sa puissance.  
+Je vous propose d'adopter cet "exercise perpétuel". Préoccupez-vous d'avoir toujours assez d'air. Ouvrez les fenêtres et sortez s'il le faut: c'est plus utile, plus urgent que de rechercher la nourriture. Prenez goût à la qualité de l'air: évitez ce qui la gâte (autant qu'il se peut en un monde où l'on trempe dans un bain de pétrole et de tabac).  
+Elargissez votre rythme respiratoire et contrôlez-le. Connaissez votre mesure. Combien de temps pouvez-vous retenir votre respiration sans aucun signe d'étouffement? N'allez jamais jusqu'à l'étouffement dans vos expériences.  
+Sachez aussi que le souffle a une autre fonction que celle, purement chimique, de l'air sur le sang. C'est l'action de frottement. Tout frottement engendre des zones magnétiques. Il n'est pas indifférent de respirer par la bouche ou par le nez, par une narine ou par l'autre. Il y a dans les recès du nez, des points qui correspondent à tous les organes de notre corps. En piquant légèrement le point adéquat, on peut stimuler tel ou tel organe affaibli. Le frottement de l'air sur les points sensibles des muqueuses nasales est donc une cure.  
+Et qui tient le fil de son souffle, tient aussi le fil de ses pensées.  
+
+
+## 4. DE LA DÉTENTE : AURICULAIRE.  
+
+...
