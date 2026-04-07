@@ -1,7 +1,7 @@
 # Anti-Fashion Revolte
 
 Befreiung von systematischem   
-wirtschaftlichem Missbrauch 
+wirtschaftlichen Missbrauch 
 am Beispiel der Modeindustrie
 {: .center }
 
