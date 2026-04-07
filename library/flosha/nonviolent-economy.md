@@ -84,7 +84,7 @@ We could thus, instead of essential, also describe them as the *basic* crafts/ar
 Agriculture and Vegetable Gardening are corresponding to essential demands, flower cultivation is for beauty and falls thus under the non-essential, optional professions. It falls under the "fine arts". 
 
 
-## Service Orders
+## Service Orders or the Order of Service
 
 A nonviolent economy is organised by local service associations which consist in different service departments or professions.
 
@@ -96,21 +96,15 @@ Each of the associations is committed to each other, as each is required by all.
 The spinning association is directly serving the association of weavers (knitters etc.). The weaving association is directly serving the tailors. The tailors are directly serving every household in a given area. The sheep-farming association, the flax cultivation etc. is directly serving the spinners. The gardeners and agriculture association is directly serving every household. 
 
 
-## Goods as Gifts
+## Order and Service of Distribution or Goods as Gifts
 
 In a non-violent, non-profit, for-human economy, everything is so organised that all the goods of all the human crafts that work for the satisfaction of human needs, are considered as gifts that are brought to every household based on *real* demand. 
-
-
-### Meeting the Minimum for All
 
 This demand is approached in a scientific way and with regard to Sarvodaya through Antyodaya; since all have to be served and none can be left out, the production is at first based on a determined *minimum*. Each human being will receive a minimum amount of all goods as gifts from society. And each human being will work honestly and serve society to give back what they can.
 
 This will first be done by determining a minimum for children and a minimum for adults. It may or may not then go on by establishing a minimum for those workers who have to do hard physical labour and are thus requiring more strength and energy. 
 
 When thus the minimum of each and everyone could be met, by the builders of the world providing living rooms for everyone, by the cloth workers of the world providing cloth for everyone, by the peasants and gardeners of the world providing food for everyone, then the next step will be taken, by striving from the minimum towards the optimum.  
-
-
-## Striving for the Optimum
 
 A new optimum is defined that is collectively strived for. And when this optimum is reached, there will be no need anymore for any additional growth. It can then be worked on simplifying, beautifying and purifying all of the processes, and all the time left is free to spend on the joy of art and on the art of joy.  
 
