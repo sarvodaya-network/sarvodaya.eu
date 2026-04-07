@@ -22,10 +22,14 @@
 
 ---
 
-* International Federation of Non-Profit Economical Organisations or
-* International Federation of Solidarity Economy
-  * International Spinning Association or International Federation of Solidary Spinning
-  * International Associaton of Solidary Weaving
-  * International Federation of Solidarity Agriculture 
+## International Federation for Nonviolent Economy
+
+A federation of all the local, regional, over-regional, national and trans-national organisations that practice non-profit solidarity to purify our economic life. It includes such associations as...
+
+* International Spinning Association (or International Federation of Solidary Spinning)
+* International Weaving Associaton (or International Association of Solidary Weaving)
+* International Federation of Solidarity Agriculture
+* International Federation of Nonviolent Animal Keeping
+* International Federation of Sustainable, Solidary Builders
 
 
