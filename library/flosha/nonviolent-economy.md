@@ -1,5 +1,7 @@
 # Nonviolent Economy
 
+Idea: The equivalence to the Swaraj Shastra in terms of Economy. 
+
 Nonviolent economy means nonprofit economy. An economy that is nonviolent is a social economy, a for-human economy, that cannot be for-profit. It is also a non-possessive economy and an economy with no money. It is an economy based on work/production as social service, an economy of goods as gifts and of distribution as a sacrifice to god. 
 Because everyone coming to your door may be him. Ask, and it will be given.  
 
@@ -7,6 +9,14 @@ People say that such an economy is delusional and impractical, but it is much mo
 
 A nonviolent economy is organised by local service associations which consist in different service departments. Each craft corresponding to essential human needs is represented therein. Non-essential human demands aren't. They are organised as well, but count as additional, optional professions. 
 
+Example:  
+Cloth-making and it all it contains falls under the essential crafts. Any kind of dyeing of the cloth and other areas to beautify the cloth are not essential to the need for cloth; they are thus non-essential professions and do not count as the fulfillment of duty.
+
+This does not mean to degrade them in any way in their value; they are "fine arts" and everyone should practice such an art too; but duty has to be fulfilled first and that consists in the service in one of the essential areas of work for the satisfaction of basic needs.
+
+We could thus, instead of essential, also describe them as the *basic* crafts/arts and then there are additional arts on top of them, but they aren't basic. Everyone has the duty to work on the basis as everyone depends from this basis. 
+
+Agriculture and Vegetable Gardening are corresponding to essential demands, flower cultivation is for beauty and falls thus under the non-essential, optional professions. It falls under the "fine arts". 
 
 
 Each of these organisations consists of workers, servants, that are devoted to one or more of these and other particular crafts based on real human needs. It is their sole mission to practice their craft as a social service for others. It is their mission to practice their craft, to work non-violently, non-profitable, sustainably, solidary, for the satisfaction of human needs.  
