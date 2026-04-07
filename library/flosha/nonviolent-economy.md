@@ -5,9 +5,52 @@ Idea: The equivalence to the Swaraj Shastra in terms of Economy.
 Nonviolent economy means nonprofit economy. An economy that is nonviolent is a social economy, a for-human economy, that cannot be for-profit. It is also a non-possessive economy and an economy with no money. It is an economy based on work/production as social service, an economy of goods as gifts and of distribution as a sacrifice to god. 
 Because everyone coming to your door may be him. Ask, and it will be given.  
 
-People say that such an economy is delusional and impractical, but it is much more practical and real than any other. 
+People say that such an economy is delusional and impractical, but it is much more practical and real than any other. It brings order and justice into economical affairs. 
 
-A nonviolent economy is organised by local service associations which consist in different service departments. Each craft corresponding to essential human needs is represented therein. Non-essential human demands aren't. They are organised as well, but count as additional, optional professions. 
+
+## Order of Professions
+
+A nonviolent economy is organised by local service associations which consist in different service departments or professions.
+
+Human professions are of only two kinds, because human needs are also only of two kinds. There are such needs which are absolutely basic and essential, they are common to all human beings, as everyone needs them and cannot do without, and there are others that aren't essential, they are non-essential, or optional, since while they may have much value, they are not absolutely necessary and in this sense basic. 
+
+Human professions are corresponding to these needs. They are either among the basic professions which are serving the fulfillment of our common needs; they are in this sense foundational, we may for this reason also call them primary professions; and there are such professions which are not serving the fulfilment of actual needs, and are non-foundational. Many of these may have much value too and are valued by many, if not by all, but they are non-foundational, they are "aufbauend" and in this sense, they arw secondary.  
+
+We may say that there are nine primary human needs: 
+* Love
+* Work
+* Knowledge
+* Food
+* Cloth
+* Warmth
+* Health
+* Hygiene
+* Shelter
+
+Love, Knowledge and Work are essential; life consists in them and we exist through them. All we do has to do with these. Everyone needs them. But if we speak of economy, then we automatically speak of sustenance too, which is the first target of economy. The first thing a householder is trying to do is to ensure sustenance, survival of all members of the household. As long as sustenance, livelihood is not provided, no one would worry to decorate the house. 
+
+This atual sustenance is provided by work.  
+And work must provide it in the form of:  
+* Food
+* Cloth
+* Health
+* Hygiene
+* Shelter + Warmth
+
+If one lives in a warmer climate, warmth is not as much of a problem, in colder climates it is a big problem. Therefore we list it as part of the shelter, which is necessary everywhere; the only difference is that in climates that are more human-friendly, simpler shelters suffice and in climates that are more hostile to human nature in the winter, more measures have to be taken to survive against the cold. All the other areas are needed by all humans everywhere. They are absolutely basic needs of everyone, primary needs. And therefore we must consider it everyones duty (insofar it is possible to him) to serve in regard to at least one of these areas in order to be considered useful to society. Everyone in a nonviolent society needs to work in at least one of these five areas as a primary profession. 
+
+And therefore, Nai Talim, the new education, is teaching through primary crafts that fall under this category. In a nonviolent order every child would thus receive "basic education" which includes mastery over at least one of the basic crafts corresponding to actual, primary human needs. 
+
+---
+
+
+
+
+
+
+
+
+Each craft corresponding to essential human needs is represented therein. Non-essential human demands aren't. They are organised as well, but count as additional, optional professions. 
 
 Example:  
 Cloth-making and it all it contains falls under the essential crafts. Any kind of dyeing of the cloth and other areas to beautify the cloth are not essential to the need for cloth; they are thus non-essential professions and do not count as the fulfillment of duty.
