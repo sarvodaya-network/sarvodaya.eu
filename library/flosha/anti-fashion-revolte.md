@@ -1,15 +1,9 @@
-# Anti-Fashion Revolt 
-or Gradual Self-Sufficiency in Clothing
+# Anti-Fashion Revolte
 
-EN:  
-* Revolt against Fashion
-* Anti-Fashion Revolt/Rebellion
-* Khadi for All. On the Liberation from Systematic Economical Abuse at the Example of the Fashion Industry. 
-
-DE Vorschläge: 
-* Revolte wider die Mode
-* Anti-Fashion Revolte
-* Anti-Fashion
+Befreiung von systematischem   
+wirtschaftlichem Missbrauch 
+am Beispiel der Modeindustrie
+{: .center }
 
 ```
 ToDo: 
@@ -51,175 +45,180 @@ Add Lanzas ideas in quatre fleux etc. and coomaraswamy.
 
 ## Introduction
 
-When anything that concerns my body is out of balance, I am responsible for seeking to re-establish balance. Who should do it if not me? If anything that concerns my family is out of balance, I am responsible for seeking to re-establish balance, because I am part of this family. When anything that concerns my environment is out of balance, I am responsible for seeking to re-establish balance, because I am part of the environment. When anything that concerns my society is out of balance, I am responsible for seeking to re-establish balance, because I am part of this society. In short: If there is a problem, I am responsible to fix it. Who should do it if not me?
+Wenn etwas, das unseren Körper betrifft, dann betrifft es mich, weil ich Verantwortung für diesen Körper trage. Wer sollte das tun, wenn nicht ich? Wenn etwas meine Familie betrifft, betrifft es mich, weil ich Teil dieser Familie bin. Wenn etwas meine Umwelt betrifft, betrifft es mich, weil ich Teil der Umwelt bin. Wenn etwas meine Gesellschaft betrifft, bin ich verantwortlich, weil ich Teil dieser Gesellschaft bin. Kurz: Wenn es ein Problem gibt, bin ich dafür verantwortlich, es zu lösen. Wer sollte das tun, wenn nicht ich?  
 
-It must be me, because everyone thinks, that it's the responsibility of others. Wherever that is the case, we must say: It is mine. I am responsible.
+Es muss ich sein, weil *jeder* denkt, dass andere verantwortlich sind. Wo immer das der Fall ist, müssen wir sagen: Es ist meine. Ich bin verantwortlich. 
 
-Today there is a problem with our cloth. There is a fundamental problem with fashion. I am wearing cloth, thus I am part of the problem. I am responsible for the problem. I am not responsible for it alone, but I am responsible to a degree. And it is my duty, the minimum, that I take responsibility to this degree. 
+Heute gibt es ein Problem mit unserer Kleidung. Es gibt ein fundamentales Problem mit Mode. Ich trage Kleidung, also bin ich Teil des Problems. Ich bin verantwortlich für das Problem. Ich bin nicht allein dafür verantwortlich, aber ich bin verantwortlich in einem bestimmten Grade. Und es ist meine Pflicht, das Minimum, dass ich in diesem Grade Verantwortung übernehme. 
 
-[TODO] 
-Describe the problem and show some of it. 
+[Das Problem beschreiben]
 
-I am a part of this problem, to the degree that I partake in it by buying and wearing cloth. In order to take responsibility, I must start with myself and seek for solutions. 
+Ich bin Teil des Problems zu dem Grad, in dem ich daran Anteil nehme, indem ich Kleidung kaufe und trage. Um Verantwortung zu übernehmen, muss ich bei mir selbst beginnen und nach Lösungen suchen. 
 
-If I am aware of this, I must rebel against it. But a destructive rebellion is worthless. It will destroy something without building up anything else. Our rebellion is not of this kind. Ours is a constructive rebellion. 
+Wenn ich mir dessen bewusst bin, dann muss ich dagegen rebellieren. Aber eine destruktive Rebellion ist wertlos. Sie wird etwas zerstören, ohne irgendetwas anderes aufzubauen. Unsere Rebellion ist nicht von dieser Art. Unsere Rebellion ist konstruktiv. 
 
 <!-- There is little use and value in pointing out a problem without offering solutions. If I am sick because I eat a particular food, then it doesn't help me much that someone points this out to me, if I already know it. I may eat that food because I have no other choice. I may know what the problem is, but I do not know what to do instead and how to fix it.  -->
-The problem behind the fashion industry is no secret. Many know about it, but not many care. It is good to make it known more and more, but the most essential thing is to offer constructive solutions. In our non-violent tradition we call this the development of a constructive programme. 
+
+Das Problem hinter der Mode ("Fashion") Industrie ist kein Geheimnis. Viele wissen davon, aber nur wenige scheint es zu kümmern. Es ist gut, es mehr und mehr bewusst zu machen, aber das Wichtigste ist, konstruktive Lösungen anzubieten. In unserer gewaltlosen Tradition nennen wir das die Entwicklung eines "konstruktiven Programms". 
 
 
-## My part in it
+## Mein Anteil daran
 
-Nonviolent action starts with the recognition of my responsibility, of my part in the problem, and so the constructive programme always starts on the individual level. In this case it starts with the recognition of my own need: I need clothing.  
-I need clothing for reasons of decency, but also in order for my body not to freeze in the climate in which I live.  
-Upon recognising this need, I go on to ask: *How can I get clothing?* There are only three options:  
-* I can make it myself.  
-* I can let others make it for me.
-* I can get cloth that others have discarded. 
-* I can steal it from others. 
+Gewaltlose Aktion beginnt mit der Anerkennung meiner Verantwortung, meines Anteils am Problem. Das konstruktive Programm beginnt immer auf dem individuellen Level. In diesem Fall beginnt es mit der Erkenntnis meines eigenen Bedürfnisses: Ich brauche Kleidung.  
+Ich brauche Kleidung aus Gründen des Anstands, aber auch, damit mein Körper nicht friert dort, wo ich lebe. Nachdem ich dieses Bedürfnis erkannt habe, frage ich: *Wie kann ich Kleidung bekommen?* Es gibt nur drei Möglichkeiten:  
+* Ich kann sie selbst herstellen.  
+* Ich kann andere sie für mich machen lassen.  
+* Ich kann mir Kleidung beschaffen, die andere weggeworfen haben.  
+* Ich kann sie anderen stehlen.  
 
-If I choose the first or third option, I may not be a burden on others. But if I choose the second one, I automatically burden others with my needs. Since I cannot satisfy it by myself, others have to satisfy it for me; I thus depend on others. This fact isn't any less true if I pay them for doing so; my needs are inevitably putting a burden onto others, they create a necessity for labour that others have to do because I don't.  
+Wenn ich die erste oder dritte Option wähle, dann mag ich anderen keine Bürde sein. Aber wenn ich die zweite Möglichkeit wähle oder die vierte, so bürde ich automatisch anderen mein Bedürfnis auf. Weil ich es nicht selbst befriedigen kann, müssen andere es für mich befriedigen; also hänge ich von anderen ab. Diese Tatsache ist nicht im Mindesten weniger wahr, wenn ich sie dafür bezahle; meine Bedürfnisse legen anderen unvermeidlich eine Bürde auf, sie schaffen die Notwendigkeit von Arbeit, die andere tun müssen, weil ich sie nicht tue.  
 
-If I let others make it for me, there are only three options that arise in regard to it:  
-1. Either others do it deliberately and give it to me deliberately, without expecting anything in return.   
-2. Or others do it non-deliberately, being forced to do it and forced to give it.
-3. Or others may do it deliberately (when they could as well not do it) or non-deliberately (when they cannot afford not to do it), but do not give it deliberately, expecting something in return.
+Wenn ich andere die Kleidung für mich machen lasse, so gibt es nur drei Möglichkeiten, die in Hinsicht darauf entstehen:  
+1. Entweder die anderen tun das freiwillig und geben es mir freiwillig ("freigiebig"), ohne etwas im Gegenzug zu erwarten. 
+2. Oder andere tun es unfreiwillig, werden dazu gezwungen es zu tun und gezwungen es zu geben. 
+3. Oder andere könnten es entweder freiwillig tun (wenn sie die Möglichkeit haben, es ebensogut nicht zu tun) oder unfreiwillig tun (wenn sie es sich nicht leisten können, es nicht zu tun), aber es nicht freiwillig geben, weil sie etwas im Gegenzug erwarten. 
 
-Of these three options, the first option is the purest and most non-violent one. The second option is impure and violent. The third option has some degree of violence and some degree of non-violence to it. It is more violent in regard to the relation of others to themselves, when they are forced to do it, as they need the money they demand in return to survive, it is less violent in regard to the relation of others to themselves, when they are free to do it, as they do not necessarily need whatever they demand in return, which makes it more violent in regard to me, as they force me to pay for something I need while they don't need it. 
+Von diesen drei Möglichkeiten ist die erste die Reinste und die Gewaltloseste. Die zweite Möglichkeit ist unrein und gewaltsam. Die dritte Möglichkeit hat einen gewissen Anteil von Gewalt und einen gewissen Anteil von Gewaltlosigkeit. Es ist mehr gewaltsam in Hinsicht auf die Beziehung dieser anderen zu sich selbst, wenn sie dazu gezwungen sind, es zu tun, weil sie das Geld benötigen, dass sie im Gegenzug verlangen, um zu überleben. Es ist weniger gewaltsam im Hinsicht auf die Beziehung der anderen zu sich selbst, wenn sie frei sind, es zu tun, weil sie nicht notwendigerweise brauchen, was sie im Gegenzug verlangen, was es gewaltsamer macht in Hinsicht auf mich, weil sie mich dazu zwingen für etwas zu bezahlen, dass ich brauche, während sie es nicht brauchen. 
 
-If comparing this to a family, - with which we will always compare any economical and political issue, since any system is only as good and nonviolent as the degree to which it works like a harmonious family - this is comparable to two sisters. 
+Wenn wir das mit einer Familie vergleichen - mit der wir immer jedwede wirtschaftliche und politische Situation vergleichen werden, weil jedes System nur so gut und gewaltlos ist, in dem Grad, in dem es wie eine harmonische Familie funktioniert - ist das zwei Schwestern vergleichbar.   
 
-Option 1: The most pure and non-violent one. One sister is making cloth, the other sister isn't. This may be because the other sister hasn't learned to do it yet, or because she may for other reasons be unable to do it. She also may be the younger one and be not yet as productive, still in the process of learning the basics. She may as well do other things, which are beneficial to her sister. But in any way, she doesn't make cloth. Therefore her sister is making the cloth for her deliberately and gives it to her for free.  
+Option 1: Die reinste und gewaltloseste Option. Eine Schwester stellt Kleidung her, die andere Schwester nicht. Das mag deshalb sein, weil die andere Schwester noch nicht gelernt hat, das zu tun, oder sie mag aus anderen Gründen nicht dazu in der Lage sein. Sie könnte auch die Jüngere der beiden sein und noch nicht so produktiv, weil sie erst die Grundlagen lernt. Sie mag andere Dinge tun, die ihrer Schwester auch zugute kommen. Aber jedenfalls stellt sie keine Kleidung her. Darum stellt ihre Schwester freiwillig Kleidung für sie her und gibt sie ihr einfach so. 
 
-Option 2: The most impure and violent one. One sister is making cloth, the other sister isn't. The sister that isn't making cloth, forces the other to do it for her and to hand it over to her. This option is out of question.  
+Option 2: Die unreinste und gewaltsamste Option. Eine Schwester stellt Kleidung her, die andere Schwester nicht. Die Schwester, die keine Kleidung herstellt, zwingt die andere, es für sie zu tun und sie ihr zu geben. Diese Option ist außer Frage. 
 
-Option 3: One sister is making or having cloth, the other sister isn't and hasn't. One sister is freezing or half naked and ashamed, since she lacks cloth to cover herself and doesn't make it, may not be able to make it. The other sister has clothing in abundance, covering her in several layers, while one or two would suffice at least for her bare necessaties. Or she is producing cloth, and has produced more than needed for herself. She could give one of the layers to her sister or something out of the abundance that she has, but she doesn't. Instead she demands something in return. If the sister has something that she can give in return, then such a trade may work. If she has nothing to give in return or not enough of what her sister wants, she will keep freezing and being ashamed, for no other reason than her sisters demand for payment.  
+Option 3: Eine Schwester stellt Kleidung her (oder hat welche), die andere Schwester tut das nicht und hat keine. Eine Schwester friert oder ist halb nackt und beschämt, weil sie nicht genug Kleidung hat um sich zu bedecken und stellt keine her, vielleicht weil sie nicht kann. Die andere Schwester hat Kleidung im Überfluss, sie bedeckt sie in mehreren Lagen, weil nur eine oder zwei genügen würden, zumindest für das Lebensnotwendige. Oder die stellt Kleidung her und hat mehr produziert, als sie selbst für sich benötigt. Sie könnte also problemlos ihrer Schwester etwas von der Kleidung, die sie trägt oder besitzt, abgeben, aber das tut sie nicht. Stattdessen verlangt sie etwas dafür. Wenn sie aber nichts hat, dass sie ihr dafür geben kann oder nicht genug von dem, was ihre Schwester von ihr will, so wird sie weiterhin frieren oder beschämt sein, aus keinem anderen Grund als das Verlangen ihrer Schwester nach Bezahlung. 
 
-If one finds this situation to be absurd between two sisters, if one perhaps even considers this to be an abusive way of handling this situation, then I tell you, that this obviously abusive way of dealing with this situation is what people consider to be *normal* as soon as it concerns others beyond their family. Since we want to become non-violent, this of course is not as we want to act, so the third option is out of question as well. 
+Wenn jemand diese Situation zwischen zwei Schwestern als absurd empfindet, wenn jemand das vielleicht sogar für eine missbräuchliche Art halt, mit dieser Situation umzugehen, dann sage ich euch, dass diese so offensichtlich missbräuchliche Art, mit dieser Situation umzugehen, genau das ist, was die Leute für *normal* halten, sobald es irgendjemanden außerhalb ihrer Familie betrifft. Da wir gewaltlos werden möchten, wollen wir so natürlich nicht handeln, also ist die dritte Option ebenso außer Frage. 
 
-Thus: If I want to satisfy my need for clothing in a non-violent way, only three options remain:  
-* To make it myself.
-* To have others make it for me deliberately and give it to me for free. 
-* To use cloth discarded by others.  
+Wenn ich also mein Bedürfnis nach Kleidung in einer gewaltlosen Art befriedigen will, bleiben nur drei Möglichkeiten:  
+* Sie selbst herzustellen. 
+* Andere zu haben, die sie freiwillig für mich machen und sie mir einfach so geben. 
+* Kleidung zu nutzen, die andere weggeworfen haben. 
 
 
-### Discarded Cloth, Reusing Cloth and the noble practice of infinite patching
+### Weggeworfene Kleidung, Wiederverwendung und die edle Praxis des unendlichen Flickens
 
 ![Image of a Buddhist Monk](/library/flosha/anti-fashion-revolt/monk-7537162_1280.jpg)
 
-Finding discarded cloth by others, as the early buddhist monks were doing, is in a way, and as long as it is a possible option, the best of all ways. In that case I have something to wear, I neither had to produce it anew nor had others to produce it anew for me and I can patch it forever. Therefore it is the most noble and most decent of ways; it is also the most humble option with the least pride involved. And as such it is diametrically opposed to what the civil man considers to be most decent - that which is new and without any sign of wear and tear; so much so that he is ashamed of repairing his cloth! Shame be on those who consider as a sign of poverty what is nothing but a sign of rationality. 
+Kleidung zu finden, die von anderen weggeworfen wurde, wie es die frühen buddhistischen Mönche getan haben, ist, in gewisser Weise, und solange es die Möglichkeit gibt, der beste aller Wege. In diesem Fall habe ich etwas zum anziehen, ich musste es weder neu herstellen, noch mussten andere es neu für mich herstellen und ich kann es für immer flicken. Darum ist es der edelste und schicklichste Weg; es ist auch die demütigste Option, mit am wenigsten Stolz verbunden. Und als solche ist sie diametral dem entgegengesetzt, was der zivilisierte Mensch gemeinhin für am schicklichsten hält - nämlich das, was neu ist und ohne jedes Zeichen von Abnutzung; für so schicklich hält er das, dass er sich sogar dafür schämt, seine Kleidung zu flicken! Beschämt seien die, die als ein Zeichen von Armut betrachten, was nichts ist als ein Zeichen von Vernunft. 
 
-That cloth that for the civil man might be regarded to be blameless due to its external "purity" and "integrity", is regarded to be full of blame due to its internal impurity and disintegrity by those who care about causality and the suffering of others. 
+Jene Kleidung, die für den zivilisierten Menschen gemeinhin als tadellos gilt aufgrund ihrer äußerlichen "Reinheit" und "Unverdorbenheit", ist als voller Tadel zu betrachten aufgrund ihrer innerlichen Unreinheit und Verdorbenheit für all jene, denen etwas an Kausalität und dem Leiden anderer liegt. 
 
-Truly blameless is the cloth that is truly valued by considering it worthy of repair. 
+Wirklich tadellos ist die Kleidung, die wirklich wertgeschätzt wird, indem man sie für wert hält, sie zu reparieren. 
 
-Not only the buddhist monks have chosen this practice. The old sufis of Islam used to have patchwork robes as well and the clothing of saints like Francis can be assumed to have been heavily patched simply due to the radicality of his voluntary poverty and the need of repair. 
+Nicht nur die buddhistischen Mönche haben diese Praxis gewählt. Die alten Sufis des Islam trugen ebenfalls geflickte Kleider und von der Kleidung der Heiligen wie Franziskus kann ebenso angenommen werden, dass sie stark geflickt war, einfach aufgrund der Radikalität ihrer freiwilligen Armut und der Notwendigkeit der Reperatur. 
 
-The poor peasants of old Japan used to patch their clothing so much that it sometimes ended up completely overpatched, being handed down for generations, as they could not afford anything new. This same clothing that the rich of their time have looked down upon is now shown in Museums and sold to the rich of today. 
+Die armen Bauern im alten Japan haben ihre Kleidung so sehr geflickt, dass sie manchmal vollständig überflickt wurde, weitergegeben für Generationen, weil sie sich nichts neues leisten konnten. Diese selbe Kleidung, auf welche die Reichen ihrer Zeit herabgesehen haben, wird nun in Museen gezeigt und an die Reichen von heute verkauft. 
 
 ![Boro textile](/library/flosha/anti-fashion-revolt/Boro_textile_from_Japan,_with_sashiko.jpg)
 
-A result of utmost poverty and a cloth with little value has become highly valuable simply due to the poor people valueing and patching it. Poverty turned into dignity. The simple rational decision to patch their cloth contineously out of bare necessity has turned it into art. It has thereby been raised in value simply because someone has valued it so much. 
+Ein Ergebnis äußerster Armut und eine Kleidung mit wenig Wert, wurde höchst wertvoll einfach dadurch, dass die armen Menschen sie wertgeschätzt und geflickt haben. Das ist Armut verwandelt in Würde. Diese einfache, vernünftige Entscheidung, ihre Kleidung kontinuierlich zu flicken aus reiner Notwendigkeit, hat sie in ein Kunstwerk verwandelt. Sie stieg dadurch an Wert einfach dadurch, dass jemand sie so sehr wertgeschätzt hat. 
 
-Our clothing is valueless because we do not value it. We do not value it to be worn even for a few years or have so much and change it so often that we do not even reach the point of wearing it out and requiring it to be patched. Some people throw their cloth away even before it reaches that point. Patching it doesn't even cross their mind. 
+Unsere Kleidung ist wertlos, weil wir sie nicht wertschätzen. Wir schätzen sie nicht wert, sie selbst für ein paar Jahre zu tragen, oder haben so viel Kleidung und wechseln sie so oft, dass wir nicht einmal den Punkt erreichen, an dem sie abgenutzt wäre und geflickt werden müsste. Manche Leute werfen ihre Kleidung weg noch bevor sie diesen Punkt erreicht. Sie zu flicken kommt ihnen nicht einmal in den Sinn. 
 
-But as noble as the usage of disposed cloth and patching may be, it will not be possible to be chosen by everyone at every time. Whether it is sold or given or found, if it is new, reused or recycled, every kind of cloth has at some point to be made, ere it gets discarded. When it breaks down I can patch it, but only as long as cloth for patching is available. 
+Aber so edel die Nutzung weggeworfener Kleidung und Flickwerk auch sein mag, es wird nicht jedem und zu jeder Zeit möglich sein, diese Option zu wählen. Ob sie verkauft wird oder gegeben oder gefunden, ob sie neu ist, wiederverwendet oder wiederverwertet, jede Art von Kleidung muss an irgendeinem Punkt hergestellt werden. Wenn sie abnutzt kann ich sie flicken, aber auch nur solange ich Stoff zum Flicken habe. 
 
-The same applies to cloth I have already. If I have enough already, I need no additional cloth, and as long as I don't, others don't have to produce new cloth on my behalf. I am thus, to that degree, no burden on others.  
-If I already have cloth, then I can keep it and if it breaks down I can patch it infinitely; there would then arise no need for new clothing to be made for me. But even if I choose this noble path of patching my cloth infinitely, which sooner or later amounts to over-patching it, I need cloth in form of patches to be used for the patching. If all people would choose to go this path, patches would be lacking soon, and then, at the least, new cloth is needed and has to be made. 
+Dasselbe trifft auf die Kleidung zu, die ich schon habe. Wenn ich schon genug habe brauche ich keine zusätzliche Kleidung, und solange ich keine brauche, müssen andere auch keine neue Kleidung um meinetwillen produzieren. Ich bin darum, in diesem Grad, keine Last für andere.  
+Wenn ich bereits Kleidung habe, dann kann ich sie behalten und wenn sie abnutzt kann ich sie unendlich lang flicken; dann würde keine Notwendigkeit entstehen, dass neue Kleidung für mich hergestellt wird. Aber selbst wenn ich diesen edlen Pfad wähle, meine Kleidung endlos zu flicken, was früher oder später auf überflicken hinausläuft, benötige ich Stoff, um ihn zum Flicken zu nutzen. Wenn alle Menschen diesen Pfad wählen würden, würde es irgendwann an Flicken fehlen und spätestens dann müsste neuer Stoff hergestellt werden. 
 
-There is therefore no way to completely ommit responsibility for how clothing is made. It may be possible individually, but it is not possible collectively. There is a collective responsibility of the individual too and we ought to consider the conditions of clothing production regardless of whether we personally will ever buy new clothing or not. 
+Es gibt darum keinen Weg, sich komplett der Verantwortung zu entziehen, wie Kleidung hergestellt wird. Es mag individuell möglich sein, aber es ist nicht kollektiv möglich. Es gibt auch eine kollektive Verantwortung des Einzelnen und wir sollten die Bedingungen der Kleidungsproduktion in Betracht ziehen, egal ob wir persönlich jemals neue Kleidung kaufen werden oder nicht. 
+
 
 ---
 
-## Clothing as Expression
+## Kleidung als Ausdruck
 
-There is more to clothing than just its function of covering and warming the body. It is also expression and representation. In that I wear cloth, in that I cover my body with cloth, I express a preference of one thing over another as I chose to wear it over other options that I do not wear. This matters in two regards: (1) The process of cloth-making or production involved in it and (2) the beauty or lack thereof expressed by it. 
+Kleidung ist mehr als nur ihre Funktion, den Körper zu bedecken und zu wärmen. Sie ist Ausdruck und Repräsentation. Indem ich Kleidung trage, indem ich meinen Körper mit Kleidung bedecke, bringe ich eine Vorliebe von einer Art Kleidung über eine andere zum Ausdruck, weil ich entschieden habe das zu tragen entgegen anderer möglicher Kleidung, die ich nicht trage. Das spielt in zweierlei Hinsicht eine Rolle: (1) In Hinsicht auf den Prozess der Kleidungsherstellung oder Produktion, der darin involviert ist und (2) in Hinsicht auf die Schönheit oder den Mangel daran, die sie zum Ausdruck bringt. 
 
-The cloth chosen may express beauty or do so less. Nonviolence is truth in action. And beauty is truth in form. There is no action without form and there is no form without action. Action creates form.  
+Die gewählte Kleidung kann Schönheit zum Ausdruck bringen oder auch nicht. Gewaltlosigkeit ist Wahrheit in Aktion. Und Schönheit ist die Wahrheit in den Formen. Es gibt keine Aktion ohne Form und es gibt keine Form ohne Aktion. Aktion schafft Form. 
 
-Cloth-making is an action. Cloth is a form, the expression of the maker. Cloth-wearing is an action. The cloth and the wearer are a form, the expression of the persona that the body in combination with the clothing creates. The persona is what one represents in society. There is no representation without cloth, and not much of a persona.  
-Therefore not wearing cloth is the most radical rebellion against society that can exist. But I don't want to eradicate society, I want a non-violent society, I want a society that sucks less. A society that is doing less harm, that has more love than now. Thus I will wear cloth. And it ought to be beautiful cloth, as its beauty is a direct consequence of the nonviolence in which it was made.  
+Kleidermachen ist eine Aktion. Kleidung ist eine Form, der Ausdruck des Machers. Kleidertragen ist eine Aktion. Die Kleidung und der Träger sind eine Form, der Ausdruck der *Person*, die durch den Körper in Verbindung mit der Kleidung geschaffen wird. Die Person ist, was jemand in der Gesellschaft repräsentiert. Es gibt keine Repräsentation ohne Kleidung, und auch nicht viel von einer "Person".  
+Darum ist keine Kleidung zu tragen die radikalste Rebellion gegen die Gesellschaft, die es geben kann. Aber ich will nicht die Gesellschaft abschaffen, ich will eine gewaltlose Gesellschaft. Ich will eine Gesellschaft, die weniger schädlich ist. Eine Gesellschaft, die weniger Unheil verursacht, die mehr Liebe hat als sie jetzt hat. Also trage ich Kleidung. Und es *muss* schöne Kleidung sein, denn ihre Schönheit ist eine direkte Konsequenz der Liebe, in der sie hergestellt wurde. 
 
-The cloth chosen can be a result of and give expression to nonviolent cloth-making, which will mean cloth that is beautiful and pure; or it can do so less, which in the worst case, amounts to a very violent clothing production, which means cloth that is ugly and impure.  
+Die gewählte Kleidung kann ein Resultat gewaltloser Kleidungsherstellung sein und dieselbe zum Ausdruck bringen; das heißt es wird Kleidung sein, die schön und rein ist; oder die gewählte Kleidung kann ein Resultat von anderem sein, im schlimmsten Fall das Resultat einer sehr gewaltsamen Kleidungsproduktion, was auf Kleidung hinausläuft, die hässlich und unrein ist. 
 
-I cannot wear cloth without this cloth being produced. It is true: If the cloth has been discarded and I haven't paid for it, then I do not actively support any practice behind its production and may not have any unwholesome intention. Intention was all the Buddha cared about and at the time there was nothing to blame about wearing discarded clothing. But we also must be aware that at the time of the Buddha there did not exist any clothing produced under conditions even remotely comparable to the conditions of today. Every cloth was produced with at least a basic amount (most often and most likely a high amount) of dignity of the labour involved. Discarded cloth collected from cremation grounds and battlefields, as the monks were doing, was no exception from this rule; it was pure to that degree.   
+Ich kann keine Kleidung tragen, ohne dass diese Kleidung produziert wurde. Es ist wahr: Wenn die Kleidung weggeworfen wurde und ich nicht dafür gezahlt habe, dann habe ich die Praxis hinter ihrer Produktion nicht aktiv unterstützt und mag auch keine ungesunde Intention gehabt haben. Die Intention war alles, worum sich Buddha gekümmert hat, und zu seiner Zeit gab es am Tragen weggeworfener Kleidung nichts auszusetzen. Aber wir müssen auch dessen gewaht sein, dass zur Zeit von Buddha gar keine Kleidung existiert hat, die unter Bedingungen produziert worden wäre, die mit den Bedingungen von heute auch nur entfernt vergleichbar wären. Alle Kleidung wurde zu dieser Zeit zumindest mit einem grundlegenden Grad (meistens vermutlich einem sehr hohen Grad) an Würde der darin involvierten Arbeiter hergestellt. Die weggeworfene Kleidung, die auf Verbrennungsplätzen und Schlachtfeldern aufgelesen wurde, wie es die Mönche getan haben, war keine Ausnahme von dieser Regel; in diesem Grad war sie rein.  
 
-If one is shocked in this regard, that they have chosen to wear the cloth found on cremation grounds, one be reminded of the fact that in christianity the same ideal is followed, in that younger monks are wearing the "last shirt" of a former monk who died. The clothing of the monk thus turns not into a glorification of ones body, as clothing so often becomes, but a reminder of mortality. 
+Wenn es jemand diesbezüglich schockiert sein sollte, dass sie sich entschieden haben, Stoff zu tragen, der auf Verbrennungsplätzen gefunden wurde, sei an die Tatsache erinnert, dass man im Christentum dasselbe Ideal kennt, in Form der Tradition, dass jüngere Mönche das "letzte Hemd" einer früheren Mönches tragen, der verstorben ist. Die Kleidung des Mönchs wird so nicht zu einer Glorifizierung des Körpers, wie es mit Kleidung so häufig der Fall ist, sondern zur Erinnerung an die eigene Sterblichkeit. 
 
-Any clothing we can find has been produced in particular ways, by particular men or by machines, under particular conditions. And when I choose to wear it, I am choosing to wear cloth made under these particular conditions over other cloth made under other conditions. And by wearing it I give expression to these conditions and make myself a representative of these conditions. The conditions under which the cloth has been made that I wear, is not beyond my responsibility. It is within my responsibility, because I wear it. If I know about the conditions, my intention can no longer be pure. And if I don't know about these conditions, I choose to be ignorant. But my ignorance is within my responsibility too.  
+Jede Kleidung, die wir finden können, wurde in bestimmter Art hergestellt, von bestimmten Menschen oder von Maschinen, unter bestimmten Bedingungen. Und wenn ich mich entscheide, sie zu tragen, dann entscheide ich mich Kleidung zu tragen, die unter diesen bestimmten Bedingungen hergestellt wurde, statt anderer Kleidung, die unter anderen Bedingungen hergestellt wurde. Indem ich sie trage, gebe ich diesen Bedingungen Ausdruck und mache mich selbst zum Repräsentanten dieser Bedingungen, denn die Bedingungen sind in der Kleidung enthalten. Diese Bedingungen, unter denen die Kleidung hergestellt wurde, die ich trage, sind nicht jenseits meiner Verantwortung. Sie sind Teil meiner Verantwortung, weil ich sie trage. Wenn ich von diesen Bedingungen weiß, kann meine Intention nicht länger rein sein. Und wenn ich nicht von diesen Bedingungen weiß, entscheide ich mich für Unwissenheit. Aber meine Unwissenheit ist ebenfalls teil meiner Verantwortung.  
 
-Therefore, when I want to be non-violent and if I want to express nonviolence in regard to what I wear as well as in any other regard, then I should *prefer* cloth being made and distributed in (more) nonviolent ways over cloth being made and distributed in (more) violent ways. 
+Wenn ich darum gewaltlos sein will und wenn ich Gewaltlosigkeit zum Ausdruck bringen will im Hinblick auf das, was ich trage ebenso wie im Hinblick auf alles andere, dann sollte ich Kleidung *vorziehen*, die in (mehr) gewaltloser Art hergestellt und verteilt wurde, anstelle von Kleidung, die in (mehr) gewaltsamer Art hergestellt und verteilt wurde. 
 
-It might for sure not be the *most* important area in which I should strive to express nonviolence, but I should strive to express it in every area. And it is nonetheless an important one, as cloth is a fundamental need in life and one of the most obvious ways in which I can express and promote nonviolence or the lack thereof. 
+Es mag sicherlich nicht der wichtigste Bereich sein, in dem ich danach streben sollte, Gewaltlosigkeit zum Ausdruck zu bringen, aber ich sollte doch danach streben, sie in jedem Bereich zum Ausdruck zu bringen. Und es ist nichtdestoweniger ein wichtiger Bereich, weil Kleidung ein grundlegendes Bedürfnis im Leben ist und eine der offensichtlichsten Wege, in denen ich Gewaltlosigkeit oder einen Mangel daran zum Ausdruck bringen und begünstigen kann. 
 
-If I choose to *buy* cloth instead, which would be the worst of the options (as trade has no place in a family and when we want a nonviolent society, then, at some point, we can have no trade anymore), then this applies even more so, as I then not only represent and express the practices behind the clothing production with what I wear, but actively support these practices with money by buying it, which is a direct vote in support of these violent practices, justifying and maintaining them.  
+Wenn ich mich stattdessen dafür entscheide, Kleidung zu *kaufen*, was die schlechteste der Optionen wäre (weil Handel keinen Platz in einer Familie hat und wenn wir eine gewaltlose Gesellschaft wollen, dann können wir, an einem bestimmten Punkt, keinen Handel mehr haben), dann ist das nur noch mehr der Fall, weil ich dann die Bedingungen der Kleidungsproduktion mit dem, was ich trage, nicht nur repräsentiere und zum Ausdruck bringe, sondern sie aktiv mit Geld unterstütze, indem ich diese Kleidung kaufe, was eine direkte Stimme für diese gewaltsamen Praktiken ist und wodurch ich sie rechtfertige und aufrechterhalte. 
 
-We must therefore consider the possible ways in which clothing is made, which kind of clothing we can therefore choose to wear and what we thereby support and express through the clothing – what the clothing implies and contains. 
+Wir müssen darum in Betracht ziehen welche Möglichkeiten der Kleidungsherstellung es gibt, welche Art von Kleidung ich darum mich entscheiden kann zu tragen und was ich durch diese Kleidung unterstütze, und was ich zum Ausdruck bringe; also was die Kleidung impliziert und beinhaltet. 
 
 
-## Style and the Vanity of Trends
+## Stil und die Eitelkeit von Trends
 
-Fashion trends are one of the most prominent factors, that influence the clothing choice of people in modern industrial societies, most often with no regard whatsoever to how the clothing is made. It only matters how it looks. 
+Modetrends sind eine der prominentesten Faktoren, die die Kleidungswahl der Menschen in modernen, industriellen Gesellschaften beeinflussen, meist völlig ungeachtet dessen, wie die Kleidung hergestellt wird. Es spielt nur eine Rolle, wie sie aussieht. 
 
-Fashion is by definition a momentary, short-timed system of trends, opposed to anything of timeless value. Fashion is a constant promotion and enforcement of trends for profit. In order to sell, the public is manipulated by means of idol worship and advertisement missionaries to prefer one thing over another. Of course it always has to be a different thing than before in order to create a reason to buy something again that one hasn't already. 
+Mode ist per Definition ein nur momentanes, kurzzeitiges System von Trends, entgegengesetzt allem von zeitlosem Wert. Mode ist eine konstante Werbung und Durchsetzung von Trends für Profit. Um des Verkaufs willen wird die Öffentlichkeit durch Anbetung von Idolen und Werbemissionare manipuliert, eine Sache einer anderen vorzuziehen. Natürlich muss es immer eine andere Sache sein als zuvor, um einen Grund zu schaffen, wieder etwas zu kaufen, was man nicht schon hat. 
 
-Among these promoted styles there is also something that is commonly described as "classic". These classics are glorified as something "timeless", something that can always be worn. If these styles are timeless and can always be worn we would expect to find them everywhere in the long history of humanity or at least in the history of the culture that we live in. Little knowledge in the development of clothing is needed to see the falsehood of such an expectation and thus the falsehood of said claim.  
-When these so called timeless styles haven't been worn by anyone even just a hundred years ago in our own culture, what then is timeless about them? 
+Unter diesen beworbenen Stilen gibt es auch etwas, dass gemeinhin als "klassisch" bezeichnet wird. Diese "Klassiker" werden als etwas "zeitloses" glorifiziert, als etwas, dass man immer tragen kann. Wenn diese Stile zeitlos sind und immer getragen werden können, dann würden wir erwarten, dass wir sie überall in der langen Geschichte der Menschheit vorfinden oder zumindest in der Geschichte der Kultur, in der wir leben. Wenig Kenntnis der historischen Entwicklung von Kleidung reicht aus, um die Falschheit einer solchen Erwartung und so auch die Falschheit einer solchen Behauptung zu erkennen.  
+Wenn diese sogenannten zeitlosen Stile von niemanden getragen wurden selbst nur vor einhundert Jahren in unserer eigenen Kultur, was dann ist zeitlos an ihnen?  
 
-The only possible case in which there would be some value to that claim is when any actually *functional* new inventions would have been made, which improve the function of cloth compared to former clothing styles. 
+Der einzig mögliche Fall, in dem etwas Wert in so einer Behauptung läge, bestünde darin, dass tatsächlich *funktionell* neue Erfindungen gemacht worden sind, welche die Funktion der Kleidung verbessern verglichen mit früheren Kleidungsstilen. 
 
-If a woman truly wants to wear something timeless, then she may have to choose a Sari, a cloth that is now worn by females for thousands of years. If a man wants to wear something truly timeless he would have to choose a tunic or a buddhist monk robe; male attire that as well has been worn now for thousands of years around the world, in the West as in the East.  
-Thus, very little thinking suffices to recognise the vanity of all the claims brought forth by the fashion industry to promote whatever new style they come up with in order to invent some reason to buy new cloth.  
+Wenn eine Frau etwas wirklich Zeitloses tragen will, dann müsste sie wohl einen Sari tragen, eine Art von Kleidung, die nun von Frauen seit Jahrtausenden getragen wird. Würde ein Mann etwas wirklich Zeitloses tragen wollen, müsste er eine Tunika wählen oder eine Mönchsrobe; das ist Herrenbekleidung, die nun ebenso seit nun mehr tausenden von Jahren in der ganzen Welt, in Ost und West, getragen wird. Es reicht also ein wenig Überlegung, um die Nichtigkeit all dieser Behauptungen zu erkennen, die die Modeindustrie uns vorsetzt, um irgendwelche neuen Stile zu bewerben, die sie hervorbringen, um einen Grund zu erfinden, neue Kleidung zu kaufen. 
 
-If their clothing would be truly timeless, then it would be the same this year as the year before and ten years ago, the same today as tomorrow and ten years later. And on behalf of its timelessness it would hold up for years, it would be made durable and sturdy and when torn and worn it would be repaired, to give you no reason to buy anew what you have chosen for its timeless value. And if that would be the case, there would be no need to advertise it. Timeless cloth needs no advertisement. What it needs are people that don't care about advertisement. And truly timeless cloth isn't fashionable, it is the opposite of fashion. It is anti-fashion.
+Wäre ihre Kleidung wirklich zeitlos, so wäre sie dieselbe in diesem Jahr wie im Jahr davor und zehn Jahre zuvor, dieselbe heute wie morgen und zehn Jahre später. Und wegen ihrer Zeitlosigkeit würde sie für Jahre halten; sie wäre haltbar und beständig und wenn sie abgenutzt wäre, würde man sie reparieren, um einem keinen Grund zu geben neu zu kaufen, was du um seines zeitlosen Werts willen gewählt hast. Und wenn das der Fall wäre, gäbe es keinen Grund für Werbung. Zeitlose Kleidung braucht keine Werbung. Was sie braucht sind Menschen, die sich um Werbung nicht scheren. Und wirklich zeitlose Kleidung ist nicht modisch, sie ist das Gegenteil von Mode. Sie ist Anti-Mode. Anti-Fashion.  
 
-If you would wear such cloth and only such cloth, the fashion industry would cease to exist. There would be cloth-making for your needs. But there couldn't be a fashion industry. 
+Wenn du solche Kleidung tragen würdest und nur solche Kleidung, gäbe es keine Modeindustrie mehr. Es gäbe Kleidungsherstellung für deinen Bedarf. Aber es könnte keine Modeindustrie geben. 
+
+Welcher Wert liegt in einem Stil, den du heute magst und für den du dich in ein paar Jahren schämst oder für den sich andere vor ein paar Jahren geschämt hätten?  
 
 What value is there in a style that you like today and are ashamed of in a few years or that others would have been ashamed of a few years ago? 
 <!-- What once has been considered typical clothing of a prostitute is now being promoted as regular clothing for women and girls. Nothing timeless about it. -->
 
-Choose a style that you like and wear what you want, but recognise that the very existence of a sense of "fashion" and the very existence of fashion trends is fundamentally opposed to any idea of true sustainability as well as to any true economy.  
-There was never and is nothing economic about waste. Neither is it economic to waste natural ressources nor is it economic to waste peoples time that have to produce this waste in form of clothing. 
+Wähle einen Stil, den du magst und trage was du willst, aber erkenne an, dass die reine Existenz eines Sinns für "Mode" und die reine Existenz von Modetrends fundamental jeder Idee wahrer Nachhaltigkeit ebenso wie jeder wahren Wirtschaftlichkeit entgegengesetzt ist.  
+Es war noch nie etwas wirtschaftlich an Verschwendung und das wird es auch nie sein. Es ist weder wirtschaftlich, natürliche Ressourcen zu verschwenden, noch ist es wirtschaftlich, die Zeit von Menschen zu verschwenden, die diese Verschwendung in Form von Kleidung zu produzieren haben. 
 
-Their time and health are sacrificed for the production of clothing. Natural ressources are sacrificed for the production of clothing. For clothing that is valued so little by those buying and wearing it, that it is thrown around like leaves of a tree. But the leaves of a tree are not wasted. They serve as valuable compost for the earth underneath and remain were they are. But wasted is all cloth that the people buy today and throw away tomorrow, that serve no purpose but to feed our desire, inflating our ego until it explodes. 
+Deren Zeit und Gesundheit wird für die Herstellung von Kleidung geopfert. Natürliche Ressourcen werden der Herstellung von Kleidung geopfert. Für Kleidung, die so wenig gewertschätzt wird von denen, die sie kaufen und tragen, dass sie weggeworfen wird wie die Blätter eines Baumes. Aber die Blätter eines Baumes sind nicht verschwendet. Sie dienen als wertvoller Kompost für die Erde und sie bleiben wo sie sind. Aber all die Kleidung ist verschwendet, die die Menschen heute kaufen und morgen weggwerfen, die keinem Zweck dient als unsere Wünsche zu nähren und unser Ego vollzupumpen, bis es explodiert. 
 
-Our clothing ends up on literal mountains of garbage in Africa, on which children use to trample and make somersaults on. It's good for nothing but to be trampled and tumbled upon. But for this "nothing" people suffer. They suffer for nothing, simply because we like to go shopping, they suffer. 
+Unsere Kleidung endet auf wortwörtlichen Müllbergen in Afrika, auf denen Kinder trampeln und Saltos springen. Sie ist gut für nichts als darauf rumzutrampeln und zu springen. Aber für dieses "Nichts" leiden Menschen. Sie leiden für nichts, einfach nur weil wir gerne shoppen gehen leiden sie. 
 
-For no other reason than the greed of those who aren't satisfied with what they have.   
+Aus keinem anderen Grund als der Gier jener, die nicht zufrieden sind mit dem, was sie haben. 
 
-For no other reason than the little satisfaction of buying something new to wear and presenting ourselves in a piece of cloth that we truly value as little as we value the human beings that are making it for us.
+Aus keinem anderen Grund als die kleine Befriedigung, die darin liegt, etwas neues zu kaufen und zu tragen und uns selbst in einem Kleidungsstück zu präsentieren, dass wir so wenig wertschätzen wie die Menschen, die es für uns machen. 
 
 
-## Brands have to be abandoned
+## Marken sollten aufgegeben werden
 
-Another thing that may cross our mind when thinking about which clothing to choose, are the various different "brands" we can choose from.
+Eine andere Sache, die uns in den Sinn kommen mag, wenn wir über Kleidungswahl nachdenken, sind die vielen verschiedenen "Marken", aus denen wir wählen können. 
 
-At first it has to be stressed that the price of clothing says nothing at all about the conditions of its production (nor the quality). Many so called luxury brands are producing their clothing in the very same way, under the very same violent and abusive conditions as others and often they aren't more sturdy the least. 
+Zunächst müssen wir betonen, dass der Preis eines Kleidungsstücks absolut nichts über die Produktionsbedingungen aussagt (noch über ihre Qualität). Viele sogenannte "Luxusmarken" produzieren ihre Kleidung in genau derselben Weise, unter denselben gewaltsamen und missbräuchlichen Bedingungen wie andere und oft sind sie nicht einmal haltbarer. 
 
-Nor does the price of clothing say anything about how much you value it. That one is willing to pay ten times more for anything includes in no way that he values it any more. It tells us nothing about how well he will treat it, how good he will care for it or how much he likes it.  
-The readyness to pay a higher price (if able to) *can* include valueing it more. But most often the only thing it tells us is that the person paying the price has more money at his disposal. He may care as little about that costly piece of cloth as poorer people care about the cheap one. Since they have enough they can easily replace it and will as well throw it away when showing any signs of wear and tear. 
+Auch sagt der Preis der Kleidung nichts darüber aus, wie viel wir sie wertschätzen. Dass jemand bereit ist, zehn mal so viel für irgendetwas zu bezahlen, beinhaltet in keiner Weise, dass er es für wertvoller hält. Es sagt uns nichts darüber, wie gut er es behandeln wird, wie gut er sich darum kümmern wird oder wie sehr er es mag.  
+Die Bereitschaft, einen höheren Preis zu zahlen (wenn man dazu in der Lage ist), *kann* beinhalten, sie mehr wertzuschätzen. Aber meist sagt uns das nur eines: Dass die Person, die den Preis bezahlt, mehr Geld zur Verfügung hat. Sie mag sich um dieses teure Kleidungsstück genauso wenig scheren wie die ärmeren Leute sich um ihre günstigere Kleidung scheren. Weil diese Leute genug haben, können sie die Stücke leicht ersetzen und werden sie ebenso wegwerfen, wenn sie Abnutzungserscheinungen daran erkennen. 
 
-If on the other hand they value it much they will not wear it at all in order to prevent such wear and tear. What is clothing that is not worn? What is a book that no one reads? They then have a piece of fabric to hang it on the wall or to be happy about it lying in their closet. In other words: They are collecting garbage. But its rare garbage. And since there is a market for rare garbage, luxury brands aren't getting tired to release one rare thing after another for the garbage connoisseurs. 
+Wenn sie andererseits ein Kleidungsstück sehr wertschätzen, so werden sie es gar nicht tragen, um Abnutzung zu verhindern. Was ist aber Kleidung, die man nicht trägt? Was ist ein Buch, das man nicht liest? Sie haben dann ein Stück Stoff, um es an die Wand zu hängen oder um glücklich damit zu sein, dass es in ihrem Schrank hängt. In anderen Worten: Sie sammeln Müll. Aber es ist seltener Müll. Und weil es einen Markt gibt für seltenen Müll, werden Luxusmarken auch nicht müde, eine seltene Sache nach der anderen herauszubringen, um der Müllkenner willen.  
 
-Secondly we have to point out the obvious: There is little more shameful in regard to clothing than openly wearing such brands. The public display of luxury brands for showing off is in direct proportion to the vanity of a persona. By wearing such clothing not with shame, but with pride, means outing oneself as being superficial beyond believe. The more fancy and luxurious the clothing, the more spiritually poor one is declined to deem those wearing it. How can one show pride in a piece of clothing that is costlier than others while being produced under the same ugly conditions and not even being of higher quality? It is the epitome of hollowness. 
+Zweitens müssen wir auf das Offensichtliche hinweisen: Es gibt wenig, das beschämender ist im Hinblick auf Kleidung, als öffentlich solche Marken zu tragen. Die öffentliche Zurschaustellung von Luxusmarken, um damit zu protzen, ist in direkter Proportion zur Eitelkeit einer Person. Indem solche Kleidung getragen wird, nicht mit Scham, sondern mit Stolz, entlarvt man sich als grenzenlos oberflächlich. Je extravaganter und luxuriöser die Kleidung, je mehr ist man geneigt, jene, die sie tragen, als geistig arm zu empfinden. Denn wie kann man Stolz zeigen in ein Kleidungsstück, das kostspieliger ist als andere, aber unter denselben, hässlichen Bedingungen produziert wurde und nicht einmal von höherer Qualität ist? Es ist der Inbegriff von Hohlheit. 
 
-By publicly showing off such a brand in form of printed clothing, brand emblems, brand embroidery and so forth, we actively promote vanity. We advertise to waste money and pay more for the same abusive conditions of production. 
+Solche Marken öffentlich zur Schau zu stellen, in Form von bedruckter Kleidung, Markenemblemen, Markenstickereien und so weiter, ist aktive Bewerbung von Eitelkeit. Wir bewerben Geldverschwendung und zahlen mehr für dieselben missbräuchlichen Produktionsbedingungen. 
 
-The very minimum that we can do is to not wear clothing with the logos of any company on them, which practices we can not morally support, because none of these logos are a sign of virtue, they are all just signs of vice. 
+Das Mindeste, was wir tun können, ist keine Kleidung mit den Logos irgendeiner Firma zu tragen, deren Praktiken wir moralisch nicht unterstützen können, denn keine dieser Logos sind ein Zeichen von Tugend, sie sind alle nur Zeichen von Untugend.
 
-If you truly find a brand that makes clothing in virtuous ways and it comes with a logo that you wish to promote, then wear it as you wish. But don't be so miserable to promote what is clearly vice for the reason of others misrepresenting it as virtue. Never be so reliant on others that you do stuff for no other reason than that "others do it too". 
+Wenn du wirklich eine Marke findest, die Kleidung herstellt auf tugendhafte Weise und die mit einem Logo daher kommt, dass du bewerben willst, dann trage sie wie du willst. Aber sei nicht so verzweifelt, dass du etwas bewirbst, dass eindeutig lasterhaft ist, nur weil andere es fälschlich als tugendhaft präsentieren. Wir sollten niemals so von anderen abhängen, dass wir etwas tun aus keinem anderen Grund als: "Andere tun das auch".  
 
-You imagine the beggars on the street to be ashamed for their torn up and dirty clothing. And you dare to make fun of them, for their incapability to wash them in their misery. As far as I am concerned I can see nothing to be ashamed of there. But I can see much to be ashamed of and much moral misery in feeling superior for reasons of what one wears, for seeking popularity, acceptance or fame through clothing brands.  
+Manche stellen sich wohl vor, dass die Bettler auf der Straße sich für ihre zerschlissene und schmutzige Kleidung schämen. Und manche wagen es, sich über sie lustig zu machen dafür, dass sie sie in ihrem Elend nicht waschen (können). Was mich betrifft kann ich nichts sehen, wofür sie sich schämen müssten. Aber ich kann viel Beschämung und viel moralisches Elend sehen darin, sich aufgrund dessen, was man trägt, überlegen zu fühlen und durch Kleidungsmarken nach Beliebtheit, Akzeptanz und einem guten Ruf zu streben. 
 
-Forget about brands. Why would one care about them? It is individuals about which we care. Care for the girl who makes the shirt and not for the nonsense written on it. 
+Also vergiss Marken. Warum sollte dir das wichtig sein? Es sind Individuen, die uns wichtig sind. Es ist das Mädchen, das das Hemd gemacht hat, das uns wichtig ist und nicht der Unsinn, der darauf geschrieben steht. 
 
-If we already have such clothing with visible brands on them, there is no need to throw them away. We can at the very least remove patched-on emblems, overpatch prints and cut labels off and resolve to not buy anew such clothing, because our body is not a living advertising column. 
+Wenn wir bereits solche Kleidung mit sichtbaren Marken darauf haben, so ist es nicht nötig, sie wegzuwerden. Wir können zumindest aufgenähte Logos entfernen, Aufdrucke überflicken, Labels abschneiden und beschließen, solche Kleidung nicht mehr zu kaufen, weil unser Körper keine Litfaßsäule ist. 
+
+Es ist schlimm genug, dass der Kommerz den öffentlichen Raum erobert hat, dass unsere Städte und Dörfer, die wir einst nach unserem gemeinsamen Geschmack verschönert haben, für Geld verkauft wurden an die kommerziellen Interessen von Unternehmen. Der öffentliche Raum ist an den Kommerz verloren worden in solch einem Grad, dass, wo immer wir uns hindrehen, wir von kommerziellen Tricks bombardiert werden, dass wo immer wir hingehen, wir angegriffen werden von der Hässlichkeit der Gier. Schlimm genug.  
+Aber es war nicht genug; die Leute haben diesen Firmen sogar ihre Körper angeboten, um für sie zu werben. Und nicht kostenlos. Es ist noch viel absurder: Sie *bezahlen* die Firmen für Kleidung, um für sie zu werben. Sie sind nicht gesponsort. Sie zahlen noch dafür... 
 
 It is worse enough that commerciality has conquered the public space, that our cities and villages that we once beautified to our collective liking, have been sold for money to the commercial interest of corporations. The public space has been lost to commerce to such a degree, that wherever we turn to we are bombarded by commercial tricks, that wherever we go we are attacked by the ugliness of greed. Worse enough.  
-But it wasn't enough; people offered their very bodies to these companies and advertise for them. And not for free. It is much more absurd: They *pay* companies for clothes to advertise for them. They aren't sponsored to do so. They pay for doing so... 
+But it wasn't enough; people offered their very bodies to these companies and advertise for them. And not for free. It is much more absurd: They *pay* companies for clothes to advertise for them. They aren't sponsored to do so. They pay for doing so. 
 
-One day we will return to dignity. One day we will realise that the only thing that we should proudly wear is the cloth made by ourselves or by our neighnours in non-violent ways; and these will need no advertisement on them, as everyone will know what they express and represent. 
+Eines Tages werden wir zur Würde zurückkehren. Eines Tages werden wir verstehen, dass die einzige Sache, die wir stolz tragen sollten, die Kleidung ist, die wir selbst gemacht oder die unser Nachbar selbstgemacht hat in gewaltloser Weise; und diese Kleidung wird keine Werbung auf sich brauchen, weil ein jeder wissen wird was sie zum Ausdruck bringt und wofür wir steht. 
+
 
 
 ## Clothing as Tradition
@@ -231,20 +230,21 @@ While proclaiming a multi-cultural world, our culture, worldwide, is becoming mo
 Where modern for-profit production appears, there all art and craft, beauty and style disappears. 
 
 
-## Suffering woven in Cloth
+## Leid gewebt in Kleidung
 
-Everything that is made contains the story, the experience, the process, the suffering and happiness involved in its creation. If you face a human being, you shouldn't only see the superficial appearance of this human being, as if it were a mere image with no background and no life. There is a story behind this human being, there are experiences, there is development, there is suffering and happiness within. If you look at a human being, then every sensible and reasonable man can recognise this in every other; at least to a degree one will recognise it.  
+Alles, was geschaffen wird, beinhaltet die Geschichte, die Erfahrung, den Prozess, das Leiden und die Freude seiner Erschaffung. Wenn du einem Menschen gegenüberstehst, solltest du nicht nur die oberflächliche Erscheinung dieses Menschen sehen, als ob er nur ein bloßes Bild wäre, ohne Hintergrund und ohne Leben. Da ist eine Geschichte hinter diesem Menschen, da sind Erfahrungen, da ist eine Entwicklung, da ist Leiden und Freude in ihm. Wenn du einen Menschen ansiehst, dann wird jeder fühlende und denkende Mensch das in jedem anderen erkennen; zumindest zu einem Grad wird er das erkennen. 
 
-This is no different with any kind of product. If you go into a shop and see a piece of cloth, you should not just see the superficial appearance of this cloth, as if there is nothing behind, as if it just exists, but has no background. Every single product, every piece of cloth, has a story, a background, a process in which it was created, it has a journey behind it. And it didn't made itself; it has been made by and went through the hands of real human beings, it is a part of their story, their life and they are part of the story and life of this piece of clothing in front of you. Their suffering is woven into the very fabric of your cloth! By not seeing this suffering, by not looking at this, by only seeing the product, we commit a serious offence against the dignity of others.  
+Mit jeder Art von Produkt ist das nicht anders. Wenn du in einen Laden gehst und ein Kleidungsstück siehst, dann solltest du nicht nur die oberflächliche Erscheinung dieser Kleidung sehen, als ob nichts dahinter wäre, als ob sie nur existiert, aber keinen Hintergrund hat. Jedes einzelne Produkt, jedes Kleidungsstück, hat eine Geschichte, einen Hintergrund, einen Prozess, in dem es gemacht wurde, es hat eine Reise hinter sich. Und es hat sich nicht selbst gemacht; es wurde gemacht von echten Menschen und ging durch ihre Hände; es ist Teil ihrer Geschichte, ihres Lebens und sie sind Teil der Geschichte und des Lebens dieses Kleidungsstücks vor dir. Ihr Leid ist in den Stoff deiner Kleidung eingewebt. Dieses Leid nicht zu sehen, da nicht hinzusehen, nur das Produkt zu sehen, ist ein gravierendes Vergehen gegen die Würde der Anderen. 
 
-In the past it was easy to see what a product contained, it was thus easy to evaluate whether it should be choosen or not. But nowadays, in the world that we live in, products are produced in such ways that it is consciously made very hard for us to see what they contain. The conditions under which they are produced are made invisible, they are actively hidden from our view, to not evoke a bad conscience for the evil practices under which they are produced and to trick us into buying them, thereby perpetuating evil. 
+In der Vergangenheit war es leicht, zu sehen, was ein Produkt beinhaltet, darum war es leicht zu bewerten, ob man es wählen sollte oder nicht. Aber heutzutage, in der Welt, in der wir leben, werden Produkte auf eine solche Art produziert, dass es uns bewusst sehr schwer gemacht wird, zu sehen, was sie beinhalten. Die Bedingungen unter denen sie produziert werden, werden unsichtbar gemacht, sie werden unserem Blick aktiv entzogen, um kein schlechtes Gewissen zu erregen wegen der bösen Praktiken, unter denen sie produziert werden und um uns zu manipulieren, sie zu kaufen und so das Böse endlos fortzusetzen.  
 
-We do not want to be so stupid. We want to look at how things are. We don't want to be tricked into supporting something that we would never support if we would be fully aware of its truth.  
-So let us become aware of how everything is produced. Let us see the suffering or the happiness, the greed or the love that is woven into the fabric of every piece of cloth. Let us not be blind for it. Choosing blindness for crime means to participate in crime.  
+Wir wollen nicht so dumm sein. Wir wollen die Dinge so sehen, wie sie sind. Wir wollen uns nicht manipulieren lassen, etwas zu unterstützen, dass wir niemals unterstützen würden, wenn wir der Wahrheit völlig gewahr wären.  
+Also lasst uns dessen gewahr sein, wie alles produziert wird. Lasst uns das Leid oder die Freude, die Gier oder die Liebe sehen, die in den Stoff jedes Kleidungsstücks eingewebt sind. Lasst uns dafür nicht blind sein. Freiwillige Blindheit gegenüber Verbrechen heißt Beteiligung am Verbrechen. 
 
-In the present context of a world ruled by money, that is driven by profit like our body is driven by blood, we must never assume that everything is alright with a product; we have to assume that it is *not* alright at all *as the baseline*. And it is not on us to prove that a product has been made under inhumane, destructive and violent conditions. It is under them who offer such products to prove that they are *not*. 
+Im gegenwärtigen Kontext einer Welt, die von Geld regiert wird, die von Profit durchtrieben ist wie unser Körper von Blut, dürfen wir niemals annehmen, dass mit einem Produkt alles in Ordnung ist; wir müssen, als *Ausgangslage*, immer davon ausgehen, dass es *nicht* in Ordnung ist. Und es liegt nicht an uns zu beweisen, dass ein Produkt unter unmenschlichen, destruktiven und gewaltsamen Bedingungen hergestellt wurde. Es liegt an ihnen, die diese Produkte anbieten, zu beweisen, dass dem *nicht* so ist. 
 
-If they do not show any such proof, then shy away from them. 
+Wenn sie keinen solchen Beweis zeigen, dann weiche zurück. 
+
 
 ---
 
