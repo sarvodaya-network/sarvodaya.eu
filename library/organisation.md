@@ -14,9 +14,18 @@
 
 ---
 
-* International Peace Council 
+* International Peace Council / Federation
 * Continental Council (Europe, Asia, ...)
 * Land Council (Maharashtra, Rheinland, ...)
 * Regional Council (Saar-Mosel-Region, ...)
 * Local Council (City or Village Council)
+
+---
+
+* International Federation of Non-Profit Economical Organisations or
+* International Federation of Solidarity Economy
+  * International Spinning Association or International Federation of Solidary Spinning
+  * International Associaton of Solidary Weaving
+  * International Federation of Solidarity Agriculture 
+
 
