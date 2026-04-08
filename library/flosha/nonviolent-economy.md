@@ -44,6 +44,17 @@ CONTENT
 ### *Criteria of any based Economics* 
 The basis of economics lies in the *household* it refers to. Any economic problem can and shall be considered by comparison with a simple household. What isn't principally true in case of a household can't be true in case of any larger scale economic order either. In the same way as any issue of community of whichever scale, can and shall be considered by comparison with a simple family. What isn't principally true in case of a family can't be true of any larger scale communal order either. The family or tribe is society in a nutshell and the household is economy in a nutshell. The same principles apply. Any kind of economic science as however advanced, complex and fancy it may present itself, cannot be considered to be *based* when diverting from these principles.    
 
+### What Economics is concerned with
+
+### What is an economical order
+
+To organise economy, or rather, to *order* economy, requires one to order professions, to order production and distribution, tools or means of production, ressources, needs and demands, short, to bring order into labour and consumption.
+
+### Possible Theoretical Forms of Economy
+The current economical (dis)order is an order of organised trade, it is a trade order. For this reason we speak of our economy as a market economy. Some think, ecomomy must always be about markets. This is not the case. There are diverse other possibilities. One is what has been called "planning economy". Both of these names are confusing. A market economy as usually understood is actually referring to privat markets. Obviously there is planning involved in these markets, namely planning performed by private 
+corporations. Their planning is focused on maximizing gains, on profit. When on the other hand one speaks of planning economy what is actually meant is nothing else, but state planning; here there is a market too, just that it is only one market, that of the state, that the market is controlled by the state and that all planning is focused on that market. And the focus of all the states attempting such a scheme has been the same: maximizing gains, profit.  
+In one case the market is controlled by the state. In the other case the market is controlled by private corporations.  
+In wise 
 
 
 ## I. *Nonviolent economy means non-profit economy, in which all labour is social work.* 
