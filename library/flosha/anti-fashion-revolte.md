@@ -46,6 +46,11 @@ Add Lanzas ideas in quatre fleux etc. and coomaraswamy.
 
 ## Einleitung
 
+Die UN bezeichnet die Modeindustrie als zweitgrößter Umweltverschmutzer der Welt. 
+Sie produziert je nach Quelle zwischen 1,2 bis 1,7 Milliarden Tonnen Kohlendioxid-Emissionen, mehr als Luft- und Schifffahrt zusammen. Es fließt ca. 11% Prozent des Wassers, das in der gesamten Industrie zum Einsatz kommt, in die Fabriken der Modeindustrie.
+
+
+
 In diesem Essay versuche ich die Anwendung von Satyagraha zu veranschaulichen und zu zeigen, wie das Konstruktive Programm funktioniert, im Kontext einer westlichen, industrialisierten Gesellschaft. 
 
 
