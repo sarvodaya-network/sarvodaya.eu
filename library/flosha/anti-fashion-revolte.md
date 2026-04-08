@@ -234,10 +234,12 @@ Eines Tages werden wir zur Würde zurückkehren. Eines Tages werden wir verstehe
 
 Todo: Show some traditional clothing and how the modern production has destroyed all of it. Not only the craft and knowledge around the craft, but style, diversity, beauty. 
 
-While proclaiming a multi-cultural world, our culture, worldwide, is becoming more uniform than it has ever been. Our economic system is directly destroying tradition and by destroying tradition it is destroying culture. 
+Während wir eine multi-kulturelle Welt proklamieren, wird unsere Kultur, weltweit, uniformer als sie es jemals war. Unser Wirtschaftssystem zerstört unmittelbar die Tradition und indem es die Tradition zerstört, zerstört es die Kultur.  
+Wissen geht verloren, Handwerkskünste sterben aus, alle damit verbundene Würde geht verloren und alle Schönheit und Diversität, die immer damit verbunden war.  
+Wir nennen unsere Kultur divers und tun so, als würden wir Diversität fördern wollen, während wir durch alles, was wir täglich tun, die Diversität der Natur zerstören und die Kulturen nicht versöhnen, sondern sie alle unter dem Zeichen des Geldes in die Knie zwingen.  
 
-Where modern for-profit production appears, there all art and craft, beauty and style disappears. 
-
+Wo moderne for-profit Produktion auftaucht, verschwinden Kunst und Handwerk, Schönheit und jeder gute Stil. 
+ 
 
 ## Leid gewebt in Stoff
 
@@ -369,11 +371,11 @@ Zu diesem Zweck *muss* die Technologie open source sein, sie muss klein genug se
 Wenn eine Technologie all diese Standards erfüllen kann, dann können wir sie als gewalose Technologie betrachten. Ein Beispiel für eine solche gewaltlose Technologie ist die Singer Nähmaschine, die dem Einzelnen drastisch geholfen hat, das Nähen zu vereinfachen. Ein anderes Beispiel ist die gandhische Erfindung des *Ambar Charkha*, ein Multi-Spindel Spinnrad bzw. eine Spinnmechanik, die den Spinnprozess sehr stark vereinfacht und beschleunigt hat, in ähnlicher Weise wie die Nähmaschine das Nähen vereinfacht hat. Es ist eine relativ neue Technologie, die keine nicht-menschliche Energiezufuhr benötigt, und doch das Spinnen sehr viel effizienter macht als antike oder mittelalterliche Arten zu spinnen. Es hat quasi die großen, ausbeuterischen Spinnmaschinen in eine kleine, von den einzelnen Arbeitern kontrollierbare Form gebracht.  
 Diese Art von Erfindungen zeigen, dass Technologie in völlig andere Richtungen entwickelt werden kann, als das bisher getan wurde, wenn es einen Willen dazu gibt. Die Technologie, die bisher entwickelt wurde, wurde entwickelt auf eine ganz bestimmte Weise aus ganz bestimmten Gründen, um ganz bestimmten Interessen zu dienen. Leider nicht unseren Interessen, sondern den Interessen des Geldes. 
  
+Das Hauptproblem mit der Technologie ist die Dienstbarkeit der Technologie unter der Herrschaft des Geldes. Der gewaltige Großteil technologischer Erfindungen wurde nicht erfunden mit dem Wohlergehen der Menschen im Sinn, wurde nicht erfunden um dir, deinen Freunden oder deinen Kindern zu dienen. Sie wurden für Geld erfunden, um des Geldes willen und im Dienst des Geldes. 
 
-The primary problem with technology is the servitude of technology under money. The vast majority of technological inventions have not been made with the wellbeing of people in mind, they have not being made in order to serve you, your friends or your children. They have been made for money, on behalf of money and in service of money.   
-Technology today is evil to the degree in which it is not serving the interests of people. In the majority of cases, technology isn't doing so. It is solely serving commercial interests. 
-People wrongly assume that increased profit gained is good for them, that it is automatically serving them too, if more profit is made. But this is wrong. And this wrong assumption is rooted in an inhumane ideology that is currently prevailing in our society. It can only be overcome by a new, humane philosophy of life (Sarvodaya is such a philosophy that we offer as an alternative to the abusive system of today).  
-The prevailing ideology has shaped the very form in which technology has so far appeared to us in the modern world. This form must cease. But there are other forms of technology that serve the people instead of serving money. This kind of technology we can appreciate, as it causes us no harm.  
+Die Technologie heute ist böse, in dem Grad, in dem sie nicht den Interessen der Menschen dient. Im Großteil der Fälle tut Technologie das nicht. Sie dient nur kommerziellen Interessen.  
+Die Menschen nehmen fälschlich an, dass eine Zunahme an Profit gut für sie ist, dass das automatisch auch ihnen dient, wenn mehr Profit gemacht wird. Aber das ist falsch. Und diese falsche Annahme wurzelt in einer unmenschlichen Ideologie, die gegenwärtig in unserer Gesellschaft vorherrscht. Sie kann nur überwunden werden durch eine neue, menschliche Lebensphilosophie (Sarvodaya, das unbedingte Allgemeinwohl, ist eine solche Philosophie, die eine Alternative bietet zu dem missbräuchlichen System, in dem wir heute leben).  
+Die vorherrschende Ideologie hat die Form geprägt, in der Technologie uns bisher in der modernen Welt erschienen ist. Diese Form muss verschwinden. Aber es gibt andere Formen der Technologie, die den Menschen dienen, anstatt dem Geld. Diese Art von Technologie heißen wir willkommen, weil sie keinen Schaden anrichtet.  
 
 
 ## Revolution of the Spindle
