@@ -1,16 +1,39 @@
-# Nonviolent Economy
+# Swa... Shastra
+
+Principles of a nonviolent economical order.  
+
+FLOSHA  
+{: .center }
 
 Order of nonviolent economy for a nonviolent economic order.
 (Ein Orden gewaltloser Ökonomie für eine gewaltlose ökonomische Ordnung). 
 
-Idea: The equivalence to the Swaraj Shastra in terms of Economy. 
+---
 
-Nonviolent economy means nonprofit economy. An economy that is nonviolent is an economy that is social economy, an economy in which no kind of work is done that isn't social, a for-human economy, that cannot be for-profit. 
+## Introduction
 
-It is also a non-possessive economy and an economy with no money. It is an economy based on work/production as social service, an economy of goods as gifts and of distribution as a sacrifice<!-- to god-->. 
-Because everyone coming to your door may be him. Ask, and it will be given.  
+An economy that is nonviolent is an economy that is social economy, an economy in which no kind of work is done that isn't social. A for-human economy cannot be for-profit. 
 
-People say that such an economy is delusional and impractical, but it is much more practical and real than any other. It brings order and justice into economical affairs. 
+It is also a non-possessive economy and an economy with no money. It is an economy based on work and production as social service, an economy of goods as gifts and of distribution as a sacrifice<!-- to god-->. 
+<!-- Because everyone coming to your door may be him. Ask, and it will be given.  -->
+
+People say that such an economy is delusional and impractical, but it is much more practical and real than any other. It brings order and justice into economical affairs and love into a world of lovelessness. 
+
+---
+
+To those well-versed in the history of nonviolence: What Vinobas Swaraj Shastra is in terms of politics, this work is meant to be in terms of economics. It is my humble attempt to offer a first draft in this direction. Just as Vinobas Shastra will have to be elaborated (as he himself foretold in his foreword) - and it is time to elaborate on it now in the light of his own later discoveries and ideas (Bhudan, Lokniti, Gramdan, Shanti Sena and all of these ideas came after the Shastra was written), this Shastra too may have to be elaborated on at a later point. But I am convinced that the fundamental ideas will firmly remain and stand the test of time.
+
+
+I. *Nonviolent economy means non-profit economy, in which all work is social work.* 
+
+II. *Nonviolent economy is an economy in which everyone lessens the burden on others to the best of ones ability by means of organised responsibility.* 
+
+III. *Nonviolent economy means non-possessive economy, that is liberated from money.*
+
+
+
+
+
 
 ## Social or asocial
 
