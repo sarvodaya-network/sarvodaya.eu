@@ -65,6 +65,10 @@ Es muss ich sein, weil *jeder* denkt, dass nur andere die Verantwortung tragen. 
 [Geändert, in english anpassen]  
 Heute gibt es ein fundamentales Problem mit unserer Kleidung. Ich trage Kleidung, also bin ich Teil des Problems. Ich bin verantwortlich für das Problem. Ich bin nicht allein dafür verantwortlich, aber ich bin verantwortlich in einem bestimmten Grade. Und es ist meine Pflicht, das Minimum, dass ich in diesem Grade Verantwortung übernehme. 
 
+[Neu, in English hinzufügen]
+Die Leute werden immer sagen, bei jeder Entscheidung, die sie treffen: "Das ist doch nur eine Kleinigkeit." Aber es sind genau diese Kleinigkeiten, die jeder täglich tut, die zu Großartigkeiten werden. In diesem Fall zu leidvollen Grošartigkeiten. Sie werden soetwas sagen, wie: "Die Hauptverantwortlichen sind ganz woanders und tun viel schlimmere Dinge, als ich, nur weil ich mir ein Kleidungsstück kaufe. Sie müssen etwas ändern, nicht ich." Und das ist der aller größte Fehler. Die Hauptverantwortlichen könnten gar nichts mehr Schlechtes tun und würden augenblicklich verzweifelt anfangen (aus den falschen Gründen) Gutes zu tun, wenn die kleinen Leute mit ihren Kleinigkeiten aufhören würden. Es gibt nichts Mächtigeres als Boykott.  
+Diese Verantwortung des Einzelnen zu betonen und sie vorallem zu betonen, das ist keine Verschiebung der Verantwortung in keiner Weise, sonderm es ist die Ermächtigung des Einzelnen. Wir geben damit jedem seine eigene Kraft zurück, während jene, die sagen, dass wir gar nichts tun sollen, dass wir uns nicht verantwortlich fühlen sollen, dass wir weiter konsumieren sollen und es an anderen liegt, etwas zu tun, die Initiative aus unserer Hand reißen und entscheidend dazu beitragen, dass wir uns machtlos fühlen, so, als ob wir nichts tun könnten. Aber das können wir. 
+
 Ich bin Teil des Problems zu dem Grad, in dem ich daran Anteil nehme, indem ich Kleidung kaufe und trage. Um Verantwortung zu übernehmen, muss ich bei mir selbst beginnen und nach Lösungen suchen. 
 
 <!-- There is little use and value in pointing out a problem without offering solutions. If I am sick because I eat a particular food, then it doesn't help me much that someone points this out to me, if I already know it. I may eat that food because I have no other choice. I may know what the problem is, but I do not know what to do instead and how to fix it.  -->
@@ -253,10 +257,11 @@ Wenn sie keinen solchen Beweis zeigen, dann weiche zurück.
 
 ---
 
-## How Clothing is Made
+## Wie Kleidung gefertigt wird 
 
-Thus, the question arises: *If I do not want to support violent practices in regard to the production of the clothing that I wear, if I want to support only the most non-violent practices, to the best of my current ability, by either making cloth myself (in full or to some partial degree) or by having others deliberately make it for me, or by buying it, if I must, how can I do that?*  
+Es entsteht also die Frage: *Wenn ich im Hinblick auf die Kleidung, die ich trage, diese gewaltsamen Praktiken nicht unterstützen will, wenn ich nur, so gut ich jetzt und hier kann, die gewaltlosesten Praktiken unterstützen will, indem ich die Kleidung entweder selbst fertige (vollständig oder teilweise) oder indem ich andere habe, die sie freiwillig für mich fertigen, oder indem ich welche kaufe, wenn ich muss, wie kann ich das tun?* 
 
+Um das zu tun, muss ich zuerst (1) begreifen, worin in Hinsicht auf die Kleidungsproduktion Gewalt besteht, . 
 In order to do so, I must (1) at first discern, wherein violence lies in regard to how clothing is made, in the most general way - the potential conditions. Then (2) inform myself about how a particular ready-made (or for me to be made) cloth or a material for cloth-making (e.g. wool, yarn, fabric) is made in regard to all the steps of production and distribution involved - the actual conditions. 
 
 When I discern the potential conditions there at first arises one particular condition, the most fundmental one. It is the most fundamental one because it is the one nearest to me and to my problem of getting cloth. It is the question of: "Where to get it from?" Whether I make it, or get it made, where and under which conditions I can get the cloth or the materials for cloth-making and which of these conditions are more or less nonviolent? The answer to this question lies in the principle of *Swadeshi*. 
