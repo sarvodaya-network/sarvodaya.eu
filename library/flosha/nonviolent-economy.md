@@ -1,4 +1,4 @@
-# Swa... Shastra
+# Shrama Shastra
 
 Principles of a nonviolent economical order.  
 
@@ -21,26 +21,36 @@ People say that such an economy is delusional and impractical, but it is much mo
 
 ---
 
-To those well-versed in the history of nonviolence: What Vinobas Swaraj Shastra is in terms of politics, this work is meant to be in terms of economics. It is my humble attempt to offer a first draft in this direction. Just as Vinobas Shastra will have to be elaborated (as he himself foretold in his foreword) - and it is time to elaborate on it now in the light of his own later discoveries and ideas (Bhudan, Lokniti, Gramdan, Shanti Sena and all of these ideas came after the Shastra was written), this Shastra too may have to be elaborated on at a later point. But I am convinced that the fundamental ideas will firmly remain and stand the test of time.
+The title of this treatise, *Shrama Shastra*, means Trearise or Doctrine (Shastra) of Labour (Shrama). To those well-versed in the history of nonviolence: What Vinobas *Swaraj Shastra* (the doctrine of self-rule) is in terms of politics, this work is meant to be in terms of economics.  
+It is my humble attempt to offer a first draft in this direction. Just as Vinobas Shastra will have to be elaborated (as he himself foretold in his foreword) - and it is time to elaborate on it now in the light of his own later discoveries and ideas (Bhudan, Lokniti, Gramdan, Shanti Sena and all of these ideas came after the Shastra was written), this Shastra too may have to be elaborated on at a later point. But I am convinced that the fundamental ideas will firmly remain and stand the test of time.
+
+---
+
+CONTENT  
+
+* I. *Nonviolent economy means non-profit economy, in which all work is social work.* 
+* II. *Nonviolent economy is an economy based on needs, not on demands, in which everyone lessens the burden on others to the best of ones ability by means of organised responsibility.* 
+* III. *Nonviolent economy means a non-possessive economy, that is liberated from money.*
+
+---
 
 
-I. *Nonviolent economy means non-profit economy, in which all work is social work.* 
+## I. *Nonviolent economy means non-profit economy, in which all work is social work.* 
 
-II. *Nonviolent economy is an economy in which everyone lessens the burden on others to the best of ones ability by means of organised responsibility.* 
+(add the social/asocial text)
 
-III. *Nonviolent economy means non-possessive economy, that is liberated from money.*
-
-
+...
 
 
+## II. *Nonviolent economy is an economy based on needs, not on demands, in which everyone lessens the burden on others to the best of ones ability by means of organised responsibility.* 
+
+...
 
 
-## Social or asocial
-
-(add the text)
 
 
-## Order of Professions
+
+### Order of Professions
 
 Human professions are of only two kinds, because human needs are also only of two kinds. There are such needs which are absolutely basic and essential, they are common to all human beings, as everyone needs them and cannot do without, and there are others that aren't essential, they are non-essential, or optional, since while they may have much value, they are not absolutely necessary and in this sense basic. 
 
