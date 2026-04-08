@@ -35,9 +35,38 @@ CONTENT
 ---
 
 
-## I. *Nonviolent economy means non-profit economy, in which all work is social work.* 
+## I. *Nonviolent economy means non-profit economy, in which all labour is social work.* 
 
-(add the social/asocial text)
+
+### (1) *Conventional divisions of labour are arbitrary*  
+
+Unsere Gesellschaft hat die Arbeit in künstliche und arbiträre Kategorien eingeteilt, von denen sie eine sehr bestimmte Kategorie als "soziale Arbeit" bezeichnet. Logischerweise kann jede Arbeit, die nicht sozial ist, nur nicht-soziale, also asoziale Arbeit sein. Das ist zugleich menschliche oder unmenschliche Arbeit, Arbeit, die allen dient, zumindest einzelnen dient ohne anderen zu schaden, oder Arbeit, die manchen zu dienen scheint, während sie anderen schadet. 
+
+
+### (2) *Profit-driven labour can never be social*
+
+Alle menschliche Arbeit ist Dienst, ist automatisch im Dienst an etwas.  
+<!-- add as Commentary: Wenn man religiöse Sprache gebrauchen wollte, heißt das: "Man kann nicht Gott dienen und dem Mammon" (Geld). Entweder dient man Gott oder dem Geld. Im Neuen Testament macht Jesus aber auch sehr klar, was "Gott" in diesem Kontext bedeutet. Er sagt uns hier, wenn jemand an deine Tür kommt, und dich bittet, dann weise ihn nicht ab (add Zitat), weil er das ist.  
+Gott zu dienen heißt also, den Menschen zu dienen und darüber hinaus der Schöpfung insgesamt. Man dient Gott durch die Geschöpfe und den Geschöpfen durch Gott, weil sie durch Gott sind, weil Gott in ihnen und jenseits davon ist.  
+Einen solchen Dienst kann man nicht tun, wenn man dem Geld dient. Man muss sich entscheiden.--> 
+Entweder man tut etwas im Interesse Aller, dann dient es den Menschen. Oder man tut etwas nur für sich und ungeachtet dem Interesse Aller, dem zu schaden man in Kauf nimmt; dann dient es nur dem Geld. Das entspricht sozialer und asozialer Arbeit. Arbeit, die nicht sozial ist, ist asozial.  
+
+### (3) *All labour that serves man is social*
+
+Ein Bauer, der gesunde Nahrung für die Menschen erzeugt, ist ein Sozialarbeiter. Der Weber, der den Menschen das Tuch verschafft, das sie benötigen, um sich zu kleiden, ist ein Sozialarbeiter. Die Krankenschwester, die selbstlos dient, ist eine Sozialarbeiterin. Der Arzt, der den Menschen hilft, nicht krank zu werden und sie heilt, wenn sie es sind, ist ein Sozialarbeiter. Alle Arbeit im Dienst an Menschen und der Gesellschaft ist Sozialarbeit. 
+
+Und wir sollten alle Sozialarbeiter ehren, denn sie sind die Vorbilder einer gesunden, sozialen Gesellschaft. Und das hat nichts mit Sozialstaat zu tun. 
+
+
+### (4) *All labour that doesn't serve man is asocial.*
+
+Aber die Menschen tun so, als ob alle Arbeit in diesem Sinne sozial wäre und sie ehren die am meisten, die überhaupt nicht sozial sind. Sie ehren besonders den Unternehmer, der rücksichtslos auf den eigenen Vorteil bedacht das Beste für sich rausholt und dabei die Interessen der Gesellschaft missachtet.  
+Die Rüstungsindustrie ist das Paradebeispiel asozialer Arbeit. Aber auch die Pharmaindustrie fällt zu großen Teilen in diese Kategorie. Auch politische und parlamentarische Arbeit ist in vielerlei Hinsicht asoziale Arbeit, nämlich genau in dem Maße, in dem sie dem Profit und nicht der Allgemeinheit dient. Die moderne Kleidungsindustrie ist ebenso asozial, ebenso ein großer Teil des sogenannten Kriegsdienstes, nämlich genau in dem Ausmaß, als er dem Krieg dient. Das trifft auf viele andere Bereiche zu.  
+
+
+### (5) *There should be no asocial labour.*
+
+Es sollte keine asoziale, also unmenschliche und widermenschliche Arbeit geben. Niemand sollte asoziale Arbeit tun, von asozialer Arbeit leben, von asozialer Arbeit abhängen oder einer solchen unterworfen sein. Es gibt in dieser Gesellschaft genug soziale, also menschliche Arbeit für jeden; würde jeder soziale Arbeit tun, wäre das zum Wohle Aller.
 
 ...
 
