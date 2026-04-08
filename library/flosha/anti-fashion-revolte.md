@@ -47,7 +47,9 @@ Add Lanzas ideas in quatre fleux etc. and coomaraswamy.
 ## Einleitung
 
 Die UN bezeichnet die Modeindustrie als zweitgrößter Umweltverschmutzer der Welt. 
-Sie produziert je nach Quelle zwischen 1,2 bis 1,7 Milliarden Tonnen Kohlendioxid-Emissionen, mehr als Luft- und Schifffahrt zusammen. Es fließt ca. 11% Prozent des Wassers, das in der gesamten Industrie zum Einsatz kommt, in die Fabriken der Modeindustrie.
+Sie produziert je nach Quelle zwischen 1,2 bis 1,7 Milliarden Tonnen Kohlendioxid-Emissionen, mehr als Luft- und Schifffahrt zusammen. Es fließt ca. 11% Prozent des Wassers, das in der gesamten Industrie zum Einsatz kommt, in die Fabriken der Modeindustrie. Sie trägt damit entscheidend zur Zerstörung unserer eigenen Lebensgrundlagen bei.
+
+Die Arbeitsbedingungen in der Modeindustrie werden zurecht als Formen moderner Sklaverei beschrieben. Zudem gibt es einen großen Anteil von Kinderarbeit. Indien, in China, in der Türkei, überall arbeiten Kinder in der Industrie um der Mode willen, die in den Fast-Fashion Läden des Westens feilgeboten wird. 
 
 
 
