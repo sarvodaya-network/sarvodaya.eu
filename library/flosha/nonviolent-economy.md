@@ -109,7 +109,7 @@ When the dignity of labour is strived for most of all and only to that degree, e
 Human satisfaction does not increase beyond the securement of that which is enough. 
 ... 
 
-# *External Progress depends on internal progress.*  
+### *External Progress depends on internal progress.*  
 Physical improvements or the purification of our physical life is the external target of economy, which depends on its internal target of purifying the labour processes, which means purifying the *means* by which the external target is strived for. This internal and external aspect of nonviolent economy is impossible to separate.  
 
 ### *How are physical improvements measured?*  
@@ -117,27 +117,27 @@ Physical improvements are therefore determined by the degree to which they corre
 * higher quality products by the same or higher dignity of labour
 * higher quantity of true wealth by the same or higher dignity of labour
 
-## *Wherein true external wealth consists* 
+### *Wherein true external wealth consists* 
 Money has no value and worth in a nonviolent economy and isn't able to measure wealth. Wealth consists only in that which humans actually need and value and in nothing that they only value as an indirect means to what they consider to be true wealth and by which they seek to gain it.  
 In a violent economy, money is this demonic force by which man seeks to gain wealth. But we made clear that labour is the source of all wealth. In a nonviolent economy, it is therefore labour which is the measure of all wealth and which humas value above all else.  
 By the force of money, the dignity of human life and labour is violated, sold and soiled.
 By the force of labour, the dignity of human life and labour is healed, preserved and purified. 
 
-## *The Battle between Labour and Money.*
+### *The Battle between Labour and Money.*
 Money is in a fight with labour. And labour is in a fight against money. It is thus the source of all wealth in a fight against the definition of non-wealth, as money is the epitome of valuelessness.  
 Money fights against labour in that it violates human dignity in labour (and is thereby causing economic regress by the definition of economic regress above). Money destroys the dignity of labour in that it forces man under the servitude of quantity over quality. Money is the false goddess of quantity. It is the inherent driving force of the currently prevailing ideology of endless growth that has infected the world. This is the rule of money.  
 Labour, when not in servitude of money but of man, strives for human dignity (and is thereby causing economic progress by the definition above). Labour destroys the slavery of money in that it de-values it totally, which means overcoming the delusion of worth in what is worthless; it thereby liberates man from the servitude of quantity over quality and turns the order upside down, in that quantity is subdued under quality. Labour is the metaphorical goddess of quality. It is the inherent driving force of nonviolent economics that is bount to overcome this world. This is the rule of labour (the way in which a money-free economy is relating to the fruits of the labour will show it to also be the rule of kindness). 
 
-## *How money subdues man under quantity.*
+### *How money subdues man under quantity.*
 ... 
 Economical violence arises where labour is bought by means of money. 
 
 
-## *How labour can release man from the servitude of money and re-establish right order.* 
+### *How labour can release man from the servitude of money and re-establish right order.* 
 ... 
 
 
-*Essential Physical Needs of Man*
+### *Essential Physical Needs of Man*
 Physical sustenance is the first external target of economy. The first thing a householder is trying to do is to ensure sustenance, survival of all members of the household. As long as sustenance, livelihood is not provided, no one would worry to decorate the house.  
 
 may say that there are nine primary needs of human life:
