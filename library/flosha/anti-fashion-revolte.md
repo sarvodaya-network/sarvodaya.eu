@@ -318,15 +318,48 @@ Es stand ein Bauer hinter der Baumwolle; jetzt nicht mehr, weil auch er durch Ma
 Es stand eine Maschine hinter dem Spinnen des Garns, eine Maschine hinter dem Weben des Stoffs, zwei Maschinen, wegen derer abertausende von Spinnern und Webern überall auf der Welt verhungert sind und dazu gezwungen wurden, aus ihrer Unabhängigkeit heraus in die Abhängigkeit als Fabrikarbeiter zu gehen; sie sind auch der Grund, aus dem abertausende Menschen in Indien heute immernoch am Existenzminimum leben.
 
 [DE exklusiv]  
-Vor diesem menschengemachten Leid ist man auch in Deutschland nicht verschont geblieben. 
+Vor diesem menschengemachten Leid ist man auch in Deutschland nicht verschont geblieben, wie uns das Weberlied von Heine so unmissverständlich vermittelt... 
 
+> Im düstern Auge keine Thräne,  
+> Sie sitzen am Webstuhl und fletschen die Zähne  
+> Deutschland, wir weben Dein Leichentuch,  
+> Wir weben hinein den dreifachen Fluch –   
+> Wir weben, wir weben!
 
+> Ein Fluch dem Gotte, zu dem wir gebeten  
+> In Winterskälte und Hungersnöthen;  
+> Wir haben vergebens gehofft und geharrt,  
+> Er hat uns geäfft und gefoppt und genarrt –  
+> Wir weben, wir weben!  
 
+> Ein Fluch dem König, dem König der Reichen,  
+> Den unser Elend nicht konnte erweichen,  
+> Der den letzten Groschen von uns erpreßt,  
+> Und uns wie Hunde erschießen läßt –   
+> Wir weben, wir weben!  
 
-es stehen die Näherinnen hinter dem Nähen des Kleidungsstücks, die Färber hinter der Farbe desselben, 
+> Ein Fluch dem falschen Vaterlande,  
+> Wo nur gedeihen Schmach und Schande,  
+> Wo jede Blume früh geknickt,  
+> Wo Fäulniß und Moder den Wurm erquickt –  
+> Wir weben, wir weben!  
 
-There was the peasant behind the cotton (now not even that, as a machine replaced him too), there was the machine behind the yarn, there was the machine behind the weaving, there was the sewer behind the sewing, there was the dyer behind the colour, there was the driver and the captain and the carrier and the next driver and the next carrier. And finally it ended in my hands. It was shipped from a country of poor people, where some have barely enough cloth to cover themselves, into a country of rich people, where some have enough clothing in their closet to cloth an entire village. And I paid 15€. What is 15€ for such decadence? Every single person involved in its production has to be paid from this money, but the company ordering the production and the store selling it will get most of it. If this is so, how much money will remain for each of them for the shirt that I now wear? Can you imagine? What does the sewer and the dyer and every single driver get from these 15€? I would be suprised if it's more than nothing. And I, by buying it, am responsible for it.  
+> Das Schiffchen fliegt, der Webstuhl kracht,  
+> Wir weben emsig Tag und Nacht –  
+> Altdeutschland, wir weben Dein Leichentuch,  
+> Wir weben hinein den dreifachen Fluch,  
+> Wir weben, wir weben!
 
+Sie wollten nicht aufhören zu weben. Die Nähmaschine ist erfunden worden, um den Näherinnen ihre Arbeit zu erleichtern. Jene Maschinen, um deretwegen die Weber keine Träne mehr weinen konnten, wegen denen sie erfroren und verhungerten, wegen denen sie ihren Glauben an Gott verloren, wegen denen sie Deutschland und seinem König den Tod wünschten, wegen denen sie gegen das Unrecht rebellierten und dafür erschossen wurden, diese Maschinen haben niemandem gedient, als allein denen, die sich damit bereichern wollten. Wenige Maschinen wurden erfunden, um den Menschen das Leben zu erleichtern, die meisten Maschinen aber haben den Menschen überhaupt nichts erleichtert, sondern sie allein um ihre Würde, ihre Arbeit und ihr Brot gebracht.  
+Wer in einem solchen Kontext sagt, das sei der "Fortschritt", den man nicht aufhalten könne, hat weder Verstand noch einen Sinn für Geschichte. Es ist nicht alles, was geschieht und was neu ist, ein Fortschritt nur dadurch, dass es geschieht und dass es neu ist. Es gibt Rückschritte in der Welt und die Geschichte ist voll davon. Es geht nicht voran, sondern es geht ab und ab, hin und her und genau dahin, wohin wir gehen wollen. 
+
+Die Weber hatten kein Interesse mit dem Weben aufzuhören und auch sonst hat es niemandem genutzt. Wider menschliches Interesse hat man also gehandelt. Und wofür? Im Interesse des Geldes, wieder und wieder. So hat man es hier gemacht und so hat man es überall gemacht. Indien traf es noch weit schlimmer.  
+
+Es stehen Näherinnen hinter dem Nähen des Kleidungsstücks, es stehen die Färber hinter der Farbe desselben, dann der Fahrer und der Kapitän und der Träger und der nächste Fahrer und der nächste Träger. Dann hängt eine Verkäuferin es in den Laden – und endlich landet es in meinen Händen. Es wurde verschifft aus einem Land von armen Menschen, in dem manche kaum genug Kleidung haben, um sich selbst zu kleiden, in ein Land von reichen Leuten, in dem manche genug Kleidung in ihrem Schrank haben, um damit ein ganzes Dorf zu kleiden. In ein Land, in dem man problemlos selbst Kleidung herstellen könnte und das zuvor auch immer tat, es aber nicht mehr tut, um Geld zu sparen, Geld, dass die fernen Armen, die wir nicht sehen, mit ihrem Blut bezahlen, das an meinen Händen klebt. 
+
+Und nun habe ich 15€ dafür bezahlt. Was ist 15€ für solche Dekadenz? Jede einzelne Person, die an der Produktion beteiligt war, muss von diesem Geld bezahlt werden, aber die Firma, die die ganze Produktion beauftragt hat und der Vertreiber werden den größten Anteil erhalten. Wenn das so ist, wie viel Geld wird jedem davon bleiben für das Shirt, das ich jetzt trage? Was meint ihr? Was bekommt das kleine Mädchen in Indien, das es für mich genäht hat? Was bekommt das Mädchen in China, das aufgrund des technologischen Fortschritts die Biene ersetzen muss? Was bekommt der Färber, der in giftigem Wasser watet und giftige Dämpfe einatmet, damit ich mich an bunter Kleidung erfreuen kann? Was bekommen all die Fahrer und Träger, die das Logistikunternehmen ausbeutet? Über die wir uns beschweren, weil sie auf der Autobahn am Steuer einschlafen und Unfälle verursachen, weil sie unter dem Zeitdruck des Profits wie Sklaven getrieben werden, gepeitscht wie Ochsen vor einem Karren, der *grundlos* hin und her fährt... Was bekommen all diese Menschen von den 15€? Ich wäre überrascht, wenn es mehr ist als nichts. Und ich, indem ich es kaufe, bin verantwortlich dafür. 
+
+ 
 Ignorance is an essential aspect of and an essential reason for violence. Jesus prayed to his father for the violent men torturing him: "Please forgive them, because they don't know what they do." People don't know what they do. If they do something as simple as buying a shirt, they don't know what that contains, what that implies, what that supports and maintains.   
 That beautiful shirt in the store — if they would look behind it, if they would know what it implies, they would find no beauty in it. It would evoke no desire nor admiration. It would evoke nothing but distaste and sadness for the sorrow it creates and perpetuates. They would never buy it if they could see. It is manufactured sorrow on behalf of my desire. 
 
