@@ -52,22 +52,22 @@ Das Elend der Modeindustrie bedarf keiner großen Beschreibung, denn es ist allg
 
 Die Arbeitsbedingungen in der Modeindustrie werden zurecht als Formen moderner Sklaverei beschrieben und es gibt einen riesigen Anteil von Kinderarbeit. In Indien, in China, in der Türkei, überall arbeiten auch Kinder in der Industrie um der Mode willen, die in den Fast-Fashion Läden des Westens feilgeboten wird. 
 
-[umgestellt, english anpassen]  
+<!--[umgestellt, english anpassen] -->  
 Wenn ich mir dessen bewusst bin, dann muss ich dagegen rebellieren. Aber eine destruktive Rebellion ist wertlos. Sie wird etwas zerstören, ohne irgendetwas anderes aufzubauen. Unsere Rebellion ist nicht von dieser Art. Unsere Rebellion ist konstruktiv. Das ist es, was Gandhi "Satyagraha" (Wahrharren, Beharren auf der Wahrheit) nannte, eine konstruktive und gewaltlose Rebellion gegen Unwahrheit und Gewalt, die in der Wirtschaft in Form von Ausbeutung zum Ausdruck kommt. Ich will hier versuchen, am Beispiel der Modeindustrie, die Anwendung von Satyagraha zu veranschaulichen und zu zeigen, wie es den systematischen (un)wirtschaftlichen Missbrauch überwinden kann. 
 
 Obwohl das Problem allgemein bekannt ist, wird nahezu nichts getan. Denn ein jeder sieht die Verantwortung woanders. Alles, was sie tun, ist Augenwischerei und löst das Problem in keiner Weise. Es löst kein Problem, weil sie an ihrem grundlegenden und gänzlich widernatürlichen Dogma festhalten, dass man wirtschaftlich wachsen muss. Dieses Wachstum ist per Definition auf einer begrenzten Erde, ohne Ausbeutung von Menschen und Natur, *nicht* möglich. 
 
 Wenn etwas meinen Körper betrifft, dann betrifft es mich, weil ich Verantwortung für diesen Körper trage. Wer sollte diese Verantwortung tragen, wenn nicht ich? Wenn etwas meine Familie betrifft, betrifft es mich, weil ich Teil dieser Familie bin. Wenn etwas meine Uwelt betrifft, betrifft es mich, weil ich Teil der Umwelt bin. Wenn etwas meine Gesellschaft betrifft, bin ich verantwortlich, weil ich Teil dieser Gesellschaft bin. Kurz: Wenn es ein Problem gibt, bin ich dafür verantwortlich, es zu lösen. Wer sollte das tun, wenn nicht ich? 
 
-[Neu, add to English:]
+<!-- [Neu, add to English:]--> 
 Jesus beschreibt das mit den Worten: "Nimm dein Kreuz auf dich und folge mir." Er erwartete von uns, dass wir es ihm gleich tun, dass wir Verantwortung übernehmen, auch und gerade, wenn wir nur einen kleinen Anteil daran haben. Denn sonst tut es niemand. Jesus musste sterben, weil es sonst niemand tat. Jesus ist dieser Einzelne, von allen verlassen und auf sich allein gestellt, der tut was notwendig ist. Und an jedem Tag und in jedem Moment, an dem wir es nicht tun, an dem wir unsere Verantwortung nicht tragen, da stirbt er erneut, irgendwo auf der Welt. So rechtfertigen und bedingen wir seinen Tod am Kreuz.  
 
 Ich trage Verantwortung. Es muss ich sein, weil *jeder* denkt, dass nur andere die Verantwortung tragen. Wo immer das der Fall ist, müssen wir sagen: Es ist meine. Ich bin verantwortlich. 
 
-[Geändert, in english anpassen]  
+<!-- [Geändert, in english anpassen]  -->
 Heute gibt es ein fundamentales Problem mit unserer Kleidung. Ich trage Kleidung, also bin ich Teil des Problems. Ich bin verantwortlich für das Problem. Ich bin nicht allein dafür verantwortlich, aber ich bin verantwortlich in einem bestimmten Grade. Und es ist meine Pflicht, das Minimum, dass ich in diesem Grade Verantwortung übernehme. 
 
-[Neu, in English hinzufügen]
+<!-- [Neu, in English hinzufügen] -->
 Die Leute werden immer sagen, bei jeder Entscheidung, die sie treffen: "Das ist doch nur eine Kleinigkeit." Aber es sind genau diese Kleinigkeiten, die jeder täglich tut, die zu Großartigkeiten werden. In diesem Fall zu leidvollen Grošartigkeiten. Sie werden soetwas sagen, wie: "Die Hauptverantwortlichen sind ganz woanders und tun viel schlimmere Dinge, als ich, nur weil ich mir ein Kleidungsstück kaufe. Sie müssen etwas ändern, nicht ich." Und das ist der aller größte Fehler. Die Hauptverantwortlichen könnten gar nichts mehr Schlechtes tun und würden augenblicklich verzweifelt anfangen (aus den falschen Gründen) Gutes zu tun, wenn die kleinen Leute mit ihren Kleinigkeiten aufhören würden. Es gibt nichts Mächtigeres als Boykott.  
 Diese Verantwortung des Einzelnen zu betonen und sie vorallem zu betonen, das ist keine Verschiebung der Verantwortung in keiner Weise, sonderm es ist die Ermächtigung des Einzelnen. Wir geben damit jedem seine eigene Kraft zurück, während jene, die sagen, dass wir gar nichts tun sollen, dass wir uns nicht verantwortlich fühlen sollen, dass wir weiter konsumieren sollen und es an anderen liegt, etwas zu tun, die Initiative aus unserer Hand reißen und entscheidend dazu beitragen, dass wir uns machtlos fühlen, so, als ob wir nichts tun könnten. Aber das können wir. 
 
@@ -252,7 +252,7 @@ Eines Tages werden wir zur Würde zurückkehren. Eines Tages werden wir verstehe
 
 ## Kleidung in der Tradition
 
-Todo: Show some traditional clothing and how the modern production has destroyed all of it. Not only the craft and knowledge around the craft, but style, diversity, beauty. 
+<!-- Todo: Show some traditional clothing and how the modern production has destroyed all of it. Not only the craft and knowledge around the craft, but style, diversity, beauty. --> 
 
 Während wir eine multi-kulturelle Welt proklamieren, wird unsere Kultur, weltweit, uniformer als sie es jemals war. Unser Wirtschaftssystem zerstört unmittelbar die Tradition und indem es die Tradition zerstört, zerstört es die Kultur.  
 Wissen geht verloren, Handwerkskünste sterben aus, alle damit verbundene Würde geht verloren und alle Schönheit und Diversität, die immer damit verbunden war.  
@@ -285,7 +285,7 @@ Es entsteht also die Frage: *Wenn ich im Hinblick auf die Kleidung, die ich trag
 
 Um das zu tun, muss ich zuerst (1) begreifen, worin in Hinsicht auf die Kleidungsproduktion Gewalt besteht, im allgemeinsten Sinn – das sind die potentiellen Bedingungen. Dann mich (2) informieren darüber wie ein bestimmtes schon gefertigtes (oder für mich zu fertigendes) Kleidungsstück oder Material zur Kleidungsfertigung (z.B. Wolle, Garn, Stoff) gefertigt wird im Hinblick auf alle in der Produktion und dem Vertrieb involvierten Schritte – das sind die aktuellen, die tatsächlichen Bedingungen. 
 
-[hier leichte anpassung, English überarbeiten]  
+<!-- [hier leichte anpassung, English überarbeiten]  -->
 Wenn ich die potentiellen Bedingungen betrachte, taucht zuerst eine bestimmte Bedingung auf, die fundamentalste Bedingung. Es ist die fundamentalste Bedingung, weil es die Bedingung ist, die mir und meinem Problem, Kleidung zu bekommen, am nächsten ist. Es ist die Frage: "Woher?"  
 Woher kann ich Kleidung bekommen? Wo wird Kleidung produziert und wo *kann* Kleidung produziert werden? Im zweiten Schritt muss ich mir dann die Frage stellen, *wie* sie produziert wird. Jedoch *wo* sie produziert wird ist die primäre Frage. 
 
@@ -331,11 +331,9 @@ Dieses Produkt, dieses Shirt, scheint völlig unpersönlich zu sein und völlig 
 
 Es stand ein Bauer hinter der Baumwolle; jetzt nicht mehr, weil auch er durch Maschinen ersetzt wurde. Bienen sorgten einst dafür, dass diese Baumwolle blüht, aber weil man die Bienen durch modernes Gift vielerorts ausgerottet hat, schickt man jetzt Menschen (und wiederum Kinder) auf die Felder, um die Baumwolle von Hand zu bestäuben. Das ist die schöne neue Welt, die unser Fortschritt uns gebracht hat. 
 
-[Reflektiere ebenso über die anderen Prozesse!] 
-
 Es stand eine Maschine hinter dem Spinnen des Garns, eine Maschine hinter dem Weben des Stoffs, zwei Maschinen, wegen derer abertausende von Spinnern und Webern überall auf der Welt verhungert sind oder dazu gezwungen wurden, aus ihrer Unabhängigkeit heraus in die Abhängigkeit als Fabrikarbeiter zu gehen; sie sind auch der Grund, aus dem abertausende Menschen in Indien heute immernoch am Existenzminimum leben.
 
-[DE exklusiv]  
+<!-- [DE exklusiv]  -->
 Vor diesem menschengemachten Leid ist man auch in Deutschland nicht verschont geblieben, wie uns das Weberlied von Heine so unmissverständlich vermittelt... 
 
 > Im düstern Auge keine Thräne,  
@@ -400,24 +398,23 @@ der in die Produktion involviert ist; und ich bin nicht in der Lage selbst zu ve
 
 Was ist dann also die Alternative? Manchmal frustriert einen die Situation so sehr, dass man einem alles völlig egal wird, aufgrund der so wahrgenommenen Unfähigkeit, irgendetwas zu tun. Wir fühlen uns gelähmt, schockiert, machtlos. "Wenn jeder diese Verbrechen begeht, dann kann ich niemandem vertrauen! Dann kann ich ja nichts mehr kaufen!" Aber das ist nicht wahr. Das Problem ist, dass du überhaupt soviel vertrauen *musst*, was überhaupt gar nicht nötig wäre, wenn du dich leicht selber von allem überzeugen könntest, wie es im Hinblick auf fast alle Dinge des täglichen Bedarfs früher selbstverständlich war. Es gibt eine Alternative zu all dem und die ist sehr offensichtlich und einfach. Es ist was für den Großteil der Geschichte der menschlichen Gesellschaft üblich war. Es ist, was Missbrauch verhindert. 
 
-* a
+* Die Materialien zur Kleidungsfertigung sollten aus einer mir nahen Umgebung kommen (Baumwolle, Flachs, Hanf, Schafwolle etc.)
+* Das Garn, das aus diesen Materialiem gesponnen wird, sollte von mir oder von Handwerkern oder in Manufakturen in meiner Nähe gesponnen werden.
+* Der Stoff, der aus diesem Garn gewebt wird, sollte von mir oder von Handwerkern oder in Manufakturen in meiner Nähe gewebt werden. 
+* Die Kleidung, genäht aus diesem Stoff, sollte von mir oder von Handwerkern oder in Manufakturen in meiner Nähe genäht werden. 
+* Und die so (wenn nicht von mir selbst) genähte Kleidung sollte von den Handwerkern oder Manufakturen angeboten werden, die sie gefertigt haben.  
 
-* The materials for the making of cloth should come from an environment near to me (cotton, flax, hemp, sheep wool etc).
-* The yarn spun from these materials should be spun by me or by individuals or in manufactures near to me.
-* The fabric woven from this yarn should be woven by me or by individuals or in manufactures near to me.
-* The cloth sewn from this fabric should be sewn by me or by individuals or in manufactures near to me. 
-* The cloth thus sewn (if not sewn by me) should be offered by the very individuals or manufactures who made it.
+Das ist alles, was es braucht. Wenn Kleidung in einer solchen Weise gefertigt wird, dann bin ich in der Lage, jede Person, die in den Vorgang involviert ist, zu *kennen*. Weil ich in der Lage bin sie zu kennen, bin ich in der Lage sie zu lieben und mich um sie zu kümmern, und weil sie dazu in der Lage sind, mich zu kennen, sind sie in der Lage mich zu lieben und sich um mich zu kümmern. Es gibt keinen Schleier zwischen mir und denen, die fertigen was ich trage, was allerlei hässlichen Missbrauch in der Fertigung vor mir verbergen würde.  
 
-This is all it takes. If my clothing is made in such a way, I am able to *know* every person involved in the making of my cloth. Because I am able to know them, I am able to love them and care for them, and because they are able to know me, they are able to love me and care for me. There is no veil between me and those involved in making what I wear, that would hide from me any kind of ugly abuse in the production. 
+Ich *kenne* und kommuniziere unmittelbar mit dem, der die Kleidung für mich genäht hat. Derjenige, der die Kleidung für mich genäht hat, kennt und kommuniziert unmittelbar mit dem, der den Stoff gewoben hat. Derjenige, der den Stoff gewoben hat, kennt und kommuniziert unmittelbar mit dem, der das Garn gesponnen hat. Derjenige, der das Garn gesponnen hat, kennt und kommuniziert unmittelbar mit dem, der ihm die Wolle verschafft und gewaschen und sich um die Schafe gekümmert hat oder mit dem, der die Wolle gekämmt und kardiert hat oder dem, der den Flachs beschafft und angebaut hat.  
+Ich kann jeden, der darin involviert, persönlich besuchen. Ich kann mir die Flachsfelder ansehen und die Schafherde, jede Manufaktur und jede einzelne Werkstatt. Es ist die ökonomischste und zugleich die ökologischste Lösung, denn der Weg vom Produkt, zu dem, der es nutzt, ist auf das Minimum reduziert; die Logistik ist auf ein Minimum reduziert, Mittelsmänner, die für allerlei potentielle Täuschungen verantwortlich sind, existieren nicht und die verfügbaren Ressourcen werden genutzt und nicht verschwendet, wie es jetzt geschieht. Es ist auch die am wenigsten fragile Lösung, denn es wird uns und unseren Kleidungsbedarf kaum beeinflussen, wenn anderswo irgendwas geschieht, weil wir unsere Bedürfnisse selber sorgen, weil alles in einem Kreislauf gehalten wird. 
 
-I *know* and communicate directly with the one who sew the cloth for me. The one who sew the cloth for me knows and communicates directly with the one who has woven the fabric. The one who has woven the fabric knows and communicates directly with the one who has spun the yarn. The one who has spun the yarn knows and communicates directly with the one who has provided the wool and cared for the sheep or has provided the flax and cultivated it.  
-I can visit each and every one involved. I can visit the flax fields and the flock of sheep, every manufacture or individual workshop. It is the most economical and at the same time the most ecological thing to do, because the way from the product to the one using it is reduced to the minimum; logistics is reduced to the minimum, middlemen, that are responsible for all kinds of potential deceit, do not exist, and the available ressources are used and not wasted, as it is now. It is also the most anti-fragile way of handling things, because it will affect us and our demand for cloth very little if anything happens elsewhere, because we rely on ourselves for our needs, all handled within a small circle. 
+Die Kleidungsfertigung wird dann zu einem geschlossenen, ökonomischen Kreis. Einem Kreislauf. Wäre der Kreis nicht geschlossen, wäre es kein Kreis. Es wäre ein unvollständiger, ein gebrochener Kreis. Jeder gebrochene Kreis hat zwei Enden und eine Lücke. Durch diese Lücke schleicht sich am einen Ende Missbrauch ein und am anderen Ende kommt Müll heraus. So ist es immer. Müll und Missbrauch sind die unausweichliche Konsequenz eines gebrochenen Wirtschaftskreislaufs. 
 
-Cloth-making then becomes a closed economic circle. If it wouldn't be closed it would be no circle. It would be an incomplete, a broken circle. Any broken circle has two ends and a gap. Through this gap abuse enters on one end and waste leaves on the other. Waste and abuse are the automatic consequence of a broken economic circle. 
+Jede gesunde Wirtschaft funktioniert in geschlossenen Kreisläufen. Und diese Kreisläufe sind nur so lange gesund als sie klein genug sind, damit ich jeden darin kennen kann. Wenn ich sie nicht kennen kann, kann ich sie nicht lieben. Und ohne Liebe sollte ich niemals irgendein "Geschäft" machen, denn jedes Geschäft beinhaltet entweder wechselseitige oder einseitige Abhängigkeit. Und jede Abhângigkeit ohne Liebe verwandelt sich in Verbrechen. 
 
-Any sound economy is functioning through closed circles. And these circles are only sound as long as they are small enough for me to know everyone involved. If I cannot know them, I cannot love them. And I should never do any "business" without love, because every kind of business always includes some kind of either mutual or unilateral dependence. And any dependence without love inevitably turns into crime. 
+Indem alle wirtschaftlichen Belange soweit möglich im lokalen oder regionalen, geschlossenen Kreislauf bleiben, bin ich in der Lage eine persönliche Verbindung zur Kleidung zu haben und zu den Menschen, die sich damit befassen, und darin liegt Schönheit, Freude, Unabhängigkeit, Selbstgenügsamkeit, Wert, Würde und die wichtigste Garantie gegen Missbrauch und Täuschung. Nur dann kann ich wirklich Verantwortung übernehmen. 
 
-By keeping all economical affairs within the local or regional closed circle, I am capable to have a personal connection to the cloth and the humans involved, and therein lies beauty, joy, independence, self-reliance, worth, dignity and the most important guarantee against abuse and deceit. Only then am I truly able to take responsibility. 
 
 In the current way of buying cloth from abroad, I *need* to take responsibility just as well, I *am* responsible just as well, but everything is done to make me incapable of taking responsibility and to hide from me anything that would let me start to think twice about whether it is a good idea to buy the abusive rubbish that they sell. 
 
@@ -449,7 +446,7 @@ Die Menschen nehmen fälschlich an, dass eine Zunahme an Profit gut für sie ist
 Die vorherrschende Ideologie hat die Form geprägt, in der Technologie uns bisher in der modernen Welt erschienen ist. Diese Form muss verschwinden. Aber es gibt andere Formen der Technologie, die den Menschen dienen, anstatt dem Geld. Diese Art von Technologie heißen wir willkommen, weil sie keinen Schaden anrichtet.  
 
 
-## Revolution of the Spindle
+## Revolution der Spindel
 
 When Gandhi rejected the machine and foreign made cloth, he did so to gain the independence of the people of India who were under the foreign rule of Britain. He did not do so because he had something against the British. He simply didn't want them to rule and to abuse them. But there is much more to Gandhis rebellion against foreign made cloth, just as there was much more to his struggle for independence. 
 
