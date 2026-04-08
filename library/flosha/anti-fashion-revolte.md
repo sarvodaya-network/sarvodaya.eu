@@ -1,9 +1,13 @@
 # Anti-Fashion Revolte
 
 Befreiung von systematischem   
-wirtschaftlichen Missbrauch 
-am Beispiel der Modeindustrie
+wirtschaftlichen Missbrauch  
+am Beispiel der Modeindustrie  
 {: .center }
+
+ FLOSHA
+ {: .center }
+
 
 ```
 ToDo: 
@@ -16,26 +20,23 @@ ToDo:
 * Add at the top some infos about what the fashion industry worldwide means, what its doing and how much harm it is causing. 
 * search clothes of lanza in könig der armen and in vier geißeln etc., search gandhis spinning wheel and khadi clothes, read gandhis khadi book(s)
 ```
-  
-by Flosha
 
-An application of Satyagraha and a demonstration of the Constructive Programme in regard to Khadi in action, in the context of a western, industrial environment.  
+INHALT  
 
-
-* Introduction
-* How to start?
-  * Discarded Cloth
-  * Clothing that I have
-* Clothing as Expression
-  * Clothing Styles
-  * Brands have to be abandoned
-* Clothing in Tradition
-* Suffering Woven in Cloth
-* Manufactured Sorrow
-* Revolution of the Spindle
-* Non-violent technology
-* Gradual-Self Sufficiency
-* Constructive Programme
+* Einführung
+* Mein Anteil daran
+  * Weggeworfene Kleidung 
+* Kleidung als Ausdruck
+  * Stile und Trends
+  * Marken der Eitelkeit
+* Kleidung in der Tradition
+* Leid gewebt in Stoff
+* Wie Kleidung gefertigt wird
+* Das Prinzip *Swadeshi*
+* Revolution der Spindel
+* Gewaltlose Technologie
+* Graduelle Selbstgenügsamkeit
+* Konstruktives Programm
 
 
 Add Lanzas ideas in quatre fleux etc. and coomaraswamy.
@@ -44,6 +45,9 @@ Add Lanzas ideas in quatre fleux etc. and coomaraswamy.
 
 
 ## Einleitung
+
+In diesem Essay versuche ich die Anwendung von Satyagraha zu veranschaulichen und zu zeigen, wie das Konstruktive Programm funktioniert, im Kontext einer westlichen, industrialisierten Gesellschaft. 
+
 
 Wenn etwas, das meinen Körper betrifft, dann betrifft es mich, weil ich Verantwortung für diesen Körper trage. Wer sollte das tun, wenn nicht ich? Wenn etwas meine Familie betrifft, betrifft es mich, weil ich Teil dieser Familie bin. Wenn etwas meine Umwelt betrifft, betrifft es mich, weil ich Teil der Umwelt bin. Wenn etwas meine Gesellschaft betrifft, bin ich verantwortlich, weil ich Teil dieser Gesellschaft bin. Kurz: Wenn es ein Problem gibt, bin ich dafür verantwortlich, es zu lösen. Wer sollte das tun, wenn nicht ich?  
 
@@ -152,7 +156,7 @@ Wenn ich mich stattdessen dafür entscheide, Kleidung zu *kaufen*, was die schle
 Wir müssen darum in Betracht ziehen welche Möglichkeiten der Kleidungsherstellung es gibt, welche Art von Kleidung ich darum mich entscheiden kann zu tragen und was ich durch diese Kleidung unterstütze, und was ich zum Ausdruck bringe; also was die Kleidung impliziert und beinhaltet. 
 
 
-## Stil und die Eitelkeit von Trends
+## Stile und Trends
 
 Modetrends sind eine der prominentesten Faktoren, die die Kleidungswahl der Menschen in modernen, industriellen Gesellschaften beeinflussen, meist völlig ungeachtet dessen, wie die Kleidung hergestellt wird. Es spielt nur eine Rolle, wie sie aussieht. 
 
@@ -184,7 +188,7 @@ Aus keinem anderen Grund als der Gier jener, die nicht zufrieden sind mit dem, w
 Aus keinem anderen Grund als die kleine Befriedigung, die darin liegt, etwas neues zu kaufen und zu tragen und uns selbst in einem Kleidungsstück zu präsentieren, dass wir so wenig wertschätzen wie die Menschen, die es für uns machen. 
 
 
-## Marken sollten aufgegeben werden
+## Marken der Eitelkeit
 
 Eine andere Sache, die uns in den Sinn kommen mag, wenn wir über Kleidungswahl nachdenken, sind die vielen verschiedenen "Marken", aus denen wir wählen können. 
 
@@ -212,14 +216,11 @@ Wenn wir bereits solche Kleidung mit sichtbaren Marken darauf haben, so ist es n
 Es ist schlimm genug, dass der Kommerz den öffentlichen Raum erobert hat, dass unsere Städte und Dörfer, die wir einst nach unserem gemeinsamen Geschmack verschönert haben, für Geld verkauft wurden an die kommerziellen Interessen von Unternehmen. Der öffentliche Raum ist an den Kommerz verloren worden in solch einem Grad, dass, wo immer wir uns hindrehen, wir von kommerziellen Tricks bombardiert werden, dass wo immer wir hingehen, wir angegriffen werden von der Hässlichkeit der Gier. Schlimm genug.  
 Aber es war nicht genug; die Leute haben diesen Firmen sogar ihre Körper angeboten, um für sie zu werben. Und nicht kostenlos. Es ist noch viel absurder: Sie *bezahlen* die Firmen für Kleidung, um für sie zu werben. Sie sind nicht gesponsort. Sie zahlen noch dafür... 
 
-It is worse enough that commerciality has conquered the public space, that our cities and villages that we once beautified to our collective liking, have been sold for money to the commercial interest of corporations. The public space has been lost to commerce to such a degree, that wherever we turn to we are bombarded by commercial tricks, that wherever we go we are attacked by the ugliness of greed. Worse enough.  
-But it wasn't enough; people offered their very bodies to these companies and advertise for them. And not for free. It is much more absurd: They *pay* companies for clothes to advertise for them. They aren't sponsored to do so. They pay for doing so. 
-
 Eines Tages werden wir zur Würde zurückkehren. Eines Tages werden wir verstehen, dass die einzige Sache, die wir stolz tragen sollten, die Kleidung ist, die wir selbst gemacht oder die unser Nachbar selbstgemacht hat in gewaltloser Weise; und diese Kleidung wird keine Werbung auf sich brauchen, weil ein jeder wissen wird was sie zum Ausdruck bringt und wofür wir steht. 
 
 
 
-## Clothing as Tradition
+## Kleidung in der Tradition
 
 Todo: Show some traditional clothing and how the modern production has destroyed all of it. Not only the craft and knowledge around the craft, but style, diversity, beauty. 
 
@@ -228,7 +229,7 @@ While proclaiming a multi-cultural world, our culture, worldwide, is becoming mo
 Where modern for-profit production appears, there all art and craft, beauty and style disappears. 
 
 
-## Leid gewebt in Kleidung
+## Leid gewebt in Stoff
 
 Alles, was geschaffen wird, beinhaltet die Geschichte, die Erfahrung, den Prozess, das Leiden und die Freude seiner Erschaffung. Wenn du einem Menschen gegenüberstehst, solltest du nicht nur die oberflächliche Erscheinung dieses Menschen sehen, als ob er nur ein bloßes Bild wäre, ohne Hintergrund und ohne Leben. Da ist eine Geschichte hinter diesem Menschen, da sind Erfahrungen, da ist eine Entwicklung, da ist Leiden und Freude in ihm. Wenn du einen Menschen ansiehst, dann wird jeder fühlende und denkende Mensch das in jedem anderen erkennen; zumindest zu einem Grad wird er das erkennen. 
 
@@ -330,16 +331,16 @@ Self-Sufficiency in clothing does also not mean, that I have to do it all on my 
 
 ---
 
-## Gradual-Self Sufficiency
-## Nonviolent Technology
+## Gewaltlose Technologie
 
-When the non-violent revolutionary is producing cloth by hand that does not mean that he is necessarily of the view that local or regional self-sufficiency must be accomplished by handcraft only for principal reasons. He may do it because he is alone. He may do it in order to give the people work that starve. He may do it because he currently has no other choice, because there is no other local or regional and non-violent option within the region.  
-He may as well do it in order to learn and to understand the processes. In *Nai Talim*, the way of education in that we trust, we learn and teach through craft. Since I haven't received such an education, I have to educate myself. 
+Wenn der gewaltlose Revolutionär Kleidung von Hand fertigt, dann bedeutet das nicht, dass er notwendigerweise der Ansicht ist, dass lokale oder regionale Selbstgenügsamkeit allein und aus prinzipiellen Gründen durch reine Handarbeit verwirklicht werden müsste. Er mag es tun, weil er nicht anders kann. Er mag es tun, um jenen Arbeit zu geben, die verhungern. Er mag es tun, weil er aktuell keine andere Wahl hat, weil es in seiner Region keine andere lokale oder regionale und gewaltlose Option gibt.  
+Er mag es auch tun, um die Prozesse zu lernen und zu verstehen. In *Nai Talim*, dem Weg der Bildung, in den wir vertrauen, lernen wir durch Handwerk. Weil ich eine solche Bildung nicht erhalten habe, muss ich mich selbst bilden. 
 
-Local or regional self-sufficiency in cloth *can* be realised with the help of technology. It just must be *non-violent* technology, that helps us being self-sufficient and does not in any way harm the self-sufficiency of any other region or locality.  
-For this purpose the technology must be open source, it must be small enough, it must not cause dependence and additional potential for abuse; it must ideally be possible to be build in every region or it must at the very least be possible to be build in ones land; it must be affordable for every region or ideally every locality; it must be designed in a way that it can be independently repaired in the region and is not causing dependence in that regard; it must also not cause any external dependence from ressources unavailable in the region (oil and gas, apart from bio-gas produced in the region, is thus out of question).   
-If a technology can meet all these standards, we can regard it as non-violent technology. An example for such non-violent technology is the singer sewing machine that helped individuals to simplify sewing. Another example is the gandhian invention of the *Ambhar Charkha*, a multi-spindle spinning wheel that simplifies the process of spinning greatly, in a similar way as the sewing machine has simplified sewing. It is a new technology that does not require any external power supply, and yet makes spinning much more efficient than ancient or medieval ways of spinning.  
-These kinds of inventions show, that technology can be developed into completely different directions than it has been done so far, if there is a will to do so. The technology developed so far has been developed in particular ways for very particular reasons, serving particular interests. Sadly not our interests, but the interests of money.  
+Lokale oder regionale Selbstgenügsamkeit in der Kleidung kann mit der Hilfe von Technologie verwirklicht werden. Es muss nur *gewaltlose* Technologie sein, die uns hilft selbstgenügsam zu sein und nicht in irgendeiner Weise der Selbstgenügsamkeit einer anderen Region oder Gemeinde schadet.  
+Zu diesem Zweck *muss* die Technologie open source sein, sie muss klein genug sein, sie darf keine Abhängigkeit und zusätzliches Missbrauchspotential verursachen; sie muss idealerweise in keder Region konstruiert werden können, oder im Mindesten im eigenen Land; sie muss erschwinglich sein für jede Region oder bestenfalls jede Gemeinde; sie muss solcherart gestaltet sein, dass sie unabhängig direkt in der Region repariert werden kann und auch in dieser Hinsicht keine Abhängigkeit schafft; sie darf auch keine äußere Abhängigkeit von Ressourcen verursachen, die in der Region nicht verfügbar sind (Erdöl und Gas, abgesehen von Biogas, das in der Region produziert wird, sind damit außer Frage).  
+Wenn eine Technologie all diese Standards erfüllen kann, dann können wir sie als gewalose Technologie betrachten. Ein Beispiel für eine solche gewaltlose Technologie ist die Singer Nähmaschine, die dem Einzelnen drastisch geholfen hat, das Nähen zu vereinfachen. Ein anderes Beispiel ist die gandhische Erfindung des *Ambar Charkha*, ein Multi-Spindel Spinnrad bzw. eine Spinnmechanik, die den Spinnprozess sehr stark vereinfacht und beschleunigt hat, in ähnlicher Weise wie die Nähmaschine das Nähen vereinfacht hat. Es ist eine relativ neue Technologie, die keine nicht-menschliche Energiezufuhr benötigt, und doch das Spinnen sehr viel effizienter macht als antike oder mittelalterliche Arten zu spinnen. Es hat quasi die großen, ausbeuterischen Spinnmaschinen in eine kleine, von den einzelnen Arbeitern kontrollierbare Form gebracht.  
+Diese Art von Erfindungen zeigen, dass Technologie in völlig andere Richtungen entwickelt werden kann, als das bisher getan wurde, wenn es einen Willen dazu gibt. Die Technologie, die bisher entwickelt wurde, wurde entwickelt auf eine ganz bestimmte Weise aus ganz bestimmten Gründen, um ganz bestimmten Interessen zu dienen. Leider nicht unseren Interessen, sondern den Interessen des Geldes. 
+ 
 
 The primary problem with technology is the servitude of technology under money. The vast majority of technological inventions have not been made with the wellbeing of people in mind, they have not being made in order to serve you, your friends or your children. They have been made for money, on behalf of money and in service of money.   
 Technology today is evil to the degree in which it is not serving the interests of people. In the majority of cases, technology isn't doing so. It is solely serving commercial interests. 
