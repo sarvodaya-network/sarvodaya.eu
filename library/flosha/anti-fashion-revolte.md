@@ -46,27 +46,26 @@ Add Lanzas ideas in quatre fleux etc. and coomaraswamy.
 
 ## Einleitung
 
-Die UN bezeichnet die Modeindustrie als zweitgrößter Umweltverschmutzer der Welt. 
-Sie produziert je nach Quelle zwischen 1,2 bis 1,7 Milliarden Tonnen Kohlendioxid-Emissionen, mehr als Luft- und Schifffahrt zusammen. Es fließt ca. 11% Prozent des Wassers, das in der gesamten Industrie zum Einsatz kommt, in die Fabriken der Modeindustrie. Sie trägt damit entscheidend zur Zerstörung unserer eigenen Lebensgrundlagen bei.
+Das Elend der Modeindustrie bedarf keiner großen Beschreibung, denn es ist allgemein bekannt. Die UN nennt die Modeindustrie den zweitgrößten Umweltverschmutzer der Welt, der je nach Quelle zwischen 1,2 bis 1,7 Milliarden Tonnen Kohlendioxid-Emissionen ausstößt, mehr als Luft- und Schifffahrt zusammen. Es fließt ca. 11% Prozent des Wassers, das in der gesamten Industrie zum Einsatz kommt, in die Fabriken der Modeindustrie. Sie trägt damit entscheidend zur Zerstörung unserer eigenen Lebensgrundlagen bei.
 
-Die Arbeitsbedingungen in der Modeindustrie werden zurecht als Formen moderner Sklaverei beschrieben. Zudem gibt es einen großen Anteil von Kinderarbeit. Indien, in China, in der Türkei, überall arbeiten Kinder in der Industrie um der Mode willen, die in den Fast-Fashion Läden des Westens feilgeboten wird. 
+Die Arbeitsbedingungen in der Modeindustrie werden zurecht als Formen moderner Sklaverei beschrieben und es gibt einen riesigen Anteil von Kinderarbeit. In Indien, in China, in der Türkei, überall arbeiten Kinder in der Industrie um der Mode willen, die in den Fast-Fashion Läden des Westens feilgeboten wird. 
 
+[umgestellt, english anpassen]  
+Wenn ich mir dessen bewusst bin, dann muss ich dagegen rebellieren. Aber eine destruktive Rebellion ist wertlos. Sie wird etwas zerstören, ohne irgendetwas anderes aufzubauen. Unsere Rebellion ist nicht von dieser Art. Unsere Rebellion ist konstruktiv. Das ist es, was Gandhi "Satyagraha" nannte, eine konstruktive und gewaltlose Rebellion gegen Unwahrheit und Gewalt, die in der Wirtschaft in Form von Ausbeutung zum Ausdruck kommt. In diesem Essay versuche ich am Beispiel der Modeindustrie die Anwendung von Satyagraha zu veranschaulichen und zu zeigen, wie es den systematischen (un)wirtschaftlichen Missbrauch überwinden kann. 
 
+Das Problem ist allgemein bekannt. Aber nahezu nichts wird getan. Denn ein jeder sieht die Verantwortung woanders. Alles, was sie tun, ist Augenwischerei und löst das Problem in keiner Weise. Es löst kein Problem, weil sie an ihrem grundlegenden und gänzlich widernatürlichen Dogma festhalten, dass man wirtschaftlich wachsen muss. Und dieses Wachstum ist per Definition auf einer begrenzten Erde ohne Ausbeutung von Menschen und Natur *nicht* möglich. 
 
-In diesem Essay versuche ich die Anwendung von Satyagraha zu veranschaulichen und zu zeigen, wie das Konstruktive Programm funktioniert, im Kontext einer westlichen, industrialisierten Gesellschaft. 
+Wenn etwas meinen Körper betrifft, dann betrifft es mich, weil ich Verantwortung für diesen Körper trage. Wer sollte diese Verantwortung tragen, wenn nicht ich? Wenn etwas meine Familie betrifft, betrifft es mich, weil ich Teil dieser Familie bin. Wenn etwas meine Uwelt betrifft, betrifft es mich, weil ich Teil der Umwelt bin. Wenn etwas meine Gesellschaft betrifft, bin ich verantwortlich, weil ich Teil dieser Gesellschaft bin. Kurz: Wenn es ein Problem gibt, bin ich dafür verantwortlich, es zu lösen. Wer sollte das tun, wenn nicht ich? 
 
-
-Wenn etwas, das meinen Körper betrifft, dann betrifft es mich, weil ich Verantwortung für diesen Körper trage. Wer sollte das tun, wenn nicht ich? Wenn etwas meine Familie betrifft, betrifft es mich, weil ich Teil dieser Familie bin. Wenn etwas meine Umwelt betrifft, betrifft es mich, weil ich Teil der Umwelt bin. Wenn etwas meine Gesellschaft betrifft, bin ich verantwortlich, weil ich Teil dieser Gesellschaft bin. Kurz: Wenn es ein Problem gibt, bin ich dafür verantwortlich, es zu lösen. Wer sollte das tun, wenn nicht ich?  
+[Neu, add to English:]
+Jesus beschreibt das mit den Worten: "Nimm dein Kreuz auf dich und folge mir." Er erwartete von uns, dass wir es ihm gleich tun, dass wir Verantwortung übernehmen, auch und gerade, wenn wir nur einen kleinen Anteil daran haben. Denn sonst tut es niemand. Jesus musste sterben, weil es sonst niemand tat. Und an jedem Tag und in jedem Moment, an dem wir es nicht tun, an dem wir unsere Verantwortung nicht tragen, da stirbt er erneut, irgendwo auf der Welt. So rechtfertigen und bedingen wir seinen Tod am Kreuz.  
 
 Es muss ich sein, weil *jeder* denkt, dass nur andere die Verantwortung tragen. Wo immer das der Fall ist, müssen wir sagen: Es ist meine. Ich bin verantwortlich. 
 
-Heute gibt es ein Problem mit unserer Kleidung. Es gibt ein fundamentales Problem mit Mode. Ich trage Kleidung, also bin ich Teil des Problems. Ich bin verantwortlich für das Problem. Ich bin nicht allein dafür verantwortlich, aber ich bin verantwortlich in einem bestimmten Grade. Und es ist meine Pflicht, das Minimum, dass ich in diesem Grade Verantwortung übernehme. 
-
-[Das Problem beschreiben]
+[Geändert, in english anpassen]  
+Heute gibt es ein fundamentales Problem mit unserer Kleidung. Ich trage Kleidung, also bin ich Teil des Problems. Ich bin verantwortlich für das Problem. Ich bin nicht allein dafür verantwortlich, aber ich bin verantwortlich in einem bestimmten Grade. Und es ist meine Pflicht, das Minimum, dass ich in diesem Grade Verantwortung übernehme. 
 
 Ich bin Teil des Problems zu dem Grad, in dem ich daran Anteil nehme, indem ich Kleidung kaufe und trage. Um Verantwortung zu übernehmen, muss ich bei mir selbst beginnen und nach Lösungen suchen. 
-
-Wenn ich mir dessen bewusst bin, dann muss ich dagegen rebellieren. Aber eine destruktive Rebellion ist wertlos. Sie wird etwas zerstören, ohne irgendetwas anderes aufzubauen. Unsere Rebellion ist nicht von dieser Art. Unsere Rebellion ist konstruktiv. 
 
 <!-- There is little use and value in pointing out a problem without offering solutions. If I am sick because I eat a particular food, then it doesn't help me much that someone points this out to me, if I already know it. I may eat that food because I have no other choice. I may know what the problem is, but I do not know what to do instead and how to fix it.  -->
 
@@ -87,7 +86,7 @@ Wenn ich die erste oder dritte Option wähle, dann mag ich anderen keine Bürde 
 Wenn ich andere die Kleidung für mich machen lasse, so gibt es nur drei Möglichkeiten, die in Hinsicht darauf entstehen:  
 1. Entweder die anderen tun das freiwillig und geben es mir freiwillig ("freigiebig"), ohne etwas im Gegenzug zu erwarten. 
 2. Oder andere tun es unfreiwillig, werden dazu gezwungen es zu tun und gezwungen es zu geben. 
-3. Oder andere könnten es entweder freiwillig tun (wenn sie die Möglichkeit haben, es ebensogut nicht zu tun) oder unfreiwillig tun (wenn sie es sich nicht leisten können, es nicht zu tun), aber es nicht freiwillig geben, weil sie etwas im Gegenzug erwarten. 
+3. Oder andere könnten es entweder freiwillig tun (wenn sie die Möglichkeit haben, es ebensogut nicht zu tun) oder es unfreiwillig tun (wenn sie es sich nicht leisten können, es nicht zu tun), aber es nicht freiwillig geben, weil sie etwas im Gegenzug erwarten. 
 
 Von diesen drei Möglichkeiten ist die erste die Reinste und die Gewaltloseste. Die zweite Möglichkeit ist unrein und gewaltsam. Die dritte Möglichkeit hat einen gewissen Anteil von Gewalt und einen gewissen Anteil von Gewaltlosigkeit. Es ist mehr gewaltsam in Hinsicht auf die Beziehung dieser anderen zu sich selbst, wenn sie dazu gezwungen sind, es zu tun, weil sie das Geld benötigen, dass sie im Gegenzug verlangen, um zu überleben. Es ist weniger gewaltsam im Hinsicht auf die Beziehung der anderen zu sich selbst, wenn sie frei sind, es zu tun, weil sie nicht notwendigerweise brauchen, was sie im Gegenzug verlangen; was es gewaltsamer macht in Hinsicht auf mich, weil sie mich dazu zwingen für etwas zu bezahlen, dass ich brauche, während sie es nicht brauchen. 
 
