@@ -36,6 +36,16 @@ CONTENT
 ---
 
 
+## I. Nonviolent economy is an economy in accordance with eternal principles of general validity. 
+
+### Definition of Economics
+... etymology etc. 
+
+### *Criteria of any based Economics* 
+The basis of economics lies in the *household* it refers to. Any economic problem can and shall be considered by comparison with a simple household. What isn't principally true in case of a household can't be true in case of any larger scale economic order either. In the same way as any issue of community of whichever scale, can and shall be considered by comparison with a simple family. What isn't principally true in case of a family can't be true of any larger scale communal order either. The family or tribe is society in a nutshell and the household is economy in a nutshell. The same principles apply. Any kind of economic science as however advanced, complex and fancy it may present itself, cannot be considered to be *based* when diverting from these principles.    
+
+
+
 ## I. *Nonviolent economy means non-profit economy, in which all labour is social work.* 
 
 
@@ -83,6 +93,10 @@ Human professions are of only two kinds, corresponding to two kinds of human nee
 
 ### *Order of Professions*
 Human professions are corresponding to these needs. They are either among the basic professions which are serving the fulfillment of our common needs; they are in this sense foundational, we may for this reason also call them primary professions; and there are such professions which are not serving the fulfilment of actual needs, and are non-foundational. Many of these may have much value too and are valued by many, if not by all, but they are non-foundational, they are "aufbauend" and in this sense, they are secondary.  
+
+[All above here move down below the elaboration of needs] 
+
+
 ### *Abstract of Human Needs*
 When we speak of human needs, we speak of needs of human life. That which is serving human life is at the same time that through which we live. In abstract, there are three fundamental needs of human life:    
 * Love
@@ -101,13 +115,17 @@ The quality of labour is defined by...
 * the quality of the labour process, which is the dignity of labour
 * the quality of the fruit that the labour brings forth, whose value directly depends from the dignity in which the labour is performed. 
 
+### *Dignity of Labour in the Interest of All*
+It is in the highest interest of every labourer that the *quality* of the labour process is of the highest degree. And it is in the highest interest of every consumer that the *quality* of the fruits of the labour are of the highest degree. The second depends on the former, as the quality of the fruits of labour depend on the quality of the labour itself. It is therefore in the highest interest of everyone, that the quality or dignity of labour is of the highest degree.
+
 ### *Progress in Dignity*  
 Economical progress is therefore measured by the degree to which the dignity of labour is improved, which is also described as the *purification of labour processes*. This is the internal target of economy (whereas physical improvements are its external target). 
-When the dignity of labour is strived for most of all and only to that degree, economical progress equals human progress, as it equals moral progress and human satisfaction, independent from any quantity produced; and where the dignity of labour decreases, there is economical regress, which equals human regress, as it equals moral regress and human dissatisfaction, independent from any quantity produced.   
+When the dignity of labour is strived for most of all and only to that degree, economical progress equals human progress, as it equals moral progress and human satisfaction, independent from the quantity produced; and where the dignity of labour decreases, there is economical regress, which equals human regress, as it equals moral regress and human dissatisfaction, independent from the quantity produced.   
 
 ### *Enough is enough*
 Human satisfaction does not increase beyond the securement of that which is enough. 
 ... 
+(maybe move down to the needs) 
 
 ### *External Progress depends on internal progress.*  
 Physical improvements or the purification of our physical life is the external target of economy, which depends on its internal target of purifying the labour processes, which means purifying the *means* by which the external target is strived for. This internal and external aspect of nonviolent economy is impossible to separate.  
@@ -115,7 +133,7 @@ Physical improvements or the purification of our physical life is the external t
 ### *How are physical improvements measured?*  
 Physical improvements are therefore determined by the degree to which they correspond to internal improvements of the means of labour, which means improvements of quality, of the dignity of labour. There is physical improvement, where we can gain...  
 * higher quality products by the same or higher dignity of labour
-* higher quantity of true wealth by the same or higher dignity of labour
+* higher quantity of true wealth by the same or higher dignity of labour  
 
 ### *Wherein true external wealth consists* 
 Money has no value and worth in a nonviolent economy and isn't able to measure wealth. Wealth consists only in that which humans actually need and value and in nothing that they only value as an indirect means to what they consider to be true wealth and by which they seek to gain it.  
