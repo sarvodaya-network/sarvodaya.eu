@@ -30,7 +30,7 @@ CONTENT
 
 * I. *Nonviolent economy means non-profit economy, in which all work is social work.* 
 * II. *Nonviolent economy is an economy based on needs, not on demands, in which everyone lessens the burden on others to the best of ones ability by means of organised responsibility.* 
-* III. *Nonviolent economy means a non-possessive economy, that is liberated from money.*
+* III. *Nonviolent economy means a non-possessive economy in which there is security for each by means of trusteeship and that is liberated from money.*
 
 ---
 
@@ -77,26 +77,54 @@ Es sollte keine asoziale, also unmenschliche und widermenschliche Arbeit geben. 
 
 
 
+### *Professions are based on human needs.* 
+Human professions are of only two kinds, corresponding to two kinds of human needs. There are such needs which are absolutely basic and essential, they are common to all human beings, as everyone needs them and cannot do without, and there are others that aren't essential, they are non-essential, or optional, they are not absolutely necessary and in this sense basic, which is independent of their value. 
 
-
-### Order of Professions
-
-Human professions are of only two kinds, because human needs are also only of two kinds. There are such needs which are absolutely basic and essential, they are common to all human beings, as everyone needs them and cannot do without, and there are others that aren't essential, they are non-essential, or optional, since while they may have much value, they are not absolutely necessary and in this sense basic. 
-
-Human professions are corresponding to these needs. They are either among the basic professions which are serving the fulfillment of our common needs; they are in this sense foundational, we may for this reason also call them primary professions; and there are such professions which are not serving the fulfilment of actual needs, and are non-foundational. Many of these may have much value too and are valued by many, if not by all, but they are non-foundational, they are "aufbauend" and in this sense, they arw secondary.  
-
-We may say that there are nine primary human needs: 
+### *Order of Professions*
+Human professions are corresponding to these needs. They are either among the basic professions which are serving the fulfillment of our common needs; they are in this sense foundational, we may for this reason also call them primary professions; and there are such professions which are not serving the fulfilment of actual needs, and are non-foundational. Many of these may have much value too and are valued by many, if not by all, but they are non-foundational, they are "aufbauend" and in this sense, they are secondary.  
+### *Abstract of Human Needs*
+When we speak of human needs, we speak of needs of human life. That which is serving human life is at the same time that through which we live. In abstract, there are three fundamental needs of human life:    
 * Love
 * Work
 * Knowledge
-* Communication
+Love, Knowledge and Work are essential; life consists in them and we exist through them. All we do has to do with these and everyone needs them and depends from them. They correspond to humans physical, emotional and intellectual needs und sustenance. There is one that is even more fundamental, and that is his spiritual need, which is the unity of life or truth. But this is always given, it is indestructible, unextinguishable, as all life is based on it and flows from it, it is its very source. 
+To provide physical, emotional and intellectual sustenance to each other is a direct expression of love; the work that is done to this purpose requires practical knowledge and tools are born and from the need of dissemination of knowledge, communication is born.
+Communication is a tool for human knowledge. While physical tools are a tool for human work.  
+In that he loves life, man strives for survival by means of work and knowledge. And in that he lives love, he shares the work and shares the knowledge in mutual cooperation. Language is born from this. 
+
+### *The Dignity of Labour*
+Economy deals with physical needs primarily, the needs that are fulfilled through work, in form of labour. Needs that *require* labour. 
+As labour is required for the fulfillment of all physical needs, labour is of the highest physical value, because it is the source of all physical value.  
+A nonviolent economic order therefore measures the value of its economic work by the *quality* of labour performed therein.  
+The quality of labour is defined by...  
+* the quality of the labour process, which is the dignity of labour
+* the quality of the fruit that the labour brings forth, whose value directly depends from the dignity in which the labour is performed. 
+
+### *Progress in Dignity*  
+Economical progress is therefore measured by the degree to which the dignity of labour is improved, which is also described as the *purification of labour processes*. This is the internal target of economy (whereas physical improvements are its external target). 
+When the dignity of labour is strived for most of all and only to that degree, economical progress equals human progress, as it equals moral progress and human satisfaction, independent from any quantity produced; and where the dignity of labour decreases, there is economical regress, which equals human regress, as it equals moral regress and human dissatisfaction, independent from any quantity produced.   
+
+### *Enough is enough*
+Human satisfaction does not increase beyond the securement of that which is enough. 
+... 
+
+# *External Progress depends on internal progress.*  
+Physical improvements or the purification of our physical life is the external target of economy, which depends on its internal target of purifying the labour processes, which means purifying the *means* by which the external target is strived for. This internal and external aspect of nonviolent economy is impossible to separate.  
+
+### *How are physical improvements measured?*  
+Physical improvements are therefore determined by the degree to which they correspond to internal improvements of the means of labour, which means improvements of quality, of the dignity of labour. There is physical improvement, where we can gain...  
+* higher quality products by the same or higher dignity of labour
+* higher quantity of true wealth by the same or higher dignity of labour
+
+## *Essential Physical Needs of Man*
+Physical sustenance is the first external target of economy. The first thing a householder is trying to do is to ensure sustenance, survival of all members of the household. As long as sustenance, livelihood is not provided, no one would worry to decorate the house.  
+
+may say that there are nine primary needs of human life:
 * Food
 * Cloth
 * Shelter/Warmth
 * Health
-* Hygiene
-
-Love, Knowledge and Work are essential; life consists in them and we exist through them. All we do has to do with these. Everyone needs them. But if we speak of economy, then we automatically speak of sustenance too, which is the first target of economy. The first thing a householder is trying to do is to ensure sustenance, survival of all members of the household. As long as sustenance, livelihood is not provided, no one would worry to decorate the house. 
+* Hygiene  
 
 This actual sustenance is provided by work.  
 And work must provide it in the form of:  
