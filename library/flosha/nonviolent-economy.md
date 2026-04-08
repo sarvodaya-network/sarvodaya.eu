@@ -116,7 +116,29 @@ Physical improvements are therefore determined by the degree to which they corre
 * higher quality products by the same or higher dignity of labour
 * higher quantity of true wealth by the same or higher dignity of labour
 
-## *Essential Physical Needs of Man*
+## *Wherein true external wealth consists* 
+Money has no value and worth in a nonviolent economy and isn't able to measure wealth. Wealth consists only in that which humans actually need and value and in nothing that they only value as an indirect means to what they consider to be true wealth and by which they seek to gain it.  
+In a violent economy, money is this demonic force by which man seeks to gain wealth. But we made clear that labour is the source of all wealth. In a nonviolent economy, it is therefore labour which is the measure of all wealth.  
+By the force of money, the dignity of human life and labour is violated, sold, dirtied.
+By the force of labour, the dignity of human life and labour is healed, bewahrt and purified. 
+
+## *The Battle between Labour and Money.*
+Money is in a fight with labour. And labour is in a fight against money. It is thus the source of all wealth in a fight against the definition of non-wealth. Money is the epitome of valuelessness.  
+Money fights against labour in that it violates the dignity of labour (and is thereby causing economic regress by the definition of economic regress above). Money destroys the dignity of labour in that it forces labour under the servitude of quantity over quality, because money is the false goddess of quantity. It is the inherent driving force of the currently prevailing ideology of endless growth that has infected the world. This is the rule of money.  
+The rule of money 
+
+
+It violates the dignity of labour because in money there is an inherent interest to be vermehrt. Money is vermehrt the best by 
+
+in order to vermehren itself.   
+
+
+While Money wants to be increased, labour seeks to be reduced. 
+
+Economical violence arises where labour is bought by means of money. 
+
+
+*Essential Physical Needs of Man*
 Physical sustenance is the first external target of economy. The first thing a householder is trying to do is to ensure sustenance, survival of all members of the household. As long as sustenance, livelihood is not provided, no one would worry to decorate the house.  
 
 may say that there are nine primary needs of human life:
