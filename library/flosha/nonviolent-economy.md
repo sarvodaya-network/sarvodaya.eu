@@ -54,7 +54,40 @@ To organise economy, or rather, to *order* economy, requires one to order profes
 The current economical (dis)order is an order of organised trade, it is a trade order. For this reason we speak of our economy as a market economy. Some think, ecomomy must always be about markets. This is not the case. There are diverse other possibilities. One is what has been called "planning economy". Both of these names are confusing. A market economy as usually understood is actually referring to privat markets. Obviously there is planning involved in these markets, namely planning performed by private 
 corporations. Their planning is focused on maximizing gains, on profit. When on the other hand one speaks of planning economy what is actually meant is nothing else, but state planning; here there is a market too, just that it is only one market, that of the state, that the market is controlled by the state and that all planning is focused on that market. And the focus of all the states attempting such a scheme has been the same: maximizing gains, profit.  
 In one case the market is controlled by the state. In the other case the market is controlled by private corporations.  
-In wise 
+
+### Social market economy
+Since the men in power have seen demerit in both of these ways, they imagined that the faults of both can become less when they are combined. This gave rise to a third approach which they call "social market economy". It is a mixture of the former, where there are private markets, and where the state intervenes as he sees fit. Some always say that it intervenes too much while others always say that it intervenes too little. Which of these two you agree with will just depend from where you stand.  
+From the nonviolent perspective it combines the failures of both. It is violent from one side because it contains centralised authoritarian intervention, it is violent on the other side because it puts the power of planning into the hands of private corporations. 
+
+### Rejection of all three
+Nonviolent economics rejects all three of these forms. The system of state planning is comparable to the political system of a monarchy with all the potential abuse involved, it can and will easily turn into tyranny. The system of private markets is comparable to a political system of feudal lords without a central king. They are just going to compete with each other, devour each other contineaously, thereby keep growing in size and keep decreasing in number, until only very few are left, or, in the worst case, just one, the final victorious in the fight for economic vorherrschaft. Then that will be the tyrant. In practice it will make little difference whether one is tyrannised by one gangster or by a group of gangsters. The combined option is comparable to a political system of feudal lords with a central king. Sometimes it will then seem, that the lords serve the king, sometimes it may seem that the king serves the lords. Sometimes the lords grow so strong that the king is very powerless. So it is the case in many states currently. Sometimes the king is so powerful that the lords are forced under his servitude. So as was the case in Nazi Germany.  
+All these systems are market economies, planning or not. All these systems contain planning. Everyone plans, and it would be stupid not to. All these systems have a more fundamental thing in common – centralisation.  
+
+### *Centralisation, non-centralisation, decentralisation*
+Private market economy is less centralised in the beginning, but will end up being centralised more and more, as that is the inherent logic that the system inevitably leads to. Pure state planning is highly centralised from the start. 
+Apart from centralised economy, there can be non-centralised economy, which means all kinds of small economic systems in isolation and disintegration And there can be decentralised economy, which means small economic systems in combination and integration.  
+
+```
+
+               Economy
+      ____________|__________
+     |         |             |
+Centralised    |             |
+               |        Decentralised
+       Non-Centralised
+
+```
+
+### Beyond Market
+We have already seen that all three forms of economies mentioned so far (corp market (which they label private market), state market (which they label "(state) planning") and "state+corp market" (which they label "social market"), are market economies.  
+But this form of economy is neither the only nor a particularly natural one. Families and their households are no market economy of none of these kinds. Tribes do not have a market economy either.  
+But we have determined that economy must work on the same principles as the family or the tribe, that the same principles must apply. 
+How does the economic system in a family or tribe work in comparison to the market systems mentioned before? 
+
+
+From the noviolent perspective every market is black market and every wage labour black labour. 
+
+
 
 
 ## I. *Nonviolent economy means non-profit economy, in which all labour is social work.* 
