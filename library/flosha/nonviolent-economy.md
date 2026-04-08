@@ -118,24 +118,22 @@ Physical improvements are therefore determined by the degree to which they corre
 
 ## *Wherein true external wealth consists* 
 Money has no value and worth in a nonviolent economy and isn't able to measure wealth. Wealth consists only in that which humans actually need and value and in nothing that they only value as an indirect means to what they consider to be true wealth and by which they seek to gain it.  
-In a violent economy, money is this demonic force by which man seeks to gain wealth. But we made clear that labour is the source of all wealth. In a nonviolent economy, it is therefore labour which is the measure of all wealth.  
-By the force of money, the dignity of human life and labour is violated, sold, dirtied.
-By the force of labour, the dignity of human life and labour is healed, bewahrt and purified. 
+In a violent economy, money is this demonic force by which man seeks to gain wealth. But we made clear that labour is the source of all wealth. In a nonviolent economy, it is therefore labour which is the measure of all wealth and which humas value above all else.  
+By the force of money, the dignity of human life and labour is violated, sold and soiled.
+By the force of labour, the dignity of human life and labour is healed, preserved and purified. 
 
 ## *The Battle between Labour and Money.*
-Money is in a fight with labour. And labour is in a fight against money. It is thus the source of all wealth in a fight against the definition of non-wealth. Money is the epitome of valuelessness.  
-Money fights against labour in that it violates the dignity of labour (and is thereby causing economic regress by the definition of economic regress above). Money destroys the dignity of labour in that it forces labour under the servitude of quantity over quality, because money is the false goddess of quantity. It is the inherent driving force of the currently prevailing ideology of endless growth that has infected the world. This is the rule of money.  
-The rule of money 
+Money is in a fight with labour. And labour is in a fight against money. It is thus the source of all wealth in a fight against the definition of non-wealth, as money is the epitome of valuelessness.  
+Money fights against labour in that it violates human dignity in labour (and is thereby causing economic regress by the definition of economic regress above). Money destroys the dignity of labour in that it forces man under the servitude of quantity over quality. Money is the false goddess of quantity. It is the inherent driving force of the currently prevailing ideology of endless growth that has infected the world. This is the rule of money.  
+Labour, when not in servitude of money but of man, strives for human dignity (and is thereby causing economic progress by the definition above). Labour destroys the slavery of money in that it de-values it totally, which means overcoming the delusion of worth in what is worthless; it thereby liberates man from the servitude of quantity over quality and turns the order upside down, in that quantity is subdued under quality. Labour is the metaphorical goddess of quality. It is the inherent driving force of nonviolent economics that is bount to overcome this world. This is the rule of labour (the way in which a money-free economy is relating to the fruits of the labour will show it to also be the rule of kindness). 
 
-
-It violates the dignity of labour because in money there is an inherent interest to be vermehrt. Money is vermehrt the best by 
-
-in order to vermehren itself.   
-
-
-While Money wants to be increased, labour seeks to be reduced. 
-
+## *How money subdues man under quantity.*
+... 
 Economical violence arises where labour is bought by means of money. 
+
+
+## *How labour can release man from the servitude of money and re-establish right order.* 
+... 
 
 
 *Essential Physical Needs of Man*
