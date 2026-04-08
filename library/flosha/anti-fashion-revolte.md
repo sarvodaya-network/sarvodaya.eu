@@ -263,7 +263,7 @@ Wo moderne for-profit Produktion auftaucht, verschwinden Kunst und Handwerk, Sch
 
 ## Leid gewebt in Stoff
 
-Alles, was geschaffen wird, beinhaltet die Geschichte, die Erfahrung, den Prozess, das Leiden und die Freude seiner Erschaffung. Wenn du einem Menschen gegenüberstehst, solltest du nicht nur die oberflächliche Erscheinung dieses Menschen sehen, als ob er nur ein bloßes Bild wäre, ohne Hintergrund und ohne Leben. Da ist eine Geschichte hinter diesem Menschen, da sind Erfahrungen, da ist eine Entwicklung, da ist Leiden und Freude in ihm. Wenn du einen Menschen ansiehst, dann wird jeder fühlende und denkende Mensch das in jedem anderen erkennen; zumindest zu einem Grad wird er das erkennen. 
+Alles beinhaltet die Geschichte, die Erfahrung, den Prozess, das Leiden und die Freude seiner Entwicklung. Wenn du einem Menschen gegenüberstehst, dann sehen wir nicht nur die oberflächliche Erscheinung dieses Menschen, als ob er nur ein bloßes Bild wäre, ohne Hintergrund und ohne Leben. Da ist eine Geschichte hinter diesem Menschen, da sind Erfahrungen, da ist eine Entwicklung, da ist Leiden und Freude in ihm. Jeder fühlende und denkende Mensch wird das in jedem anderen erkennen; zumindest zu einem Grad wird er das erkennen. 
 
 Mit jeder Art von Produkt ist das nicht anders. Wenn du in einen Laden gehst und ein Kleidungsstück siehst, dann solltest du nicht nur die oberflächliche Erscheinung dieser Kleidung sehen, als ob nichts dahinter wäre, als ob sie nur existiert, aber keinen Hintergrund hat. Jedes einzelne Produkt, jedes Kleidungsstück, hat eine Geschichte, einen Hintergrund, einen Prozess, in dem es gemacht wurde, es hat eine Reise hinter sich. Und es hat sich nicht selbst gemacht; es wurde gemacht von echten Menschen und ging durch ihre Hände; es ist Teil ihrer Geschichte, ihres Lebens und sie sind Teil der Geschichte und des Lebens dieses Kleidungsstücks vor dir. Ihr Leid ist in den Stoff deiner Kleidung eingewebt. Dieses Leid nicht zu sehen, da nicht hinzusehen, nur das Produkt zu sehen, ist ein gravierendes Vergehen gegen die Würde der Anderen. 
 
@@ -274,7 +274,7 @@ Also lasst uns dessen gewahr sein, wie alles produziert wird. Lasst uns das Leid
 
 Im gegenwärtigen Kontext einer Welt, die von Geld regiert wird, die von Profit durchtrieben ist wie unser Körper von Blut, dürfen wir niemals annehmen, dass mit einem Produkt alles in Ordnung ist; wir müssen, als *Ausgangslage*, immer davon ausgehen, dass es *nicht* in Ordnung ist. Und es liegt nicht an uns zu beweisen, dass ein Produkt unter unmenschlichen, destruktiven und gewaltsamen Bedingungen hergestellt wurde. Es liegt an ihnen, die diese Produkte anbieten, zu beweisen, dass dem *nicht* so ist. 
 
-Wenn sie keinen solchen Beweis zeigen, dann weiche zurück. 
+Wenn sie keinen solchen Beweis zeigen, dann weiche davon ab.  
 
 
 ---
@@ -302,7 +302,7 @@ Ob ich sie fertige oder gefertigt bekomme, wo also und dann unter welchen Beding
 ## Das Swadeshi Prinzip
 
 [Zusatz , add to English ]
-Das Prinzip der Gewaltlosigkeit wurde auch zum Ausdruck gebracht mit der christlichen Maxime: "Liebt einander." Dieses "einander" beinhaltet alle ohne Ausnahme. Aber es ist nicht nur schwierig, es ist unmöglich jemanden zu lieben, den ich in keiner Weise kenne, von dem ich gar nicht weiß, denn Liebe beinhaltet Kennen, es ist das Erkennen von sich selbst im anderen und das Erkennen des Anderen in sich selbst. Darum kommt die Maxime mit einer zusätzlichen Klarstellung im Bezug darauf, wie wir praktisch einander lieben sollen, in Form der Forderung: "Liebe deinen Nächsten wie dich selbst." Wir könnten auch sagen: "Liebe deinen Nächsten *als* dich selbst."   
+Das Prinzip der Gewaltlosigkeit wurde auch zum Ausdruck gebracht mit der christlichen Maxime: "Liebt einander." Dieses "einander" beinhaltet alle ohne Ausnahme. Aber es ist nicht nur schwierig, es ist unmöglich jemanden zu lieben, den ich in keiner Weise kenne, von dem ich gar nicht weiß; denn Liebe beinhaltet Kennen, es ist das Erkennen von sich selbst im anderen und das Erkennen des Anderen in sich selbst. Darum kommt die Maxime mit einer zusätzlichen Klarstellung im Bezug darauf, wie wir praktisch einander lieben sollen, in Form der Forderung: "Liebe deinen Nächsten wie dich selbst." Wir könnten auch sagen: "Liebe deinen Nächsten *als* dich selbst."   
 
 Ich muss nicht und kann nicht aktiv "alle" lieben, solange meine Existenz physisch, körperlich, räumlich begrenzt ist. Aber ich kann jeden lieben, mit dem ich in Berührung komme, jeden, den ich kenne. Und wenn jeder jeden lieben würde, den er kennt, bliebe niemand übrig; jeder würde dann geliebt und umsorgt sein, insofern als jeder einem anderen bekannt ist. 
 
@@ -310,10 +310,11 @@ Aber wie kommt Liebe zum Ausdruck? Liebe in Aktion ist Dienen; Liebe kommt durch
 
 Was bedeutet dann Liebe im Hinblick auf Kleidung? 
 
-If I make the cloth all by myself, caring for myself, then there is no problem in loving others as myself in this regard, as others are not involved; I have "myself" covered. But if I want to love others the same as me, I have to care for them being clothed too.  
-Do I then have to make cloth for them, for everyone I know? If they need it and cannot make it on their own, I should. But I help them even more by helping them make it for themselves. Because it isn't much love shown to them to make them dependent on myself nor is it much love shown to me if I have to make cloth for everyone in consequence of my love and care. This would destroy me and when I am gone everyone I knew will soon be naked, since no one can make cloth anymore, when everyone depended on me doing it.  
+Wenn ich Kleidung ganz alleine fertige, für mich selber sorge, dann gibt es in dieser Hinsicht kein Problem mit meiner Liebe zu anderen, denn dann sind andere nicht involviert; dann kümmere ich mich um mich selbst. Aber wenn ich andere liebe will wie mich selbst, muss ich auch für sie sorgen, muss dafür sorgen, dass auch sie bekleidet sind.  
+Muss ich dann auch Kleidung für sie fertigen, für jeden, den ich kenne? Wenn sie sie brauchen und sie selbst nicht fertigen können, sollte ich das tun. Aber ich helfe ihnen noch viel mehr, wenn ich ihnen helfe, sich selbst zu helfen, sich um sich selbst kümmern zu können. Denn es ist nicht viel Liebe daran, andere von mir abhängig zu machen, noch ist es Liebe mir gegenüber, wenn ich in Konsequenz meiner Liebe und Sorge Kleidung fur alle machen muss. Das würde nur darauf hinauslaufen mich zu zerstören, und wenn ich dann fort bin ist es auch meine Fähigkeit, die ich niemandem vermittelt habe und dann wird jeder, den ich kenne, bald nackt sein, weil ja niemand mehr Kleidung fertigen kann, wenn jeder dafür von mir abhing.  
+Aber in der Praxis wird das alles kaum möglich sein, dass ich alles selbst mache, sondern ich werde mit anderen zusammenarbeiten müssen. Ich mag vielleicht manches für sie tun, und sie mögen manches für mich tun. 
 
-Wenn andere Kleidung für mich fertigen, was bedeutet Liebe dann, wie kann Liebe in dieser Beziehung sich ausdrücken? Erstens kann ich nicht lieben wen ich nicht kenne. Also kann es nicht gerechtfertigt sein, Kleidung von jemandem gemacht zu kriegen, den ich nicht kenne. Das schließt Kleidung oder Materialien, die von weit her zu mir kommen, ohne zu wissen von wem sie hergestellt werden und ohne denjenigen zu kennen, automatisch aus. 
+Wenn andere Kleidung für mich fertigen, was bedeutet Liebe dann, wie kann Liebe in dieser Beziehung sich ausdrücken? Erstens kann ich nicht lieben wen ich nicht kenne. Also kann es nicht gerechtfertigt sein, indirekt Kleidung von jemandem produzieren zu lassen, den ich nicht kenne. Das schließt Kleidung oder Materialien, die von weit her zu mir kommen, ohne zu wissen von wem sie hergestellt werden und ohne denjenigen zu kennen, automatisch aus. 
 
 Aber es mag möglich sein, jemanden kennenzulernen, der am anderen Ende der Welt lebt, der in der Lage ist Kleidung für mich zu fertigen, richtig? Ich könnte ihm einen Brief schreiben und so könnten wir uns näher kommen. Wir könnten eine gewisse Liebe entwickeln und gegenseitiges Vertrauen aufbauen. Das wäre möglich. Aber es ist sehr viel schwieriger, das zu tun, als einfach zum *Nächsten* zu gehen, der es kann. Es ist auch in jeder Hinsicht weniger effektiv. Es ist wirtschaftlich nachteilig. Und es schadet der Umwelt. 
 
