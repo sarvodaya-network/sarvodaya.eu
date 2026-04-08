@@ -5,8 +5,8 @@ Principles of a nonviolent economical order.
 FLOSHA  
 {: .center }
 
-Order of nonviolent economy for a nonviolent economic order.
-(Ein Orden gewaltloser Ökonomie für eine gewaltlose ökonomische Ordnung). 
+<!-- Order of nonviolent economy for a nonviolent economic order.
+(Ein Orden gewaltloser Ökonomie für eine gewaltlose ökonomische Ordnung). -->
 
 ---
 
@@ -21,7 +21,7 @@ People say that such an economy is delusional and impractical, but it is much mo
 
 ---
 
-The title of this treatise, *Shrama Shastra*, means Trearise or Doctrine (Shastra) of Labour (Shrama). To those well-versed in the history of nonviolence: What Vinobas *Swaraj Shastra* (the doctrine of self-rule) is in terms of politics, this work is meant to be in terms of economics.  
+The title of this book, *Shrama Shastra*, means treatise or doctrine (Shastra) of labour (Shrama). To those well-versed in the history of nonviolence: What Vinobas *Swaraj Shastra* (the doctrine of self-rule) is in terms of politics, this work is meant to be in terms of economics.  
 It is my humble attempt to offer a first draft in this direction. Just as Vinobas Shastra will have to be elaborated (as he himself foretold in his foreword) - and it is time to elaborate on it now in the light of his own later discoveries and ideas (Bhudan, Lokniti, Gramdan, Shanti Sena and all of these ideas came after the Shastra was written), this Shastra too may have to be elaborated on at a later point. But I am convinced that the fundamental ideas will firmly remain and stand the test of time.
 
 ---
