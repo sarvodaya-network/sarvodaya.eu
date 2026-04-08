@@ -21,11 +21,13 @@ ToDo:
 * search clothes of lanza in könig der armen and in vier geißeln etc., search gandhis spinning wheel and khadi clothes, read gandhis khadi book(s)
 ```
 
+---
+
 INHALT  
 
 * Einführung
-* Mein Anteil daran
-  * Weggeworfene Kleidung 
+* Meine Verantwortung
+* Flickwerk als Ideal  
 * Kleidung als Ausdruck
   * Stile und Trends
   * Marken der Eitelkeit
@@ -39,7 +41,7 @@ INHALT
 * Konstruktives Programm
 
 
-Add Lanzas ideas in quatre fleux etc. and coomaraswamy.
+<!-- Add Lanzas ideas in quatre fleux etc. and coomaraswamy. --> 
 
 ---
 
@@ -76,7 +78,7 @@ Ich bin Teil des Problems zu dem Grad, in dem ich daran Anteil nehme, indem ich 
 Das Problem hinter der Mode ("Fashion") Industrie ist kein Geheimnis. Viele wissen davon, aber nur wenige scheint es zu kümmern. Es ist gut, es mehr und mehr bewusst zu machen, aber das Wichtigste ist, konstruktive Lösungen anzubieten. In unserer gewaltlosen Tradition nennen wir das die Entwicklung eines "konstruktiven Programms". 
 
 
-## Mein Anteil daran
+## Meine Verantwortung 
 
 Gewaltlose Aktion beginnt mit der Anerkennung meiner Verantwortung, meines Anteils am Problem. Das konstruktive Programm beginnt immer auf dem individuellen Level. In diesem Fall beginnt es mit der Erkenntnis meines eigenen Bedürfnisses: Ich brauche Kleidung.  
 Ich brauche Kleidung aus Gründen des Anstands, aber auch, damit mein Körper nicht friert dort, wo ich lebe. Nachdem ich dieses Bedürfnis erkannt habe, frage ich: *Wie kann ich Kleidung bekommen?* Darauf gibt es vier mögliche Antworten:  
@@ -109,12 +111,14 @@ Wenn ich also mein Bedürfnis nach Kleidung in einer gewaltlosen Art befriedigen
 * Andere zu haben, die sie freiwillig für mich machen und sie mir einfach so geben. 
 * Kleidung zu nutzen, die andere weggeworfen haben. 
 
+Wir wollen zuerst den letzten Fall betrachten, weil er von allen der Verantwortlichste ist.   
 
-### Weggeworfene Kleidung, Wiederverwendung und die edle Praxis des unendlichen Flickens
+
+## Flickwerk als Ideal
 
 ![Image of a Buddhist Monk](/library/flosha/anti-fashion-revolt/monk-7537162_1280.jpg)
 
-Kleidung zu finden, die von anderen weggeworfen wurde, wie es die frühen buddhistischen Mönche getan haben, ist, in gewisser Weise, und solange es die Möglichkeit gibt, der beste aller Wege. In diesem Fall habe ich Etwas, um mich zu kleiden, ich musste es weder neu herstellen, noch mussten andere es neu für mich herstellen und ich kann es für immer flicken. Darum ist es der edelste und schicklichste Weg; es ist auch die demütigste Option, mit am wenigsten Stolz verbunden. Und als solche ist sie diametral dem entgegengesetzt, was der zivilisierte Mensch gemeinhin für am schicklichsten hält - nämlich das, was neu ist und ohne jedes Zeichen von Abnutzung; für so schicklich hält er das, dass er sich sogar dafür schämt, seine Kleidung zu flicken! Beschämt seien die, die als ein Zeichen von Armut betrachten, was nichts ist als ein Zeichen von Vernunft. 
+Kleidung zu nutzen, die von anderen weggeworfen wurde, wie es die frühen buddhistischen Mönche getan haben, ist, in gewisser Weise, und solange es die Möglichkeit gibt, der beste aller Wege. In diesem Fall habe ich Etwas, um mich zu kleiden, ich musste es weder neu herstellen, noch mussten andere es neu für mich herstellen und ich kann es für immer flicken. Darum ist es der edelste und schicklichste Weg; es ist auch die demütigste Option, mit am wenigsten Stolz verbunden. Und als solche ist sie diametral dem entgegengesetzt, was der zivilisierte Mensch gemeinhin für am schicklichsten hält - nämlich das, was neu ist und ohne jedes Zeichen von Abnutzung; für so schicklich hält er das, dass er sich sogar dafür schämt, seine Kleidung zu flicken! Beschämt seien die, die als ein Zeichen von Armut betrachten, was nichts ist als ein Zeichen von Vernunft. 
 
 Jene Kleidung, die für den zivilisierten Menschen gemeinhin als tadellos gilt aufgrund ihrer äußerlichen "Reinheit" und "Unverdorbenheit", ist als voll von Tadel zu betrachten aufgrund ihrer innerlichen Unreinheit und Verdorbenheit für all jene, denen etwas an Kausalität und dem Leiden anderer liegt. 
 
@@ -135,14 +139,14 @@ Aber so edel die Nutzung weggeworfener Kleidung und Flickwerk auch sein mag, es 
 Dasselbe trifft auf die Kleidung zu, die ich schon habe. Wenn ich schon genug habe brauche ich keine zusätzliche Kleidung, und solange ich keine brauche, müssen andere auch keine neue Kleidung um meinetwillen produzieren. Ich bin darum, in diesem Grad, keine Last für andere.  
 Wenn ich bereits Kleidung habe, dann kann ich sie behalten und wenn sie abnutzt kann ich sie theoretisch unendlich lange flicken; dann würde keine Notwendigkeit entstehen, dass neue Kleidung für mich hergestellt wird. Aber selbst wenn ich diesen edlen Pfad wähle, meine Kleidung endlos zu flicken, was früher oder später auf ein Überflicken hinausläuft, so benötige ich, wie gesagt, Stoff, um ihn zum Flicken zu nutzen. Wenn alle Menschen diesen Pfad wählen würden, würde es irgendwann an Flicken fehlen und spätestens dann müsste neuer Stoff hergestellt werden. 
 
-Es gibt darum keinen Weg, sich komplett der Verantwortung zu entziehen, wie Kleidung hergestellt wird. Es mag individuell möglich sein, aber es ist nicht kollektiv möglich. Es gibt auch eine kollektive Verantwortung des Individuums und wir sollten die Bedingungen der Kleidungsproduktion in Betracht ziehen, egal ob wir persönlich jemals neue Kleidung kaufen werden oder nicht. 
+Es gibt darum keinen Weg, sich komplett der Kleidungsproduktion zu entziehen. Es mag auf individuellem Level möglich sein, aber es ist nicht kollektiv möglich. Es gibt auch eine kollektive Verantwortung des Individuums und darum sollten wir die Bedingungen der Kleidungsproduktion in Betracht ziehen, egal ob wir persönlich jemals neue Kleidung kaufen werden oder nicht. 
 
 
 ---
 
 ## Kleidung als Ausdruck
 
-Kleidung ist mehr als nur ihre Funktion, den Körper zu bedecken und zu wärmen. Sie ist Ausdruck und Repräsentation (das heißt, sie steht immer für etwas). Indem ich Kleidung trage, indem ich meinen Körper mit Kleidung bedecke, bringe ich eine Vorliebe von einer Art Kleidung über eine andere zum Ausdruck, weil ich entschieden habe diese zu tragen statt anderer möglicher Kleidung, die ich nicht trage. Das spielt in zweierlei Hinsicht eine Rolle: (1) In Hinsicht auf den Prozess der Kleidungsherstellung oder Produktion, der darin involviert ist und (2) in Hinsicht auf die Schönheit oder den Mangel daran, die sie zum Ausdruck bringt. 
+Kleidung ist mehr als nur ihre Funktion, den Körper zu bedecken und zu wärmen. Sie ist Ausdruck und Repräsentation (das heißt, sie steht immer für etwas, stellt etwas dar). Indem ich Kleidung trage, indem ich meinen Körper mit Kleidung bedecke, bringe ich eine Vorliebe von einer Art Kleidung über eine andere zum Ausdruck, weil ich entschieden habe diese zu tragen statt anderer möglicher Kleidung, die ich nicht trage. Das spielt in zweierlei Hinsicht eine Rolle: (1) In Hinsicht auf den Prozess der Kleidungsherstellung oder Produktion, der darin involviert ist und (2) in Hinsicht auf die Schönheit oder den Mangel daran, die sie zum Ausdruck bringt. 
 
 Die gewählte Kleidung kann Schönheit zum Ausdruck bringen oder auch nicht. Gewaltlosigkeit ist Wahrheit in Aktion. Und Schönheit ist die Wahrheit in den Formen. Es gibt keine Aktion ohne Form und es gibt keine Form ohne Aktion. Aktion schafft Form. 
 
@@ -168,7 +172,7 @@ Wir müssen darum in Betracht ziehen welche Möglichkeiten der Kleidungsherstell
 
 ## Stile und Trends
 
-Modetrends sind eine der prominentesten Faktoren, die die Kleidungswahl der Menschen in modernen, industriellen Gesellschaften beeinflussen, meist völlig ungeachtet dessen, wie die Kleidung hergestellt wird. Es spielt nur eine Rolle, wie sie aussieht. 
+Modetrends sind eine der prominentesten Faktoren, die die Kleidungswahl der Menschen in modernen Gesellschaften beeinflussen, meist völlig ungeachtet dessen, wie die Kleidung hergestellt wird. Es spielt nur eine Rolle, wie sie aussieht. 
 
 Mode ist per Definition ein nur momentanes, kurzzeitiges System von Trends, entgegengesetzt allem von zeitlosem Wert. Mode ist eine konstante Werbung und Durchsetzung von Trends für Profit. Um des Verkaufs willen wird die Öffentlichkeit durch Anbetung von Idolen und Werbemissionare manipuliert, eine Sache einer anderen vorzuziehen. Natürlich muss es immer eine andere Sache sein als zuvor, um einen Grund zu schaffen, wieder etwas zu kaufen, was man nicht schon hat. 
 
@@ -307,8 +311,19 @@ Dann wird diese Kleidung, von einem oder mehreren großen Logistikunternehmen au
 
 Dieses Produkt, dieses Shirt, scheint völlig unpersönlich zu sein und völlig unschuldig, wenn es in diesem Laden herumhängt. Das ist es aber nicht. Es hat die Welt bereist und ging durch dutzende von menschlichen Händen. Warme menschliche Hände und kalte Hände von Maschinen, die solche Hände ersetzen (die jetzt auch kalt sind, weil sie deretwegen aussterben). 
 
-Es stand ein Bauer hinter der Baumwolle; jetzt nicht mehr, weil auch er durch Maschinen ersetzt wurde. Bienen sorgten einst dafür, dass diese Baumwolle blüht, aber weil man die Bienen durch Gift mancherorts ausgerottet hat, schickt man jetzt Menschen (und wiederum Kinder) auf die Felder, um die Baumwolle von Hand zu bestäuben. Das ist die schöne neue Welt, die unser Fortschritt uns gebracht hat. 
+Es stand ein Bauer hinter der Baumwolle; jetzt nicht mehr, weil auch er durch Maschinen ersetzt wurde. Bienen sorgten einst dafür, dass diese Baumwolle blüht, aber weil man die Bienen durch modernes Gift vielerorts ausgerottet hat, schickt man jetzt Menschen (und wiederum Kinder) auf die Felder, um die Baumwolle von Hand zu bestäuben. Das ist die schöne neue Welt, die unser Fortschritt uns gebracht hat. 
 
+[Reflektiere ebenso über die anderen Prozesse!] 
+
+Es stand eine Maschine hinter dem Spinnen des Garns, eine Maschine hinter dem Weben des Stoffs, zwei Maschinen, wegen derer abertausende von Spinnern und Webern überall auf der Welt verhungert sind und dazu gezwungen wurden, aus ihrer Unabhängigkeit heraus in die Abhängigkeit als Fabrikarbeiter zu gehen; sie sind auch der Grund, aus dem abertausende Menschen in Indien heute immernoch am Existenzminimum leben.
+
+[DE exklusiv]  
+Vor diesem menschengemachten Leid ist man auch in Deutschland nicht verschont geblieben. 
+
+
+
+
+es stehen die Näherinnen hinter dem Nähen des Kleidungsstücks, die Färber hinter der Farbe desselben, 
 
 There was the peasant behind the cotton (now not even that, as a machine replaced him too), there was the machine behind the yarn, there was the machine behind the weaving, there was the sewer behind the sewing, there was the dyer behind the colour, there was the driver and the captain and the carrier and the next driver and the next carrier. And finally it ended in my hands. It was shipped from a country of poor people, where some have barely enough cloth to cover themselves, into a country of rich people, where some have enough clothing in their closet to cloth an entire village. And I paid 15€. What is 15€ for such decadence? Every single person involved in its production has to be paid from this money, but the company ordering the production and the store selling it will get most of it. If this is so, how much money will remain for each of them for the shirt that I now wear? Can you imagine? What does the sewer and the dyer and every single driver get from these 15€? I would be suprised if it's more than nothing. And I, by buying it, am responsible for it.  
 
