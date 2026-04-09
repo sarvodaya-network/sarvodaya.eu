@@ -154,7 +154,18 @@ Because of the application of trade logic, that for some reason has infected peo
 * people can remain needy while living in an abundance surrounding them, in which they can not partake.
 * some people produce value while others do not produce value, but either work in vain or even produce anti-value, but are still mistakenly considered to produce value due to the confusion of value and the delusional sign of value "taken for face value".
 * Only due to the confusion of value with the demonic sign of value, can some in society become so seemingly wealthy and by extension so powerful, that they cause misery and need to others and can shape the economic order to their liking. 
-* Only by application of the logic of trade, which is a false logic, can people increase wealth to excessive and socially harmful degrees by means of trade. One cannot increase wealth in these exponential and excessive ways by any other means. And the very amount of the excess of said delusional wealth collected in the hands of a few, suffices to reveal to every man of reason, that the apparent value that they possess is factually impossible to have been produced by those possessing them; by the existence of the tremendous inequality of the wealth between the people is clearly revealed that the economic order arising from this logic of trade within the markets, has nothing to do whatsoever with the ideal of "leistungsgerechtigkeit" put forth by the people and the state alike, as no man can leisten so much more than other humans that the value he produces grows billions of times above the value produced by another.   
+* Only by application of the logic of trade, which is a false logic, can people increase wealth to excessive and socially harmful degrees by means of trade. One cannot increase wealth in these exponential and excessive ways by any other means.
+
+### How excessive wealth can only come by trade
+Only by means of trade can excessive wealth (wealth so called) be gained. The very amount of the excess of said delusional wealth collected in the hands of a few, suffices to reveal to every man of reason, that the apparent value that they claim to possess is factually impossible to have been produced by those possessing it; by the existence of the tremendous inequality of the wealth between the people is clearly revealed that the economic order arising from this logic of trade within the markets, has nothing to do whatsoever with the ideal of "leistungsgerechtigkeit" put forth by the people and the state alike, as no man can leisten so much more than other humans that the value he produces grows billions of times above the value produced by another. It is factually impossible.    
+
+### How trade logic is overcome 
+Trade logic is overcome by recognising and rejecting its inherent logical mistakes. 
+* Confusion of true value with the false sign of value called money must be stopped in order to be able to see what true value consists in.
+* It must be determined how true value is produced and these domains of true-value production must be clearly discerned from all those domains which only produce false or anti-value.
+* Only by this recognition of true value, unblinded by false value, and only by this discernment of how true value is produced, disregarding all activities that don't, can one arrive at what is considered "leistungsgerechtigkeit".
+
+
 
 ### Economical Principles in the Tribe & Family
 In the family or the household, trade logic is not applied. 
