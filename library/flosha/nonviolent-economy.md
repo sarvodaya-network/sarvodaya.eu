@@ -144,7 +144,12 @@ The logic of trade consists in the idea
 (2) that by producing such value (or no value but just increasing the amount of what is taken as value, while having none), one is entitled of a particular amount of goods which exactly equal the value produced in an abstract manner.  
 
 ### Anti-Market Economy rejects trade logic
-This logic is flawed beyond belief.  
+This logic is flawed beyond belief and is therefore totally rejected by nonviolent economics.  
+* It is wrong to expect someone to give anything in return for something else, as if one good could be measured in value against another and as if keeping such an arbitrary balance (as any attempt of measure is in vain), will result the slightest in any kind of justice.  
+* It is fundamentally wrong to assume that creating value and vermehren the amount of the mere sign chosen to represent said value, is one and the same.
+* It is also fundamentally wrong to link the value individually created with the value individually received and to measure them against one another, which is factually impossible.
+
+* 
 
 
 
