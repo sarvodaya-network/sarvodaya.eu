@@ -149,9 +149,12 @@ This logic is flawed beyond belief and is therefore totally rejected by nonviole
 * It is fundamentally wrong to assume that creating value and vermehren the amount of the mere sign chosen to represent said value, is one and the same.
 * It is also fundamentally wrong to link the value individually created with the value individually received and to measure them against one another, which is factually impossible.
 
-* 
-
-
+### The consequences of trade logic
+Because of the application of trade logic, that for some reason has infected peoples thinking...   
+* people can remain needy while living in an abundance surrounding them, in which they can not partake.
+* some people produce value while others do not produce value, but either work in vain or even produce anti-value, but are still mistakenly considered to produce value due to the confusion of value and the delusional sign of value "taken for face value".
+* Only due to the confusion of value with the demonic sign of value, can some in society become so seemingly wealthy and by extension so powerful, that they cause misery and need to others and can shape the economic order to their liking. 
+* Only by application of the logic of trade, which is a false logic, can people increase wealth to excessive and socially harmful degrees by means of trade. One cannot increase wealth in these exponential and excessive ways by any other means. And the very amount of the excess of said delusional wealth collected in the hands of a few, suffices to reveal to every man of reason, that the apparent value that they possess is factually impossible to have been produced by those possessing them; by the existence of the tremendous inequality of the wealth between the people is clearly revealed that the economic order arising from this logic of trade within the markets, has nothing to do whatsoever with the ideal of "leistungsgerechtigkeit" put forth by the people and the state alike, as no man can leisten so much more than other humans that the value he produces grows billions of times above the value produced by another.   
 
 ### Economical Principles in the Tribe & Family
 In the family or the household, trade logic is not applied. 
