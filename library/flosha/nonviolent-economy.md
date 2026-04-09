@@ -163,8 +163,15 @@ Only by means of trade can excessive wealth (wealth so called) be gained. The ve
 Trade logic is overcome by recognising and rejecting its inherent logical mistakes. 
 * Confusion of true value with the false sign of value called money must be stopped in order to be able to see what true value consists in.
 * It must be determined how true value is produced and these domains of true-value production must be clearly discerned from all those domains which only produce false or anti-value.
-* Only by this recognition of true value, unblinded by false value, and only by this discernment of how true value is produced, disregarding all activities that don't, can one arrive at what is considered "leistungsgerechtigkeit".
+* Only by this recognition of true value, unblinded by false value, and only by this discernment of how true value is produced, disregarding all activities that don't, could one arrive at an estimation of what is considered "leistungsgerechtigkeit", if it wouldn't be another mistake in thinking "to link the value individually created with the value individually received and to measure them against one another".
 
+### Why the notion of leistungsgerechtigkeit is wrong  
+What is meant by the delusional notion of leistungsgerechtigkeit is actually the notion of "what I get is in accordance with what I give", or in other words: "the amount of value that I produce equals exactly the amount of value I receive." According to the notion of leistungsgerechtigkeit, only there is justice where this is the case.   
+It can then not be the case if someone receives much more than he produces in value. And it can then not be the case if someone receives much less than he produces in value.   
+It will definitely not be just in all those cases, where people receive much value while producing no value at all or even anti-value, which is the case as long as the above mentioned confusion of value-production and the vermehrung of the false sign of value isn't understood and rejected.  
+But it will also nowhere be just, where the value produced isn't in accordance with the value received for the simple reason that in general the value of a good cannot be measured in numbers and cannot be equated with the value of service.  
+
+### 
 
 
 ### Economical Principles in the Tribe & Family
