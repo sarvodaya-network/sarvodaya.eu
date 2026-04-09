@@ -165,13 +165,18 @@ Trade logic is overcome by recognising and rejecting its inherent logical mistak
 * It must be determined how true value is produced and these domains of true-value production must be clearly discerned from all those domains which only produce false or anti-value.
 * Only by this recognition of true value, unblinded by false value, and only by this discernment of how true value is produced, disregarding all activities that don't, could one arrive at an estimation of what is considered "leistungsgerechtigkeit", if it wouldn't be another mistake in thinking "to link the value individually created with the value individually received and to measure them against one another".
 
-### Why the notion of leistungsgerechtigkeit is wrong  
+### the notion of leistungsgerechtigkeit   
 What is meant by the delusional notion of leistungsgerechtigkeit is actually the notion of "what I get is in accordance with what I give", or in other words: "the amount of value that I produce equals exactly the amount of value I receive." According to the notion of leistungsgerechtigkeit, only there is justice where this is the case.   
 It can then not be the case if someone receives much more than he produces in value. And it can then not be the case if someone receives much less than he produces in value.   
 It will definitely not be just in all those cases, where people receive much value while producing no value at all or even anti-value, which is the case as long as the above mentioned confusion of value-production and the vermehrung of the false sign of value isn't understood and rejected.  
 But it will also nowhere be just, where the value produced isn't in accordance with the value received for the simple reason that in general the value of a good cannot be measured in numbers and cannot be equated with the value of service.  
 
-### 
+### why it is wrong in general
+People understand that it is wrong to expect a child to produce as much value as it receives. We therefore do not expect or strive for leistungsgerechtigkeit in regard to the child, because we see, that this idea can't be applied. Someday they will also see that this idea can be applied nowhere.   
+As the child can't produce as much or any economic value, we deem it our social duty to take care of it and give it what it needs regardless. What applies to the child applies to any other man. Some cannot produce as much as others. Some may be able to produce less and others may be able to produce more. But their ability to produce more or less has no relation whatsoever with their needs, nor is it in their interest to always receive in return (if that would even be possible) that exact amount of value that they produced.  
+Since when my needs and demands are met, there is no interest in more. And if one claims that there is, then these are delusional interests which are not in accordance with their real interests.  
+
+
 
 
 ### Economical Principles in the Tribe & Family
