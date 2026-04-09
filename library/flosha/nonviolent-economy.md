@@ -138,8 +138,18 @@ From the noviolent perspective, there is nothing sacred about markets, but every
 We have determined that economy must work on the same principles as the family or the tribe and that the same principles must apply. 
 How then does the economic system in a family or tribe work in comparison to the market systems mentioned before and what are these principles? 
 
-### Economical Principles in Tribes
+### Trade Logic
+The logic of trade consists in the idea  
+(1) that something of equal or similar value or some kind of worthless sign collectively accepted to represent such value (and then collectively worshipped as the value itself, inspite of having *none*, as is the case with money), must be given in exchange for goods; and...   
+(2) that by producing such value (or no value but just increasing the amount of what is taken as value, while having none), one is entitled of a particular amount of goods which exactly equal the value produced in an abstract manner.  
 
+### Anti-Market Economy rejects trade logic
+This logic is flawed beyond belief.  
+
+
+
+### Economical Principles in the Tribe & Family
+In the family or the household, trade logic is not applied. 
  
 
 
