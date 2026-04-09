@@ -106,23 +106,32 @@ It is decentralised economy that nonviolent economics proposes as the economy of
 
 ```
 
-               Economy
-      ____________|__________
-     |         |             |
-Centralised    |             |
-               |        Decentralised
-       Non-Centralised
+                    Economy
+          _____________|______________
+         |             |              |
+   Centralised         |        Decentralised    
+       |               |        
+       |          Non-Centralised
+    ___|___
+   |   |   |
+   S   C  S+C 
+
+
+S = State
+C = Corporate
 
 ```
 
 ### Beyond Market
-We have already seen that all three forms of economies mentioned so far (corp market (which they label private market), state market (which they label "(state) planning") and "state+corp market", which sometimes is "state-vs.-corp market" (which they label "social market"), are market economies.  
-But this form of economy is neither the only nor a particularly natural one. Families and their households are no market economies of none of these kinds. Tribes do not have a market economy either.  
-But we have determined that economy must work on the same principles as the family or the tribe, that the same principles must apply. 
-How then does the economic system in a family or tribe work in comparison to the market systems mentioned before? 
+We have already seen that all three forms of economies mentioned so far (corp market (which they label private market), state market (which they label "(state) planning") and "state+corp market", which sometimes is "state-vs.-corp market" (which they label "social market"), are market economies. That means, they function by the logic of trade, they are profit-driven and stand under the sign of money.     
+But this form of economy is neither the only nor a particularly natural one. Families and their households are no market economies. Tribes do not have a market economy either. There is nothing sacred about markets. 
+From the noviolent perspective every market is black market and every wage labour black labour.    
+We have determined that economy must work on the same principles as the family or the tribe and that the same principles must apply. 
+How then does the economic system in a family or tribe work in comparison to the market systems mentioned before and what are these principles? 
 
+### Economical Principles in Tribes
 
-From the noviolent perspective every market is black market and every wage labour black labour. 
+ 
 
 
 
