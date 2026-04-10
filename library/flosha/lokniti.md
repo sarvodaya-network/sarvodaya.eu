@@ -1,9 +1,9 @@
 # Lokatik / Lokniti
 
 What is "Lokniti"?  
-Lokniti is a concept by Vinoba. 
+Lokniti is a concept by Vinoba Bhave, that he opposed *rajniti* (the indian name for politics) and meant to overcome it. *Lok* refers to the people, while *raj* refers to "rule". 
 
-Lokniti is opposed to rajniti (the indian name for politics) and meant to overcome it. lok refers to the people, while raj refers to "rule". 
+Rajniti means politics, but literally it may mean as much as "Rule 
 
 I thought for a long time that this word is difficult to translate into western languages, because it receives its sense and meaning by its relation to this other word that it is an alternative to. And the western word "politics", which is what lokniti wants to overcome, doesn't seem at first to have the same meaning and connotation as rajniti. 
 
