@@ -21,7 +21,17 @@ In case of the washing machine, maybe it would be possible to connect it to a bi
 
 It could be a very easy, connecting, social practice that e.g. there is a washing room in every house with a few washing machines that are shared by a few households with connected exercise machines. Then just as the households create a washing plan to organise who washes his cloth when, so as to use the machines effectively, individuals can meet here and plan to exercise together just as they are doing now, exercising in a commercial studio for which they pay and without getting clean cloth out of it.  
 
-There will be many people enjoying this process and of course there will also be some people who for reasons of health or age will not be able to do it anymore - but there will be less such people because that very practice will help preventing such health problems. Nonetheless there may be some who are unable to. Then there would always be people who would happily offer some of their time and literal energy to do it for them, because 
+There will be many people enjoying this process and of course there will also be some people who for reasons of health or age will not be able to do it anymore - but there will be less such people because that very practice will help preventing such health problems. Nonetheless there may be some who are unable to. Then there would always be people who would happily offer some of their time and literal energy to do it for them. This would be beneficial to connect people and at the same time it is not naive to assume such a readyness, because by serving others in such a way, one would at the same time do something for ones own health.  
+As I said, people are doing the same already, with less social impact. So doing this kind of activity while knowing that they do something useful by washing cloth and even something with social impact that helps oneself or others, be it ones own family or a neighbour, is very motivating, so much so that it could motivate more people to exercise, which would then also fight the sedentary lifestyle and the obesity and diseases connected with it.  
+At the same time an individual will have to wash cloth just about once a week, which leads to a minimum amount of exercise. But such cardio exercise can be done and is recommended to be done several times a week, if not everyday, and so there will always be enough people, which, for reasons of their own health, will follow this recommendation. This will suffice to wash the cloth for everyone. 
+
+By this solution two important aspects of human life can be connected and tackled together. Washing cloth and cardio vascular health. It is time efficient, it is socially connecting, it is a form of labour as a sacrifice, it is promoting health, it is productive and sustainable, as it drives the washing machines with human power with no external electrical input required. What else could we wish for? 
+
+And now, let us see: Had others the idea before to connect the washing machine with such an exercise machine? 
+
+
+
+
 
 
 
