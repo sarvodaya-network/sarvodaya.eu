@@ -46,7 +46,7 @@ Here the same kind of machine is driven by a rower: https://www.youtube.com/watc
 
 As you see by these examples, there would be many possible solutions and this kind of technology can easily be improved and refined.  
 
-
+So in the before suggested laundry/exercise rooms there could be several such different machines to enable one to use different endurance exercises. 
 
 
 
