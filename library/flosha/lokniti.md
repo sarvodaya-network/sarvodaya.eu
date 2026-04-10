@@ -157,7 +157,11 @@ Because it is only by this scheme, that the interests of all are to the least po
 
 The prevailing delusional conflicts of interests and the ideological conflicts between many so-called left and right positions arise only on the basis of the political process, while they would dissolve in a locatical process. They are consequences of a disharmony brought about by a political order that is disharmonious by design.  
 
+---
 
+Es ist wohl wahr: Würde die *Politik*, die Staatskunst, also die Partei- und Machtpolitik und die Staatsmacht, die sich aus ihr ergibt, die sich, wenn sie sich auch den Anschein des Dienstes gibt, nicht nach unten am Menschen orientiert (nach dem Gesetz Gottes, nach dem, wer aller Meister sein will, sich zum Diener Aller machen muss), sondern sich nach oben hin orientiert und zur zentralisierten, zur gebündelten Macht strebt, würde man also von dieser Politik alle Unwahrheit und Gewalt abziehen, würde man sie an das Gesetz von Wahrheit und Gewaltlosigkeit binden, dann wäre das notwendigerweise eine Staatskunst und eine Staatsmacht, in der es keine Politiker gäbe, die das Volk belügen, die einander belügen, die die Medien manipulieren, Krieg und Aufrüstung befürworten, kommerziellen Interessen dienen, Ausbeutung in Kauf nehmen. Es gäbe keine Geheimpolizei, es gäbe keine Armeen und auch die Justiz sähe anders aus. 
+
+Aber das zu verlangen, das von der Politik zu erwarten, das von der Politik zu erhoffen, die Politik dazu aufzufordern, das ist so, als würde Jesus zu Pilatus gehen und von ihm erwarten, dass er die Probleme der Menschen löst. So funktioniert das nicht. Jesus löst sie selber. Der Einzelne löst sie selber, angefangen bei sich. Man löst sie nicht da oben, sondern hier unten. Man erwartet nicht Hilfe von außen, sondern man sucht Hilfe von innen. Man appelliert nicht an Machthaber, denn das legitimiert ihre Macht, sondern man appelliert an einander und vorallem an sich selbst, zu tun, was nötig ist.  
 
 
 
