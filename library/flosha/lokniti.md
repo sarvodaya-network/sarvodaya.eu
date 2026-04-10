@@ -1,77 +1,70 @@
-# Lokatik / Lokniti
+# Lokniti or Locatics
 
 What is "Lokniti"?  
 Lokniti is a concept by Vinoba Bhave, that he opposed *rajniti* (the indian name for politics) and meant to overcome it. *Lok* refers to the people, while *raj* refers to "rule". 
 
-Rajniti means politics, but literally it may mean as much as "Rule 
+Before we will explain, *why* Vinoba invented this new concept, we will at first reflect about the word and how to translate it.  
 
-I thought for a long time that this word is difficult to translate into western languages, because it receives its sense and meaning by its relation to this other word that it is an alternative to. And the western word "politics", which is what lokniti wants to overcome, doesn't seem at first to have the same meaning and connotation as rajniti. 
+## *Literal Meaning of Lokniti & Rajniti*
+Rajniti is the Indian name for politics, but literally it may mean as much as "Rule-Injunction" (Herrschafts-Vorschriften) or "Injunction of Rule" ("Vorschriften der Herrschaft"). While Lokniti means as much as "People's Injunction", or the "Injunction of the People".  
+It can also be translated as "Rule-Polity", Polity of Rule or as People's Polity, Polity of the People. But the word polity, just as politics, refers to the ancient polis and has thus a very western connotation. 
 
-Politics comes from the polis, the city. But since the polis was at the same time a state, the city-state, we can say that this is what the word actually connotes. It refers to the state. In German we have several words in regard to it.
+## *How to translate Lokniti*
+I thought for a long time that this word is difficult to translate into western languages, because it receives meaning by its relation to this other word that it is opposed to. And the western word "politics", which is what lokniti wants to overcome, doesn't seem at first to have the same meaning and connotation as rajniti.  
 
-Staatslehre
-Staatskunde
-Staatskunst
-Staatsmacht
-Staatswille
-Staatsgewalt
-...
+Politics comes from the polis, the city. But since the polis was at the same time a state, the city-state, we can say that this is what the word actually connotes. It refers to the state. In German we have several words in regard to it:  
+* Staatslehre/Staatskunde (States Lore/Science)
+* Staatswille (States Will)
+* Staatsmacht (States Power)
+* Staatsgewalt (States Violence)
+* Staatskunst (State Art)
+* Staatsführung (States Leadership)
 
-Politics is essentially "Staatskunst". Political science is "Staatslehre", political power is "Staatsmacht" and the executive and ... violence which is realising or rather enforcing the political will ("Staatswille") is "Staatsgewalt". 
+Politics is essentially "Staatskunst". The political leaders are the "Staatsführung", but it can also refer to the leadership as such. Political science is "Staatslehre", political power is "Staatsmacht" and the executive and judicial violence which is realising or rather enforcing the political will – "Staatswille" – is "Staatsgewalt".  
+In its sense of "Staatsmacht" and "Staatsführung" the word politics comes very close to *rajniti*.  
 
-In its sense of "Staatsmacht", the word politics is indeed very close to *rajniti*.  
+## *From Loka and Locals*
+There is a term in latin which is similar in sound to the Sanskrit "Loka". It is locus. While Loka denotes people, locus denotes locality. But everyone has also heard of "locals". Locals are the people, the people living in a locality. There does not exist a single human being that is not a "local". Everyone lives in some locality, everyone is a local; this all people have in common. In this sense, local has a very universal meaning and serves well as a translation for *Loka*.  
+Thus it turns out that it is not so hard to translate lokniti after all: Locatics (lokniti) instead of politics (rajniti). 
 
-And there is a term in latin which is similar in sound to the Sanskrit "Loka". It is locus. While Loka denotes people, locus denotes locality. But everyone has also heard of "locals". Locals are the people, the people living in a locality. There does not exist a single human being that is not a "local". Everyone lives in some locality, everyone is a local, that all people in common. And they also have in common that the peace and well-being of their locality is of their highest interest directly after the peace and well-being of themselves and their family. 
+### Common Interests of all locals
+People do not just all have in common to be locals. They also have in common that the peace and well-being of their locality is of their highest interest directly after the peace and well-being of themselves and their family.  
+And more so: They all have in common, that the wellbeing of any other locality outside of their own, can *also* live in peace and well. This is an evident principle, but the rulers of today are too blind and unable to understand it. It is in the highest interest of every locality, that any other locality is well and sound, that there is no war anywhere else and no misery. Why? 
 
-And they also all have in common, that the wellbeing of any other locality outside of their own, can *also* live in peace and wellbeing. This is an evident principle, but the rulers of today are too blind and unable to understand it. It is in the highest interest of every locality, that any other locality is well and sound, that there is no war anywhere else and no misery. Why is that? 
+## *From the Four Flails to Sarvodaya*  
+Because whenever and wherever there is war elsewhere or misery, it will harm other localities just as well, also and especially those who are not in war and misery. Because who is in misery, will inevitably seek to get help from those who aren't, but that is not a given. They may as well not ask for help, but decide to steal instead from the abundance of others in order to get out of their misery. This will bring war to those too. When they ask for help, they are often then forced by the stronger community, by abusing their superior position, to live under exploitative conditions. This will sooner or later result in revolt. So there is a vicious cycle of misery, servitude or slavery, of war and of revolt. These are what Lanza del Vasto has called "The Four Flails" of civilisation. These are four inevitable flails that all civilisation is suffering from exactly to the degree to which *Sarvodaya* is lacking, the recognition of the fact that there is a harmony of interests and that I cannot serve my own interest by harming any other. Necessarily so, every local wants peace and wellbeing for every other.  
 
-*From the Four Flails to Sarvodaya*  
-Because whenever and wherever there is war elsewhere or misery, it will harm other localities just as well, also and especially those who are not in war and misery. Because who is in misery, will inevitably seek to get help from those who aren't, but that is not a given. They may as well not ask for help, but decide to steal instead in order to get out of their misery. This will bring war to those too. Or they ask for help and are then forced by the stronger, helping community, to live under exploitative conditions. Then there will sooner or later be revolt. So there is a vicious cycle of misery, servitude or slavery, war and revolt. That which Lanza del Vasto has called the four flails of civilisation. These are four inevitable flails that all civilisation is suffering from exactly to the degree to which *Sarvodaya* is lacking, the recognition of the fact that there is a harmony of interests and that I cannot serve my own interest by harming any other.  
-So every local wants peace and happiness for every other necessarily. 
+## *From Politics to Locatics*
+But now we finally have to explain: What is wrong with politics? Why did Vinoba invent this new concept of locatics to replace politics and how is that supposed to work in action?  
+At first we have to point out, that in our society and also in all of history, only a few were politicians. And just few are political. Everyone is effected by politics, but not everyone is interested in it. There are many people who don't want to have anything to do with it, don't engage with it and also do not think that it has much relevance to their life (and that it shouldn't). They don't want to be bothered by politics and don't care about it until it affects their way of life. While not everyone is political, everyone is a local. And so everyone should become locatical. But what does that mean? 
 
----
-
-Local has therefore indeed a very similar meaning to the Sanskrit Loka and thus it is not so hard to translate lokniti after all. 
-
-Instead of Politics we want Locatics. 
-Politik wird zu Lokatik. 
-
-Just few are politicians. And just few are political. But everyone is a local. And so everyone should become locatical. 
-
-While politics is Staatskunst, locatics is "Lokalkunst". While politics is "Staatslehre", locatics is "Lokallehre", where politics is (or strives for and uses) "Staatsmacht", locatics strives for and uses "Lokalmacht". And where politics through executive and ju.. violence is enforcing the "Staatswille" by "Staatsgewalt", locatics through the Shanti Sena and (Nonviolent Alternative to Law?) is realising the "Lokalwille" through "Lokalfrieden". 
-
+## *Abstract Comparison of Politics and Locatics*
+While politics is Staatskunst, locatics is "Lokalkunst". While politics is "Staatslehre", locatics is "Lokallehre", where politics is (or strives for and uses) "Staatsmacht", locatics strives for and uses "Lokalmacht". And where politics through executive and judicial violence is enforcing the "Staatswille" by "Staatsgewalt", locatics through the Shanti Sena (Peace Army) and (Nonviolent Alternative to Law?) is realising the "Lokalwille" through "Lokalfrieden".  
 Lokalmacht statt Staatsmacht.  
 Lokalkunst statt Staatskunst.  
 Lokallehre statt Staatslehre.  
 Lokalwille statt Staatswille.  
 Lokalfriede statt Staatsgewalt.  
 
-But does that work in action?  
+## *What is wrong with Politics*
+Politics is broken by design. Politics means that people from the bottom with no perceived power bring people into power in order to organise their life and handle their affairs. When anything is wrong they plead to the people at the top to fix it.  
+It is true that in a so-called democracy, in theory, the people should not feel powerless and that the people at the top, in theory, should only receive their power and remain in power by will of the people. They are, in theory, meant to do nothing but to serve the people. But in practice this is not the case at all and it is so by design. It lies in the very nature of party and power politics and in representative democracy. 
 
-Politics is broken by design. Politics means that people from the bottom with no perceived power bring people into power in order to organise their life and handle their affairs. When anything is wrong they plead to the people at the top to fix it.
-
-It is true that in a so-called democracy, in theory, the people should not feel powerless and that the people at the top, in theory, should only receive their power and remain in power by will of the people. They are, in theory, meant to do nothing but to serve the people. But in practice this is not the case at all and it is so by design. It lies in the very nature of party and power politics and representative democracy. 
-
-
-## Vanity of Elections
-
-In Germany at the 2025 Elections of the Government, 82,5 % of the population decided to vote. That is a rather high percentage, but it means that 17,5 % decided not to. That means that 17,5% of the population is out of the equation and can *not* be considered to be felt represented by whatever government is formed on behalf of the elections in the slightest way. 
-
-Now, the winning party only got 28,6% of the votes. That is 28,6% of the 82,5%. The second strongest party received 20,8% of the 82,5%, but they do not want to collaborate. Even if these two would have been collaborated that would amount to a government that was voted by 20,8 + 28,6 = 49,4% of voters of the 82,5% that have voted. That means that this government can *at most* be considered to be wanted by 31,9%, that means by less than a third of the population. 
+## *Vanity of Elections* 
+In Germany at the 2025 Elections of the Government, 82,5 % of the population decided to vote. That is a rather high percentage, but it means that 17,5 % decided not to. That means that 17,5% of the population is out of the equation and can *not* be considered to be felt represented by whatever government is formed on behalf of the elections in the slightest way.  
+Now, the winning party only got 28,6% of the votes. That is 28,6% of the 82,5%. The second strongest party received 20,8% of the 82,5%, but they do not want to collaborate. Even if these two would have been collaborated that would amount to a government that was voted by 20,8 + 28,6 = 49,4% of voters of the 82,5% that have voted. That means that this government can *at most* be considered to be wanted by 31,9%. Less than a third of the population.  
 Thus, this government can and *must* in fact be considered as the rule of a *minority* over a majority. What has this to do with representative democracy? Nothing.  
 It doesn't even touch our principal objections that we have against a majority rule just as well; as those kind of nominal democracies do never express a majority rule anyway. 
 
+## *Even more vanity*
 I also wrote *at most*. Because in fact to consider such a government formed from these two parties as being in the interest of those who voted for them, must as well be questioned.  
-A fraction of the voters may be fine with such a collaboration, because they may consider the other party as their second choice or see them as having similar positions. But others consciously did *not* vote for that other party that they see in conflict with their interests, they voted for their particular party for other reasons. In actual practice that means, the 31,9% as a number (which is way too low to be seen as a government representing the will of the people), is still way too high and a mere vague estimation. It does not actually show how much of the population would feel represented by such a government.
+A fraction of the voters may be fine with such a collaboration, because they may consider the other party as their second choice or see them as having similar positions. But others consciously did *not* vote for that other party that they see in conflict with their interests, they voted for their particular party for other reasons. In actual practice that means, the 31,9% as a number (which is way too low to be seen as a government representing the will of the people), is still way too high and a mere vague estimation. It does not actually show how much of the population would feel represented by such a government.  
+Long story short: Our current elections are a farce. And it cannot be anything but a farce as long as party politics exist.  
 
-Long story short: Such elections are a farce. 
-And it cannot be anything but a farce as long as party politics exist. 
+## *(Il)legitimacy of Authority*
+What else could be done? What would be a *true* rule of the people? In our view and according to the idea of Vinoba, it would be the rule of the locals, brought about by something else than politics, which we might see as the art of the state and the art of guaranteeing the sovereignty of the state. It is brought about by *locatics*, the art of local autonomy and the art of guaranteeing the sovereignty of the locals; the sovereignty of the individual. It is this sovereignty of the locals which alone can truly signify what we call "omniarchy", the rule of all, which is the positive side of what in negative terms has been coined "anarchy", non-rule. It is a rule of all, because everyone has power and does not feel powerless, that which true democracy should be. And it is a rule of none, because eventually and as the final goal that is gradually strived for, none would exercise power over others and none feels overpowered. It is therefore true *self-rule*, which consists in a double maxime on an individual level: *Let us rule ourselves* and *let us rule no other*.  
 
-
-## (Il)legitimacy of Authority
-
-What else could be done? What would be a *true* rule of the people? It would be the rule of the locals, brought about by something else than politics, the art of the state and the art of guaranteeing the sovereignty of the state. It is brought about by *locatics*, the art of local autonomy and the art of guaranteeing the sovereignty not of the local; the sovereignty of the individual, which alone can truly signify what we call "omniarchy", the rule of all, which is the positive side of what in negative terms has been coined "anarchy", non-rule. It is a rule of all, because everyone has power and does not feel powerless. And it is a rule of none, because none exercises power over others and none feels overpowered. It is therefore true *self-rule*, which consists in: Let us rule ourselves and no other, on an individual basis.  
-
+## *Arguments of Politicians* 
 Politicians who want to maintain the current system and the current state of affairs will tell you, that this is an illusionary and naive conception. They will tell you that the people are not capable to rule themselves, to manage their own affairs. In other words: They do not trust the people but expect the people to trust them. They put their trust in state power and violence. 
 
 And in some way they are right: Within the current social (dis)order, the people are not capable to rule themselves and to manage their own affairs. They aren't because everything is organised in such a way that they can't.  
