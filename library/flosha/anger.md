@@ -40,7 +40,8 @@ Nun kann es natürlich sein, dass aus dieser Wut heraus, in dieser Wut, durch di
 Indem ich wütend und laut wurde und die Lüge, auch vor anderen, verurteilt habe, habe ich die Person sehr beschämt. Wem hat das was genutzt?  
 Sie hat mich durch die Lüge verletzt. Dann habe ich sie durch die Wut und die Bloßstellung verletzt. Ich habe mich dadurch verletzt, weil ihre Verletzung mich verletzt hat und sie hat vielleicht auch meine Verletzung gespürt und das hat sie verletzt. 
 
-Nun mögen wir sagen, hat dieser Teufelskreis der gegenseitigen Verletzungen mit der Lüge begonnen, aber der Lüge ging auch schon eine Verletzung voraus, wegen der gelogen wurde.  
+Nun mögen wir sagen, hat dieser Teufelskreis der gegenseitigen Verletzungen mit der Lüge begonnen, aber der Lüge ging auch schon eine Verletzung voraus, wegen der gelogen wurde.   
+In diesem Fall war sie verletzt durch Neid, durch das Gefühl von Minderwertigkeit oder Verlust. Sie hat gelogen, um sich nicht schlecht zu fühlen, um sich nicht zu schämen. Sie hat nicht aus Böswilligkeit gelogen, sondern weil die Realität zu schwer zu ertragen war und dann hat sie gelogen, um sich eine bessere Realität zu schaffen, mit der sie besser klar kam. 
 
 
 
