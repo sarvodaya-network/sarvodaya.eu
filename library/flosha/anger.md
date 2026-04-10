@@ -43,5 +43,22 @@ Sie hat mich durch die Lüge verletzt. Dann habe ich sie durch die Wut und die B
 Nun mögen wir sagen, hat dieser Teufelskreis der gegenseitigen Verletzungen mit der Lüge begonnen, aber der Lüge ging auch schon eine Verletzung voraus, wegen der gelogen wurde.   
 In diesem Fall war sie verletzt durch Neid, durch das Gefühl von Minderwertigkeit oder Verlust. Sie hat gelogen, um sich nicht schlecht zu fühlen, um sich nicht zu schämen. Sie hat nicht aus Böswilligkeit gelogen, sondern weil die Realität zu schwer zu ertragen war und dann hat sie gelogen, um sich eine bessere Realität zu schaffen, mit der sie besser klar kam. 
 
+---
+
+In gewisser Weise, wenn wir verletzt werden, gehen wir *mehr* in uns im Sinne des Meinigen. Verletzungen stärken das Meingefühl, Verletzungen stärken Anhaftung, bringen dadurch die Anhaftung aber auch deutlicher zutage. 
+
+Manche benutzen die Metapher, dass, wenn sie z.B. wütend werden, sie nachträglich sagen: "Da bin ich nicht bei mir geblieben." Aber in gewisser Weise können wir auch genau das Gegenteil sagen: Da bist du wieder zu dir gegangen und nicht beim Anderen geblieben.  
+
+Denn wenn ich z.B. wütend werde, weil ein Mädchen mich anlügt, dann bin ich in diesem Moment komplett bei mir, in mir und blind für sie. Ich sehe in diesem Moment nur mich, meine Verletzung. Die Verletzung wirft mich zurück, begrenzt mich auf mich selber; die Verbundenheit, die ich vielleicht vorher mit ihr gespürt habe und mit der ich zufrieden war, ist unterbrochen und ich bin wieder nur bei mir, isoliert. Deshalb kann ich dieses "bei sich bleiben" nur begrenzt nachvollziehen.  
+
+Denn, wäre ich in dieser Situation nicht wegen der Verletzung ganz auf mich und das Meine zurückgegangen, sondern wäre genauso offen geblieben und hätte mich in diesem Moment genauso bei ihr gefühlt wie ich mich bei ihr fühle wenn sie wahrhaftig mir gegenüber ist, dann hätte ich mit ihr mitgefühlt und wäre nicht wütend geworden. 
+
+Verletzungen führen zu Isolation und nur aus Isolation heraus kommt es zu Verletzungen. Sie führen zu Isolation und rühren aus Isolation, aus Trennung. 
+
+Du kannst sagen: "Wäre ich bei mir geblieben, hätte das, was sie gesagt hat, mich nicht so verletzt." Aber vielleicht ist es richtiger zu sagen: "Wäre ich bei *ihr* geblieben hätte das, was sie gesagt hat, mich nicht so verletzt."  
+
+Verletzung führt zu Rückzug. 
+Die Seele will ausziehen, heraus aus dem Körper strebt sie in die Welt und verbindet sich mit anderen. Wenn es dann zu einer Verletzung kommt, zieht sie sich zurück, so wie eine Schnecke sich in ihr Schneckenhaus zurückzieht, wenn man sie berührt, aus Angst vor Gefahr, so zieht sich die Seele in den eigenen Körper zurück, wenn man Angst hat oder verletzt wird.  
+
 
 
