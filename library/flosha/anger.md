@@ -16,4 +16,14 @@ Immer wenn ich wütend werde, mit Wut reagiere, offenbart das unsere eigene Hilf
 Das ist der eigentliche "Rappell". 
 
 
+---
 
+Es gibt zwei Ansätze, diametral entgegengesetzt, die ich verfolgen kann, wenn etwas vor sich geht, das ich nicht will, das ich ändern will, oder etwas durchsetzen will etc.
+
+Wenn das was ich tue nicht funktioniert, z.B. dass ich einer Sportlerin sage was sie tun soll und sie tut es nicht, und ich bin hilflos und weiß nicht was ich sonst tun soll, will es aber, dann gibt es nur drei Ansätze.  
+
+1. Nichts tun, warten, ausharren, distanzieren, etc.
+2. Die Bemühungen intensivieren, mit höherer Eindringlichkeit, mit höherer Lautstärke, mit mehr Aggressivität darauf beharren, mit mehr Nachdruck.
+3. Die Bemühungen sublimieren, sanfter gestalten, nicht mit mehr Veräußerung, sondern mehr Verinnerlichung, nicht mit mehr Härte, sondern Sanftmut, nicht mit mehr Lautstärke und in einer de-personifizierenden Weise, indem ich jemanden anschreie und dadurch erniedrige, sondern in leiserem Ton und in einer persönlichen Weise, indem ich jemandem Mut zuspreche, ihn frage woran es liegen könnte anstatt es nur zu verlangen, und ihn dadurch emporhebe, ihn nicht verletze, sondern dazu beitrage ihn zu heilen.
+
+Die Menschen denken, wenn man nicht auf die zweite Weise arbeitet, kann man gar nichts durchsetzen und verändern oder jedenfalls nichts Großartiges erreichen, aber das Gegenteil ist der Fall. In der dritten Weise kann man viel Großartigeres erreichen.  
