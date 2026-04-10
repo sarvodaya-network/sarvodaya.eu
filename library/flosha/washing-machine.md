@@ -39,7 +39,10 @@ https://www.youtube.com/watch?v=DvL3dy2YzkU
 Here is a foot-pedal driven washing machine:  
 https://www.youtube.com/watch?v=TyhYTmjUGe4  
 
+Here is a bike driven washing machine as used by a whole family living off-grid:  
+https://www.youtube.com/watch?v=1hDpUtlnEDA
 
+As you see by these examples, there would be many possible solutions and this kind of technology can easily be improved and refined.  
 
 
 
