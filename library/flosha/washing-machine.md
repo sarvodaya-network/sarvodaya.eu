@@ -29,6 +29,15 @@ By this solution two important aspects of human life can be connected and tackle
 
 And now, let us see: Had others the idea before to connect the washing machine with such an exercise machine? 
 
+---
+
+## Existing Technology
+
+There are water rowing machines, since water can be used perfectly well as a resistance, such as this one (not meant to be advertisement):  
+https://www.youtube.com/watch?v=DvL3dy2YzkU
+
+Here is a foot-pedal driven washing machine:  
+https://www.youtube.com/watch?v=TyhYTmjUGe4  
 
 
 
