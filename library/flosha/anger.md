@@ -27,3 +27,11 @@ Wenn das was ich tue nicht funktioniert, z.B. dass ich einer Sportlerin sage was
 3. Die Bemühungen sublimieren, sanfter gestalten, nicht mit mehr Veräußerung, sondern mehr Verinnerlichung, nicht mit mehr Härte, sondern Sanftmut, nicht mit mehr Lautstärke und in einer de-personifizierenden Weise, indem ich jemanden anschreie und dadurch erniedrige, sondern in leiserem Ton und in einer persönlichen Weise, indem ich jemandem Mut zuspreche, ihn frage woran es liegen könnte anstatt es nur zu verlangen, und ihn dadurch emporhebe, ihn nicht verletze, sondern dazu beitrage ihn zu heilen.
 
 Die Menschen denken, wenn man nicht auf die zweite Weise arbeitet, kann man gar nichts durchsetzen und verändern oder jedenfalls nichts Großartiges erreichen, aber das Gegenteil ist der Fall. In der dritten Weise kann man viel Großartigeres erreichen.  
+
+---
+
+Beispiele:  
+Ich werde angelogen. Man lügt mir direkt ins Gesicht. Und ich weiß es. Dann werde ich wütend, weil es mich verletzt. Aber auch weil die Wut eine erlernte Methode ist, zu reagieren auf etwas, das man ändern will. Eine Aggressivität, die sich in gewisser Weise als effektiv erwiesen hat.   
+
+
+
