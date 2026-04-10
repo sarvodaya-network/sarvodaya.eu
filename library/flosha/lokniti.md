@@ -163,9 +163,13 @@ Es ist wohl wahr: Würde die *Politik*, die Staatskunst, also die Partei- und Ma
 
 Aber das zu verlangen, das von der Politik zu erwarten, das von der Politik zu erhoffen, die Politik dazu aufzufordern, das ist so, als würde Jesus zu Pilatus gehen und von ihm erwarten, dass er die Probleme der Menschen löst. So funktioniert das nicht. Jesus löst sie selber. Der Einzelne löst sie selber, angefangen bei sich. Man löst sie nicht da oben, sondern hier unten. Man erwartet nicht Hilfe von außen, sondern man sucht Hilfe von innen. Man appelliert nicht an Machthaber, denn das legitimiert ihre Macht, sondern man appelliert an einander und vorallem an sich selbst, zu tun, was nötig ist.  
 
+Wenn wir versuchen, die Probleme dieser Welt mit dieser Art von Politik zu lösen, mit Staatskunst, Staatsmacht, Staatsgewalt, und versuchen sie mit Wahrheit und Gewaltlosigkeit zu läutern, dann haben wir etwas Grundlegendes nicht verstanden. Nämlich, dass die Staatsmacht von inhärenter Unwahrheit und Gewalt ist. Sie ist von Unwahrheit und Gewalt wesenhaft durchdrungen und das kann man auch gar nicht ändern.  
 
+Jesus, wenn der Teufel ihm alle Macht und alle Reiche dieser Erde zu Füßen legt, ihn zum König aller Menschen machen will, ihm also die ganze Welt zu Füßen legt, wenn er nur ihm dient, heißt ihn zu verschwinden. Er will nichts davon wissen. Kein Christ käme je auf die Idee, sich Staatsmacht anzueignen, um damit etwas Gutes zu tun, denn das hieße auf den Teufel hereinzufallen und sich seiner Mächte und Mittel zu bedienen.  
 
+Der Christ lehnt alle Reiche dieser Welt ab. Er kennt nur ein Reich, das Reich Gottes, das schon da ist und ausgebreitet über die Erde liegt, über die ganze Erde. Es hat schon einen König, nämlich Gott, der im Herzen aller Menschen regiert. Und wer in diesem Reich lebt, der braucht an niemanden da oben zu appellieren, dass er seine Probleme löse und der braucht auch von niemandem da oben irgendetwas zu erwarten. 
 
+Wer versucht, die Probleme der Welt mit Politik zu lösen, versteht nicht das inhärente Problem mit der Politik an sich. Darum hat Vinoba stattdessen das Konzept der Lokatik begründet, das den Menschen die Kontrolle über ihr Leben zurückgibt. Nicht primär durch eine Veränderung materieller Verhältnisse, sondern primär durch eine Veränderung des Denkens, dem alles folgt: Sie müssen aufhören, Bittsteller zu sein und anfangen, die Dinge in die eigene Hand zu nehmen. Das ist es, was Lokatik im Wesentlichen bedeutet. 
 
 
 
