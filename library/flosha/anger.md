@@ -37,7 +37,10 @@ Die Logik dieser Annahme ist nicht von der Hand zu weisen. Die Person wird in de
 Aber man sollte besser deshalb nicht mehr lügen, weil man einsieht, dass Lügen schlecht ist und nicht deshalb weil man eine Reaktion vermeiden will.  
 Nun kann es natürlich sein, dass aus dieser Wut heraus, in dieser Wut, durch die darin gefallenen Worte etc., durchaus auch eine solche Einsicht entsteht. Das könnte sein. Das heißt aber nicht, dass sie durch ein anderes Verhalten nicht noch viel besser entstehen könnte.  
 
+Indem ich wütend und laut wurde und die Lüge, auch vor anderen, verurteilt habe, habe ich die Person sehr beschämt. Wem hat das was genutzt?  
+Sie hat mich durch die Lüge verletzt. Dann habe ich sie durch die Wut und die Bloßstellung verletzt. Ich habe mich dadurch verletzt, weil ihre Verletzung mich verletzt hat und sie hat vielleicht auch meine Verletzung gespürt und das hat sie verletzt. 
 
+Nun mögen wir sagen, hat dieser Teufelskreis der gegenseitigen Verletzungen mit der Lüge begonnen, aber der Lüge ging auch schon eine Verletzung voraus, wegen der gelogen wurde.  
 
 
 
