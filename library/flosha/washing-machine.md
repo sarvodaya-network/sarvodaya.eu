@@ -33,16 +33,15 @@ And now, let us see: Had others the idea before to connect the washing machine w
 
 ## Existing Technology
 
-There are water rowing machines, since water can be used perfectly well as resistance, such as this one (not meant to be advertisement) and this could well be combined with washing clothes by simply making it possible to open it at the top and fill in laundry and detergent/soap.   
-https://www.youtube.com/watch?v=DvL3dy2YzkU
+There are water rowing machines, since water can be used perfectly well as resistance, such as this one (not meant to be advertisement) and this could well be combined with washing clothes by simply making it possible to open it at the top and fill in laundry and detergent/soap: https://www.youtube.com/watch?v=DvL3dy2YzkU
 
-Here is a foot-pedal driven washing machine:  
-https://www.youtube.com/watch?v=TyhYTmjUGe4  
+Here is a foot-pedal driven washing machine: https://www.youtube.com/watch?v=TyhYTmjUGe4  
 
-Here is a regular modern washing machine driven by a bike as used by a whole family living off-grid:  
-https://www.youtube.com/watch?v=1hDpUtlnEDA
+Here is a regular modern washing machine driven by a bike as used by a whole family living off-grid: https://www.youtube.com/watch?v=1hDpUtlnEDA
 
 Here the same kind of machine is driven by a rower: https://www.youtube.com/watch?v=MU_u4o89OWw
+
+Here may be one of the simplest solutions, called the spincycle: https://www.youtube.com/watch?v=ikUAXIW4gKc
 
 As you see by these examples, there would be many possible solutions and this kind of technology can easily be improved and refined.  
 
