@@ -60,5 +60,10 @@ Du kannst sagen: "Wäre ich bei mir geblieben, hätte das, was sie gesagt hat, m
 Verletzung führt zu Rückzug. 
 Die Seele will ausziehen, heraus aus dem Körper strebt sie in die Welt und verbindet sich mit anderen. Wenn es dann zu einer Verletzung kommt, zieht sie sich zurück, so wie eine Schnecke sich in ihr Schneckenhaus zurückzieht, wenn man sie berührt, aus Angst vor Gefahr, so zieht sich die Seele in den eigenen Körper zurück, wenn man Angst hat oder verletzt wird.  
 
+Aber dann und dort ist man alleine und getrennt. Dann kann man den anderen nicht mehr sehen, ist mit dem anderen nicht mehr verbunden. Man kapselt sich ab und in seiner eigenen Kapsel ist der andere keine Realität mehr, jedenfalls keine Realität, die genau so real und genau so von Bedeutung wäre wie die eigene. Nur von diesem Standpunkt aus, nur aus dieser Isolation heraus, nur basierend auf einer solchen Unverbundenheit kann es überhaupt zu solchen Dingen kommen wie...  
+Vorwürfen, Beschämungen, Wutanfällen etc.  
+
+
+
 
 
