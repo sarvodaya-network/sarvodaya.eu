@@ -114,8 +114,11 @@ Vinoba hält die Idee des svadharma für einen essentiellen Aspekt der Spiritual
 
 > *Svadharma* implies that every person has his own independent duties. Such *svadharma* or one's special duties vary from individual to individual. But since a man is also a part of society, we may say that everyone should render service to society. However, each has his own special qualities and he should serve society by developing them well. (Samyasutra, 49)  
 
-Es gibt demnach ein individuelles svadharma, aber auch ein allgemeines svadharma; das ist einfach darin begründet, dass wir unsere ganz spezifischen Eigenheiten haben, aber auch viele Gemeinsamkeiten; aus unseren Eigenheiten ergeben sich persönliche individuelle Pflichten, aus unseren Gemeinsamkeiten ergeben sich kollektive individuelle Pflichten. 
-Beispiel: Ich mag eine Tendenz dazu haben, zu schreiben und Ideen zu verbrieten; daraus ergibt sich eine persönliche individuelle Pflicht, ein Teil meiner Bestimmung. Ein anderer mag diese Tendenz nicht haben und es mag kein Teil seiner Pflicht sein. 
+Es gibt demnach ein individuelles svadharma, aber auch ein allgemeines svadharma; das ist einfach darin begründet, dass wir unsere ganz spezifischen Eigenheiten haben, aber auch viele Gemeinsamkeiten; aus unseren Eigenheiten ergeben sich persönliche individuelle Pflichten, aus unseren Gemeinsamkeiten ergeben sich kollektive individuelle Pflichten.  
+Das svadharma könnte man als "Bestimmung" übersetzen. Coomaraswamy wählte den Begriff *Funktion*. Es ist meine Bestimmung oder meine Funktion. Vinoha setzt sie gleich mit "den eigenen Pflichten". Er sagt also aus, dass es ganz spezifische, individuelle Pflichten gibt, die sich aus der Situation oder Umgebung und der Veranlagung des Einzelnen ergeben. 
+
+Beispiel: Ich mag eine Tendenz dazu haben oder auch eine Veranlagung, zu schreiben und Ideen zu verbreiten; daraus ergibt sich eine persönliche individuelle Pflicht, ein Teil meiner Bestimmung. Ein anderer mag diese Tendenz nicht haben und es mag kein Teil seiner Pflicht sein. 
+
 Beispiel 2: Hingegen habe ich es mit allen gemeinsam, dass wir hungrig sind und essen müssen und dazu muss man Nahrung anbauen. Es ist darum Teil einer kollektiven Pflicht jedes Einzelnen, ein kollektiver Teil ihrer individuellen Bestimmung, körperlich zu arbeiten. 
 
 > *Svadeshi dharma*, the national *dharma*; *svajatiya dharma*, communal *dharma*; and *svakalin dharma*, the *dharma* of the age - all these come together in *svadharma*, one's own *dharma*. These three combine to make up *svadharma*. To determine one's *svadharma*, one should consider what is helpful and appropriate to one's nature and situation, and what duty falls to one. (Gita, 273-274)  
