@@ -2,7 +2,7 @@
 
 Lokniti is opposed to rajniti (the indian name for politics) and meant to overcome it. lok refers to the people, while raj refers to "rule". 
 
-I thought for a long time that this word is difficult to translate, because it receives its sense and meaning by its relation to this other word that it is an alternative to. But the word "politics", which is what lokniti wants to overcome, has not the same meaning and connotation as rajniti. 
+I thought for a long time that this word is difficult to translate into western languages, because it receives its sense and meaning by its relation to this other word that it is an alternative to. And the western word "politics", which is what lokniti wants to overcome, doesn't seem at first to have the same meaning and connotation as rajniti. 
 
 Politics comes from the polis, the city. But since the polis was at the same time a state, the city-state, we can say that this is what the word actually connotes. It refers to the state. In German we have several words in regard to it.
 
@@ -14,11 +14,21 @@ Staatswille
 Staatsgewalt
 ...
 
-Politics is essentially "Staatskunst". Political science is "Staatslehre", political power is "Staatsmacht" and the executive and ... violence which is realising or rather enforcing the political will (Staatswille) is "Staatsgewalt". 
+Politics is essentially "Staatskunst". Political science is "Staatslehre", political power is "Staatsmacht" and the executive and ... violence which is realising or rather enforcing the political will ("Staatswille") is "Staatsgewalt". 
 
-There is a term in latin which is similar in sound to the Sanskrit "Loka". It is locus. While Loka denotes people, locus denotes locality. But everyone has also heard of "locals". Locals are the people, the people living in a locality. There does not exist a single human being that is not a "local". Everyone lives in some locality, everyone is a local. Therefore there is something that everyone, that all locals have in common. It is that the peace and well-being of their locality is of closest interest directly after the peace and well-being of themselves and their family. 
+In its sense of "Staatsmacht", the word politics is indeed very close to *rajniti*.  
 
-Local has therefore a very similar meaning to the Sanskrit Loka and thus it is not so hard to translate lokniti after all. 
+And there is a term in latin which is similar in sound to the Sanskrit "Loka". It is locus. While Loka denotes people, locus denotes locality. But everyone has also heard of "locals". Locals are the people, the people living in a locality. There does not exist a single human being that is not a "local". Everyone lives in some locality, everyone is a local, that all people in common. And they also have in common that the peace and well-being of their locality is of their highest interest directly after the peace and well-being of themselves and their family. 
+
+And they also all have in common, that the wellbeing of any other locality outside of their own, can *also* live in peace and wellbeing. This is an evident principle, but the rulers of today are too blind and unable to understand it. It is in the highest interest of every locality, that any other locality is well and sound, that there is no war anywhere else and no misery. Why is that? 
+
+*From the Four Flails to Sarvodaya*  
+Because whenever and wherever there is war elsewhere or misery, it will harm other localities just as well, also and especially those who are not in war and misery. Because who is in misery, will inevitably seek to get help from those who aren't, but that is not a given. They may as well not ask for help, but decide to steal instead in order to get out of their misery. This will bring war to those too. Or they ask for help and are then forced by the stronger, helping community, to live under exploitative conditions. Then there will sooner or later be revolt. So there is a vicious cycle of misery, servitude or slavery, war and revolt. That which Lanza del Vasto has called the four flails of civilisation. These are four inevitable flails that all civilisation is suffering from exactly to the degree to which *Sarvodaya* is lacking, the recognition of the fact that there is a harmony of interests and that I cannot serve my own interest by harming any other.  
+So every local wants peace and happiness for every other necessarily. 
+
+---
+
+Local has therefore indeed a very similar meaning to the Sanskrit Loka and thus it is not so hard to translate lokniti after all. 
 
 Instead of Politics we want Locatics. 
 Politik wird zu Lokatik. 
