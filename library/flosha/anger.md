@@ -31,7 +31,13 @@ Die Menschen denken, wenn man nicht auf die zweite Weise arbeitet, kann man gar 
 ---
 
 Beispiele:  
-Ich werde angelogen. Man lügt mir direkt ins Gesicht. Und ich weiß es. Dann werde ich wütend, weil es mich verletzt. Aber auch weil die Wut eine erlernte Methode ist, zu reagieren auf etwas, das man ändern will. Eine Aggressivität, die sich in gewisser Weise als effektiv erwiesen hat.   
+Ich werde angelogen. Man lügt mir direkt ins Gesicht. Und ich weiß es. Dann werde ich wütend, weil es mich verletzt. Aber auch weil die Wut eine erlernte Methode ist, zu reagieren auf etwas, das man ändern will. Eine Aggressivität, die sich in gewisser Weise als effektiv erwiesen hat. Ich denke, dass, indem ich wütend werde, ich dem, der mich angelogen hat, deutlicher zu verstehen geben kann, dass dieses Verhalten schlecht ist. 
+Die Logik dieser Annahme ist nicht von der Hand zu weisen. Die Person wird in der Tat daran erkennen, dass es mir sehr missfällt und dass Lügen solche Wut hervorrufen kann; das kann dazu führen, dass man, um solche Wut zu vermeiden, nicht mehr lügt.  
+
+Aber man sollte besser deshalb nicht mehr lügen, weil man einsieht, dass Lügen schlecht ist und nicht deshalb weil man eine Reaktion vermeiden will.  
+Nun kann es natürlich sein, dass aus dieser Wut heraus, in dieser Wut, durch die darin gefallenen Worte etc., durchaus auch eine solche Einsicht entsteht. Das könnte sein. Das heißt aber nicht, dass sie durch ein anderes Verhalten nicht noch viel besser entstehen könnte.  
+
+
 
 
 
