@@ -33,29 +33,6 @@ When following the precepts more consequentually, deeper implications arise for 
 
 ---
 
-(1) **Satya**.
-Satya or Truth is one of the names of god in all kinds of traditions, be it in Islam, Hindu-Dharma or Christianity. 
-
-truth or truthfulness in its negative aspect is non-lying and non-deceiving oneself and others - what has to be given up, which Buddha puts emphasis on. An active and constant search for truth and the attempt to seek for more and more truthful expression (in thought, word and action) is the positive aspect of Satya. Even if in many ways and in the beginning it will rather mean to undo thoughts, undo words and undo actions, laying emphasis on the avoidance of unwholesome/untrue expression and the revealing (and thereby removing) of untrue impressions, ignorance will be diminished, wisdom will be strengthened.  
-
-26.02.26:
-Truthfulness includes 
-* accepting truth wherever and however it is: It doesn't matter if the truth is expressed by a child or an elder, if by our friend or by our enemy, if by a saint or by a sinner. It doesn't matter if the truth has been expressed several thousand years ago or yesterday. It doesn't matter if the truth is beautiful or ugly, if it is pleasent or unpleasant, if it makes you happy or sad, if it is in accordance or in discord with what you think or thought so far, if it is like a cooling balsam or a burning wound that hurts, if it is expressed in gentle or brutal ways; all that doesn't matter *if* it is true.
-
-If it is true then nothing about that makes it more or less true. That does not mean that we ought not to be careful what we say to whom at which time and how we say it - all that does matter of course and will influence what we say and how we say it to others; but in regard to how we treat truth that we encounter ourselves, that we are told or confronted with, making a difference here would be untruthful. The precept of truthfulness is only followed to the extent to which we are ready to accept truth like this wherever and however it is.
-
-It involves
-* being truthful to ourselves
-* being truthful to others to the extent that they can handle
-* wanting others to be truthful to us
-
-* Not to lie doesn't mean that one must *speak* the truth under all circumstances. There is no obligation to speak and so one can remain truthful through silence. 
-
-
-
----
-
-
  
 (2) **Ahimsa** is a direct consequence of truthfulness, it is truthfulness in mutual relations. How to think of others, how to speak of others, how to act upon others is all contained within non-violence. Lying and deceiving is violence, and hurting others is in itself deceiving others and oneself. Not to consciously, deliberately kill is the most outer aspect, in a more refined way it means more generally not to consciously, deliberately do any harm or hurting any other sentient being. This is the negative aspect of Ahimsa. Love devoid of violence, without unmerciful differentiation, which in christian terms is called Barmherzigkeit, in buddhist terms is called Metta, is the positive aspect of ahimsa. A vegetarian diet is just one of the many consequences of this idea. Non-violent communication is another one. Anarchy is another one. If one realises the inherent violence of the state, the mechanised embodiment of violence, it is a logical conclusion to strive for a traditional, stateless society, as the followers of Gandhi are doing. 
 Just as Ahimsa is deduced from Satya and Satya can be deduced from Ahimsa, every other virtue or principle is logically derived from these two as well. 
