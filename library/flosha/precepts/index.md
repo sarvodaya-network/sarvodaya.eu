@@ -40,16 +40,12 @@ But every precept has a deep meaning and many consequences for our individual an
 
 ---
 
-
-(5) **Aparigraha** in its negative aspect means to not possess anything, for he who possesses is possessed. In its positive aspect it means to freely give away everything I have to offer (both physical possessions and capabilities (e.g. giving away food, giving away clothing, give ones labour) as well as mental possessions (e.g. share ones knowledge, teach others what you know and serves them). 
-
-It is an evident truth that if someone has less then he needs while I have more than I need and while thus it wouldn't hurt me at all to share with him, I am actively stealing it from him. By sharing with him, we both may have enough or we both may have not enough. But in either case I do to him as I would wish he would do to me. Not sharing is not a mere lack of "generosity", by which I would do anything "extra", it is direct violence and hypocrisy. 
-
-But *Aparigraha* is more than that. It is the idea that not only do I reduce my physical belongings to the reasonable minimum, but also do I not regard myself as the owner of whatever I have, but merely as the trustee of the things given to me and that I use responsibly until I do not need them anymore or die and leave them for the next one who needs them. 
-
-In its more internal aspect in regard to spiritual liberation it means that I get rid of any sense of ownership not only of physical things but of everything. My body, my senses, my ideas, my mind, my life. 
+list vows...
 
 ---
+
+
+
 
 Now, to the additional vows. 
 * In ancient times a few additional vows have been deduced from these universal values, that are considered to be necessary for internal liberation, to turn the wheel of the Dhamma, serving the freedom from craving or overcoming of suffering.
