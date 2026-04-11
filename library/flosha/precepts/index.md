@@ -263,6 +263,11 @@ sarva dharma samabhava.
 
 nish-kam seva → gram-swarajya.  
 
+---
+
+Vinaya Satya Jnana  
+Abhaya Ahimsa Prema  
+
 
 
 
