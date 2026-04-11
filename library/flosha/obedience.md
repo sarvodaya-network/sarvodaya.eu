@@ -28,11 +28,13 @@ For some reason obedience has been choosen as the vow established by the old chr
 > To those who by persistence in doing good seek glory, honor and immortality, he will give eternal life.
 > But for those who are self-seeking and who reject the truth and follow evil, there will be wrath and anger.
 
-The "persistence in doing good" is what Satyagraha is all about. And it is here indirectly equated with adherence to truth, as in the second sentence, doing the opposite is called rejection of truth and following evil.  
-It is not just about saying good, wanting good or doing good occasionaly. This is particularly about persisting in doing good, when everyone else starts reacting in evil ways; it is the persistence in doing good inspite of being confronted, surrounded, attacked by evil. 
+The "persistence in doing good" is what Satyagraha (truthistence or truth-insistence) is all about. And it is here indirectly equated with adherence to truth, as in the second sentence, doing the opposite is called rejection of truth and following evil.  
+It is not just about saying good, wanting good or doing good occasionaly. This is particularly about *persisting* in doing good, when everyone else starts reacting in evil ways; it is the persistence in doing good inspite of being confronted, surrounded, attacked by evil. 
 
 > through the obedience of the one man the many will be made righteous.
 
 Exactly when everyone else does no longer persist in good, does no longer love the enemy, then it must be done; that is what god demands. 
+
+The worldly men will tell you the very opposite, they will say: Love is a fine thing, but when the whole world is against you and chooses violence, persisting on love is no solution. According to God it is the only solution. 
 
 
