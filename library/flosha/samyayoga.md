@@ -2,6 +2,14 @@
 # Samyayoga
 
 
+Die Wurzel *sam* wie in *samya* ist auch im Deutschen enthalten, in Wörtern wie *zusammen*, *mitsamt*, *gesamt*, *Sammlung*, *Versammlung*, siehe auch "Weltsamt" (für Weltall).    
+
+Samyayoga ist so wörtlich im Grunde die "Samteinung" oder "Gesamteinung".    
+
+Das deutsche Wort "gesamt" vereint die Bedeutung von Gleichheit und Vollständigkeit?  
+
+--- 
+
 Samyayoga is 
 a Yoga based on Equality 
 and an Equality based on Yoga. 
