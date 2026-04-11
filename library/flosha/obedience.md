@@ -22,11 +22,10 @@ In the New Testament, whenever you find being talked about Obedience and Command
 
 > And this is love: that we walk in obedience to his commands. As you have heard from the beginning, his command is that you walk in love.
 
-For some reason obedience has been choosen as the vow established by the old christian orders, instead of vowing that which is the very content of the obedience, which is love with which we have to live in accordance. But the founders of these orders surely knew this; just later it has been forgotten more and more.  
+For some reason obedience has been choosen as the vow established by the old christian orders, instead of vowing that which is the very content of the obedience, which is love with which we have to live in accordance. But the founders of these orders surely knew this; they knew that when obedience is commanded, it is the obedience to the law of love. But later it has been forgotten, the love disappeared, but the obedience remained. And when one is obedient, but not to the law he is supposed to be obedient to, he is truly disobedient.  
 
-
-> To those who by persistence in doing good seek glory, honor and immortality, he will give eternal life.
-> But for those who are self-seeking and who reject the truth and follow evil, there will be wrath and anger.
+> To those who by persistence in doing good seek glory, honor and immortality, he will give eternal life.  
+> But for those who are self-seeking and who reject the truth and follow evil, there will be wrath and anger. (Romans 2:7-8)
 
 The "persistence in doing good" is what Satyagraha (truthistence or truth-insistence) is all about. And it is here indirectly equated with adherence to truth, as in the second sentence, doing the opposite is called rejection of truth and following evil.  
 It is not just about saying good, wanting good or doing good occasionaly. This is particularly about *persisting* in doing good, when everyone else starts reacting in evil ways; it is the persistence in doing good inspite of being confronted, surrounded, attacked by evil. 
@@ -35,6 +34,6 @@ It is not just about saying good, wanting good or doing good occasionaly. This i
 
 Exactly when everyone else does no longer persist in good, does no longer love the enemy, then it must be done; that is what god demands. 
 
-The worldly men will tell you the very opposite, they will say: Love is a fine thing, but when the whole world is against you and chooses violence, persisting on love is no solution. According to God it is the only solution. 
+The worldly men will tell you the very opposite, they will say: Love is a fine thing, but when the whole world is against you and chooses violence, then to persist in love is foolish and no solution. By saying so, they are calling God a fool. According to God it is the only solution. 
 
 
