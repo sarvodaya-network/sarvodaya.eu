@@ -128,11 +128,6 @@ Now, everyone who builds some kind of a business to sell necessary goods and mak
 
 ---
 
-The next virtue is **Sharira-Shrama**, bodily labour or bread labour. This is a very fundamental addition and another demand of our time. Gandhi said: "Man can be saved from injuring society as well as himself only if he sustains his physical existence by physical labour." By physical labour only that kind of physical labour is meant that is linked with the sustenance of our physical existence, which means: The production of necessary food, necessary cloth, necessary shelther or necessary tools. 
-
-In that I refrain from physical labour I force others to labour for me in order to provide me with my needs. It doesn't make the slightest difference, it doesn't matter that I pay them for doing so; they still must work more because I don't. 
-
----
 
 To summarise these points:
 
