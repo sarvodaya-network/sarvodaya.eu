@@ -17,18 +17,26 @@ In this external, negative meaning they can be summarised as:
 (3) Abstain from sexual misconduct  
 (4) Abstain from taking what is not given  
 (5) Abstain from owning what cannot be yours.  
+They are at least in parts very similar to the commandments of Moses, when we begin with the command not to kill.  
 
-Every single one of these precepts has to be considered in regard to actions of the body, speech and mind/thought, but in their restricted, most external meaning they are not yet understood and applied as strictly as when one strives for spiritual and social liberation, and do not yet contain the additional virtues or principles which are to be considered to be necessary for these goals. 
+(1) Thou shalt not kill.  
+(2) Thou shalt not commit adultery.  
+(3) Thou shalt not steal.  
+(4) Thou shalt not bear false witness against thy neighbour.  
+(5) Thou shalt not covet [...] anything of thy neighbour.  
+
+While the biblical commands may as well be possible to interpret in deeper ways, they are at least formulated not as universally. As regards the ancient indian precepts, every single one of them has to be considered in regard to actions of the body, speech and mind/thought, but in their restricted, most external meaning they are not understood and applied as strictly as when one strives for spiritual and social liberation, and do not yet contain the additional virtues or principles which are to be considered to be necessary for these goals. 
 
 Each of the five precepts has
 * internal and external applications
 * negative and positive meanings
-* spiritual and social implications and from these spiritual and social implications, additional precepts are to be deduced. 
+* spiritual and social implications and from these spiritual and social implications, additional precepts are deduced. 
 
 --- 
 
-* The stricter or rather deeper understanding of the precepts in tradition (be it buddhist, jain, hindu, christian, muslim, ...) make the difference between a layman who does not strive for spiritual liberation and a sadhaka, someone who does (whereas the strictest application and one specific precept (that of abstinence from money) makes one practically a monk, if ordained or not).
-* The additional precepts (and stricter understanding of the same precepts) in the understanding of Vinoba make the difference between someone who does not strive for non-violent revolution and a non-violent revolutionary. 
+The stricter or rather deeper understanding of the precepts in tradition (be it buddhist, jain, hindu, christian, muslim, ...) make the difference between a layman who does not strive for spiritual liberation and a sadhaka, someone who does (whereas the strictest application and one specific precept (that of abstinence from money) makes one practically a monk, if ordained or not).
+
+The additional precepts (and stricter understanding of the same precepts) in the understanding of Vinoba make the difference between someone who does not strive for non-violent revolution and a non-violent revolutionary. 
 
 When following the precepts more consequentually, deeper implications arise for the inner life and broader applications arise for the outer life. 
 
@@ -118,13 +126,7 @@ Every man needs to eat. But to eat he needs to find food. But to find food there
 (2) he must transform the world into a garden again, as done via principles such as non-cultivation by Fukuoka. 
 Now, everyone who builds some kind of a business to sell necessary goods and making others depending on them, is an abuser and a thief. It is everyones responsibility to teach others to be responsible and to be less dependent on others as much as that is reasonably possible. Instead of anyone making a big business out of shoes, it is their responsibility to teach people how to make shoes themselves and then let them be made in the community for the immediate needs of the inhabitants of a given neighbourhood. The same applies to all other products. Food, clothing, shelter, tools. Whatever is serving anyone afar to the disadvantage of our closeby neighbour, is economical violence. The destruction of local craftsmenship is violence. Consequentially the support of any kind of corporate business (buying from them) that now maintains the absence of local craftsmenship is violence as well. Thus, the core of this virtue is Justice by taking responsibility for the social consequences of our actions and all the remaining vows are direct consequences of it.
 
-The first of these vows, which Gandhi described as *Sarva-Dharma-Samanatva*, the inherent unity of the essence of religion, is no syncretism, but a constant, reasonable investigation, reflection and purification of ones views towards the synthesis of ideas. There is a school of thought, developed by such thinkers as Guénon, Coomaraswamy and Nasr, which is called "Traditionalism" or "Perennialism". It is linked to that, but may not be quite the same. 
-
-In a world that has forgotten any truths to be found in tradition, recognition of the inherents truth in tradition is a necessity of our time and also a direct consequence of Satya and Ahimsa. If there is truth in some teaching, no matter how foreign it may be to me, how old or how new, I should be ready to accept it. If someone is only accepting truth in one particular religion or tradition, excluding the possibility of truth in other religions or traditions, he is deceived and deceives others. If one is devoted to truth, he is ready to accept truth from whichever source, which does not in any way include a lack of loyalty to his chosen faith or culture. 
-
-It is against non-violence as it is this line of thought that leads to conflict and violence between proponents of different faiths and cultures, that they do not recognise and acknowledge the underlying truth in both of them. We should actively seek to reconciliate ideas, either by merging (if they aren't in conflict) or by transcending them into something higher. There is truth in every great tradition. And every truth can be accepted. 
-
-The only thing that may not be possible to accept are exclusive teachings of eschatology that know only hell for whoever doesn't follow one particular path, instead of accepting the possibility that other paths lead on top of the same mountain, just from different directions, or on top of a different mountain, which may not be yours but is equally far away from hell. 
+---
 
 The next virtue is **Sharira-Shrama**, bodily labour or bread labour. This is a very fundamental addition and another demand of our time. Gandhi said: "Man can be saved from injuring society as well as himself only if he sustains his physical existence by physical labour." By physical labour only that kind of physical labour is meant that is linked with the sustenance of our physical existence, which means: The production of necessary food, necessary cloth, necessary shelther or necessary tools. 
 
