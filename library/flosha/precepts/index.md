@@ -46,11 +46,50 @@ list vows...
 
 Describe how they relate.  
 
+
+## Truth, Love and Compassion 
+
+Truth, love and compassion are the essence of all religion. 
+
 Nonviolence is truth in action.  
 Compassion is truth in relation.  
 
 When we relate truthfully to others (or ourselves), we relate to them in a compassionate way. And when we act truthfully (in regard to others or ourselves), we act in a nonviolent/loving way.  
 We could say: Truth breaths in compassion and breaths out love. 
+
+
+## Fearlessness
+
+> Fear and Morality are mutually contradictory. A disposition to fearlessness is the basis of divine virtues. (Selections of Vinoba)
+
+Fear is what makes violence endure.  
+Fear is what violence grows from.  
+Fear is what nourishes violence.  
+And violence nourishes fear.  
+It is from fear that we accumulate/possess.  
+It is for fear that we steal (in fear of lack).   
+It is for fear that we're attached (in fear of loss).   
+It is for fear that we are threatened and threatable.  
+It is for fear that anything has control over us or this world that should have none.  
+
+Fearlessness is needed.  
+No fear is what enables, underlies nonviolence.  
+True love is freedom from fear.  
+If love is liberating us from anything, then from fear.  
+To the very degree that you love someone and there is fear of loss involved and attachment, to that degree the love is not real.  
+
+- quote the NT
+- look in quatre fleux and approches
+- vichar photi
+- gandhi
+
+If it is so absolutely clear that fear must be overcome, how?  
+
+Vinoba says:  
+> By a change in the way if man's thinking.
+
+and that it can...
+> (...) only be derived from the inner self.  
 
 ---
 
