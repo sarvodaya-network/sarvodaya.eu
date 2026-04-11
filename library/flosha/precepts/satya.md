@@ -6,6 +6,12 @@ Thus, on the other hand and this is most often missed, truthfulness includes fol
 
 ---
 
+**Satya**.  
+Satya or Truth is one of the names of god in all kinds of traditions, be it in Islam, Hindu-Dharma or Christianity. 
+
+truth or truthfulness in its negative aspect is non-lying and non-deceiving oneself and others - what has to be given up, which Buddha puts emphasis on. An active and constant search for truth and the attempt to seek for more and more truthful expression (in thought, word and action) is the positive aspect of Satya. Even if in many ways and in the beginning it will rather mean to undo thoughts, undo words and undo actions, laying emphasis on the avoidance of unwholesome/untrue expression and the revealing (and thereby removing) of untrue impressions, ignorance will be diminished, wisdom will be strengthened.  
+
+
 26.02.26:
 Truthfulness includes 
 * accepting truth wherever and however it is: It doesn't matter if the truth is expressed by a child or an elder, if by our friend or by our enemy, if by a saint or by a sinner. It doesn't matter if the truth has been expressed several thousand years ago or yesterday. It doesn't matter if the truth is beautiful or ugly, if it is pleasent or unpleasant, if it makes you happy or sad, if it is in accordance or in discord with what you think or thought so far, if it is like a cooling balsam or a burning wound that hurts, if it is expressed in gentle or brutal ways; all that doesn't matter *if* it is true.
