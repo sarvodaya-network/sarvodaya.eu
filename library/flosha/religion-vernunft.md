@@ -2,9 +2,18 @@
 
 ## On the reconciliation of religious creeds
 
-There is in many institutionalised religions a creed that is exclusive, there are particular "articles of faith" that exclude the faith in another religious tradition and, worst of all, promises heaven to those adhering to these exclusive articles of faith and promises hell to all those who aren't. They are thereby saying: You cannot follow this and that, you can only follow this one particular, exclusive thing and that is the only way to redemption. But this kind of exclusivity is not *at all* part of the original teaching of the saints and prophets.   
+There is in many institutionalised religions a creed that is exclusive, there are particular "articles of faith" that exclude the faith in another religious tradition and, worst of all, promises heaven to those adhering to these exclusive articles of faith and promises hell to all those who aren't. They are thereby saying: You cannot follow this and that, you can only follow this one particular, exclusive thing and that is the only way to redemption. But this kind of exclusivity is not *at all* part of the original teaching of the saints and prophets. And Vinoba could say:  
+
+> All Religions are mine.
+
+You can only say this if you are convinced of the truth in every religion and if you do not see that faith and adherence to one excludes faith and adherence to another. And it doesn't. 
+
+We will reflect on why it doesn't and also deal with those sentences and aspects which are misinterpreted in a way to justify such exclusivity. 
 
 
+## Buddhas Creed
+
+The creed of Buddha is summarised in this: 
 
 
 
