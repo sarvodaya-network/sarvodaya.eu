@@ -212,8 +212,56 @@ Brahmacharya + Samanvaya = Läuterung (Brahmacharya Läuterung des Herzens, Sama
 Non-possession + Non-stealing = truth/nonviolence in economy.  
 
 
+---
+
+## Humility
+
+add Eckhart
+
+> Humility is the gateway to all other virtue. (Vinoba)
+
+Both modern so called "morality" and so called "amorality" are just consequences of the loss of virtue.  
+
+Truth comes from humility and leads to knowledge.  
+
+From knowledge love is born and from love fearlessness? 
+
+Ahimsa comes from fearlessness and leads to love.
+or Ahimsa comes from love and leads to fearlessness?  
+
+Brahmacharya comes from compassion and leads to action.  
+or
+Love leads to Brahmacharya and that leads to Karuna.  
+Karuna/Compassion leads to Non-Possession/Armut.  
 
 
+Asvada – pure intake.  
+Aninda – pure expression.  
+
+Brahmacharya – internal training/creation.   
+Sharirashrama - Ext. work/Training/creation.  
+
+or
+Asteya – Bodylabour
+Dana yajna – Aparigraha
+
+swaraj + seva. 
+
+Samyayoga by samanvaya.
+sarvodaya by satyagraha.  
+
+satya from vinaya.  
+ahimsa from abhaya.   
+brahmacharya from karuna.  
+asteya from sharirashrama or shrama-dana.  
+
+dana/yajna from aparigraha.  
+aninda and aswada  
+
+sparsh-bhavana by svadharma  
+sarva dharma samabhava.  
+
+nish-kam seva → gram-swarajya.  
 
 
 
