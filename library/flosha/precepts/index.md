@@ -34,6 +34,12 @@ When following the precepts more consequentually, deeper implications arise for 
 
 ---
 
+We will at first see how each of the precepts follows from the others, is included in the others, is deduced from them or implied in them and thereby describe the precepts in very short terms in their relation to one another.  
+
+But every precept has a deep meaning and many consequences for our individual and social life; therefore we will also reflect about each of them in a separate article on its own.   
+
+---
+
 (2) **Ahimsa** is a direct consequence of truthfulness, it is truthfulness in mutual relations. How to think of others, how to speak of others, how to act upon others is all contained within non-violence. Lying and deceiving is violence, and hurting others is in itself deceiving others and oneself. Not to consciously, deliberately kill is the most outer aspect, in a more refined way it means more generally not to consciously, deliberately do any harm or hurting any other sentient being. This is the negative aspect of Ahimsa. Love devoid of violence, without unmerciful differentiation, which in christian terms is called Barmherzigkeit, in buddhist terms is called Metta, is the positive aspect of ahimsa. A vegetarian diet is just one of the many consequences of this idea. Non-violent communication is another one. Anarchy is another one. If one realises the inherent violence of the state, the mechanised embodiment of violence, it is a logical conclusion to strive for a traditional, stateless society, as the followers of Gandhi are doing. 
 Just as Ahimsa is deduced from Satya and Satya can be deduced from Ahimsa, every other virtue or principle is logically derived from these two as well. 
 
