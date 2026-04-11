@@ -22,7 +22,9 @@ It is for this reason that the principle of adherence to truth and nonviolence i
 
 That all of Gods commands are in accordance with this, is evident when God is defined as being absolute truth and love and is himself saying so.
 
-> ... 
+> I am the way and the truth and the life. (John 14:6)
+
+> love quote
 
 All commands in scripture have to be evaluated against it; if anything therein is to be found to be in opposition to truth and love, we must either consider it as a human impurity (an unjustified addition), or as misunderstood and interpreted wrongly.
 {: .subtext }
