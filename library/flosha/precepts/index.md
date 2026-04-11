@@ -160,6 +160,17 @@ Gandhiji added six additional vows that were vowed by everyone in his Ashrams an
 (10) Swadeshi - Duty towards Neighbour  
 (11) Asprishyatanivarana - Removal of Untouchability  
 
+---
+
+Satya + Ahimsa = Satyagraha.  
+
+Armut/Besitzlosigkeit & Arbeit/Brotarbeit form together one complex of Verantwortung/Responsobility.  
+
+Swadeshi/Svadharma + Swarajya = Freedom.  
+
+Brahmacharya + Samanvaya = Läuterung (Brahmacharya Läuterung des Herzens, Samanvaya des Denkens) 
+
+Non-possession + Non-stealing = truth/nonviolence in economy.  
 
 
 
