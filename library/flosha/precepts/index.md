@@ -267,6 +267,14 @@ nish-kam seva → gram-swarajya.
 
 Vinaya Satya Jnana  
 Abhaya Ahimsa Prema  
+Brahmacharya Asvada  
+Aninda Sparsh-Bhavana  
+Sarva-Dharma-Samabhava  
+Karuna Aparigraha  
+Asteya Sharira-Shrama  
+Svadharma Nish-kam-seva  
+Dana-Yajna Gramswarajya  
+
 
 
 
