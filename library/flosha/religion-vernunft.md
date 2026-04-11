@@ -1,3 +1,18 @@
+# Adogmatic Religion 
+
+## On the reconciliation of religious creeds
+
+There is in many institutionalised religions a creed that is exclusive, there are particular "articles of faith" that exclude the faith in another religious tradition and, worst of all, promises heaven to those adhering to these exclusive articles of faith and promises hell to all those who aren't. They are thereby saying: You cannot follow this and that, you can only follow this one particular, exclusive thing and that is the only way to redemption. But this kind of exclusivity is not *at all* part of the original teaching of the saints and prophets.   
+
+
+
+
+
+
+* on the reconciliation of religious creeds
+* on the reconciliation of reason and faith
+
+
 
 zu Samyayoga
 
