@@ -27,13 +27,57 @@ The creed of Buddha is summarised in the four noble truths of suffering:
 In short, the four noble truths can be summarised as:  
 All is suffering when there is craving. Craving is the origin of suffering. When Craving fades away, fades away the suffering. The way by which suffering can cease, is by the overcoming of craving through living righteously, in accordance with truth. 
 
-This is all there is to Buddhas Creed as far as faith is concerned. In this teaching there is nothing whatsoever that couldn't be accepted by a Christian, by a Muslim, by a Hindu or by an Atheist. This teaching is non-exclusive. And therefore I can be any of these and still follow the path of the Buddha with no problem. The teaching of the Buddha is therefore universally acceptable. 
+This rightous way of life is described in form of the noble eightfold path, the eight folds of which are mentioned above, and the basis of which is *virtue* that is strived for on the basis of the precepts. None of these precepts is containing any kind of exclusive faith, such as worshipping anything or believing in something, it is simply a way to the overcoming of suffering. Therein lies no conflict with any other religion. 
+
+Therein lies some conflict with particular vedic religious teachings at the time of the Buddha, but they have for the most part died out; as the buddhist truths have, in many ways, only restored the essence of vedic truth and have thereafter been assimilated by the Vedanta.  
+Those kinds of ascetic traditions that are in opposition to the buddhists path (which essentially is a restoration and purification of all ascetic traditions), aren't any kind of strong, noteworthy religious force in the world anymore. The only ones who are still there are the Jainas, and here we can with confidence say, that the ideological conflicts between Buddhists and Jainas aren't that fundamental.  
+
+What would come closest to a kind of creed are the three refuges. The Buddhist is advised to seek refuge in the Buddha, in the Dhamma and the Sangha. 
+
+But what does that mean?  
+It doesn't mean to believe in a god, nor does it exclude such a believe. To seek refuge in the Buddha has nothing to do with a historical persona either, but it means that one has faith in the possibility of the overcoming of suffering in this very life, which the word Buddha represents. It is the believe in the possibility to become a Buddha and the believe that others have been able to free themselves from suffering before. This too is not in opposition to other religious faiths.  
+The refuge in the dhamma is the teaching mentioned above, about which we have already seen that it doesn't cause conflict.  
+And the sangha is the community, the fellowship, the brotherhood of the monks. When not seen as being limited to buddhists only, but in a wider sense, then the Sangha is also something that is found in every other religion. In Islam it is the Ummah, in Christianity it is simply the Community. Vinoba often mentions the "companionship with the saints" or "the wise". It is Buddha from which there comes the saying: "There is no ... with the fool." Every religion advises one that one should try to seek the company of the wise, of those who know more, are better established in virtue; because by association with the wise, oneself and society as a whole becomes wiser; by association with the fool, oneself and society becomes more and more foolish. This is the meaning of the Sangha in an universal sense. 
+
+This is essentially all there is to Buddhas Creed as far as faith is concerned. In this teaching I can see nothing that couldn't be accepted by a Christian, by a Muslim, by a Hindu or by an Atheist. This teaching is non-exclusive. And therefore I can be any of these and still follow the path of the Buddha with no problem. The teaching of the Buddha is therefore universally acceptable. 
 
 
 ## The universal Acceptability of Vedanta
 
 ... 
 
+
+## The universal Acceptability of Islam
+
+In regard to Islam, things are very easy and clear and this very clarity is one of the characteristics of Islam. Islam stands for peace and absolute devotion to the One God, that the people call by different names. Islam comes with a proclamation of faith, that goes as follows: 
+
+La illaha illa lah, muhammadan rasula llah.  
+There is no god but god and muhammad is his prophet.  
+
+This faith only requires two things: I need to believe in the unity of god and that there is no other god but this one absolute unity. And secondly: I need to believe that Mohammad was one of his prophets. 
+
+What is difficult about that for a Christian? Nothing about it is difficult for any Christian.  
+Islam doesn't say that any prophet coming before hasn't been one. Islam doesn't say that Jesus was wrong with anything he said. Islam even proclaims Jesus to be the Messiahs. It only says, that another prophet appeared to help some people, that this prophet isn't come to destroy anything from before, but to seal it, to confirm it and to purify it from what humans have interpreted wrongly about it.  
+
+If a christian says that he regards Mohammad as a prophet and that he values and appreciates the Quran, then that doesn't mean that he stops being a Christian or that he diverts from his own faith. How could it mean that?  
+
+Nor does it mean that a muslim diverts from Islam, when he reads the New Testament, when he values and appreciates Jesus, which the Islam does anyway, and when he proclaims that he tries to follow the teachings of Jesus. Doing so doesn't imply in any way that he is less of a muslim.  
+
+It is a fundamental idea in Islam that all prophets before Mohammad also have been muslims already. Jesus was a muslim, Abraham was a muslim. They were muslims because they believed in the one god, the very same one reality. If Jesus was a muslim and when he and thousands of others didn't require Mohammed or his revelation to be one, then of course everyone today who may not know the Quran and Mohammad, but still believes and acts in the righteous way, is in this sense a muslim.  
+
+The major thing that gives rise to conflicts between Christianity and Islam is nothing that is inherent in the original teachings of Jesus. 
+
+It is a particular interpretation of trinity. And it is the idea of exclusivity of redemption in both religions as interpreted today who proclaim, that only who "accepts Islam" can be redeemed or only the one who "accepts Jesus as the truth" can be redeemed. The superficiality of this is hard to comprehend.  
+
+When Jesus says in the gospel of John that he is the truth and the light and the life, and that no one comes to the father but through him, then the Church interprets this in a very extreme and in a very literal way, while it is very clear that it isn't meant so literally.  
+But when Jesus says the much more important things about his teachings, such as that evil cannot be resisted by evil, that one should love ones enemies and *never* takes the sword and should be poor, without possession, then the church doesn't see much reason to take that literally, while Jesus meant it very literally.  
+
+What Jesus means when he says, that no one can come to God but through him, then he is saying so in a particular sense. He is saying so in the sense of what he describes to be his disciple. Being his disciple means to love him, to unite with him. And he makes clear that those, who do so, will do the things, that he did, themselves. That means, this "through him" means, one reaches the truth by acting like him, by following the command, the law of love. That is all there is to it. But the church made a very complicated thing out of it and turned it into something very different. In something so very different, that it now suffices to simply *say* that one believes in Jesus, but it is no longer necessary to do what he did. Jesus doesn't want and need to be believed in, Jesus wants and needs to be *followed* by deed, by obedience to the command of love.  
+
+And Islam is not in opposition to that. A muslim can follow this rule, a muslim can apply these teachings of Jesus and there have been many muslims in history who did just that. Therefore, a Christian can be a muslim and a muslim can be a Christian. 
+
+
+## The universal Acceptability of Christianity
 
 
 
