@@ -18,22 +18,22 @@ In this external, negative meaning they can be summarised as:
 (4) Abstain from taking what is not given  
 (5) Abstain from owning what cannot be yours.  
 
-Every single one of these precepts has to be considered in regard to actions of the body, speech and mind/thought, but as the bare minimum they are not yet to be understood and to be applied as strictly as when one strives for spiritual and social liberation, and do not yet contain the additional virtues or principles which are to be considered to be necessary for these goals. 
+Every single one of these precepts has to be considered in regard to actions of the body, speech and mind/thought, but in their restricted, most external meaning they are not yet understood and applied as strictly as when one strives for spiritual and social liberation, and do not yet contain the additional virtues or principles which are to be considered to be necessary for these goals. 
 
 Each of the five precepts has
 * internal and external applications
 * negative and positive meanings
-* spiritual and social implications
+* spiritual and social implications and from these spiritual and social implications, additional precepts are to be deduced. 
 
-From the spiritual and social implications, additional precepts are to be deduced. 
-* The additional precepts (and stricter understanding of the same precepts) in tradition (be it buddhist, jain, hindu, christian, muslim, ...) make the difference between a layman who does not strive for spiritual liberation and a sadhaka, someone who does (whereas the strictest application and one specific precept makes one practically a monk, if ordained or not).
-* The additional precepts (and stricter understanding of the same precepts) in the understanding of Vinoba make the difference between someone who does not strive for non-violent revolution and a sevaka, someome who does. 
+--- 
+
+* The stricter or rather deeper understanding of the precepts in tradition (be it buddhist, jain, hindu, christian, muslim, ...) make the difference between a layman who does not strive for spiritual liberation and a sadhaka, someone who does (whereas the strictest application and one specific precept (that of abstinence from money) makes one practically a monk, if ordained or not).
+* The additional precepts (and stricter understanding of the same precepts) in the understanding of Vinoba make the difference between someone who does not strive for non-violent revolution and a non-violent revolutionary. 
 
 When following the precepts more consequentually, deeper implications arise for the inner life and broader applications arise for the outer life. 
 
 ---
 
- 
 (2) **Ahimsa** is a direct consequence of truthfulness, it is truthfulness in mutual relations. How to think of others, how to speak of others, how to act upon others is all contained within non-violence. Lying and deceiving is violence, and hurting others is in itself deceiving others and oneself. Not to consciously, deliberately kill is the most outer aspect, in a more refined way it means more generally not to consciously, deliberately do any harm or hurting any other sentient being. This is the negative aspect of Ahimsa. Love devoid of violence, without unmerciful differentiation, which in christian terms is called Barmherzigkeit, in buddhist terms is called Metta, is the positive aspect of ahimsa. A vegetarian diet is just one of the many consequences of this idea. Non-violent communication is another one. Anarchy is another one. If one realises the inherent violence of the state, the mechanised embodiment of violence, it is a logical conclusion to strive for a traditional, stateless society, as the followers of Gandhi are doing. 
 Just as Ahimsa is deduced from Satya and Satya can be deduced from Ahimsa, every other virtue or principle is logically derived from these two as well. 
 
