@@ -44,6 +44,18 @@ list vows...
 
 ---
 
+Describe how they relate.  
+
+Nonviolence is truth in action.  
+Compassion is truth in relation.  
+
+When we relate truthfully to others (or ourselves), we relate to them in a compassionate way. And when we act truthfully (in regard to others or ourselves), we act in a nonviolent/loving way.  
+We could say: Truth breaths in compassion and breaths out love. 
+
+---
+
+
+
 
 
 
