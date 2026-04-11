@@ -11,9 +11,28 @@ You can only say this if you are convinced of the truth in every religion and if
 We will reflect on why it doesn't and also deal with those sentences and aspects which are misinterpreted in a way to justify such exclusivity. 
 
 
-## Buddhas Creed
+## The universal Acceptability of Buddhas Creed
 
-The creed of Buddha is summarised in this: 
+The creed of Buddha is summarised in the four noble truths of suffering:   
+(1) The truth of suffering, (2) the truth of the origin of suffering, (3) the truth of the cessation of suffering and (4) the truth of the way leading to the cessation of suffering. 
+
+> Now this, beggars, is the noble truth of suffering: birth is suffering, aging is suffering, illness is suffering, death is suffering; union with what is displeasing is suffering; separation from what is pleasing is suffering; not to get what one wants is suffering; in brief, the five aggregates subject to clinging are suffering.
+
+> Now this, beggars, is the noble truth of the origin of suffering: it is this craving [taṇhā, "thirst"] which leads to re-becoming, accompanied by delight and lust, seeking delight here and there; that is, craving for sensual pleasures, craving for becoming, craving for disbecoming.
+
+> Now this, beggars, is the noble truth of the cessation of suffering: it is the remainderless fading away and cessation of that same craving, the giving up and relinquishing of it, freedom from it, non-reliance on it.
+
+> Now this, beggars, is the noble truth of the way leading to the cessation of suffering: it is this noble eightfold path; that is, right view, right intention, right speech, right action, right livelihood, right effort, right mindfulness, right concentration.
+
+In short, the four noble truths can be summarised as:  
+All is suffering when there is craving. Craving is the origin of suffering. When Craving fades away, fades away the suffering. The way by which suffering can cease, is by the overcoming of craving through living righteously, in accordance with truth. 
+
+This is all there is to Buddhas Creed as far as faith is concerned. In this teaching there is nothing whatsoever that couldn't be accepted by a Christian, by a Muslim, by a Hindu or by an Atheist. This teaching is non-exclusive. And therefore I can be any of these and still follow the path of the Buddha with no problem. The teaching of the Buddha is therefore universally acceptable. 
+
+
+## The universal Acceptability of Vedanta
+
+... 
 
 
 
