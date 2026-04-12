@@ -20,5 +20,8 @@ Nonetheless the message is worded in particular, limited ways. The New Testament
 
 But if that is the case, if prophets, sages, saints, appear at different times, and when they use particular languages and so forth, then we also should be able to at least consider the possibility that we also need and require, in our context of today, new words, new explanations, new formulations, new forms, that fit to the demands of our time. Meister Eckhart for instance and other german preachers have probably helped more Christians understand crucial aspects of the christian teachings than most priests in medieval Germany, because they could translate the *essence* of the teaching into a well understandable language of the people at the time.  
 
+And now that we live in an international, multi-cultural world, with more possibility of mutual understanding than ever, we can easily foresee and also appreciate that someday a common language (or silence, as this kind of common language exists already and works the best) will be found, a common language or a common understanding that doesn't deny any truth and accepts truth wherever it is, by proper understanding of the harmonic order of truth.
+
+
 
 
