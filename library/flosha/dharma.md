@@ -36,6 +36,8 @@ We may summarise the ethics of the dhammapada, the best and most profound of all
 
 ...
 
+Goal: Summarise the ethics of the Dhammapada in the shortest way and then show how it is also in accordance with Kants ethics.  
+
 
 ## From Principle to Action
 or: Kriterion of Virtue
@@ -49,9 +51,9 @@ Vinoba akzeptiert damit die Idee, die Kant den kategorischen Imperativ nannte, d
 Für Kant, mögen wir sagen (und man möge mich berichtigen), ist es ein Imperativ zur Erkenntnis der notwendigen Richtigkeit einer Maxime. Ich bevorzuge, es in Vinobas Worten als Kriterium zu beschreiben. Ein Kriterium zur Bestimmung der Richtigkeit (Wahrheit) oder Falschheit (Unwahrheit) eines Prinzips. 
 
 
-## Bestimmung der Prinzipien
+## Truth as the Principles of Principles
 
-Da es immer um die Bestimmung geht, ob etwas richtig oder falsch, also gleich wahr oder unwahr ist, ist die Wahrheit notwendigerweise das Prinzip aller Prinzipien, dessen Richtigkeit keines Beweises bedarf, weil sie Richtigkeit an sich ist. Sie ist die Grundlage aller Richtigkeit, sie ist das höchste Prinzip.  
+Bei der Bestimmung von Prinzipien geht es darum, ob sie richtig oder falsch sind, also gleich wahr oder unwahr. Darum ist *Wahrheit* notwendigerweise das Prinzip aller Prinzipien, dessen Richtigkeit keines Beweises bedarf, weil sie Richtigkeit an sich ist. Sie ist die Grundlage aller Richtigkeit, das höchste Prinzip.  
 
 Wenn es keine Wahrheit gäbe, bräuchten wir nicht nach der Wahrheit oder Richtigkeit einer Sache zu fragen. Die Wahrheit wird von allen vorausgesetzt; niemand leugnet sie. Wer die Wahrheit an sich leugnen würde, würde zugleich seine eigene Leugnung verleugnen, weil seine Leugnung dann auch nicht wahr, nicht richtig sein könnte. Wenn darum, in Gandhis Worten, Wahrheit = Gott ist, also Gott nichts anderes meint als Wahrheit, dann gibt es in dieser Welt niemanden, der wahrhaft "Gott" verleugnen würde. Alle glauben und bezeugen die Wahrheit. Nur erkennen, was wahr ist und was nicht, die Wahrheit zu verstehen, daran scheitern wir.  
 
@@ -63,11 +65,18 @@ Die Aufgabe der sogenannten "Moral" ist es, uns aus diesem Irrtum herauszuführe
 
 Für Vinoba besteht "Moral" aus solchen absoluten Prinzipien, angefangen mit der Wahrheit. Alle anderen Prinzipien sind aus ihr abgeleitet. Sie sind in der Wahrheit mit enthalten und wir müssten sie nicht getrennt von ihr behandeln, aber in dem Maße, in dem sie wahr sind, helfen sie uns, die Wahrheit zu verstehen. 
 
+
+### Principles and Maximes
+
 Eine Maxime ist weniger und geringer als ein Prinzip, eine Maxime kann aus Prinzipien abgeleitet werden, aber die Prinzipien sind das Wesentliche. Die Bestimmung wahrer Prinzipien ist darum wichtiger als die Entwicklung von Handlungsmaximen, denn die können nur auf Basis dieser Prinzipien stehen. 
 
-Das Prinzip ist die Essenz daraus ableitbarer Maximen, Maximen nur mehr Extrakt der Prinzipien. Es bricht alle möglichen und denkbaren Maximen auf ihren Kern herunter, konzentriert sie in einem einzigen Wort, das zum Gelübde wird. Das Prinzip ist so offensichtlich richtig, dass jeder es geloben will, der seine Richtigkeit erkennt. 
+Das Prinzip ist die Essenz daraus ableitbarer Maximen, Maximen nur mehr Extrakt der Prinzipien. Das Prinzip bricht alle möglichen und denkbaren Maximen auf ihren Kern herunter und konzentriert sie in einem einzigen Wort, das zum Gelübde wird. 
 
-Das Gelübde ist die Hingabe zu einem als richtig erkannten Prinzip und die Verpflichtung zu seiner praktischen Verwirklichung, in sich und in der Welt. 
+
+### Principles and Vows 
+
+Das Prinzip ist so offensichtlich richtig, dass jeder es geloben will, der seine Richtigkeit erkennt. 
+Das Gelübde ist damit die Hingabe zu einem als richtig erkannten Prinzip und die Verpflichtung zu seiner praktischen Verwirklichung, in sich und in der Welt. 
 
 
 ## Bestimmung der ewigen Prinzipien
