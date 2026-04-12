@@ -52,7 +52,24 @@ We will first list some of what Indian scholars are saying about Brahmacharya, t
 
 > A sexual act produces a Samskara or impression in the subconscious mind or Chitta. This Samskara raises a Vritti or thought-wave in the mind and the Vritti again causes a Samskara. Enjoyment thickens the Vasanas. Though memory and imagination, a revival of the sexual desire comes in.
 
+> Cravings are the real seeds of birth. These craving-seeds give rise to Sankalpa and action. The wheel of Samsara is kept revolving by these cravings.
 
+(compare this about Samsara with the christian "World", dead to the world, world dead to me etc.)  
+
+> Maya havocs through curiosity.
+> Curiosity is transmuted into a strong desire.
+
+> The sight of a young beautiful girl produces in a passionate young man attraction and agitation in the mind, piercing of the heart and serious intoxication.
+
+> If a feeling arises in the mind of a Brahmachari for the company of a woman during times of ailment, if there is a strong desire to be in her company, if there is a desire to talk, play and joke with her, if there is a desire to look at young beautiful girls, if the look is unholy and unchaste, and if there is a desire in the mind when there is pain in the body for touch by the hands of females, remember that lust is still lurking in your mind. There is deep sexual craving. This should be destroyed.
+
+> One's purity can be gauged by one's experiences in dreams. If one is entirely free from any sexual thought in dreams, he has reached the climax of purity.
+
+> Dream serves as a criterion to judge our mental state or the degree of our mental purity. 
+
+> You will have to search out carefully this dire enemy, lust, that lies hidden in the various corners of your heart. Just as the fox hides itself within the bush, so also, this lust hides itself in the substratum and corners of the mind. You can detect its presence only if you are vigilant. Intense self-examination is very necessary. Just as powerful enemies can be conquered only if you attack them from all sides, so also, you can keep the powerful senses under control only if you attack them from all sides, from within and from without, from above and from beneath. (Swami Sivananda)
+
+> It is easy to uproot the Himalayas. it is easy to get victory in the battlefield. But, it is difficult to eradicate lust.
 
 
 
