@@ -93,12 +93,14 @@ Im Verhältnis des Einzelnen zum anderen ist sie die Liebe zur Wahrheit im ander
 
 Eines dieser Prinzipien ist das Mitgefühl. Jeder fühlt oder zumindest erkennt, zu einem größeren oder geringeren Grad, die Gefühle auch von anderen. Und die Gefühle der anderen, die ich in anderen erkenne, lehren mich die grundlegende Wahrheit über die anderen: dass sie im Wesentlichen sind wie ich; und indem ich meine Gefühle für wahr halte, muss ich auch den Gefühlen der anderen eine Wahrheit zuschreiben, die unbedingte Gültigkeit hat. 
 
+Eines der Prinzipien ist die Gewaltlosigkeit. Wenn Liebe die Richtung der Wahrheit ist, ist Gewaltlosigkeit Wahrheit in der Handlung. Liebe ist der Wahrheit Direktion, Gewaltlosigkeit ist Wahrheit in Aktion.  
+Weil jeder an die Wahrheit glaubt, Wahrheit erkennen will und im Sinne dieser Wahrheit gut sein will, will niemand sie verletzen. Was immer Wahrheit verletzt, ist schlecht.  
+Schlecht ist Verletzung der Wahrheit im Wort, denn das ist Lüge. Schlecht ist Verletzung der Wahrheit im Denken, denn das ist Irrtum, schlecht ist Verletzung der Wahrheit im Willen, denn das ist Lieblosigkeit, schlecht ist Verletzung der Wahrheit in der Kommunikation, denn das ist Missverständnis, schlecht ist die Verletzung der Wahrheit im Miteinander, denn das ist Widertracht, Schlecht ist Verletzung der Wahrheit im Handeln, denn das ist Feindseligkeit.  
+Himsa, Harm, Verletzung oder Gewalt, ist alles, was die Wahrheit (und so die Einheit und alles was sonst aus ihr folgt) auf die eine oder andere Weise verletzt. Gewaltlosigkeit also ist Wahrhaftigkeit im Wort, Klarheit im Denken, Liebe im Willen, Verstehen in der Kommunikation, Eintracht in der Gemeinschaft bzw. im Miteinander und Friedfertigkeit (oder Nicht-Feindseligkeit oder Nicht-Widerstand) im Handeln.  
 
+Die Unwahrheit kann bekämpft werden nur durch Wahrheit, die Zwietracht nur durch Einheit usw., das ist das Gesetz. So wie eine Buche nicht aus einem Eichensamen wachsen kann, kann Wahrheit nicht aus Unwahrheit, Frieden nicht aus Gewalt erwachsen. Und so kann auch Wahrheit nicht durch Unwahrheit oder Gewalt verteidigt werden. Einen gerechten Krieg gibt es nicht. 
 
-
-
-
-
+---
 
 
 
