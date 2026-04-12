@@ -38,6 +38,12 @@ We may summarise the ethics of the dhammapada, the best and most profound of all
 
 Goal: Summarise the ethics of the Dhammapada in the shortest way and then show how it is also in accordance with Kants ethics.  
 
+Die Prinzipien harmonieren mit Kants Moral- und Tugendlehre. Und wie bei Kant, *bedürfen* sie auch keiner theologischen Begründung, was aber nicht heißt, dass sie damit in irgendeinem Konflikt stünden; die Aufklärung ist eben keine Bewegung gegen die Religion.  
+
+> In einer Theo-nomie sind die moralischen Gesetze nur deshalb verpflichtend, „weil sie Gebote Gottes sind“, nach Kants Auto-nomie hingegen hat man sie nur darum als göttliche Gebote anzusehen, „weil wir dazu innerlich verbindlich sind“ (KrV, B 847).
+
+
+
 
 ## From Principle to Action
 or: Kriterion of Virtue
