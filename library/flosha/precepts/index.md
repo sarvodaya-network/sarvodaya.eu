@@ -1,6 +1,6 @@
 # Precepts
 
-The eleven vows (vratas) as practiced in the Ashrams of Gandhiji and Vinobaji can be separated in two categories. The first five are vows universally shared by the great traditions of India, namely the Hindu-Dharma, Buddha-Dharma and Jaina-Dharma. They are all sharing these same five ideals. Which are...
+The eleven vows (vratas) as practiced in the Ashrams of Gandhiji and Vinobaji can be separated in two categories. The first five are vows universally shared by the great traditions of the world and particulary in India, namely in the Hindu-Dharma, Buddha-Dharma and Jaina-Dharma. They are all sharing these same five ideals. Which are...
 
 (1) Satya - Truth  
 (2) Ahimsa - Non-violence  
@@ -17,27 +17,29 @@ In this external, negative meaning they can be summarised as:
 (3) Abstain from sexual misconduct  
 (4) Abstain from taking what is not given  
 (5) Abstain from owning what cannot be yours.  
-They are at least in parts very similar to the commandments of Moses, when we begin with the command not to kill.  
+
+These same precepts are also very similar to the commandments of Moses, when we begin with the command not to kill.  
 
 (1) Thou shalt not kill.  
 (2) Thou shalt not commit adultery.  
 (3) Thou shalt not steal.  
-(4) Thou shalt not bear false witness against thy neighbour.  
+(4) Thou shalt not bear false witness [= lie] against thy neighbour.  
 (5) Thou shalt not covet [...] anything of thy neighbour.  
 
-While the biblical commands may as well be possible to interpret in deeper ways, they are at least formulated not as universally. As regards the ancient indian precepts, every single one of them has to be considered in regard to actions of the body, speech and mind/thought, but in their restricted, most external meaning they are not understood and applied as strictly as when one strives for spiritual and social liberation, and do not yet contain the additional virtues or principles which are to be considered to be necessary for these goals. 
+While the biblical commands can surely be interpret in deeper ways, they are at least not as universally in their formulation as the buddhist precepts, but their similarity is obvious. 
+
+As regards the ancient indian precepts, every single one of them has to be considered in regard to actions of the body, speech and mind/thought, but in their restricted, most external meaning they are not understood and applied as strictly as when one strives for spiritual and social liberation, and do not yet contain the additional virtues or principles which are to be considered to be necessary for these goals. 
 
 Each of the five precepts has
 * internal and external applications
 * negative and positive meanings
 * spiritual and social implications and from these spiritual and social implications, additional precepts are deduced. 
 
---- 
+Our entire philosophy rests on the precepts and can be deduced from the precepts. 
 
-The stricter or rather deeper understanding of the precepts in tradition (be it buddhist, jain, hindu, christian, muslim, ...) make the difference between a layman who does not strive for spiritual liberation and a sadhaka, someone who does (whereas the strictest application and one specific precept (that of abstinence from money) makes one practically a monk, if ordained or not).
-
-The additional precepts (and stricter understanding of the same precepts) in the understanding of Vinoba make the difference between someone who does not strive for non-violent revolution and a non-violent revolutionary. 
-
+## From the surface to the depth
+The stricter or rather deeper understanding of the precepts in tradition (be it buddhist, jain, hindu, christian, muslim, ...) make the difference between a layman who does not strive for spiritual liberation and a sadhaka, someone who does (whereas the strictest application and one precept in particular, and in many ways the last one (that of abstinence from money) makes one practically a monk, if ordained or not).  
+And the additional precepts (and the stricter understanding of the same precepts) in the understanding of Vinoba make the difference between someone who does not strive for non-violent revolution and a non-violent revolutionary.  
 When following the precepts more consequentually, deeper implications arise for the inner life and broader applications arise for the outer life. 
 
 ---
