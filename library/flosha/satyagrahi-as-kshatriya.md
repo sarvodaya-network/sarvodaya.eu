@@ -17,35 +17,33 @@ So, when men are weak, feel weak, for their weakness behave like aggressive monk
 **Loss of strength correlates with decline of real warrior ideals***:   
 That there is no real internal strength anymore in modern men today – which they are feeling themselves and suffering on behalf of it – is directly related with the decline – if not the non-existence – of any kind of warriorhood in modern society.  
 No internal, spiritual foundation of warriorhood is to be found in modern armies. And that is no wonder because modern warfare is void of virtue. Not that ancient or medieval warfare and the violence they comitted had any validity and sanction to it, but it actually required courage to confront each other on the battlefield in a direct man-on-man encounter. Where is courage in airstrikes and throwing bombs? And when a warrior fights his opponent with a sword, as brutal as that may be, there is always the option and possibility of mercy; when the opponent falls down injured, pleading for life, one is confronted with a human and can regain some humanity. But where is the human when you simply pull a trigger? Life taken by a snap of your finger, like a god, for which human life has no worth and reality, and how is it supposed to have one, when you simply shoot on them from afar, never being confronted by them as humans, but just as targets, like in a video game?  
-There is no honour in modern warfare. W
+There is no honour in modern warfare. A honourable man does not grab the sword, but he definitely does not grab a gun.  
+So it might not be directly apparent, but the whole area of sexuality isn't just relevant for all conflict between the sexes and for the crisis of the sexes with themselves, but it is also directly linked with the decline of warriorhood. Warriorhood is a social institution that turns boys into man and makes them strong. Where that is lacking, man will have no strength and feel accordingly.  
 
----
+***Why true Warriorhood is supposed to serve Nonviolence***:  
+Warriorhood in its essence is about being strong, being powerful and being able to withstand. Withstand what? Everything. Withstand what one wants to withstand, withstand evil, withstand unwanted influence, withstand unwanted push and so on. Withstand violence, including the violence in oneself. Withstand the anger of others, but as well the anger in oneself. Warriorhood signifies a way of life and the training in that way of life.  
+One cannot be truly strong without the ability to build strength and to preserve this strength. Whoever is leaking strength, is weak. A warrior doesn't burst out all the time, leaking all of his energy into the world and infecting it with his aggression; that is the opposite of a warrior, that is the behaviour of the boy untrained.  
+True warriorhood is a social institution to channel and direct male aggression within to nourish the inner fire that burns all inner weakness and thereby prevents external violence to occur; where war breaks out in the world, where external aggression occurs, there weakness is revealing itself. That doesn't mean to be "aggressive" against oneself, it means that this very energy is utilized in the internal training in virtue and spiritual power, which will not abuse anyone.   
 
-It might not be directly apparent, but the whole area of sexuality and celibacy, isn't just relevant for all conflict between the sexes but it is also directly linked with warriorhood.  
+***What weakness truly is***:  
+A warrior trains himself internally for the moment when a fight is really needed. He doesn't waste his energy and power on trivial things, on everyday matters. No one can conquer the world before first conquering himself.  
+A true warrior, who really mastered himself, will not easily get angry in uncontrolled, if at all. Men who easily get angry proof by their anger how little self-control they have. It is a direct sign of weakness and against the warrior spirit. They cannot contain themselves.  
+It is in this way how we need to understand weakness. Weakness is everywhere, where something can force you to act. That is weakness. Where you can resist the very urge to react, where you can stop yourself from blindly following the impulses and that which provokes a reaction, there you are strong. You are strong where you can resist to act, where you can choose *not* to act when others or whichever circumstances are pressuring you to act. And you are likewise strong where you have the courage to act where others or whichever consequences are pressuring you not to.  
 
----
-
-
-## What Weakness Truly is
-
-Warriorhood in its essence is about being strong, being powerful and being able to withstand. Withstand what? Everything. Withstand what one wants to withstand, withstand evil, withstand unwanted influence, withstand unwanted push and so on.  
-
-But one cannot be truly strong without the ability to build strength and to preserve this strength. Whoever is leaking strength, is weak. A warrior doesn't fight outside all the time, he trains himself internally for the moment when a fight is really needed. He doesn't waste his energy and power on trivial things, on everyday matters. No one can conquer the world before first conquering himself. 
-
-A true warrior, who really mastered himself, will not easily get angry, if at all. Men who easily get angry proof by their anger how little self-control they have. It is a direct sign of weakness. They cannot contain themselves. 
-
-It is in this way how you need to understand weakness. Weakness is everywhere, where something can force you to act. That is weakness. Where you can resist the very urge to react, where you can stop yourself from blindly following the impulses and that which provokes a reaction, there you are strong. You are strong where you can resist to act, where you can choose *not* to act when others or whichever circumstances are pressuring you to act. And you are likewise strong where you have the courage to act where others or whichever consequences are pressuring you not to.  
-
-When a mere view of whatever you look at and your own thoughts by which there is desire arising in your mind, e.g. for a girl, can pressure you to act out of this desire, there is no freedom nor any kind of strength. That does not mean that you might not, when the moment is right, consciously choose to act and give your energy to a girl that you truly want to give it to and have good reason to. 
-
-But wasting your energy by yourself, throwing your strength into the wind, that is like seeds thrown on concrete. Its a waste, an offense against the seeds that you don't value, thereby an offense against yourself that you don't value, the maker of the seeds, nor does it serve the concrete, being neither fertile nor otherwise receiving energy from your sacrifice. 
+***Weakness against the overpowering Senses***:  
+When a mere view of whatever you look at and your own thoughts by which there is desire arising in your mind, e.g. for a girl, can pressure you to act out of this desire, there is no freedom nor any kind of strength. That does not mean that you might not, when the moment is right, consciously choose to act and give your energy to a girl that you truly want to give it to and have good reason to.   
+But wasting your energy by yourself, throwing your strength into the wind, that is like seeds thrown on concrete. Its a waste, an offense against the seeds that you don't value, thereby an offense against yourself that you don't value, the maker of the seeds, nor does it serve the concrete, being neither fertile nor otherwise receiving energy from your sacrifice.  
 It is a form of self-sacrifice. And self-sacrifice can be a sacred matter. But what is a sacrifice thrown into the gutter? Pearls thrown before swine.  
-If a man struggles with his own worth, with his self-worth, with his value, then first he may ask himself: What do I do against my self? What do I do opposed to such worth and value? If you waste yourself, it is no surprise to feel wasted. 
 
+***The need to go against the grain***:  
+If a man struggles with his own worth, with his self-worth, with his value, then first he may ask himself: What do I do against my self? What do I do opposed to such worth and value? If you waste yourself, it is no surprise to feel wasted. If you de-value yourself and don't consider yourself worthy to preserve your own power, then it is no surprise that you feel worthless and powerless.  
+You aren't, but you make yourself so. Of course there is all sorts of manipulation going on in this kali-yuga which makes, what could be natural, harder and harder, because it is the grain, the flow of the current. And so no one with empathy will blame you going with the current, as right now it is the normal direction to go in and everywhere around you normalises it. But that doesn't make it any more right or true. If you want to become a man, then you have to go against the grain, swim against the flow, turn around and withstand the pressure hitting you. That is the beginning of any true warriorhood.  
 It is therefore that Gandhi said:  
 > Celibacy is the truest test of manhood.
 
-It may be a shame to fail. But its not the end of the world. You say: "I am just too weak, I cannot do this, I don't even want to do this." You cannot do this because you lack strength and you don't want to because you lack will power. But it is as with every other training: Every attempt, every bit of trying will slowly give you more strength. And someday the strength will suffice to withstand the pressure. Therefore: Never despair, but start to work. 
+***The perceived impossibility of celibacy***:  
+It may be a shame to fail. But its not the end of the world. You say: "I am just too weak, I cannot do this, I don't even want to do this." You cannot do this because you lack strength and you don't want to because you lack will power.  
+But it is as with every other training: Every attempt, every bit of trying will slowly give you more strength. And someday the strength will suffice to withstand the pressure. Therefore: Never despair, but stand up and start the training.  
 
 
 
