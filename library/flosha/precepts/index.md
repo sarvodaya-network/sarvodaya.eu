@@ -35,7 +35,7 @@ Each of the five precepts has
 * negative and positive meanings
 * spiritual and social implications and from these spiritual and social implications, additional precepts are deduced. 
 
-Our entire philosophy rests on the precepts and can be deduced from the precepts. 
+Our entire philosophy rests on and can be deduced from the precepts. An exposition of this philosophy could thus begin with the precepts as axioms and deduce all that follows from them; and it could as well end with the precepts as the philosophy's conclusion, as that which it amounts to and summarises it. It starts and ends with them. They are all there is to say, contains all we have to know and they suffice for a lifelong reflection and practice.  
 
 ## From the surface to the depth
 The stricter or rather deeper understanding of the precepts in tradition (be it buddhist, jain, hindu, christian, muslim, ...) make the difference between a layman who does not strive for spiritual liberation and a sadhaka, someone who does (whereas the strictest application and one precept in particular, and in many ways the last one (that of abstinence from money) makes one practically a monk, if ordained or not).  
