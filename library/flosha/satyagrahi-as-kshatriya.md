@@ -12,4 +12,23 @@ Manliness and male strength and authority are harmful – when they are perverte
 
 Strength starts within, not in any expression without. Manliness resides here, not in any outer form. And the primary war is fought within. All perversion is rooted in a loss of this internal aspect. Where the spirit is lost and only the body remains, doing what it wants, there terrible things follow. But where the spirit governs the body, there the individual is in order and there the world is in order.  
 
+---
+
+It might not be directly apparent, but the whole area of sexuality and celibacy, isn't just relevant for all conflict between the sexes but it is also directly linked with warriorhood.  
+
+---
+
+> Celibacy is the truest test of manhood. (Gandhi)
+
+Warriorhood in its essence is about being strong, being powerful and being able to withstand. Withstand what? Everything. Withstand what one wants to withstand, withstand evil, withstand unwanted influence, withstand unwanted push and so on.  
+
+But one cannot be truly strong without the ability to build strength and to preserve this strength. Whoever is leaking strength, is weak. A warrior doesn't fight outside all the time, he trains himself internally for the moment when a fight is really needed. He doesn't waste his energy and power on trivial things, on everyday matters. No one can conquer the world before first conquering himself. 
+
+A true warrior, who really mastered himself, will not easily get angry, if at all. Men who easily get angry proof by their anger how little self-control they have. It is a direct sign of weakness. They cannot contain themselves. 
+
+It is in this way how you need to understand weakness. Weakness is everywhere, where something can force you to act. That is weakness. Where you can resist the very urge to react, where you can stop yourself from blindly following 
+
+rder to understand thjs
+
+
 
