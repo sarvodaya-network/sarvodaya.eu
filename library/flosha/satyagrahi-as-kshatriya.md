@@ -1,16 +1,23 @@
 # Satyagraha as the Kshatriya Dharma
 
-Many men today are feeling weak. 
+***Current Situation of Men***:  
+Many men today are feeling weak.  
+There are those who say, that men don't have to be strong, that these old ideals of bravery and heroism are outdated and harmful. They say that on one hand they harm, they suppress women and lead to all kinds of violence and abuse in the world, and that on the other hand the idea that a man has to be strong puts a pressure on men that they often cannot handle themselves and suffer under it just as much.  
+And on the other side there are those who say, that this loss of strength is a tragedy, that these aren't harmful ideas but part of the nature of man and that by trying to eradicate this manliness, they destroy men or at least destroy what makes them men. They say that they are only in this state of depravity and only feel so lost and only feel so weak because they are no longer allowed to be strong and there is no room for it in society and they feel oppressed. And that this gives rise to all sorts of problems and rebellion.  
 
-There are those who say, that men don't have to be strong, that these old ideals are harmful, that one hand they harm, they suppress women and lead to all kinds of violence and abuse in the world and that on the other hand the idea that a man has to be strong puts a pressure on men that they often cannot handle themselves and suffer under it just as much. 
-
-And on the other side there are those who say, that this loss of strength is a tragedy, that these aren't harmful ideas but part of the nature of man and that by trying to eradicate this manliness, they destroy men or at least destroy what makes them men. They say that they are only in this state of depravity and only feel so lost and only feel so weak because they are no longer allowed to be strong and there is no room for it in society and they feel oppressed. And that gives rise to all sorts of rebellion.  
-
-I think that both of these positions have valid points to them and there is some truth in both of them. But they do not appear at first to be easily reconcileable. But the conflict dissolves when approached not from the outside, but from the inside.  
-
+***Why these two positions are only contradictory at the surface***:  
+Both of these positions have valid points to them, there is some truth in both of them. They do not appear at first to be easily reconcileable. But the conflict dissolves when approached not from the outside, but from the inside.  
 Manliness and male strength and authority are harmful – when they are perverted and used to abuse. In the same way, attributes commonly assigned to women such as higher degrees of empathy and devotion are harmful too – when they are perverted and allowed to be abused. But how wrong would it be therefore to try to get rid of empathy and devotion due to their possibility to be abused? How terrifying a world would that be, where women no longer have empathy and devotion? No one would want to live in such a world. In the same way, it is wrong to try getting rid of that which men value and find themselves valued in, as their strength is needed. If it is perverted, then it must be set straight.  
+On one side men are attacked not for the real, internal strength and male virtues, but for the perverted expression of it devoid of any inner basis, on the other hand men, feeling weak and powerless, seek to regain that lost strength externally, devoid of any spiritual sanction. Thereby both positions, each being both true and wrong to a degree, nourish each other.  
 
-Strength starts within, not in any expression without. Manliness resides here, not in any outer form. And the primary war is fought within. All perversion is rooted in a loss of this internal aspect. Where the spirit is lost and only the body remains, doing what it wants, there terrible things follow. But where the spirit governs the body, there the individual is in order and there the world is in order.  
+***Real Strength from within***:  
+Strength starts within, not in any expression without. Manliness resides here, not in any outer form. The primary war, the great war, is fought within. All perversion is rooted in a loss of this internal aspect. Where the spirit is lost and only the body remains, doing what it wants, there terrible things follow. But where the spirit governs the body, there the individual and by extension the world is in order.  
+So, when men are weak, feel weak, for their weakness behave like aggressive monkeys to show external strength in lack of internal strength, and for that reason being critizised (rightly so) and the very virtue of true strength tried to be gotten rid of, depriving men of their manliness (unrightly so), the only solution lies in developing real, internal strength. 
+
+**Loss of strength correlates with decline of real warrior ideals***:   
+That there is no real internal strength anymore in modern men today – which they are feeling themselves and suffering on behalf of it – is directly related with the decline – if not the non-existence – of any kind of warriorhood in modern society.  
+No internal, spiritual foundation of warriorhood is to be found in modern armies. And that is no wonder because modern warfare is void of virtue. Not that ancient or medieval warfare and the violence they comitted had any validity and sanction to it, but it actually required courage to confront each other on the battlefield in a direct man-on-man encounter. Where is courage in airstrikes and throwing bombs? And when a warrior fights his opponent with a sword, as brutal as that may be, there is always the option and possibility of mercy; when the opponent falls down injured, pleading for life, one is confronted with a human and can regain some humanity. But where is the human when you simply pull a trigger? Life taken by a snap of your finger, like a god, for which human life has no worth and reality, and how is it supposed to have one, when you simply shoot on them from afar, never being confronted by them as humans, but just as targets, like in a video game?  
+There is no honour in modern warfare. W
 
 ---
 
