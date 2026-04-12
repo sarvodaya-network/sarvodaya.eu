@@ -24,3 +24,29 @@ But I know that many saints loved in such a way that it was utterly impossible f
 ---
 
 Abstinence from any kinds of intoxicants is another necessary aspect of this vow, for which the Buddhists have an extra precept, but it is included in Brahmacharya. Abstaining from intoxicants is a logical conslusion from Satya, as anything by which you consciously rob yourself from the ability of sane judgement is impeding your ability to be truthful. It is as well a logical conclusion from Ahimsa, as intoxicating ones body means consciously harming ones body and by diminishing ones consciousness one diminishes ones self-control and increases the risk to hurt others both in emotional and physical ways significantly. 
+
+---
+
+> As a flower is no flower without fragrance, as a river is no river without water, so also, a man is no man without Brahmacharya. (Swami Sivananda)
+
+> If lust which is the source of all enjoyments in this world ceases, then all worldly bondage, which has its substratum in the mind, will cease. (Swami Sivananda)
+
+> The sexual degradation that has overtaken mankind today is due directly to the fact that people have assumed that there is a natural "sexuall instinct" in human beings. It is not so. The natural instinct is the procreative one. If men and women restrict sexual indulgence to mere procreation, then that itself is observance of Brahmacharya. (Swami Sinvananda)
+
+> As far as the Sadhaka of burning Mumukshutva is concerned, celibacy is a *sine qua non*, as he cannot afford to waste his vital energy at all. (Swami Sivananda)
+
+
+## Practice 
+
+> All people should be made fully conversant with the different methods that will help them to root out the dire enemy lust. If they fail in one method, they can take recourse to another. (Swami Sivananda)
+
+> An objector may say that these topics should not be dealt with openly, but should rather be talked about secretly. This is wrong. What is the use of hiding things? Hiding a thing is a sin. (Swami Sivananda)
+
+> There is no real spiritual culture amongst the people of modern society. Etiquette is mere show. Everywhere you can see much show, hypocrisy, pretended politeness, meaningless formalities and conventions. Nothing emanates from the core of the heart. People lack sincerity and integrity. (Swami Sivananda)
+
+> Lack of spiritual Sadhana is the main cause for all sexual attractions. (...) You must be sincere in your quest for the sublime life of spirituality. Half-heartedness will leave you in your old state of misery.
+
+
+
+
+
