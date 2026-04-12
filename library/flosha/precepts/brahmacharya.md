@@ -73,6 +73,7 @@ We will first list some of what Indian scholars are saying about Brahmacharya, t
 
 > Passion is the instinctive urge for externalisation through self-preservation and self-multiplication. It is the diversifying power which is directly opposed to the force that moves towards the integration of being.  
 
+> Those who have renounced women and money have really renounced the world. (Swami Sivananda)  
 
 
 ## Practice 
