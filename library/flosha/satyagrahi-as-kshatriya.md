@@ -1,4 +1,4 @@
-# Satyagrahi as Kshatriya
+# Satyagraha as the Kshatriya Dharma
 
 Many men today are feeling weak. 
 
@@ -18,7 +18,8 @@ It might not be directly apparent, but the whole area of sexuality and celibacy,
 
 ---
 
-> Celibacy is the truest test of manhood. (Gandhi)
+
+## What Weakness Truly is
 
 Warriorhood in its essence is about being strong, being powerful and being able to withstand. Withstand what? Everything. Withstand what one wants to withstand, withstand evil, withstand unwanted influence, withstand unwanted push and so on.  
 
@@ -26,9 +27,18 @@ But one cannot be truly strong without the ability to build strength and to pres
 
 A true warrior, who really mastered himself, will not easily get angry, if at all. Men who easily get angry proof by their anger how little self-control they have. It is a direct sign of weakness. They cannot contain themselves. 
 
-It is in this way how you need to understand weakness. Weakness is everywhere, where something can force you to act. That is weakness. Where you can resist the very urge to react, where you can stop yourself from blindly following 
+It is in this way how you need to understand weakness. Weakness is everywhere, where something can force you to act. That is weakness. Where you can resist the very urge to react, where you can stop yourself from blindly following the impulses and that which provokes a reaction, there you are strong. You are strong where you can resist to act, where you can choose *not* to act when others or whichever circumstances are pressuring you to act. And you are likewise strong where you have the courage to act where others or whichever consequences are pressuring you not to.  
 
-rder to understand thjs
+When a mere view of whatever you look at and your own thoughts by which there is desire arising in your mind, e.g. for a girl, can pressure you to act out of this desire, there is no freedom nor any kind of strength. That does not mean that you might not, when the moment is right, consciously choose to act and give your energy to a girl that you truly want to give it to and have good reason to. 
+
+But wasting your energy by yourself, throwing your strength into the wind, that is like seeds thrown on concrete. Its a waste, an offense against the seeds that you don't value, thereby an offense against yourself that you don't value, the maker of the seeds, nor does it serve the concrete, being neither fertile nor otherwise receiving energy from your sacrifice. 
+It is a form of self-sacrifice. And self-sacrifice can be a sacred matter. But what is a sacrifice thrown into the gutter? Pearls thrown before swine.  
+If a man struggles with his own worth, with his self-worth, with his value, then first he may ask himself: What do I do against my self? What do I do opposed to such worth and value? If you waste yourself, it is no surprise to feel wasted. 
+
+It is therefore that Gandhi said:  
+> Celibacy is the truest test of manhood.
+
+It may be a shame to fail. But its not the end of the world. You say: "I am just too weak, I cannot do this, I don't even want to do this." You cannot do this because you lack strength and you don't want to because you lack will power. But it is as with every other training: Every attempt, every bit of trying will slowly give you more strength. And someday the strength will suffice to withstand the pressure. Therefore: Never despair, but start to work. 
 
 
 
