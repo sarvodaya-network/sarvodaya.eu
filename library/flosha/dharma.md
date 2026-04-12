@@ -272,3 +272,13 @@ and all three together - that is samyayoga.
 
 
 > Self-awareness should not be confused with physical consciousness. When one becomes aware of the transience of the body, death ceases to have importance. Then one virtually dies before physical death. (Vinoba, Reflections on the Gita, p. 58)
+
+
+
+to svadharma:   
+
+> I am only a man like you to whom it has been revealed that your God is one God, so take a straight path to him and seek his forgiveness. (Surat Fussilat 41:6)
+
+The svadharma is this "straight path".  
+In the NT we find the formulation: "Make straight the way of the Lord."  
+
