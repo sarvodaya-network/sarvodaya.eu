@@ -11,4 +11,6 @@ Tugend „durch allmähliche Reform seines Verhaltens“, also „nach und nach�
 > Ohne sich dabei auf die traditionelle Tugendethik zu berufen, herrscht auch bei Kant diese antireduktionistische Einstellung vor. Mit großem Nachdruck vertritt er den Gedanken von Pflichten, mitlaufend von entsprechenden Einstellungen, von Tugenden, gegen sich selbst. Er geht sogar noch einen Schritt weiter und behauptet, ohne Selbstpflichten gibt es keine Fremdpflichten (§ 2). Seine provokative These lautet also: keine Sozialethik ohne eine Personalethik. 
 
 
-Kant spricht von einer "ethischen Didaktik" und einer "ethischen Asketik".
+Kant spricht von einer "ethischen Didaktik" und einer "ethischen Asketik". Die Didaktik hat Kant in Form eines sogenannten" moralischen Katechismus zu entwickeln begonnen. Während die Asketik im Wesentlichen die Stoische Lehre "Ertrage und Entsage", zusammenfasst, wie man sie auch in jeder anderen asketischen Schule findet.  
+
+
