@@ -37,8 +37,6 @@ We may summarise the ethics of the dhammapada, the best and most profound of all
 ...
 
 
-
-
 ## From Principle to Action
 or: Kriterion of Virtue
 
@@ -48,7 +46,12 @@ or: Kriterion of Virtue
 
 Vinoba akzeptiert damit die Idee, die Kant den kategorischen Imperativ nannte, der zwar von Kant in verschiedenen Formen formuliert wurde, im Grunde genommen aber in der christlichen Lehre ebenso enthalten war, in der Forderung: "Was du willst, dass die Menschen dir tun, dass tu auch ihnen." [OB-ES-AUCH-EIN-INDISCHES-ÄQUIVALENT-GIBT?] Dieses christliche Prinzip wurde aber nicht konsequent angewandt, nicht konsequent genug durchdacht. Und ich meine, dass auch Kant selbst sein Prinzip nicht konsequent angewandt hat. Zur Kritik am kategorischen Imperativ, habe ich einen eigenen Aufsatz geschrieben. 
 
-Für Kant, mögen wir sagen (und man möge mich berichtigen), ist es ein Imperativ zur Erkenntnis der notwendigen Richtigkeit einer Maxime. Ich bevorzuge, es in Vinobas Worten als Kriterium zu beschreiben. Ein Kriterium zur Bestimmung der Richtigkeit (Wahrheit) oder Falschheit (Unwahrheit) eines Prinzips. Da es immer um die Bestimmung geht, ob etwas richtig oder falsch, also gleich wahr oder unwahr ist, ist die Wahrheit notwendigerweise das Prinzip aller Prinzipien, dessen Richtigkeit keines Beweises bedarf, weil sie Richtigkeit an sich ist. Sie ist die Grundlage aller Richtigkeit, sie ist das höchste Prinzip.  
+Für Kant, mögen wir sagen (und man möge mich berichtigen), ist es ein Imperativ zur Erkenntnis der notwendigen Richtigkeit einer Maxime. Ich bevorzuge, es in Vinobas Worten als Kriterium zu beschreiben. Ein Kriterium zur Bestimmung der Richtigkeit (Wahrheit) oder Falschheit (Unwahrheit) eines Prinzips. 
+
+
+## Bestimmung der Prinzipien
+
+Da es immer um die Bestimmung geht, ob etwas richtig oder falsch, also gleich wahr oder unwahr ist, ist die Wahrheit notwendigerweise das Prinzip aller Prinzipien, dessen Richtigkeit keines Beweises bedarf, weil sie Richtigkeit an sich ist. Sie ist die Grundlage aller Richtigkeit, sie ist das höchste Prinzip.  
 
 Wenn es keine Wahrheit gäbe, bräuchten wir nicht nach der Wahrheit oder Richtigkeit einer Sache zu fragen. Die Wahrheit wird von allen vorausgesetzt; niemand leugnet sie. Wer die Wahrheit an sich leugnen würde, würde zugleich seine eigene Leugnung verleugnen, weil seine Leugnung dann auch nicht wahr, nicht richtig sein könnte. Wenn darum, in Gandhis Worten, Wahrheit = Gott ist, also Gott nichts anderes meint als Wahrheit, dann gibt es in dieser Welt niemanden, der wahrhaft "Gott" verleugnen würde. Alle glauben und bezeugen die Wahrheit. Nur erkennen, was wahr ist und was nicht, die Wahrheit zu verstehen, daran scheitern wir.  
 
