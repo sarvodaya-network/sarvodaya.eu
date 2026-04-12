@@ -11,3 +11,12 @@ It is against non-violence as it is this line of thought that leads to conflict 
 The only thing that may not be possible to accept are exclusive teachings of eschatology that know only hell for whoever doesn't follow one particular path, instead of accepting the possibility that other paths lead on top of the same mountain, just from different directions, or on top of a different mountain, which may not be yours, but is equally far away from hell.
 
 ...
+
+---
+
+All prophets and sages have appeared im time, in particular time and in particular circumstances. They acted in particular cultures and within particular religious contexts and they have chosen very particular language to convey their message. We cannot do so as if all that isn't relevant to their teaching. There is a core to the teaching by all of them, which is true regardless of the language they have chosen, the context in which they were spoken, or the time and culture in which they appeared; there is, if course, an eternal value and truth to their messages. Nonetheless the message is worded in particular, limited ways. The New Testament isn't even written in the language that Jesus used to convey his message. He didn't even speak that language and yet we regard it as totally authoritative without any doubt.  
+
+
+
+
+
