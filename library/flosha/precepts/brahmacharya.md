@@ -71,6 +71,8 @@ We will first list some of what Indian scholars are saying about Brahmacharya, t
 
 > It is easy to uproot the Himalayas. it is easy to get victory in the battlefield. But, it is difficult to eradicate lust.
 
+> Passion is the instinctive urge for externalisation through self-preservation and self-multiplication. It is the diversifying power which is directly opposed to the force that moves towards the integration of being.  
+
 
 
 ## Practice 
