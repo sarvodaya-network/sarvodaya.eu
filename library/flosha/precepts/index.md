@@ -26,7 +26,7 @@ These same precepts are also very similar to the commandments of Moses, when we 
 (4) Thou shalt not bear false witness [= lie] against thy neighbour.  
 (5) Thou shalt not covet [...] anything of thy neighbour.  
 
-While the biblical commands can surely be interpret in deeper ways, they are at least not as universally in their formulation as the buddhist precepts, but their similarity is obvious. 
+While the biblical commands can surely be interpreted in deeper ways, they are at least not as universally in their formulation as the buddhist precepts, but their similarity is obvious. 
 
 As regards the ancient indian precepts, every single one of them has to be considered in regard to actions of the body, speech and mind/thought, but in their restricted, most external meaning they are not understood and applied as strictly as when one strives for spiritual and social liberation, and do not yet contain the additional virtues or principles which are to be considered to be necessary for these goals. 
 
@@ -35,7 +35,7 @@ Each of the five precepts has
 * negative and positive meanings
 * spiritual and social implications and from these spiritual and social implications, additional precepts are deduced. 
 
-Our entire philosophy rests on and can be deduced from the precepts. An exposition of this philosophy could thus begin with the precepts as axioms and deduce all that follows from them; and it could as well end with the precepts as the philosophy's conclusion, as that which it amounts to and summarises it. It starts and ends with them. They are all there is to say, contains all we have to know and they suffice for a lifelong reflection and practice.  
+Our entire philosophy rests on and can be deduced from the precepts. An exposition of this philosophy could thus begin with the precepts as axioms and deduce all that follows from them; and it could as well end with the precepts as the philosophy's conclusion, as that which it amounts to and summarises it. It starts and ends with them. They are all there is to say, contains all we have to know, they could inspire endless commentary and they suffice for a lifelong reflection and practice.  
 
 ## From the surface to the depth
 The stricter or rather deeper understanding of the precepts in tradition (be it buddhist, jain, hindu, christian, muslim, ...) make the difference between a layman who does not strive for spiritual liberation and a sadhaka, someone who does (whereas the strictest application and one precept in particular, and in many ways the last one (that of abstinence from money) makes one practically a monk, if ordained or not).  
