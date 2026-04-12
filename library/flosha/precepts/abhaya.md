@@ -1,6 +1,6 @@
 # Abhaya
 
-We do not list Abhaya (fearlessness) as a precept, as Gandhi did. It is ahimsa and brahmacharya and all the other precepts that lead to freedom from fear. 
+<!-- We do not list Abhaya (fearlessness) as a precept, as Gandhi did. It is ahimsa and brahmacharya and all the other precepts that lead to freedom from fear. -->
 
 * Satya frees from the fear of deceiving oneself or others and of being deceived; because if you know the truth and aren't attached to anything, how could you be deceived? Even if one deceives you outwardly, there is nothing to fear about it, as it wouldn't cause you to stumble.
 * Ahimsa frees from the fear of hurting others and of being hurt. By fully understanding violence, ...
