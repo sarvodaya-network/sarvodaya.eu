@@ -6,7 +6,7 @@
 * Ahimsa frees from the fear of hurting others and of being hurt. By fully understanding violence, ...
 * Brahmacharya frees from the fear of not getting what one wants or not wanting what one gets, fear of pain and discomfort, fear of hunger, loneliness, boredom etc., fear of unwanted emotions, fear of emotional loss by attachment. 
 * Aparigraha frees from the fear of loosing anything, as you possess nothing anyway.
-* Swaraj frees from the fear of responsibility, as you learn to take full responsibility of your life and fate.
+* Swaraj frees from the fear of freedom and of responsibility, as you learn to take full responsibility of your life and fate; freedom can frightening, but it is not to the degree that responsibility is learned and taken.  
 * Samanvada by studying in a particular way and finding intellectual clarity, by overcoming of confusion and ideological conflict through synthesis, frees from the fear of drowning in thought, the fear of practicing wrongly, ...
 * Sharira shrama frees from the fear of physical dependence in matters of basic craft and of exploiting others.
 * Kanchan mukti finally is the last step in overcoming fear, as every insurance is given up. Only him who fully depends on alms, on the generosity of others or the grace of god, can be said to have mastered fearlessness. 
