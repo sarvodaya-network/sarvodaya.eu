@@ -1,5 +1,13 @@
 # Precepts
 
+The shortest possible summaries of rules by different sages:  
+
+> Love each other. (Jesus)
+> Love the Next as yourself. (Jesus)
+> Truth, love, compassion. (Vinoba)
+> Fear Allah the Exalted more than anything else, hope in Allah more intensely than you fear him, and love for people what you love for yourself. (Hilyat al-Awliyā 4693)
+
+
 The eleven vows (vratas) as practiced in the Ashrams of Gandhiji and Vinobaji can be separated in two categories. The first five are vows universally shared by the great traditions of the world and particulary in India, namely in the Hindu-Dharma, Buddha-Dharma and Jaina-Dharma. They are all sharing these same five ideals. Which are...
 
 (1) Satya - Truth  
