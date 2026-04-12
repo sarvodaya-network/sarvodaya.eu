@@ -27,6 +27,8 @@ Abstinence from any kinds of intoxicants is another necessary aspect of this vow
 
 ---
 
+We will first list some of what Indian scholars are saying about Brahmacharya, then try to bring some kind of order into it and evaluate it and compare it with other traditions.  
+
 > As a flower is no flower without fragrance, as a river is no river without water, so also, a man is no man without Brahmacharya. (Swami Sivananda)
 
 > If lust which is the source of all enjoyments in this world ceases, then all worldly bondage, which has its substratum in the mind, will cease. (Swami Sivananda)
@@ -34,6 +36,24 @@ Abstinence from any kinds of intoxicants is another necessary aspect of this vow
 > The sexual degradation that has overtaken mankind today is due directly to the fact that people have assumed that there is a natural "sexuall instinct" in human beings. It is not so. The natural instinct is the procreative one. If men and women restrict sexual indulgence to mere procreation, then that itself is observance of Brahmacharya. (Swami Sinvananda)
 
 > As far as the Sadhaka of burning Mumukshutva is concerned, celibacy is a *sine qua non*, as he cannot afford to waste his vital energy at all. (Swami Sivananda)
+
+> A true Brahmachari is the real mighty emperor of this world. (Swami Sivananda)
+
+> "He who is able to endure here on earth, before he is liberated from the body, the force born of desire and passion, he is harmonised, he is a happy man". (Gita)
+
+> Impulse is a mighty force. It exerts influence on the mind. It is a force suddenly communicated to the mind. (...)  
+> The instincts are the prime movers of all human activities. They give a push to the body and move the Indriyas to action. The instincts create habits. The instinctive impulses supply the driving power by which all mental activities are kept up. These impulses are mental forces. They operate through the mind and the intellect. They mould the life of a man. The mystery of life lies in them.
+
+> When there are itches on the body, mere scratching of them is a pleasure. The sex impulse is only a nervous itching. The satisfaction of this impulse begets a delusive pleasure, but it has a disastrous effect on the spiritual well-being of the person.
+
+> Reason and discrimination take to their heels the moment their hearts are filled with burning passion. They all become absolutely blind.
+
+> Young girls work quickly the ruin of men and can disturb the peace of even the minds of sages. Cupid can make the nervous system of Brahmacharins quiver in the delirium of imaginary pleasure even when they think of the pictures of young, beautiful ladies, even when they hear the gentle sounds of their bracelets and anklets, even when they think of their blooming faces. What to speak of touch then?
+
+> A sexual act produces a Samskara or impression in the subconscious mind or Chitta. This Samskara raises a Vritti or thought-wave in the mind and the Vritti again causes a Samskara. Enjoyment thickens the Vasanas. Though memory and imagination, a revival of the sexual desire comes in.
+
+
+
 
 
 ## Practice 
@@ -45,6 +65,14 @@ Abstinence from any kinds of intoxicants is another necessary aspect of this vow
 > There is no real spiritual culture amongst the people of modern society. Etiquette is mere show. Everywhere you can see much show, hypocrisy, pretended politeness, meaningless formalities and conventions. Nothing emanates from the core of the heart. People lack sincerity and integrity. (Swami Sivananda)
 
 > Lack of spiritual Sadhana is the main cause for all sexual attractions. (...) You must be sincere in your quest for the sublime life of spirituality. Half-heartedness will leave you in your old state of misery.
+
+> From the bed of Samskaras and Vasanas in the mind emanates Kalpana or imagination through Smriti or memory. Then comes attachment. Along with imagination, emotion and impulse manifest. Emotion and impulse exist side by side. Then comes sexual irritation - craving and burning in the mind and throughout the body. The irritation and burning in the mind percolate into the physical body, just as the water inside a pot percolates into the surface of the pot. If you are very vigilant, you can drive off the bad imagination in the very beginning itself and avert the impending danger. Even if you allow the thief imagination to enter the first gate, keep a careful watch at the second gate when the sexual irritation manifests. You can stop the burning now. You can stop also, easily, the strong sexual impulse from being transmitted to the Intdriya itself. Draw the sex energy up towards the brain through Uddiyana and Kumbhaka. Divert the mind. Chant 'Om' or any other Mantra with concentration. Pray, meditate. If you still find it difficult to control the mind, immediately seek Satsanga and do not remain alone. When the strong impulse manifests suddenly and is transmitted to the organ, you forget everything and become blind. You become a prey to lust. Later on you repent. (Swami Sivananda)
+
+> It is easy to control the conscious mind. But it is very difficult to control the subconscious mind.
+
+> A man who is established in mental Brahmacharya can never have even a single thought of evil in dreams. He can never have a bad dream.
+
+> When the impurities emerge from the subconscious mind and come to the surface of the conscious mind with formidable force, do not try to resist them. Repeat your Ishta Mantra. Do not think of your defects or evil qualities much. It is enough if you introspect and find out your defects. Do not try to attack the evil qualities. (...) Develop positive virtues. Do not worry yourself often: "I have got so many defects and weaknesses". Cultivate Sattvic virtues. Through meditation, and by the development of positive qualities, through the Pratipaksha Bhavana method, all the negative qualities will die by themselves. This is the right method. (Swami Sivananda)
 
 
 
