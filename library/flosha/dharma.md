@@ -13,8 +13,9 @@ This fundamental relation of morality and spirituality implies a very specific u
 What Vinoba argues here from a vedic perspective is also fully in accordance with the buddhist teaching too, namely of virtue as the basis. We must practice and develop virtue first. <!-- This practice of virtue is a path to spiritual liberation, and it never stops and is not optional. The practice of virtue is very rough and external at first, it is about actions to avoid and so forth, it is very visible. But it becomes more and more subtle, in a gradual process, so that what started as rules of particular actions to avoid and external things to free oneself from, later evolves into subtle mental planes invisible to others and finally spiritual planes of liberation.--> 
 
 It therefore makes no sense to deal with "morality" and "spirituality" in separation, as morality is the basis of spirituality, or rather, spirituality is necessarily moral and morality is necessarily spiritual. They are like one fabric, interwoven.  
-Not morality as it may be understood in the modern West; but as defined beforr. In the sense of virtue and of the techniques to develop it, such us sense restraint.  
-The indian term for "moral" and morality is [???], it would thus be better to translate it as such:  
+
+Not of course morality as commonly understood in the modern West; but as defined before, in the sense of virtue and of the techniques to develop virtue, such us sense restraint.  
+The indian term for "moral" and morality is [???], it would thus be better to translate the text as such:  
 
 "I don't differentiate between virtuous and spiritual planes. (...) It is not possible for a man to be a spiritual being without first being a virtuous being."  
 
