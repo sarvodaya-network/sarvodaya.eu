@@ -8,22 +8,33 @@ or The harmony of Moral and Spiritual life
 
 > I don't differentiate between moral and spiritual planes. <!-- Spiritual plane is higher, but the moral plane is not lower. It is nearer to humanity. ... --> One is the ladder, the other, the destination. It is not possible for a man to be a spiritual being without first being a moral being. (*The Sarvodaya*, an English Monthly, 1953 onwards, Jan. 1958, 201-202)  
 
-What Vinoba argues here is fully in accordance with the buddhist teaching too of virtue as the basis. We must practice and develop virtue first. <!-- This practice of virtue is a path to spiritual liberation, and it never stops and is not optional. The practice of virtue is very rough and external at first, it is about actions to avoid and so forth, it is very visible. But it becomes more and more subtle, in a gradual process, so that what started as rules of particular actions to avoid and external things to free oneself from, later evolves into subtle mental planes invisible to others and finally spiritual planes of liberation.--> 
+This fundamental relation of morality and spirituality implies a very specific understanding of what is meant here by morality, which is a traditional understanding, that has little to do with what is commonly understood by it in the modern world. When Vinoba speaks of morality and of moral virtues then this is always about *powers* that bring one closer to the goal of human life, to the spiritual goal, liberation. Powers that, at first, one acknowledges like axioms to exist and be worth to strive for, then powers that one develops in oneself by training, and when these powers, which all have a common source, are fully developed, then that equals spiritual liberation. That is all there is to morality in the traditional sense.  
 
-It therefore makes no sense to deal with "morality" and "spirituality" in separation, as morality is the basis of spirituality. Not morality as it may be understood in the modern West; but in the sense of sense restraint and virtue. The indian term for "moral" and morality is [???], it would thus be better to translate it as such:  
+What Vinoba argues here from a vedic perspective is also fully in accordance with the buddhist teaching too, namely of virtue as the basis. We must practice and develop virtue first. <!-- This practice of virtue is a path to spiritual liberation, and it never stops and is not optional. The practice of virtue is very rough and external at first, it is about actions to avoid and so forth, it is very visible. But it becomes more and more subtle, in a gradual process, so that what started as rules of particular actions to avoid and external things to free oneself from, later evolves into subtle mental planes invisible to others and finally spiritual planes of liberation.--> 
+
+It therefore makes no sense to deal with "morality" and "spirituality" in separation, as morality is the basis of spirituality. Not morality as it may be understood in the modern West; but as defined beforr. In the sense of virtue and of the techniques to develop it, such us sense restraint.  
+The indian term for "moral" and morality is [???], it would thus be better to translate it as such:  
+
 "I don't differentiate between virtuous and spiritual planes. (...) It is not possible for a man to be a spiritual being without first being a virtuous being."  
-
-It is thus no wonder, that he also said:
-
-> Dhammapad outlines the science of ethics. Dhammapad is the best as far as ethics is concerned. It can generate spiritual hunger. That is its purpose. The Gita begins where the Dhammapad ends. But she also compiles moral ideas in a compact manner. The sum and substance of the Gita’s ethics is that one should achieve liberation from desire, anger, greed and temptation. (Vinoba, Reflections on the Gita)
-
-Since, as he claims, the Dhammapada is the "best as far as ethics is concerned", it may be valuable to study the [ethics of the dhammapada](dhammapada-ethics), as I have done in my text of the same name, in which I have tried to condense its teachings. But we may summarise the ethics of the dhammapada, the best and most profound of all, very shortly as follows:  
-
-...
 
 To not differentiate between moral and spiritual planes and thus not between a moral and spiritual life, also points at something very essential: Spiritual liberation is what moral principles lead to; while at the same time spirituality delivers the metaphysical basis of these moral principles; the moral principles are derived from the ideal of unity and equality of life, and are at the same time necessary to attain the ideal of unity and equality of life. 
 
 Morality derives its sense from spirituality, it *is* spiritual at the source; the spiritual source is the *source* of the "power", that virtues (from viril... power) are; at the same time it needs this power, as it drives us forward on that path, through that river, into the ocean. 
+
+
+# Ethics Summarised
+
+> Dhammapad outlines the science of ethics. Dhammapad is the best as far as ethics is concerned. It can generate spiritual hunger. That is its purpose. The Gita begins where the Dhammapad ends. But she also compiles moral ideas in a compact manner. The sum and substance of the Gita’s ethics is that one should achieve liberation from desire, anger, greed and temptation. (Vinoba, Reflections on the Gita)
+
+The Dhammapada is surely not what first comes to mind when we think of ethics. A western philosopher probably wouldn't even read it as a text that deals with ethics, while for Vinoba it is the best ethics. But this is no wonder and makes perfect sense from an ethical-spiritual view.  
+
+Since, as he claims, the Dhammapada is the "best as far as ethics is concerned", it may be valuable to study the [ethics of the dhammapada](dhammapada-ethics), as I have done in my text of the same name, in which I have tried to condense its teachings. And as the Gita "begins where the Dhammapada ends", that is where we will continue in order to arrive at a complete view of the ethical-spiritual philosophy of Vinoba. 
+
+We may summarise the ethics of the dhammapada, the best and most profound of all, very shortly as follows:  
+
+...
+
+
 
 
 ## From Principle to Action
