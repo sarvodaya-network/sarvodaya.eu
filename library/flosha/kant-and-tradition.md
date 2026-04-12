@@ -8,5 +8,5 @@ Tugend „durch allmähliche Reform seines Verhaltens“, also „nach und nach�
 
 > Weil die Tugend „eine moralische Stärke des Willens“ bedeutet, ist sie zwar ein unerreichbares Ideal, „gleichwohl aber sich ihm beständig zu nähern dennoch Pflicht“ (TL, VI 409). Nach der traditionellen Ethik besteht zwischen Tugend und Glück ein unauflöslicher Zusammenhang. Kant erneuert diesen Gedanken, allerdings mit einer folgenreichen Gewichtsverschiebung. Die Tugend garantiert nicht ein in dieser Welt glückliches Leben, sie ist lediglich „die Würdigkeit glücklich zu sein“, als dieses aber „die oberste Bedingung alles dessen, was uns nur wünschenswert scheinen mag“ (KpV, V 198). „In ihrem Besitz ist der Mensch allein frei, gesund, reich, ein König u.s.w …, weil er sich selbst besitzt“ (TL, VI 405).
 
-
+> Ohne sich dabei auf die traditionelle Tugendethik zu berufen, herrscht auch bei Kant diese antireduktionistische Einstellung vor. Mit großem Nachdruck vertritt er den Gedanken von Pflichten, mitlaufend von entsprechenden Einstellungen, von Tugenden, gegen sich selbst. Er geht sogar noch einen Schritt weiter und behauptet, ohne Selbstpflichten gibt es keine Fremdpflichten (§ 2). Seine provokative These lautet also: keine Sozialethik ohne eine Personalethik. 
 
