@@ -112,6 +112,15 @@ But most of the time they depend on each other and the people depend on both; no
 "Free" are only the leaders of the political regimes and the leaders of the corporate regimes, gaining their freedom through the practically enforced servitude of the people, which one part of the world is greatly suffering under, sacrificed for the rest, while another one is kept in a state of relative satisfaction in a slavery of golden chains by feeding their desires and by controlling them through the same.  
 All these systems are market economies, planning or not. All these systems contain planning. Everyone plans, and it would be stupid not to. All have centralisation in common. All are imperialist. And all are irresponsible and violent by design.  
 
+
+### Capitalism - what is right about it
+...
+
+
+### Capitalism - what is wrong about it
+...
+
+
 ### *Centralisation, non-centralisation, decentralisation*
 Private market economy is less centralised in the beginning, but will end up being centralised more and more, as that is the inherent logic that the system inevitably leads to. Pure state planning is highly centralised from the start. 
 Apart from centralised economy, there is non-centralised economy, which means all kinds of small economic systems in isolation and disintegration. Of such nature was the isolated economy before the existence or vorherrschaft of centralised state power and before the existence of centralised corporate power. This non-centralised system was the economic order of the past all over the world. 
