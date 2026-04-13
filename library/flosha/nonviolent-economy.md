@@ -114,7 +114,7 @@ All these systems are market economies, planning or not. All these systems conta
 
 
 ### Capitalism - what is right about it
-...
+Capitalism and the so-called enterpreneur mindset contain something crucial and true.  
 
 
 ### Capitalism - what is wrong about it
