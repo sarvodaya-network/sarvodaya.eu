@@ -128,13 +128,12 @@ All these are fundamental failures in thought which lead to all kinds of trouble
 
 ### Capitalism - what people misunderstand
 People misunderstand and suffer under this misunderstanding, that it can never be in their own interest to work for any kind of corporation and to support any kind of business, that is not a social one. That there exist corporations that aren't bound by very clear and strict guidelines by which they make absolutely clear in which way what they do is serving the people and harming no one involved in whatever they do, is highly problematic. But the biggest problem is a way of thinking among the people by which they think that there is anything honourable and valuable in working for such corporations.  
-If they would understand that the so-called value that these corporations seem to produce is not existent and is actually anti-value to which they beitragen, they would completely de-value in their whole way of thinking that it it is any good in working for such corporations. They need to stop supporting them. They need to say: We will only work for social corporations that have clear, social commitments and social structures in accordance with these commitments.   
-
+If they would understand that the so-called value that these corporations seem to produce is not existent and is actually anti-value to which they contribute, they would completely de-value in their whole way of thinking that it it is any good in working for such corporations. They need to stop supporting them. They need to say: We will only work for social corporations that have clear, social commitments and social structures in accordance with these commitments.   
 
 ### *Centralisation, non-centralisation, decentralisation*
 Private market economy is less centralised in the beginning, but will end up being centralised more and more, as that is the inherent logic that the system inevitably leads to. Pure state planning is highly centralised from the start. 
-Apart from centralised economy, there is non-centralised economy, which means all kinds of small economic systems in isolation and disintegration. Of such nature was the isolated economy before the existence or vorherrschaft of centralised state power and before the existence of centralised corporate power. This non-centralised system was the economic order of the past all over the world. 
-But there is a third option. Decentralised economy. Decentralised economy consists in small economic systems in combination and integration. In difference to non-centralised economy, in which the economic circles are isolated from each other and without any or with out much mutual cooperation and with no overarching, integral planning scheme, decentralised economic circles are in such mutual cooperation and function in an integral planning scheme, by means of what we call the organisation of responsibility.   
+Apart from centralised economy, there is non-centralised economy, which means all kinds of small economic systems in isolation and disintegration. Of such nature was the isolated economy before the existence or prevalance of centralised state power and before the existence of centralised corporate power. This non-centralised system was the economic order of the past all over the world. 
+But there is a third option. Decentralised economy. Decentralised economy consists in small economic systems in combination and integration. In difference to non-centralised economy, in which the economic circles are isolated from each other and without any or without much mutual cooperation and with no overarching, integral planning scheme, decentralised, autonomous economic circles are in such mutual cooperation and function in an integral planning scheme, by means of what we call the organisation of responsibility.   
 It is decentralised economy that nonviolent economics proposes as the economy of the future and the demand of our time. 
 
 ```
@@ -156,11 +155,12 @@ C = Corporate
 ```
 
 ### Beyond Market
-We have already seen that all three forms of economies mentioned so far (corp market (which they confusingly label private market), state market (which they label "(state) planning") and "state+corp market", which sometimes is "state-vs.-corp market" (which they confusingly label "social market"), are market economies. That means, they function by the logic of trade, they are profit-driven and stand under the sign of money.     
+We have already seen that all three forms of economies mentioned so far (corporate market (which they confusingly label private market), state market (which they label "(state) planning") and "state+corp market", which sometimes is "state-vs.-corp market" (which they confusingly label "social market"), are market economies. That means, they function by the logic of trade, they are profit-driven and stand under the sign of money.     
 But this form of economy is neither the only nor a particularly natural one. Families and their households are no market economies. Traditional tribes do not have market economy either.  
-From the noviolent perspective, there is nothing sacred about markets, but every market is black market and every wage labour is black labour.    
-We have determined that economy must work on the same principles as the family or the tribe and that the same principles must apply. 
-How then does the economic system in a family or tribe work in comparison to the market systems mentioned before and what are these principles? 
+From the noviolent perspective, there is nothing sacred about markets. Every market is black market and every wage labour is black labour.    
+We have determined that economy must work on the same principles as the family or the tribe. The same principles must apply. 
+How then does the economic system in a family or tribe work in comparison to the market systems mentioned before and what are these principles?  
+The most crucial principle is, that you shall never bring the market into the temple. In other words: You never make business at a sacred place, thereby desacralising it. Or in yet other words: The family is sacred by reasons of mutual love, and has no room for trade. Or in yet other words: When we want a nonviolent economy, our goal must be to turn the whole world into this temple, in which the application of trade logic will be considered as a sacrilege.  
 
 ### Trade Logic
 The logic of trade consists in the idea  
@@ -170,7 +170,7 @@ The logic of trade consists in the idea
 ### Anti-Market Economy rejects trade logic
 This logic is flawed beyond belief and is therefore totally rejected by nonviolent economics.  
 * It is wrong to expect someone to give anything in return for something else, as if one good could be measured in value against another and as if keeping such an arbitrary balance (as any attempt of measure is in vain), will result the slightest in any kind of justice.  
-* It is fundamentally wrong to assume that creating value and vermehren the amount of the mere sign chosen to represent said value, is one and the same.
+* It is fundamentally wrong to assume that creating value and to maximise the amount of the mere sign chosen to represent said value, is one and the same.
 * It is also fundamentally wrong to link the value individually created with the value individually received and to measure them against one another, which is factually impossible.
 
 ### The consequences of trade logic
@@ -181,7 +181,7 @@ Because of the application of trade logic, that for some reason has infected peo
 * Only by application of the logic of trade, which is a false logic, can people increase wealth to excessive and socially harmful degrees by means of trade. One cannot increase wealth in these exponential and excessive ways by any other means.
 
 ### How excessive wealth can only come by trade
-Only by means of trade can excessive wealth (wealth so called) be gained. The very amount of the excess of said delusional wealth collected in the hands of a few, suffices to reveal to every man of reason, that the apparent value that they claim to possess is factually impossible to have been produced by those possessing it; by the existence of the tremendous inequality of the wealth between the people is clearly revealed that the economic order arising from this logic of trade within the markets, has nothing to do whatsoever with the ideal of "leistungsgerechtigkeit" put forth by the people and the state alike, as no man can leisten so much more than other humans that the value he produces grows billions of times above the value produced by another. It is factually impossible.    
+Only by means of trade can excessive wealth (wealth so called) be gained. The very amount of the excess of said delusional wealth collected in the hands of a few, suffices to reveal to every man of reason, that the apparent value that they claim to possess is factually impossible to have been produced by those possessing it; by the existence of the tremendous inequality of the wealth between the people is clearly revealed that the economic order arising from this logic of trade within the markets, has nothing to do whatsoever with the ideal of "leistungsgerechtigkeit" put forth by the people and the state alike, as no man can leisten so much more than other humans that the value he produces grows billions of times above the value produced by another. It is factually impossible in the same way as one man cannot factually do a billion times more than any other within the same limited 24 hours.     
 
 ### How trade logic is overcome 
 Trade logic is overcome by recognising and rejecting its inherent logical mistakes. 
@@ -200,8 +200,15 @@ People understand that it is wrong to expect a child to produce as much value as
 As the child can't produce as much or any economic value, we deem it our social duty to take care of it and give it what it needs regardless. What applies to the child applies to any other man. Some cannot produce as much as others. Some may be able to produce less and others may be able to produce more. But their ability to produce more or less has no relation whatsoever with their needs, nor is it in their interest to always receive in return (if that would even be possible) that exact amount of value that they produced.  
 Since when my needs and demands are met, there is no interest in more. And if one claims that there is, then these are delusional interests which are not in accordance with their real interests.  
 
+### Wealth and Security
+Money is a sign and a system that promises security by possessing it and only by means of this system one can accumulate delusional wealth.   
+One could accumulate true wealth, such as corn and have an abundance of corn stored. But this wealth, which is a true form of wealth, as it is actually useful and needed, will give him no real security beyond his own needs. If all his needs of corn are met, and if others also have enough corn, then his additional corn is of no use and does not improve his position or make him more secure. It would only improve his position as long as other people do not have enough to eat, as he then has something valuable to offer; but that also would only improve his position as long as others who need it are able and willing to play his greedy games. Otherwise his abundance of corn surrounded by hungry men won't make him any more secure, but less secure, as they will take it from him by force if they must.  
+These same conditions apply to every other form of true material wealth as well. So whatever someone has in abundance and way beyond his needs:  
+* Is only of any additional value to him (within trade logic) as long as others haven't enough.
+* Is not making him any more secure, but on the other hand requiring him to take all kinds of security measures to protect it.
 
-
+So, only due to an abstract invention of a form of wealth that actually has no value but is accepted as a sign of all value (and as long as it is accepted like that) can one improve his position in society, which always means a position in relation to the position of others. But the same principle as with true forms of wealth apply:  
+* More money than one personally needs to satisfy ones needs is only of additional value to anyone (within trade logic) as long as others do not have enough money to satisfy their needs. All power that people have on behalf of money depends always on others not having enough; by them not having enough can those who have more than enough force them to work under their conditions, since they simply have no choice. They have a choice between different exploiters, but they must let someone exploit them and dictate conditions simply due to a lack of money. 
 
 ### Economical Principles in the Tribe & Family
 In the family or the household, trade logic is not applied. 
