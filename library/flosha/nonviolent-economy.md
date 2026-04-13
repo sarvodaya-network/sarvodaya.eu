@@ -118,8 +118,7 @@ Capitalism and the so-called enterpreneur mindset contain something crucial and 
 
 
 ### Capitalism - what is wrong about it or what capitalists misunderstand
-...
-
+Capitalists think that any kind of "value" that is created, is good, even if that value is actually anti-value. They think that it is possible to serve their own interests or the interests of a particular group of people or of a nation, while they take in Kauf, to harm other groups of people and their moral interests. This kind of logic always backfires without exception and will eventually harm all. They also think that value exists and is good as soon as profit is generated, because they confuse value with money, which is a cardinal mistake in logic. They think that a value that they create is proven by the demand for what they offer; even if that demand in itself is artificially generated, if the consumer is manipulated and if what is created or the mass scale or speed at which it is generated, is accompanied with harm for others, harm for the environment and decline in quality of the products or of the life of the people involved in its production. All these are fundamental failures in thought which lead to all kinds of trouble in the world today. 
 
 ### Capitalism - what people misunderstand
 People misunderstand and suffer under this misunderstanding, that it can never be in their own interest to work for any kind of corporation and to support any kind of business, that is not a social one. That there exist corporations that aren't bound by very clear and strict guidelines by which they make absolutely clear in which way what they do is serving the people and harming no one involved in whatever they do, is highly problematic. But the biggest problem is a way of thinking among the people by which they think that there is anything honourable and valuable in working for such corporations.  
