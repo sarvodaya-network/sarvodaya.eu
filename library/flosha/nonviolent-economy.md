@@ -117,8 +117,13 @@ All these systems are market economies, planning or not. All these systems conta
 Capitalism and the so-called enterpreneur mindset contain something crucial and true.  
 
 
-### Capitalism - what is wrong about it
+### Capitalism - what is wrong about it or what capitalists misunderstand
 ...
+
+
+### Capitalism - what people misunderstand
+People misunderstand and suffer under this misunderstanding, that it can never be in their own interest to work for any kind of corporation and to support any kind of business, that is not a social one. That there exist corporations that aren't bound by very clear and strict guidelines by which they make absolutely clear in which way what they do is serving the people and harming no one involved in whatever they do, is highly problematic. But the biggest problem is a way of thinking among the people by which they think that there is anything honourable and valuable in working for such corporations.  
+If they would understand that the so-called value that these corporations seem to produce is not existent and is actually anti-value to which they beitragen, they would completely de-value in their whole way of thinking that it it is any good in working for such corporations. They need to stop supporting them. They need to say: We will only work for social corporations that have clear, social commitments and social structures in accordance with these commitments.   
 
 
 ### *Centralisation, non-centralisation, decentralisation*
