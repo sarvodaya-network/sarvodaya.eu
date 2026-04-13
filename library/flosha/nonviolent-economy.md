@@ -112,13 +112,17 @@ But most of the time they depend on each other and the people depend on both; no
 "Free" are only the leaders of the political regimes and the leaders of the corporate regimes, gaining their freedom through the practically enforced servitude of the people, which one part of the world is greatly suffering under, sacrificed for the rest, while another one is kept in a state of relative satisfaction in a slavery of golden chains by feeding their desires and by controlling them through the same.  
 All these systems are market economies, planning or not. All these systems contain planning. Everyone plans, and it would be stupid not to. All have centralisation in common. All are imperialist. And all are irresponsible and violent by design.  
 
-
 ### Capitalism - what is right about it
-Capitalism and the so-called enterpreneur mindset contain something crucial and true.  
+Capitalism – and the so-called "enterpreneur mindset" – contain some crucial and true attitudes.  
+(a) They put focus on ones own initiative, they don't want to give responsibility up to the state and rather trust themselves and other people to work on their vision. 
+(b) Although by abusive means and often for the wrong goals, they show how by capital, by accumulated wealth given into the right hands and by delusion of value (that often is none) the world can be drastically changed and structures can be build up apparently from nothing merely through the power of a vision and by means of work, all seemingly made possible by their capital. 
 
-
-### Capitalism - what is wrong about it or what capitalists misunderstand
-Capitalists think that any kind of "value" that is created, is good, even if that value is actually anti-value. They think that it is possible to serve their own interests or the interests of a particular group of people or of a nation, while they take in Kauf, to harm other groups of people and their moral interests. This kind of logic always backfires without exception and will eventually harm all. They also think that value exists and is good as soon as profit is generated, because they confuse value with money, which is a cardinal mistake in logic. They think that a value that they create is proven by the demand for what they offer; even if that demand in itself is artificially generated, if the consumer is manipulated and if what is created or the mass scale or speed at which it is generated, is accompanied with harm for others, harm for the environment and decline in quality of the products or of the life of the people involved in its production. All these are fundamental failures in thought which lead to all kinds of trouble in the world today. 
+### What capitalists misunderstand
+Capitalists misunderstand a few crucial things about how capital, how society and how value works.   
+(a) Capitalists think that any kind of "value" that is created, is good, even if that value is actually anti-value. They think that true value exists and is good as soon as profit is generated, because they confuse value with money, which is a cardinal mistake in logic.
+(b) They think that a value that they create is proven by the demand for what they offer; even if that demand in itself is artificially generated, if the consumer is manipulated and if what is created or the mass scale or speed at which it is generated, is accompanied with harm for others, harm for the environment and decline in quality of the products and the life of the people involved in production.  
+(c) They think that it is possible to serve their own interests or the interests of a particular group of people or of a nation, while they take in Kauf, to harm other groups of people and their moral interests. This kind of logic always backfires without exception and will eventually harm all.  
+All these are fundamental failures in thought which lead to all kinds of trouble in the world today. 
 
 ### Capitalism - what people misunderstand
 People misunderstand and suffer under this misunderstanding, that it can never be in their own interest to work for any kind of corporation and to support any kind of business, that is not a social one. That there exist corporations that aren't bound by very clear and strict guidelines by which they make absolutely clear in which way what they do is serving the people and harming no one involved in whatever they do, is highly problematic. But the biggest problem is a way of thinking among the people by which they think that there is anything honourable and valuable in working for such corporations.  
