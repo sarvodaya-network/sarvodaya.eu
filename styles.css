@@ -126,8 +126,7 @@ body {
     }
 
     header nav li a:hover img {
-      filter: none;
-      /* filter: grayscale(1) brightness(2) invert(1); */
+      filter: grayscale(1) brightness(0) invert(0);
     }
 
 
@@ -435,26 +434,26 @@ main h3 {
     }
 
     header nav li a:hover img {
-      filter: grayscale(1) brightness(2) invert(1);
+      filter: grayscale(1) brightness(0) invert(0);
     }
 
     header nav li a {
       color: var(--bg-white);
-      background: var(--bg-darkest);
+      background: var(--bg-darker);
     }
         
     header nav li a:hover {
       color: var(--red);
-      background: var(--bg-darkest); 
+      background: var(--bg-darker); 
     }  
 
   header {
-    background: var(--bg-darkest);
+    background: var(--bg-darker);
     color: var(--bg-light);
   }
 
   header nav>ul {
-      background: var(--bg-darkest);
+      background: var(--bg-darker);
   }
     
 }
