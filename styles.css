@@ -401,7 +401,7 @@ main h3 {
 
 /* DARK THEME */
 
-media (prefers-color-scheme: dark) {
+@media (prefers-color-scheme: dark) {
     body {
        /* background: #121212;
         color: rgb(255 255 255 / 87%);  87% white */
