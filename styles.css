@@ -397,3 +397,62 @@ main h3 {
   .subtext p {
     padding: 0;
   }
+
+
+/* DARK THEME */
+
+media (prefers-color-scheme: dark) {
+    body {
+       /* background: #121212;
+        color: rgb(255 255 255 / 87%);  87% white */
+    background: var(--bg-white);
+    color: var(--bg-darker);
+    }
+
+  hr {
+    color: rgb(255 255 255 / 87%); /* 87% white */
+  }
+
+  main a:hover {
+    background: var(--bg-white);
+    color: var(--bg-darker);
+  }
+
+  footer { 
+    width: 100%;
+    font-size: 14px;
+    background: var(--bg-darker);
+    color: var(--bg-white);
+  }
+
+  ::selection {
+    background: var(--bg-light);
+    color: var(--bg-darker);
+  }
+
+  header img {
+      filter: none; 
+    }
+
+    header nav li a:hover img {
+      filter: grayscale(1) brightness(2) invert(1);
+    }
+
+    header nav li a:hover {
+      background: var(--bg-white);
+      color: var(--red);
+    }  
+
+  body {
+    background: var(--bg-darker); 
+  }
+
+  header {
+    background: var(--bg-darker);
+  }
+
+  header nav>ul {
+      background: var(--bg-darker);
+  }
+    
+}
