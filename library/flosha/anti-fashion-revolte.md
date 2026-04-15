@@ -30,6 +30,7 @@ INHALT
 * Flickwerk als Ideal  
 * Kleidung als Ausdruck
   * Stile und Trends
+  * Anti-funktionale Schnitte
   * Marken der Eitelkeit
 * Kleidung in der Tradition
 * Leid gewebt in Stoff
@@ -222,6 +223,20 @@ Unsere Kleidung endet auf wortwörtlichen Müllbergen in Afrika, auf denen Kinde
 Aus keinem anderen Grund als der Gier jener, die nicht zufrieden sind mit dem, was sie haben. 
 
 Aus keinem anderen Grund als die kleine Befriedigung, die darin liegt, etwas neues zu kaufen und zu tragen und uns selbst in einem Kleidungsstück zu präsentieren, dass wir so wenig wertschätzen wie die Menschen, die es für uns machen. 
+
+
+## (Anti)funktionale Schnitte
+
+Kleidung bedeckt den menschlichen Körper. Der menschliche Körper aber ist zur Bewegung bestimmt. Man spricht auch von einem "Bewegungsapparat". Dieser Bewegungsapparat bewegt sich durch die unterschiedlichen Gelenke, die, mit Muskeln verbunden, je verschiedene Funktionen haben. Beugen, Strecken usw. Zugleich gibt es grundlegende, menschliche Bewegungsmuster und Positionen, die für Menschen essentiell wichtig sind und die man als "natürlich" bezeichnen kann, insofern als dass der menschliche Körper sich über Millionen von Jahren dahingehend optimiert hat. Dazu gehören stehen, gehen, laufen, beugen, hocken, hängen, Ausfallschritte, einseitig oder beidseitig tragen, überkopf tragen usw.  
+
+Durch sehr ungünstige und für den Menschen schädliche Veränderungen besonders im westlichen Lebensstil, verkümmern leider manche dieser eigentlich essentiellen Funktionen, die jedes Kind noch selbstverständlich findet und die, wenn man sie nicht verkümmern lässt, auch jeder Erwachsene selbst im hohen Alter noch selbstverständlich findet. Dazu gehört zum Beispiel die tiefe Hocke. In Indien gibt es ein Sprichwort, das besagt, dass ein alter Mensch, wenn er nicht mehr problemlos und ohne Hände vom Boden aufstehen kann, nicht mehr lange leben wird. So selbstverständlich sind dort solche Bewegungsmuster, dass nicht mehr dazu in der Lage zu sein, als eine große Schwäche gedeutet wird. Heute und in jenen Kulturen, in denen man das Leben nah am Boden durch schädliche Stühle ersetzt hat, können viele es schon im Alter von 20 nicht mehr (wenn nicht schon früher).  
+
+Aufgrund einer so weit verbreiteten Einschränkung der natürlichen Beweglichkeit des Menschen haben sich in diesen Kulturen weithin Schnitte durchgesetzt, die aus Gewohnheit mittlerweile als normal und nicht als einschränkend empfunden werden von Menschen, die auch körperlich in ihrer Beweglichkeit extrem eingeschränkt sind. Diese Einschränkung gilt als normal, weil sie so weit verbreitet ist. Das ist in etwa so, wie wenn man nun Karies für normal und nicht behandlungswürdig erklären würde, nur weil es so viele betrifft.   
+
+Viele Kinder wehren sich noch lange gegen diese Art Kleidung, bis sie dann früher oder später durch sozialen Druck, Gruppenzwang, durch Mode und Trends und immer wiederkehrende Versuche selbst dazu übergehen, solche Kleidung zu tragen und die ihre extreme Einschränkung der Beweglichkeit irgendwann nicht mehr als solche zu empfinden, was umso leichter ist, desto weniger man sich bewegt. So hilft der Bewegungsmangel aktiv dabei, anti-funktionale Kleidung zu verkaufen und anti-funktionale Kleidung hilft dabei, sich weniger zu bewegen.  
+
+
+
 
 
 ## Marken der Eitelkeit
