@@ -241,8 +241,13 @@ Bei Hosen ist das noch gravierender. Was die Leute heute im Westen gemeinhin fü
 
 Um dieses Problem zu umgehen, dass aus anti-funktionalen Schnitten resultiert, die man für passend hält (ein Problem, das gar nicht existieren würde, wenn man die Kleidung nur vernünftig, nämlich *weiter* und länger schneidern würde), ist man dazu übergegangen, eine Kunstfaser namens Elasthan einzubauen, die jene Flexibilität trotz anti-funktionaler Schnitte ermöglicht.  
 
+Besonders Frauen sagen sehr gerne, dass sie sich nur um ihrer selbst willen auf eine bestimmte Art kleiden, dass Männer damit nichts zu tun haben, dass es nicht um ihretwillen geschieht. Dabei übersehen sie, dass Männer sehr viel damit zu tun haben, weil vorallem sie solche Kleidung erfunden haben. 
 
+Zuerst ging man dazu über, Strings zu tragen, und behauptet, dass sie bequemer seien als die engen Slips, die man zuvor trug. Sie sind allerdings nicht bequemer (und vorallem nicht hygienischer) als weite Shorts, die man in engen Hosen aber nicht tragen kann. Dass Strings bequemer sind ist allein eine Folge der engen Hosen, die man trägt. 
 
+Vor ein paar Jahren noch, wenn Frauen in Fitnessstudios trainiert haben, war es oft keine Absicht, dass man den String ständig durch die Hose sehen konnte. Hat man sie auf diesen Umstand angesprochen, ob sie sich dessen bewusst wären, dass ihre Hose quasi durchsichtig ist, sagten sie meist, dem sei nicht so und dass sie dachten, dass man das nicht sieht. Jetzt, ein paar Jahre später, hat irgendwer eine neue Erfindung gemacht, die jetzt unter Sportlerinnen weite Verbreitung findet. Es ist eine enge Leggings mit eingebautem String. Mit anderen Worten, es ist eine Leggings, die extra so geschnitten ist, dass sie sich in ihre Arschritze zieht. Damit laufen Frauen und Mädchen heute in Fitness Studios herum und gebähren sich damit wie Paviane.  
+
+Das ist es, wohin sich antifunktionale Kleidung und "Mode" entwickelt, wenn man jeden Sinn für Ästhetik verloren hat. 
 
 
 ## Marken der Eitelkeit
