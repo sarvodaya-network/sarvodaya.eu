@@ -262,6 +262,7 @@ Ich würde hinzufügen (womit ich mir aber nur wenige Freunde gewinne), dass auc
 Bei Anlässen, an denen ich irgendwelchen Erwartungen nicht gerecht werde nur weil ich mich kleide wie ich will und darum nicht willkommen bin, werde ich nicht sein wollen. Von einem Mönch erwartet man nicht, dass er seine Robe ablegt und sich einen Anzug anzieht, nur weil irgendein Anlass sich verändert. Noch erwartet man das von seinem Hund, dass er sich doch zu besonderem Anlass bitte ein anderes Fell zulege. Darum habe ich auch an mich keine solche Erwartung. 
 
 
+<!-- 
 ## Kleidung und die Geschlechter
 
 Kleidung kann individualisieren oder de-individualisieren, also uniformieren. Sie kann individuelle Charakteristika herausstellen oder reduzieren. Dieser Umstand spielt in unserer Gesellschaft eine große Rolle nicht nur im Hinblick auf den Einzelnen, sondern auch im Hinblick auf die Geschlechter und im Hinblick auf die Kindheit.
@@ -287,29 +288,33 @@ Inwiefern sollte das aber ein Problem sein und wie sollte Kinderkleidung sich vo
 Was heißt das?   
 Es heißt – und das ist besonders in unserer modernen Gesellschaft der Fall: Wenn z.B. ein Mädchen Kleidung trägt, die ursprünglich ganz gezielt für Frauen entworfen wurde und mit der ganz spezifischen Absicht, gewisse Geschlechtsmerkmale zu betonen, bzw. herauszustellen, bzw. zu verbergen (was in diesem Fall oft dasselbe ist, denn gezielt verbergen ist zugleich ein Herausstellen), dann bedeutet das, dass ein Mädchen Kleidung trägt, welche bestimmte Merkmale ihrer Weiblichkeit versteckt bzw. betont, die sie aber gar nicht hat; aber die Kleidung suggeriert, dass sie diese hätte und dass sie diese betonen oder verbergen sollte. So suggeriert die Kleidung, dass sie gelesen werden sollte wie eine Frau, die ihre Weiblichkeit präsentiert. Das mag natürlich nicht die Absicht dahinter sein, aber die Suggestion ist nichtdestotrotz in der Kleidung enthalten, was vielen einfach nur nicht mehr bewusst ist. 
 
-Das bedeutet natürlich nicht, 
+Das bedeutet natürlich nicht, dass es nicht leicht möglich wäre, über die Kleidung hinweg zu sehen, um ein Kind als Kind zu erkennen und einen Erwachsenen als einen Erwachsenen, unabhängig von der getragenen Kleidung. In den meisten Fällen mag das problemlos möglich sein, trotzdem schaffen wir durch eine solche Kleidungswahl keine Bedingungen, die dem, was man möchte, entgegenkommen würde. 
 
-This does not mean that it wouldn't be possible easily to look past the clothes and see a child as a child and an adult as an adult independent of the clothing that they wear, in most cases, but still, by doing we just do *not* create conditions favourable to what we want. 
+Es ist keine seltsame Annahme, dass ein Mönch, der eine Mönchsrobe trägt, als Mönch betrachtet werden will, dass ein Mann, der traditionelle Kleidung von Männern in seiner Kultur trägt, als Mann betrachtet werden will und dass eine Frau, die traditionelle Kleidung von Frauen in ihrer Kultur trägt, als Frau betrachtet werden will. Natürlich kann es Ausnahmen von dieser Regel geben, aber gemeinhin können wir annehmen, wenn jemand solche Kleidung wählt, dass er sich der damit verbundenen Assoziationen bewusst ist, diese nicht für sich ablehnt und sie bewusst wählt.  
+-->
 
-It is not a strange assumption that a monk, wearing the robe of a monk, wants to be looked at as a monk.  
-A man, wearing the traditional clothing of men in his culture, wants to be looked at as a man; a woman, wearing the traditional clothing of women in her culture, wants to be looked at as a woman. 
-
-Now, if suddenly a woman starts to wear the clothing that was until then reserved to prostitutes, it is not a strange assumption that she does it for specific purposes, just as the prostitutes are wearing it for specific purposes. And it will be very clear to her, that by wearing this clothing, that had been reserved to prostitutes, she will be looked at like a prostitute. Even if she isn't one - her clothing tells a different story, in that context. 
-
-If now a child starts to wear these same clothes or a mother clads her child into these same clothes, that have specifically been designed in our culture to highlight her womanhood in form of her female, adult body and for the attention and arousal of men, it is not strange to assume that the child or teen wants to be looked at like the adult women who present themselves as such, or that her mother, who clads her child into these clothes, wants her child to be looked at as such.  
-And historically exactly this has been the case when suddenly some mothers started dressing their daughters like that. It was seen as very provocative and indecent and those mothers knew that and did it nonetheless. Only through persistence, the appeal of novelty, peer pressure and so on the once very provocative clothing choice, that was *meant* to be provocative, slowly turned to normalcy. But just because something becomes normal does not mean that it will negate the effects that the clothing was meant to have. It still has these same effects in case of women, even though the effect may be weakened today, and many women still wear these same clothes to that purpose, to appeal to men. And since the clothes have and serve this purpose still, it is still just as irrational to let children wear the same. 
-
-It is irrational at all ages, at which being looked up upon as a potential sexual mate is actually not desired - because even if the clothing is not worn at all to that purpose, the visual language of the clothing tells a different story . 
-
-And while inspite of such clothing the difference between children and adults won't easily disappear and will remain to be obvious, it nonetheless creates an aesthetical conflict, conscious to some, unconscious to many. 
-
-And in the fluid passage from childhood to adolescence to adulthood, the differentiation can indeed become difficult, if e.g. a girl of 12 wears the same clothes and acts with the same manners as a girl of 16 or a girl of 14 looks and acts the same as a woman of 18. 
-
-Unwanted conflicts arise and our clothing choices are a little piece of this puzzle.
-
----
+<!-- Now, if suddenly a woman starts to wear the clothing that was until then reserved to prostitutes, it is not a strange assumption that she does it for specific purposes, just as the prostitutes are wearing it for specific purposes. And it will be very clear to her, that by wearing this clothing, that had been reserved to prostitutes, she will be looked at like a prostitute. Even if she isn't one - her clothing tells a different story, in that context. -->
 
 
+<!--
+Wenn nun ein Kind anfängt dieselbe Kleidung zu tragen, oder wenn eine Mutter ihr Kind in solche Kleidung steckt, die in unserer Kultur spezifisch entworfen wurde, um ihre Weiblichkeit in Form ihres weiblichen, erwachsenen Körpers herauszustellen, Kleidung, die oftmals ursprünglich entworfen wurde zur Erregung von Männern, dann ist es keine seltsame Annahme, dass das Kind, bzw. der Teenager vielleicht wie eine erwachsene Frau wirken will, die sich derart zeigt, oder dass die Eltern, die ihre Kinder in solche Kleidung stecken, wollen, dass es so wirke oder dass sie zumindest kein Problem mit der Möglichkeit haben, dass es so betrachtet werden könnte. Je weiter natürlich sich die Kleidung zeitlich von ihrem Ursprung entfernt, je weniger mögen Eltern sich solcher Ursprünge bewusst sein und desto weniger darf man annehmen, dass sie irgendwelche solcher Assoziationen haben. Doch wir müssen immer bedenken, wo der Ursprung liegt. Und wer zuerst damit anfing sein Kind Kleidung tragen zu lassen, die eigentlich zur Aufreizung von Männern entworfen wurde, der hat das nicht unbewusst getan. 
+
+Historisch war genau das der Fall. Plötzlich haben manche Mütter begonnen, ihre Töchter solcherart zu kleiden. Dass es solche verrückten Eltern gibt sollte nicht verwundern, man sieht es auch heute z.B. auf Schönheitswettbewerben für Kinder, in denen Mütter ihre Töchter auf schlimmste Weise herausputzen, sie schminken und ausstaffieren wie eine Puppe. Doch genau in solchen Attitüden hat viele Kleidung, die man heute für normal hält und auch Kinder tragen lässt, ihren Ursprung. 
+
+Es war Kleidung, die als sehr provokativ und unschicklich galt. Jene Mütter wussten das und haben es ihren Töchtern trotzdem angezogen. Nur durch lange Beharrlichkeit, durch den Reiz des Neuen, dann durch Gruppenzwang usw., wurde die Kleidung, die einst eine sehr provokative, eine bewusst provokative Kleidungswahl war, langsam zur Normalität. Aber nur weil etwas "normal" wird, negiert das noch nicht den Effekt, den die Kleidung haben sollte. Im Fall erwachsener Frauen hat es diesen Effekt ja auch immernoch, auch wenn er heute, wegen jener Normalisierung, etwas abgeschwächt sein mag. Doch immernoch tragen Frauen solche Kleidung auch noch mit demselben Zweck. Immernoch geht es um Kleidung, die auch heute noch als attraktiv gilt und die gerade Jugendliche ganz gezielt auch eben zu dem Zweck tragen, auf das andere Geschlecht entsprechend zu wirken. Hier muss es erlaubt sein sich die Frage zu stellen, ob man wirklich will, dass Kinder das selbe tragen. Da die Kleidung immernoch diesen selben Zweck erfüllt, ist es auch noch genauso irrational, Kinder dieselbe tragen zu lassen. 
+
+Es ist irrational in jedem Alter, in dem man nicht als potentieller Sexualpartner betrachtet werden möchte – denn auch wenn die Kleidung überhaupt nicht zu diesem Zweck getragen wird, spricht die Kleidung eine visuelle Sprache, und die erzählt eine andere Geschichte. 
+
+Während ungeachtet solcher Kleidung der Unterschied zwischen Kindern und Erwachsenen nicht leicht verschwinden wird, sondern weiterhin offensichtlich bleibt, schafft sie nichtdestotrotz einen ästhetischen Konflikt, der manchen bewusst ist, vielen nicht bewusst ist.  
+
+Und im fluiden Übergang von der Kindheit in die Adoleszenz ins Erwachsenenalter, kann die Unterscheidung in der Tat schwierig werden; wenn z.B. ein Mädchen von 12 dasselbe trägt und sich genauso gibt wie ein Mädchen von 16 Jahren oder eines von 14 Jahren dasselbe trägt und sich genauso gibt wie eine Frau von 18. Umso mehr, wenn es auch noch gezielt von dem Wunsch begleitet ist, älter zu wirken, kann die Differenzierung sich tatsächlich als schwierig gestalten und so muss es gestattet sein, solches Handeln in Frage zu stellen. 
+
+So entstehen ungewollte Konflikte visueller oder sexueller Natur und die Kleidungswahl ist ein kleines Puzzlestück dieses Problem. 
+
+--> 
+
+
+<!--
 ## Clothing Choice and Responsibility
 
 They say today: "Men alone are responsible for how they look at things." They also say: "Men should not look upon women in these ways. What they wear should not change at all how you look at them."    
@@ -319,7 +324,7 @@ A responsible women, if she does *not* want to be looked at in this way (and if 
 
 It is only about how one wants to be looked at.  
 
-The very same applies to men. Men glorifying their physique often wear clothing to highlight this physique; e.g. extra thight shirts around their upper bodies which serve no purpose other than to highlight their chest or biceps, or sleeveless "muscle shirts" with big cut-outs at the side to higight and show and tease with their muscles, which are the equivalent of big cut-outs in the front for women, highlighting their breasts and so forth. Many women will look upon these men and their physical features that they so proudly present in the same way as men look at them, when they themselves so proudly present their breasts and butts, the shape of their hips or their legs. 
+The very same applies to men. Men glorifying their physique often wear clothing to highlight this physique; e.g. extra thight shirts around their upper bodies which serve no purpose other than to highlight their chest or biceps, or sleeveless "muscle shirts" with big cut-outs at the side to highlight and show and tease with their muscles, which are the equivalent of big cut-outs in the front for women, highlighting their breasts and so forth. Many women will look upon these men and their physical features that they so proudly present in the same way as men look at them, when they themselves so proudly present their breasts and butts, the shape of their hips or their legs. 
 
 Those, who are doing so, women as well as men, are objectifying themselves. If you objectify yourself it is no wonder that others objectify you. If you yourself lay big emphasis and highlight specific physical features of your body, being enchanted by your own image in the mirror, it is simply nothing but hipocrisy if you then have a problem with it when others are falling into the same trance watching you; either in admiration for your physical form that they crave and the pride with which you present it or in disgust for how shamelessly you present it. 
 
@@ -332,10 +337,10 @@ I do not suggest to be ashamed of ones body. If one would decide to go naked I h
 
 If you are a woman and you go out topless, this is totally fine for me. It may go against our current cultural norms, but I see no rational reason not to do so. 
 
-But if you, instead of putting on a simple shirt to hide your breasts, since you do not want to go out topless, do not want your breast to be in full display, do not want to go against some unreasonable cultural norms and irrational shame, but instead you indeed are ashamed and wouldn't simply present your breasts, and inspite of the shame then you choose a shirt that has been particularly *cut-out* low to tease with your breasts and show them partially, hiding other sections etc., then this is simply a game that you play and you do it for appeal and out of pride for your body. 
+But if you, instead of putting on a simple shirt to hide your breasts, since you do not want to go out topless, do not want your breast to be in full display, do not want to go against some unreasonable cultural norms and irrational shame, but instead you indeed are ashamed and wouldn't simply present your breasts, and inspite of the shame you choose a shirt that has been particularly *cut-out* low to tease with your breasts and show them partially, hiding other sections etc., then this is simply a game that you play and you do it for appeal and out of pride for your body. 
 It is not about "hiding" it. Because you still hide it anyway, just inconsequentally. It is about highlighting it by wearing clothing which very purpose is to play with imagination. 
 
-If you want to show it because you are proud of it and see nothing wrong with that, maybe think again about the fact that pride has always been understood as one of the deadly sins, as something by which you harm yourself. Since what does pride in your physical appearance lead you too? It leads to suffering due to the inevitable decay.
+If you want to show it because you are proud of it and see nothing wrong with that, maybe think again about the fact that pride has always been understood as one of the deadly sins, as something by which you harm yourself. Since what does pride in your physical appearance lead you too? It leads to suffering due to the inevitable decay of your body.
 
 It is irrational to be proud of your breasts, as you have done nothing for them to be as they are. You can find them beautiful. And if you enjoy them so much and want others to see them, feel free to show them, to whoever wants to see them, no one is holding you back. But decide what you want. Do you want to hide them or do you want to show them? Do you want others to look at them or not?  
 But with your ambivalent game of showing them partially and wearing arousing clothes to put emphasis on the shape of your breasts, lifting them, pushing them, pressing them together and so forth - how can you then expect any less ambivalent reactions to your presentation? And this applies to any other similar scenario in regard to other body parts of women and men alike. 
@@ -370,7 +375,7 @@ Zum Beispiel ging man hierzulande dazu über, Strings zu tragen, und behauptet, 
 Vor ein paar Jahren noch, wenn Frauen in Fitnessstudios trainiert haben, war es oft keine Absicht, dass man den String ständig durch die Hose sehen konnte. Hat man sie auf diesen Umstand angesprochen, ob sie sich dessen bewusst wären, dass ihre Hose quasi durchsichtig ist, sagten sie meist, dem sei nicht so und dass sie dachten, dass man das nicht sieht. Jetzt, ein paar Jahre später, hat irgendwer eine neue Erfindung gemacht, die jetzt unter Sportlerinnen weite Verbreitung findet. Es ist eine enge Leggings mit eingebautem String. Mit anderen Worten, es ist eine Leggings, die extra so geschnitten ist, dass sie sich zwischen die Pobacken zieht und dabei auch die Pobacken durch die Spannung mehr anhebt und herausstellt. Damit laufen Frauen und Mädchen heute in Fitness Studios herum. In anderen Worten: Sie gebähren sich wie Paviane.  
 
 Das ist es, wohin sich antifunktionale Kleidung und "Mode" entwickelt, wenn man jeden Sinn für Ästhetik verloren hat. 
-
+-->
 
 ## Marken der Eitelkeit
 
